@@ -1,0 +1,275 @@
+{
+  "updated": "2026-03-24 16:02",
+  "items": [
+    {
+      "id": "e64f8db4",
+      "title": "LeCun的世界模型单GPU就能跑了",
+      "url": "https://www.qbitai.com/2026/03/391698.html",
+      "summary": "速度快到离谱，完整规划仅需1秒",
+      "date": "2026-03-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "07ec3ddc",
+      "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
+      "url": "https://www.qbitai.com/2026/03/391668.html",
+      "summary": "最新模型在Embodied Arena登顶",
+      "date": "2026-03-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "28af7b5b",
+      "title": "阿里在海外上了个“企业级龙虾”，我用它30分钟手搓了一家网店",
+      "url": "https://www.qbitai.com/2026/03/391584.html",
+      "summary": "一站式配齐选品/建站/运营",
+      "date": "2026-03-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "abad8933",
+      "title": "OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？",
+      "url": "https://www.qbitai.com/2026/03/391567.html",
+      "summary": "和人类用电脑没有区别了",
+      "date": "2026-03-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1648b1c1",
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "summary": "",
+      "date": "2026-03-24",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "3f6b4cf1",
+      "title": "龙虾史上最大升级！但接了微信的千万别更",
+      "url": "https://www.qbitai.com/2026/03/391520.html",
+      "summary": "微信和WhatsApp双双断连",
+      "date": "2026-03-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ec9b34ed",
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
+      "date": "2026-03-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ed423aeb",
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to re...",
+      "date": "2026-03-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1078cf07",
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...",
+      "date": "2026-03-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1cb4adf2",
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
+      "date": "2026-03-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c0503e72",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "summary": "",
+      "date": "2026-03-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "6cf291e9",
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "summary": "",
+      "date": "2026-03-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "426ce39d",
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a full...",
+      "date": "2026-03-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c2dfb4a4",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
+      "date": "2026-03-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c0eeb1f9",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "date": "2026-03-19",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7f899a29",
+      "title": "OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "date": "2026-03-19",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "d7f943a0",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "summary": "",
+      "date": "2026-03-17",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "a6d1f36e",
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+      "date": "2026-03-17",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "122ea54e",
+      "title": "Our latest investment in open source security for the AI era",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+      "date": "2026-03-17",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "9969aa6a",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "summary": "",
+      "date": "2026-03-17",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "99ed4f1c",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "date": "2026-03-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c3086d49",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "date": "2026-03-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bab5ed47",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+      "date": "2026-03-12",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "abaebc11",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "date": "2026-03-10",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "3573eb82",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "summary": "Photos of animals being identified by the SpeciesNet AI model",
+      "date": "2026-03-06",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "e670024b",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
+      "date": "2026-01-22",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "1bd5d5f6",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap...",
+      "date": "2026-01-19",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "ca731494",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
+      "date": "2026-01-16",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "db7ff708",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully...",
+      "date": "2026-01-13",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "a102a18a",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...",
+      "date": "2026-01-12",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 学习情况预览</title>
+<style>
+  :root {
+    --bg: #f5f4f0;
+    --surface: #eeecea;
+    --card: #ffffff;
+    --border: rgba(0,0,0,0.08);
+    --border-strong: rgba(0,0,0,0.15);
+    --text: #1a1a18;
+    --text-2: #5a5a56;
+    --text-3: #9a9a94;
+    --accent: #1a1a18;
+    --tag-bg: #1a1a18;
+    --tag-text: #ffffff;
+    --phase-bg: #1a1a18;
+    --green: #2d6a4f;
+    --amber: #b5621e;
+    --blue: #1a4fa0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141412;
+      --surface: #1e1e1c;
+      --card: #252523;
+      --border: rgba(255,255,255,0.08);
+      --border-strong: rgba(255,255,255,0.16);
+      --text: #e8e6e0;
+      --text-2: #a0a09a;
+      --text-3: #606058;
+      --accent: #e8e6e0;
+      --tag-bg: #e8e6e0;
+      --tag-text: #1a1a18;
+      --phase-bg: #e8e6e0;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 32px 20px 60px;
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  /* ── 头部 ── */
+  .header { margin-bottom: 28px; }
+  .header h1 { font-size: 26px; font-weight: 700; letter-spacing: -0.5px; line-height: 1.2; }
+  .header p  { color: var(--text-2); margin-top: 4px; font-size: 13px; }
+
+  /* ── 副标题徽章 ── */
+  .badge {
+    display: inline-block;
+    background: var(--surface);
+    border: 0.5px solid var(--border-strong);
+    border-radius: 8px;
+    padding: 6px 16px;
+    font-size: 12px;
+    color: var(--text-2);
+    margin-bottom: 20px;
+  }
+
+  /* ── 区块标签 ── */
+  .section-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-2);
+    margin: 20px 0 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 0.5px;
+    background: var(--border);
+  }
+
+  /* ── 时间轴滚动区 ── */
+  .timeline-scroll { overflow-x: auto; padding-bottom: 4px; }
+  .timeline-inner  { min-width: 700px; }
+
+  /* 月份标签行 */
+  .months-row {
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);
+    margin-bottom: 6px;
+  }
+  .month-cell { text-align: center; }
+  .month-cell .yr  { font-size: 9px; color: var(--text-3); }
+  .month-cell .mo  { font-size: 11px; color: var(--text-2); }
+
+  /* 阶段条 */
+  .phase-row {
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);
+    gap: 3px;
+    margin-bottom: 10px;
+  }
+  .phase-cell {
+    height: 22px;
+    background: var(--phase-bg);
+    color: var(--tag-text);
+    font-size: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+  }
+  .phase-cell.active   { opacity: 1; }
+  .phase-cell.start    { border-radius: 5px 0 0 5px; }
+  .phase-cell.end      { border-radius: 0 5px 5px 0; }
+  .phase-cell.solo     { border-radius: 5px; }
+  .phase-cell.mid      { border-radius: 0; }
+
+  /* 事件节点行 */
+  .events-row {
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);
+    gap: 4px;
+    align-items: start;
+    margin-bottom: 4px;
+  }
+  .event-col { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .star-dot {
+    width: 22px; height: 22px;
+    border-radius: 50%;
+    border: 0.5px solid var(--border-strong);
+    background: var(--card);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; color: var(--text-2);
+    cursor: pointer;
+    transition: background .15s, transform .1s;
+    flex-shrink: 0;
+  }
+  .star-dot:hover { background: var(--surface); transform: scale(1.1); }
+  .event-card {
+    background: var(--card);
+    border: 0.5px solid var(--border);
+    border-radius: 6px;
+    padding: 4px 5px;
+    font-size: 9px;
+    color: var(--text-2);
+    line-height: 1.3;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color .15s;
+  }
+  .event-card:hover { border-color: var(--border-strong); }
+  .event-card.hi {
+    background: var(--accent);
+    color: var(--tag-text);
+    border-color: var(--accent);
+  }
+
+  /* ── 分隔线 ── */
+  hr { border: none; border-top: 0.5px solid var(--border); margin: 18px 0; }
+
+  /* ── 热度图 ── */
+  .chart-header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 8px;
+  }
+  .chart-total { font-size: 15px; font-weight: 600; }
+  .chart-wrap  { position: relative; width: 100%; height: 90px; }
+
+  /* ── 行业动态 ── */
+  #industry-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3px 24px;
+  }
+  .industry-item {
+    display: flex; align-items: flex-start; gap: 7px;
+    font-size: 11px; color: var(--text-2);
+    padding: 4px 0;
+    cursor: pointer;
+    border-bottom: 0.5px solid var(--border);
+    transition: color .1s;
+  }
+  .industry-item:hover { color: var(--text); }
+  .diamond {
+    width: 6px; height: 6px; min-width: 6px;
+    background: var(--accent); transform: rotate(45deg);
+    margin-top: 3px;
+  }
+  .item-tag {
+    font-size: 9px;
+    padding: 1px 5px;
+    border-radius: 3px;
+    background: var(--surface);
+    color: var(--text-3);
+    white-space: nowrap;
+    align-self: center;
+  }
+  .item-date { font-size: 9px; color: var(--text-3); white-space: nowrap; }
+
+  /* ── 笔记区 ── */
+  .notes-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .note-card {
+    background: var(--card);
+    border: 0.5px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    cursor: pointer;
+    transition: border-color .15s;
+  }
+  .note-card:hover { border-color: var(--border-strong); }
+  .note-card h4 { font-size: 12px; font-weight: 600; margin-bottom: 4px; }
+  .note-card p  { font-size: 11px; color: var(--text-2); line-height: 1.4; }
+  .note-meta    { font-size: 10px; color: var(--text-3); margin-top: 6px; }
+
+  /* ── 更新时间 ── */
+  .footer { text-align: center; font-size: 11px; color: var(--text-3); margin-top: 32px; }
+
+  /* ── 加载状态 ── */
+  .loading { color: var(--text-3); font-size: 12px; padding: 12px 0; }
+
+  /* ── 详情弹层 ── */
+  .detail-panel {
+    position: fixed; right: 0; top: 0; bottom: 0;
+    width: min(380px, 100vw);
+    background: var(--card);
+    border-left: 0.5px solid var(--border-strong);
+    padding: 24px 20px;
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform .25s ease;
+    z-index: 100;
+  }
+  .detail-panel.open { transform: translateX(0); }
+  .detail-close {
+    font-size: 18px; cursor: pointer; float: right;
+    color: var(--text-3); line-height: 1;
+  }
+  .detail-close:hover { color: var(--text); }
+  .detail-panel h3 { font-size: 15px; font-weight: 600; margin: 8px 0 12px; line-height: 1.4; }
+  .detail-panel p  { font-size: 12px; color: var(--text-2); line-height: 1.6; }
+  .detail-meta { font-size: 11px; color: var(--text-3); margin-top: 12px; }
+  .detail-link {
+    display: inline-block; margin-top: 14px;
+    font-size: 12px; color: var(--blue);
+    text-decoration: none; border-bottom: 0.5px solid currentColor;
+  }
+  .overlay {
+    display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,.3); z-index: 99;
+  }
+  .overlay.open { display: block; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>AI 学习情况预览</h1>
+  <p id="subtitle">我学的 · 做的 · 踩的坑</p>
+</div>
+
+<div class="badge">自动同步 · AI 行业动态 + 个人学习进展</div>
+
+<!-- 时间轴 -->
+<div class="section-label">我的进展</div>
+<div class="timeline-scroll">
+  <div class="timeline-inner">
+    <div class="months-row" id="monthsRow"></div>
+    <div class="phase-row"  id="phaseRow"></div>
+    <div class="events-row" id="eventsRow"></div>
+  </div>
+</div>
+
+<hr>
+
+<!-- 热度折线图 -->
+<div class="chart-header">
+  <span class="section-label" style="margin:0">行业热度趋势</span>
+  <span class="chart-total" id="newsCount">—</span>
+</div>
+<div class="chart-wrap"><canvas id="sparkChart"></canvas></div>
+
+<hr>
+
+<!-- 行业动态（自动填充） -->
+<div class="section-label">行业动态</div>
+<div id="industry-grid"><div class="loading">正在加载最新新闻…</div></div>
+
+<hr>
+
+<!-- 学习笔记快照 -->
+<div class="section-label">学习笔记</div>
+<div class="notes-grid" id="notesGrid">
+  <div class="note-card" onclick="openDetail({title:'Transformer 架构精读',summary:'Attention 机制的本质是在序列中动态计算每个位置对其他位置的权重，实现全局上下文建模，彻底取代了 RNN 的顺序依赖。',date:'2025-03-01',source:'个人笔记'})">
+    <h4>Transformer 架构精读</h4>
+    <p>Attention 机制本质：全局上下文 vs 顺序依赖…</p>
+    <div class="note-meta">2025-03-01 · 个人笔记</div>
+  </div>
+  <div class="note-card" onclick="openDetail({title:'RAG 实战踩坑总结',summary:'检索增强生成（RAG）的核心在于向量化检索质量。Embedding 模型选择、chunk 切分策略、rerank 步骤都直接影响最终回答质量。',date:'2025-02-20',source:'项目总结'})">
+    <h4>RAG 实战踩坑总结</h4>
+    <p>Embedding 选型、chunk 策略、rerank 步骤…</p>
+    <div class="note-meta">2025-02-20 · 项目总结</div>
+  </div>
+  <div class="note-card" onclick="openDetail({title:'Prompt Engineering 技巧',summary:'Few-shot 示例的质量远比数量重要。Chain-of-thought 对推理类任务提升显著，而对简单分类任务反而引入噪声。',date:'2025-02-10',source:'实验记录'})">
+    <h4>Prompt Engineering 技巧</h4>
+    <p>Few-shot 质量 vs 数量，CoT 适用场景…</p>
+    <div class="note-meta">2025-02-10 · 实验记录</div>
+  </div>
+  <div class="note-card" onclick="openDetail({title:'Agent 架构对比',summary:'ReAct、Plan-and-Execute、AutoGen 三种 Agent 框架各有取舍：ReAct 简单灵活，Plan-and-Execute 适合长任务，AutoGen 擅长多智能体协作。',date:'2025-01-28',source:'调研笔记'})">
+    <h4>Agent 架构对比</h4>
+    <p>ReAct vs Plan-and-Execute vs AutoGen…</p>
+    <div class="note-meta">2025-01-28 · 调研笔记</div>
+  </div>
+</div>
+
+<div class="footer" id="footer">—</div>
+
+<!-- 侧边详情面板 -->
+<div class="overlay" id="overlay" onclick="closeDetail()"></div>
+<div class="detail-panel" id="detailPanel">
+  <span class="detail-close" onclick="closeDetail()">×</span>
+  <div id="detailContent"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+// ── 时间轴静态数据 ──────────────────────────────────────
+const COLS = [
+  {yr:'2017',mo:'Q4'}, {yr:'2018',mo:'Q4'}, {yr:'2019',mo:'Q4'},
+  {yr:'2020',mo:'Q3'}, {yr:'2021',mo:'Q2'}, {yr:'2022',mo:'Q2'},
+  {yr:'2022',mo:'Q4'}, {yr:'2023',mo:'Q1'}, {yr:'2023',mo:'Q3'},
+  {yr:'2024',mo:'Q1'}, {yr:'2024',mo:'Q4'}, {yr:'2025',mo:'Q2'},
+  {yr:'2026',mo:'Q1'},
+];
+
+// 阶段定义：[起始列索引, 结束列索引, 标签]
+const PHASES = [
+  [0, 4, '第一阶段'],
+  [6, 8, '第二阶段'],
+  [10, 12, '第三阶段'],
+];
+
+const EVENTS = [
+  {label:'Transformer\n诞生',    hi:false},
+  {label:'GPT-1\nOpenAI',       hi:false},
+  {label:'GPT-2\n+BERT',        hi:false},
+  {label:'GPT-3\n175B',         hi:true },
+  {label:'DALL-E\nCodex',       hi:false},
+  {label:'InstructGPT\nRLHF',   hi:false},
+  {label:'ChatGPT\n全球爆发',    hi:true },
+  {label:'GPT-4\nClaude 1',     hi:false},
+  {label:'LLaMA\nMeta开源',     hi:false},
+  {label:'Agents\n+RAG',        hi:false},
+  {label:'Gemini\nClaude 3',    hi:false},
+  {label:'GPT-4o\nSora',        hi:false},
+  {label:'DeepSeek\no1推理',    hi:true },
+];
+
+// ── 渲染时间轴 ──────────────────────────────────────────
+function renderTimeline() {
+  const monthsRow = document.getElementById('monthsRow');
+  const phaseRow  = document.getElementById('phaseRow');
+  const eventsRow = document.getElementById('eventsRow');
+
+  COLS.forEach(c => {
+    const cell = document.createElement('div');
+    cell.className = 'month-cell';
+    cell.innerHTML = `<div class="yr">${c.yr}</div><div class="mo">${c.mo}</div>`;
+    monthsRow.appendChild(cell);
+  });
+
+  COLS.forEach((_, i) => {
+    const cell = document.createElement('div');
+    cell.className = 'phase-cell';
+    let label = '';
+    for (const [s, e, lbl] of PHASES) {
+      if (i >= s && i <= e) {
+        cell.classList.add('active');
+        if (i === s && i === e) cell.classList.add('solo');
+        else if (i === s)       cell.classList.add('start');
+        else if (i === e)       cell.classList.add('end');
+        else                    cell.classList.add('mid');
+        if (i === Math.floor((s + e) / 2)) label = lbl;
+        break;
+      }
+    }
+    cell.textContent = label;
+    phaseRow.appendChild(cell);
+  });
+
+  EVENTS.forEach((ev, i) => {
+    const col = document.createElement('div');
+    col.className = 'event-col';
+    const dot  = document.createElement('div');
+    dot.className = 'star-dot';
+    dot.textContent = '★';
+    const card = document.createElement('div');
+    card.className = 'event-card' + (ev.hi ? ' hi' : '');
+    card.innerHTML = ev.label.replace('\n', '<br>');
+    dot.onclick = card.onclick = () => alert(`${ev.label.replace('\n', ' ')} — 点击可在这里扩展详情`);
+    col.appendChild(dot);
+    col.appendChild(card);
+    eventsRow.appendChild(col);
+  });
+}
+
+// ── 热度折线图 ──────────────────────────────────────────
+function renderSparkChart(count) {
+  const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+  const lc = isDark ? '#e8e6e0' : '#1a1a18';
+  new Chart(document.getElementById('sparkChart'), {
+    type: 'line',
+    data: {
+      labels: COLS.map(c => c.yr + ' ' + c.mo),
+      datasets: [{
+        data: [2,3,4,12,14,18,85,72,55,62,80,88,95],
+        borderColor: lc,
+        backgroundColor: 'transparent',
+        borderWidth: 1.5,
+        pointBackgroundColor: isDark ? '#1a1a18' : '#fff',
+        pointBorderColor: lc,
+        pointBorderWidth: 1.5,
+        pointRadius: 3.5,
+        tension: 0.3,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => ' 热度: ' + ctx.parsed.y } } },
+      scales: {
+        x: { ticks: { font: { size: 9 }, color: '#9a9a94', maxRotation: 0, maxTicksLimit: 7 },
+             grid: { color: isDark ? 'rgba(255,255,255,.05)' : 'rgba(0,0,0,.05)' },
+             border: { display: false } },
+        y: { display: false, min: 0, max: 110 }
+      }
+    }
+  });
+  document.getElementById('newsCount').textContent = `已收录 ${count} 条新闻`;
+}
+
+// ── 加载行业动态 ────────────────────────────────────────
+async function loadNews() {
+  const grid = document.getElementById('industry-grid');
+  try {
+    const resp = await fetch('./news_index.json');
+    if (!resp.ok) throw new Error('文件不存在');
+    const data = await resp.json();
+    const items = data.items || [];
+
+    document.getElementById('footer').textContent =
+      `最后更新：${data.updated || '—'} · 数据来源：多 RSS 订阅源自动同步`;
+
+    renderSparkChart(items.length);
+
+    if (items.length === 0) {
+      grid.innerHTML = '<div class="loading">暂无新闻，请先运行 fetch_news.py</div>';
+      return;
+    }
+
+    grid.innerHTML = '';
+    items.slice(0, 20).forEach(item => {
+      const el = document.createElement('div');
+      el.className = 'industry-item';
+      el.innerHTML = `
+        <div class="diamond"></div>
+        <span style="flex:1;line-height:1.4">${item.title}</span>
+        <span class="item-tag">${item.tag}</span>
+        <span class="item-date">${item.date}</span>`;
+      el.onclick = () => openDetail(item);
+      grid.appendChild(el);
+    });
+
+  } catch (e) {
+    grid.innerHTML = '<div class="loading">⚠ 未找到 news_index.json，请先运行抓取脚本</div>';
+    renderSparkChart(0);
+    document.getElementById('footer').textContent = '尚未同步数据 · 运行 python scripts/fetch_news.py 后刷新';
+  }
+}
+
+// ── 详情面板 ────────────────────────────────────────────
+function openDetail(item) {
+  document.getElementById('detailContent').innerHTML = `
+    <h3>${item.title}</h3>
+    <p>${item.summary || '（暂无摘要）'}</p>
+    <div class="detail-meta">
+      来源：${item.source || '—'} &nbsp;·&nbsp; 日期：${item.date || '—'} &nbsp;·&nbsp; 标签：${item.tag || '—'}
+    </div>
+    ${item.url ? `<a class="detail-link" href="${item.url}" target="_blank" rel="noopener">阅读原文 →</a>` : ''}
+  `;
+  document.getElementById('detailPanel').classList.add('open');
+  document.getElementById('overlay').classList.add('open');
+}
+function closeDetail() {
+  document.getElementById('detailPanel').classList.remove('open');
+  document.getElementById('overlay').classList.remove('open');
+}
+
+// ── 初始化 ──────────────────────────────────────────────
+renderTimeline();
+loadNews();
+</script>
+</body>
+</html>

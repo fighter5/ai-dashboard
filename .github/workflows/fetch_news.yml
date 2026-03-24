@@ -1,0 +1,26 @@
+name: Auto Fetch AI News
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install feedparser python-dateutil
+      - run: python scripts/fetch_news.py
+      - run: |
+          git config user.name  "AI News Bot"
+          git config user.email "bot@github-actions"
+          git add docs/news_index.json vault/
+          git diff --staged --quiet || git commit -m "auto: update AI news $(date '+%Y-%m-%d')"
+          git push
