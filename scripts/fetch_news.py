@@ -16,7 +16,7 @@ from dateutil import parser as dateparser
 
 # ── Config ──────────────────────────────────────────────
 # VAULT_DIR  = Path(__file__).parent.parent / "vault" / "ai-news"
-VAULT_DIR = "D:/02_Business/Personal_Growth"
+VAULT_DIR = Path("D:/02_Business/Personal_Growth/ai-news")
 INDEX_FILE = Path(__file__).parent.parent / "docs" / "news_index.json"
 MAX_PER_FEED  = 5
 MAX_TOTAL     = 50
