@@ -1,38 +1,101 @@
 {
-  "updated": "2026-03-24 16:02",
+  "updated": "2026-03-25 04:23",
   "items": [
     {
-      "id": "e64f8db4",
-      "title": "LeCun的世界模型单GPU就能跑了",
-      "url": "https://www.qbitai.com/2026/03/391698.html",
-      "summary": "速度快到离谱，完整规划仅需1秒",
+      "id": "2e7ed957",
+      "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
+      "url": "https://www.qbitai.com/2026/03/391830.html",
+      "summary": "JVS Claw也荣登App Store“智能体”和“Claw”搜索榜首位",
+      "date": "2026-03-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "336ca8c8",
+      "title": "OpenAI关停Sora！25个月从封神到退场",
+      "url": "https://www.qbitai.com/2026/03/391799.html",
+      "summary": "AI视频正在进入“中国时间”",
+      "date": "2026-03-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d8230d80",
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current...",
+      "date": "2026-03-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5cf89d15",
+      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...",
+      "date": "2026-03-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "38fd5174",
+      "title": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+      "url": "https://www.qbitai.com/2026/03/391775.html",
+      "summary": "2025 年实现44%的销量增长",
       "date": "2026-03-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "07ec3ddc",
-      "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
-      "url": "https://www.qbitai.com/2026/03/391668.html",
-      "summary": "最新模型在Embodied Arena登顶",
+      "id": "40245127",
+      "title": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+      "url": "https://www.qbitai.com/2026/03/391760.html",
+      "summary": "周四14:00，欢迎来现场交流！",
       "date": "2026-03-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "28af7b5b",
-      "title": "阿里在海外上了个“企业级龙虾”，我用它30分钟手搓了一家网店",
-      "url": "https://www.qbitai.com/2026/03/391584.html",
-      "summary": "一站式配齐选品/建站/运营",
+      "id": "1cab419c",
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#16...",
       "date": "2026-03-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "abad8933",
-      "title": "OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？",
-      "url": "https://www.qbitai.com/2026/03/391567.html",
-      "summary": "和人类用电脑没有区别了",
+      "id": "8da73ea9",
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "date": "2026-03-24",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "20bbe053",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "date": "2026-03-24",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0b5ae954",
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "date": "2026-03-24",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "afaa88eb",
+      "title": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
+      "url": "https://www.qbitai.com/2026/03/391750.html",
+      "summary": "老黄再次展示了感性的一面",
       "date": "2026-03-24",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -45,15 +108,6 @@
       "date": "2026-03-24",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "3f6b4cf1",
-      "title": "龙虾史上最大升级！但接了微信的千万别更",
-      "url": "https://www.qbitai.com/2026/03/391520.html",
-      "summary": "微信和WhatsApp双双断连",
-      "date": "2026-03-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "ec9b34ed",
@@ -69,15 +123,6 @@
       "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
       "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to re...",
-      "date": "2026-03-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1078cf07",
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers...",
       "date": "2026-03-23",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -110,37 +155,10 @@
       "tag": "opensource"
     },
     {
-      "id": "426ce39d",
-      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a full...",
-      "date": "2026-03-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c2dfb4a4",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated...",
-      "date": "2026-03-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "c0eeb1f9",
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-      "date": "2026-03-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7f899a29",
-      "title": "OpenAI to acquire Astral",
-      "url": "https://openai.com/index/openai-to-acquire-astral",
-      "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
       "date": "2026-03-19",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -180,24 +198,6 @@
       "date": "2026-03-17",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "99ed4f1c",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-      "date": "2026-03-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c3086d49",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-      "date": "2026-03-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "bab5ed47",
