@@ -1,68 +1,131 @@
 {
-  "updated": "2026-03-25 04:23",
+  "updated": "2026-03-26 04:34",
   "items": [
     {
-      "id": "2e7ed957",
-      "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
-      "url": "https://www.qbitai.com/2026/03/391830.html",
-      "summary": "JVS Claw也荣登App Store“智能体”和“Claw”搜索榜首位",
+      "id": "52e0391b",
+      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
+      "url": "https://www.qbitai.com/2026/03/392215.html",
+      "summary": "内存啥时候降价",
+      "date": "2026-03-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e5781b5d",
+      "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
+      "url": "https://www.qbitai.com/2026/03/392137.html",
+      "summary": "利刃出鞘，一鸣惊人",
+      "date": "2026-03-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a2f0d2ed",
+      "title": "Roundtables: The Next Era of Space Exploration",
+      "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+      "summary": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientis...",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "626cedb7",
+      "title": "Build with Lyria 3, our newest music generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "summary": "Google Lyria teaser",
+      "date": "2026-03-25",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "dfc2a0ef",
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+      "date": "2026-03-25",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "f3500499",
+      "title": "Why this battery company is pivoting to AI",
+      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t...",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "84656a83",
+      "title": "This startup wants to change how mathematicians do math",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble...",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b8be43d0",
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his ...",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "423c4e59",
+      "title": "第一批“首席龙虾官”，月薪6万",
+      "url": "https://www.qbitai.com/2026/03/392128.html",
+      "summary": "猎头开始捕捉养虾达人",
       "date": "2026-03-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "336ca8c8",
-      "title": "OpenAI关停Sora！25个月从封神到退场",
-      "url": "https://www.qbitai.com/2026/03/391799.html",
-      "summary": "AI视频正在进入“中国时间”",
+      "id": "dbb0252a",
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t...",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "56150d53",
+      "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
+      "url": "https://www.qbitai.com/2026/03/392121.html",
+      "summary": "让“能干活的机器人”走进现实",
       "date": "2026-03-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d8230d80",
-      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current...",
-      "date": "2026-03-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "7434cb8f",
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "date": "2026-03-25",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "5cf89d15",
-      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap...",
-      "date": "2026-03-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "38fd5174",
-      "title": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
-      "url": "https://www.qbitai.com/2026/03/391775.html",
-      "summary": "2025 年实现44%的销量增长",
-      "date": "2026-03-24",
+      "id": "0ea3471d",
+      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "url": "https://www.qbitai.com/2026/03/392105.html",
+      "summary": "",
+      "date": "2026-03-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "40245127",
-      "title": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
-      "url": "https://www.qbitai.com/2026/03/391760.html",
-      "summary": "周四14:00，欢迎来现场交流！",
-      "date": "2026-03-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1cab419c",
-      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#16...",
-      "date": "2026-03-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "a1bdc83d",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "date": "2026-03-25",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "8da73ea9",
@@ -92,15 +155,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "afaa88eb",
-      "title": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
-      "url": "https://www.qbitai.com/2026/03/391750.html",
-      "summary": "老黄再次展示了感性的一面",
-      "date": "2026-03-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "1648b1c1",
       "title": "A New Framework for Evaluating Voice Agents (EVA)",
       "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
@@ -108,33 +162,6 @@
       "date": "2026-03-24",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "ec9b34ed",
-      "title": "The hardest question to answer about AI-fueled delusions",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A...",
-      "date": "2026-03-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ed423aeb",
-      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to re...",
-      "date": "2026-03-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1cb4adf2",
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac...",
-      "date": "2026-03-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "c0503e72",
@@ -153,15 +180,6 @@
       "date": "2026-03-20",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "c0eeb1f9",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-      "date": "2026-03-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "d7f943a0",
@@ -205,24 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
       "date": "2026-03-12",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "abaebc11",
-      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-      "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
-      "date": "2026-03-10",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "3573eb82",
-      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
-      "summary": "Photos of animals being identified by the SpeciesNet AI model",
-      "date": "2026-03-06",
       "source": "Google AI Blog",
       "tag": "Google"
     },
