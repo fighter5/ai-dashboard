@@ -1,20 +1,110 @@
 {
-  "updated": "2026-03-26 04:34",
+  "updated": "2026-03-27 04:35",
   "items": [
     {
-      "id": "52e0391b",
-      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
-      "url": "https://www.qbitai.com/2026/03/392215.html",
-      "summary": "内存啥时候降价",
+      "id": "815730bb",
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "date": "2026-03-26",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b56f0c5d",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "date": "2026-03-26",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "6c86c309",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+      "date": "2026-03-26",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c7ab0719",
+      "title": "Search Live is expanding globally",
+      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+      "date": "2026-03-26",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b2df8689",
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Q...",
+      "date": "2026-03-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "eaca031f",
+      "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
+      "url": "https://www.qbitai.com/2026/03/392684.html",
+      "summary": "金融AI无人区里的稀缺选手",
       "date": "2026-03-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e5781b5d",
-      "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
-      "url": "https://www.qbitai.com/2026/03/392137.html",
-      "summary": "利刃出鞘，一鸣惊人",
+      "id": "1a67c37c",
+      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+      "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+      "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages g...",
+      "date": "2026-03-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9de0ac1c",
+      "title": "Are high gas prices good news for EVs? It’s complicated.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+      "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Ir...",
+      "date": "2026-03-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6cbd57a8",
+      "title": "在线等：如何优雅地分走鹅厂这600+万？",
+      "url": "https://www.qbitai.com/2026/03/392641.html",
+      "summary": "KDD Cup首个中国算法赛道开启，学术赛道+社会赛道双开",
+      "date": "2026-03-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "178d687b",
+      "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
+      "url": "https://www.qbitai.com/2026/03/392281.html",
+      "summary": "多智能体协同编程，前后端同步开发",
+      "date": "2026-03-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "01e0d22e",
+      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
+      "url": "https://www.qbitai.com/2026/03/392245.html",
+      "summary": "普通员工也大批流失",
+      "date": "2026-03-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "52e0391b",
+      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
+      "url": "https://www.qbitai.com/2026/03/392215.html",
+      "summary": "内存啥时候降价",
       "date": "2026-03-26",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -38,15 +128,6 @@
       "tag": "Google"
     },
     {
-      "id": "dfc2a0ef",
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
-      "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
-      "date": "2026-03-25",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "f3500499",
       "title": "Why this battery company is pivoting to AI",
       "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
@@ -56,51 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "84656a83",
-      "title": "This startup wants to change how mathematicians do math",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble...",
-      "date": "2026-03-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b8be43d0",
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his ...",
-      "date": "2026-03-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "423c4e59",
-      "title": "第一批“首席龙虾官”，月薪6万",
-      "url": "https://www.qbitai.com/2026/03/392128.html",
-      "summary": "猎头开始捕捉养虾达人",
-      "date": "2026-03-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "dbb0252a",
-      "title": "Agentic commerce runs on truth and context",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t...",
-      "date": "2026-03-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "56150d53",
-      "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
-      "url": "https://www.qbitai.com/2026/03/392121.html",
-      "summary": "让“能干活的机器人”走进现实",
-      "date": "2026-03-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "7434cb8f",
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
@@ -108,15 +144,6 @@
       "date": "2026-03-25",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "0ea3471d",
-      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
-      "url": "https://www.qbitai.com/2026/03/392105.html",
-      "summary": "",
-      "date": "2026-03-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "a1bdc83d",
@@ -191,24 +218,6 @@
       "tag": "opensource"
     },
     {
-      "id": "a6d1f36e",
-      "title": "Bringing the power of Personal Intelligence to more people",
-      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-      "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
-      "date": "2026-03-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "122ea54e",
-      "title": "Our latest investment in open source security for the AI era",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-      "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
-      "date": "2026-03-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "9969aa6a",
       "title": "Holotron-12B - High Throughput Computer Use Agent",
       "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
@@ -216,15 +225,6 @@
       "date": "2026-03-17",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "bab5ed47",
-      "title": "How AI is helping improve heart health in rural Australia",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-      "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
-      "date": "2026-03-12",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e670024b",
