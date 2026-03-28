@@ -1,6 +1,78 @@
 {
-  "updated": "2026-03-27 04:35",
+  "updated": "2026-03-28 04:23",
   "items": [
+    {
+      "id": "aae2c184",
+      "title": "25.98万元起！智己LS8震撼开启预售，30万内享百万级跨代际体验",
+      "url": "https://www.qbitai.com/2026/03/392900.html",
+      "summary": "",
+      "date": "2026-03-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7543ce1b",
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "date": "2026-03-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "cdc1c375",
+      "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
+      "url": "https://www.qbitai.com/2026/03/392896.html",
+      "summary": "揭秘硬件高投入≠高效 Token 产出",
+      "date": "2026-03-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1c87de79",
+      "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
+      "url": "https://www.qbitai.com/2026/03/392878.html",
+      "summary": "中国大模型顶流都来了！",
+      "date": "2026-03-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "21d7659b",
+      "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
+      "url": "https://www.qbitai.com/2026/03/392835.html",
+      "summary": "“已迈入AI原生的平台经济时代”",
+      "date": "2026-03-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b68b1a70",
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best...",
+      "date": "2026-03-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "59443eae",
+      "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
+      "url": "https://www.qbitai.com/2026/03/392828.html",
+      "summary": "国内首个CLI开源的国民级应用",
+      "date": "2026-03-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fdd36f4a",
+      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of h...",
+      "date": "2026-03-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
     {
       "id": "815730bb",
       "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
@@ -47,15 +119,6 @@
       "tag": "research"
     },
     {
-      "id": "eaca031f",
-      "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
-      "url": "https://www.qbitai.com/2026/03/392684.html",
-      "summary": "金融AI无人区里的稀缺选手",
-      "date": "2026-03-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "1a67c37c",
       "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
       "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
@@ -74,51 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "6cbd57a8",
-      "title": "在线等：如何优雅地分走鹅厂这600+万？",
-      "url": "https://www.qbitai.com/2026/03/392641.html",
-      "summary": "KDD Cup首个中国算法赛道开启，学术赛道+社会赛道双开",
-      "date": "2026-03-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "178d687b",
-      "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
-      "url": "https://www.qbitai.com/2026/03/392281.html",
-      "summary": "多智能体协同编程，前后端同步开发",
-      "date": "2026-03-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "01e0d22e",
-      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
-      "url": "https://www.qbitai.com/2026/03/392245.html",
-      "summary": "普通员工也大批流失",
-      "date": "2026-03-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "52e0391b",
-      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
-      "url": "https://www.qbitai.com/2026/03/392215.html",
-      "summary": "内存啥时候降价",
-      "date": "2026-03-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a2f0d2ed",
-      "title": "Roundtables: The Next Era of Space Exploration",
-      "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
-      "summary": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientis...",
-      "date": "2026-03-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "626cedb7",
       "title": "Build with Lyria 3, our newest music generation model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
@@ -126,15 +144,6 @@
       "date": "2026-03-25",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "f3500499",
-      "title": "Why this battery company is pivoting to AI",
-      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t...",
-      "date": "2026-03-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "7434cb8f",
@@ -159,15 +168,6 @@
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-      "date": "2026-03-24",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "20bbe053",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
       "date": "2026-03-24",
       "source": "OpenAI News",
       "tag": "OpenAI"
