@@ -1,14 +1,59 @@
 {
-  "updated": "2026-03-28 04:23",
+  "updated": "2026-03-29 04:39",
   "items": [
     {
-      "id": "aae2c184",
-      "title": "25.98万元起！智己LS8震撼开启预售，30万内享百万级跨代际体验",
-      "url": "https://www.qbitai.com/2026/03/392900.html",
-      "summary": "",
+      "id": "ddd8f888",
+      "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
+      "url": "https://www.qbitai.com/2026/03/393064.html",
+      "summary": "数据・解析・营销三位一体",
+      "date": "2026-03-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dc19e8a5",
+      "title": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+      "url": "https://www.qbitai.com/2026/03/393045.html",
+      "summary": "自动输出可用验证代码",
+      "date": "2026-03-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "97b64e0c",
+      "title": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+      "url": "https://www.qbitai.com/2026/03/392996.html",
+      "summary": "最强大脑，海淀集结",
+      "date": "2026-03-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "48a66783",
+      "title": "趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”",
+      "url": "https://www.qbitai.com/2026/03/392988.html",
+      "summary": "郑纬民院士领衔解读Token服务新趋势",
       "date": "2026-03-28",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "c758697d",
+      "title": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办",
+      "url": "https://www.qbitai.com/2026/03/392981.html",
+      "summary": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会在中关村国际创新中心举行",
+      "date": "2026-03-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "37644363",
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restau...",
+      "date": "2026-03-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "7543ce1b",
@@ -20,33 +65,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "cdc1c375",
-      "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
-      "url": "https://www.qbitai.com/2026/03/392896.html",
-      "summary": "揭秘硬件高投入≠高效 Token 产出",
-      "date": "2026-03-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1c87de79",
-      "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
-      "url": "https://www.qbitai.com/2026/03/392878.html",
-      "summary": "中国大模型顶流都来了！",
-      "date": "2026-03-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "21d7659b",
-      "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
-      "url": "https://www.qbitai.com/2026/03/392835.html",
-      "summary": "“已迈入AI原生的平台经济时代”",
-      "date": "2026-03-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "b68b1a70",
       "title": "The Download: the internet’s best weather app, and why people freeze their brains",
       "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
@@ -56,15 +74,6 @@
       "tag": "research"
     },
     {
-      "id": "59443eae",
-      "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
-      "url": "https://www.qbitai.com/2026/03/392828.html",
-      "summary": "国内首个CLI开源的国民级应用",
-      "date": "2026-03-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "fdd36f4a",
       "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
       "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
@@ -72,6 +81,15 @@
       "date": "2026-03-27",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "f380ae2c",
+      "title": "Liberate your OpenClaw",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "summary": "",
+      "date": "2026-03-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "815730bb",
@@ -123,15 +141,6 @@
       "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
       "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
       "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages g...",
-      "date": "2026-03-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9de0ac1c",
-      "title": "Are high gas prices good news for EVs? It’s complicated.",
-      "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
-      "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Ir...",
       "date": "2026-03-26",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -212,15 +221,6 @@
       "id": "d7f943a0",
       "title": "State of Open Source on Hugging Face: Spring 2026",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "summary": "",
-      "date": "2026-03-17",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "9969aa6a",
-      "title": "Holotron-12B - High Throughput Computer Use Agent",
-      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
       "summary": "",
       "date": "2026-03-17",
       "source": "Hugging Face",
