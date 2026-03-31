@@ -1,50 +1,95 @@
 {
-  "updated": "2026-03-30 04:47",
+  "updated": "2026-03-31 04:37",
   "items": [
     {
-      "id": "5dd34d30",
-      "title": "Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索",
-      "url": "https://www.qbitai.com/2026/03/393336.html",
-      "summary": "以认知建模为核心的教育AGI探索",
+      "id": "e2c503a0",
+      "title": "别再让AI只干零活了！AI工具正在接管投放全链路",
+      "url": "https://www.qbitai.com/2026/03/393471.html",
+      "summary": "从行业中来，到行业中去",
+      "date": "2026-03-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "41029fc7",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou...",
+      "date": "2026-03-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "093ef951",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pent...",
+      "date": "2026-03-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8fb6a8f4",
+      "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+      "url": "https://www.qbitai.com/2026/03/393460.html",
+      "summary": "每百万Tokens输入不到0.8元，比Gemini-3.1 Pro的1/10还低。",
       "date": "2026-03-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6fdb3f26",
-      "title": "国产世界模型登顶全球第一！断层领先谷歌英伟达，3D准确度近满分",
-      "url": "https://www.qbitai.com/2026/03/393296.html",
-      "summary": "最新Pre-B轮收获10亿融资",
+      "id": "931986ab",
+      "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+      "url": "https://www.qbitai.com/2026/03/393433.html",
+      "summary": "谷歌持续霸榜多年的PaddleOCR被赶超",
       "date": "2026-03-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c3d976c0",
-      "title": "60%用户还在乱养虾！9位大神亮招：有人多赚一笔钱，有人多睡1小时｜量子位沙龙",
-      "url": "https://www.qbitai.com/2026/03/393244.html",
-      "summary": "最野生最新鲜的实战方案奉上",
+      "id": "93789a06",
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless...",
+      "date": "2026-03-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c6ab5b9d",
+      "title": "Inside the stealthy startup that pitched brainless human clones",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey...",
+      "date": "2026-03-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "64a7d539",
+      "title": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
+      "url": "https://www.qbitai.com/2026/03/393419.html",
+      "summary": "群核科技已通过港交所上市聆讯",
       "date": "2026-03-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "44bb7fbf",
-      "title": "DeepSeek网页版大升级！随后宕机11小时崩上热搜，新模型真的来了",
-      "url": "https://www.qbitai.com/2026/03/393235.html",
-      "summary": "在龙虾时代沉默了好久的DeepSeek，似乎在憋个大的",
+      "id": "fed90359",
+      "title": "美国开源AI最后的旗帜，也倒了",
+      "url": "https://www.qbitai.com/2026/03/393395.html",
+      "summary": "Ai2削减开源模型资金，研发人员集体出走",
       "date": "2026-03-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "aa5b33fa",
-      "title": "龙虾安全被3层硬核架构焊死了！一份面向开发者的硬核生存指南",
-      "url": "https://www.qbitai.com/2026/03/393226.html",
-      "summary": "揭秘智能体自主行动背后的“技术生死线”",
-      "date": "2026-03-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "26481377",
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "date": "2026-03-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "37644363",
@@ -63,24 +108,6 @@
       "date": "2026-03-27",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "b68b1a70",
-      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
-      "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best...",
-      "date": "2026-03-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "fdd36f4a",
-      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
-      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of h...",
-      "date": "2026-03-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "f380ae2c",
@@ -128,24 +155,6 @@
       "tag": "Google"
     },
     {
-      "id": "b2df8689",
-      "title": "The Download: a battery pivot to AI, and rewriting math",
-      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Q...",
-      "date": "2026-03-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1a67c37c",
-      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
-      "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
-      "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages g...",
-      "date": "2026-03-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "626cedb7",
       "title": "Build with Lyria 3, our newest music generation model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
@@ -177,15 +186,6 @@
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-      "date": "2026-03-24",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "20bbe053",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
       "date": "2026-03-24",
       "source": "OpenAI News",
       "tag": "OpenAI"
