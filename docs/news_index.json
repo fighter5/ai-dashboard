@@ -1,14 +1,113 @@
 {
-  "updated": "2026-03-31 04:37",
+  "updated": "2026-04-01 04:49",
   "items": [
     {
-      "id": "e2c503a0",
-      "title": "别再让AI只干零活了！AI工具正在接管投放全链路",
-      "url": "https://www.qbitai.com/2026/03/393471.html",
-      "summary": "从行业中来，到行业中去",
+      "id": "0811de72",
+      "title": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
+      "url": "https://www.qbitai.com/2026/04/394169.html",
+      "summary": "OpenAI创下史上最大单笔融资纪录",
+      "date": "2026-04-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "32a41f63",
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "summary": "Build with Veo 3.1 Lite",
+      "date": "2026-03-31",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "0ee915ff",
+      "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
+      "url": "https://www.qbitai.com/2026/03/394149.html",
+      "summary": "理想前智驾一号位和阿里前副总裁携手创业",
       "date": "2026-03-31",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "c93509b5",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "summary": "",
+      "date": "2026-03-31",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "5f5935fe",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...",
+      "date": "2026-03-31",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d2261147",
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "date": "2026-03-31",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ec4368ae",
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There are more AI health tools than ever—but how w...",
+      "date": "2026-03-31",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ae4c1a78",
+      "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+      "url": "https://www.qbitai.com/2026/03/394135.html",
+      "summary": "提出新概念：Token架构力",
+      "date": "2026-03-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "72ab2e10",
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod...",
+      "date": "2026-03-31",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a1bd9fce",
+      "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
+      "url": "https://www.qbitai.com/2026/03/394014.html",
+      "summary": "PC和Web两端齐发",
+      "date": "2026-03-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c822f468",
+      "title": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
+      "url": "https://www.qbitai.com/2026/03/394011.html",
+      "summary": "AI智能体之间真正自主支付的钱包，来了！",
+      "date": "2026-03-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "77b9cd00",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "url": "https://huggingface.co/blog/trl-v1",
+      "summary": "",
+      "date": "2026-03-31",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "41029fc7",
@@ -29,60 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "8fb6a8f4",
-      "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
-      "url": "https://www.qbitai.com/2026/03/393460.html",
-      "summary": "每百万Tokens输入不到0.8元，比Gemini-3.1 Pro的1/10还低。",
-      "date": "2026-03-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "931986ab",
-      "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
-      "url": "https://www.qbitai.com/2026/03/393433.html",
-      "summary": "谷歌持续霸榜多年的PaddleOCR被赶超",
-      "date": "2026-03-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "93789a06",
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
-      "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless...",
-      "date": "2026-03-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c6ab5b9d",
-      "title": "Inside the stealthy startup that pitched brainless human clones",
-      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-      "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey...",
-      "date": "2026-03-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "64a7d539",
-      "title": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
-      "url": "https://www.qbitai.com/2026/03/393419.html",
-      "summary": "群核科技已通过港交所上市聆讯",
-      "date": "2026-03-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "fed90359",
-      "title": "美国开源AI最后的旗帜，也倒了",
-      "url": "https://www.qbitai.com/2026/03/393395.html",
-      "summary": "Ai2削减开源模型资金，研发人员集体出走",
-      "date": "2026-03-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "26481377",
       "title": "Helping disaster response teams turn AI into action across Asia",
       "url": "https://openai.com/index/helping-disaster-response-teams-asia",
@@ -90,15 +135,6 @@
       "date": "2026-03-29",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "37644363",
-      "title": "A woman’s uterus has been kept alive outside the body for the first time",
-      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restau...",
-      "date": "2026-03-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "7543ce1b",
@@ -155,15 +191,6 @@
       "tag": "Google"
     },
     {
-      "id": "626cedb7",
-      "title": "Build with Lyria 3, our newest music generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-      "summary": "Google Lyria teaser",
-      "date": "2026-03-25",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "7434cb8f",
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
@@ -182,15 +209,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "8da73ea9",
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-      "date": "2026-03-24",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "1648b1c1",
       "title": "A New Framework for Evaluating Voice Agents (EVA)",
       "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
@@ -205,24 +223,6 @@
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "summary": "",
       "date": "2026-03-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6cf291e9",
-      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-      "summary": "",
-      "date": "2026-03-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "d7f943a0",
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "summary": "",
-      "date": "2026-03-17",
       "source": "Hugging Face",
       "tag": "opensource"
     },
