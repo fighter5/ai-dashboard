@@ -1,14 +1,113 @@
 {
-  "updated": "2026-04-01 04:49",
+  "updated": "2026-04-02 04:31",
   "items": [
     {
-      "id": "0811de72",
-      "title": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
-      "url": "https://www.qbitai.com/2026/04/394169.html",
-      "summary": "OpenAI创下史上最大单笔融资纪录",
+      "id": "934bc8d5",
+      "title": "龙虾成本狂降58%！清华人大面壁等最新开源“智能调度员”",
+      "url": "https://www.qbitai.com/2026/04/394606.html",
+      "summary": "敏感数据不出门",
+      "date": "2026-04-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "29bca1d1",
+      "title": "盯着还没注册公司的顶尖天才，DigClaw 获天使轮融资，中科创星、中关村资本联合投资",
+      "url": "https://www.qbitai.com/2026/04/394602.html",
+      "summary": "“我们不只是在找一个名字，我们是在勾勒一家企业背后的决策链条。”",
+      "date": "2026-04-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "71592401",
+      "title": "封不住！Claude Code爆改Python版加冕最快10万星，且clone且珍惜",
+      "url": "https://www.qbitai.com/2026/04/394570.html",
+      "summary": "Grok Code这下估计是真近在咫尺了",
+      "date": "2026-04-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "93167e0c",
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3",
+      "summary": "",
+      "date": "2026-04-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "b242e73e",
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "date": "2026-04-01",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c10527d0",
+      "title": "The latest AI news we announced in March 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "summary": "March 2026 AI Recap showing new updates",
+      "date": "2026-04-01",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "1677d36c",
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a...",
+      "date": "2026-04-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6d5442a5",
+      "title": "为啥武汉无人车也“呆”了一次",
+      "url": "https://www.qbitai.com/2026/04/394554.html",
+      "summary": "被误解的“安全感”",
       "date": "2026-04-01",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "afbb3709",
+      "title": "The gig workers who are training humanoid robots at home",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
+      "date": "2026-04-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "238f8f8f",
+      "title": "跟美图RoboNeo说句话，AI帮你复刻爆款",
+      "url": "https://www.qbitai.com/2026/04/394547.html",
+      "summary": "美图旗下RoboNeo成跨境创作新利器",
+      "date": "2026-04-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a6e2823e",
+      "title": "Falcon Perception",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "summary": "",
+      "date": "2026-04-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "0f9835b1",
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "date": "2026-04-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "32a41f63",
@@ -18,15 +117,6 @@
       "date": "2026-03-31",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "0ee915ff",
-      "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
-      "url": "https://www.qbitai.com/2026/03/394149.html",
-      "summary": "理想前智驾一号位和阿里前副总裁携手创业",
-      "date": "2026-03-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "c93509b5",
@@ -65,15 +155,6 @@
       "tag": "research"
     },
     {
-      "id": "ae4c1a78",
-      "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-      "url": "https://www.qbitai.com/2026/03/394135.html",
-      "summary": "提出新概念：Token架构力",
-      "date": "2026-03-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "72ab2e10",
       "title": "AI benchmarks are broken. Here’s what we need instead.",
       "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
@@ -83,24 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "a1bd9fce",
-      "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
-      "url": "https://www.qbitai.com/2026/03/394014.html",
-      "summary": "PC和Web两端齐发",
-      "date": "2026-03-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c822f468",
-      "title": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
-      "url": "https://www.qbitai.com/2026/03/394011.html",
-      "summary": "AI智能体之间真正自主支付的钱包，来了！",
-      "date": "2026-03-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "77b9cd00",
       "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
       "url": "https://huggingface.co/blog/trl-v1",
@@ -108,24 +171,6 @@
       "date": "2026-03-31",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "41029fc7",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou...",
-      "date": "2026-03-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "093ef951",
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pent...",
-      "date": "2026-03-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "26481377",
@@ -173,24 +218,6 @@
       "tag": "Google"
     },
     {
-      "id": "6c86c309",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
-      "date": "2026-03-26",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "c7ab0719",
-      "title": "Search Live is expanding globally",
-      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
-      "date": "2026-03-26",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "7434cb8f",
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
@@ -198,33 +225,6 @@
       "date": "2026-03-25",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "a1bdc83d",
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-      "date": "2026-03-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "1648b1c1",
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "summary": "",
-      "date": "2026-03-24",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c0503e72",
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
-      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "summary": "",
-      "date": "2026-03-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e670024b",
