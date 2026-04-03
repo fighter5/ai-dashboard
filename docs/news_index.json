@@ -1,32 +1,113 @@
 {
-  "updated": "2026-04-02 04:31",
+  "updated": "2026-04-03 04:32",
   "items": [
     {
-      "id": "934bc8d5",
-      "title": "龙虾成本狂降58%！清华人大面壁等最新开源“智能调度员”",
-      "url": "https://www.qbitai.com/2026/04/394606.html",
-      "summary": "敏感数据不出门",
+      "id": "ee431e51",
+      "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "url": "https://www.qbitai.com/2026/04/395206.html",
+      "summary": "近期发布更多系列大模型",
+      "date": "2026-04-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b9151f44",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "summary": "Gemini API Dials",
+      "date": "2026-04-02",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "aaf3d2dd",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "summary": "Google Vids logo surrounded by various video editing UI",
+      "date": "2026-04-02",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "0ee9c16e",
+      "title": "我的天！豆包每天烧120万亿Tokens啊！",
+      "url": "https://www.qbitai.com/2026/04/395202.html",
+      "summary": "Seedance 2.0也可以公测了",
       "date": "2026-04-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "29bca1d1",
-      "title": "盯着还没注册公司的顶尖天才，DigClaw 获天使轮融资，中科创星、中关村资本联合投资",
-      "url": "https://www.qbitai.com/2026/04/394602.html",
-      "summary": "“我们不只是在找一个名字，我们是在勾勒一家企业背后的决策链条。”",
+      "id": "5a3637bd",
+      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#1...",
+      "date": "2026-04-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b487a1bf",
+      "title": "OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+      "date": "2026-04-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "78048019",
+      "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
+      "url": "https://www.qbitai.com/2026/04/395198.html",
+      "summary": "赋能药物研发等万亿产业",
       "date": "2026-04-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "71592401",
-      "title": "封不住！Claude Code爆改Python版加冕最快10万星，且clone且珍惜",
-      "url": "https://www.qbitai.com/2026/04/394570.html",
-      "summary": "Grok Code这下估计是真近在咫尺了",
+      "id": "ad286a21",
+      "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
+      "url": "https://www.qbitai.com/2026/04/395194.html",
+      "summary": "商汤大装置分享AI原生云实践",
       "date": "2026-04-02",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "8fe19c5f",
+      "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷",
+      "url": "https://www.qbitai.com/2026/04/395162.html",
+      "summary": "毛利率96.5%，谁说AI医疗不赚钱？",
+      "date": "2026-04-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9afab4be",
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...",
+      "date": "2026-04-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c32a08ac",
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "date": "2026-04-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a38a6a43",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "summary": "",
+      "date": "2026-04-02",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "93167e0c",
@@ -65,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "6d5442a5",
-      "title": "为啥武汉无人车也“呆”了一次",
-      "url": "https://www.qbitai.com/2026/04/394554.html",
-      "summary": "被误解的“安全感”",
-      "date": "2026-04-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "afbb3709",
       "title": "The gig workers who are training humanoid robots at home",
       "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
@@ -81,15 +153,6 @@
       "date": "2026-04-01",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "238f8f8f",
-      "title": "跟美图RoboNeo说句话，AI帮你复刻爆款",
-      "url": "https://www.qbitai.com/2026/04/394547.html",
-      "summary": "美图旗下RoboNeo成跨境创作新利器",
-      "date": "2026-04-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "a6e2823e",
@@ -146,24 +209,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ec4368ae",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There are more AI health tools than ever—but how w...",
-      "date": "2026-03-31",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "72ab2e10",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI mod...",
-      "date": "2026-03-31",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "77b9cd00",
       "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
       "url": "https://huggingface.co/blog/trl-v1",
@@ -178,51 +223,6 @@
       "url": "https://openai.com/index/helping-disaster-response-teams-asia",
       "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
       "date": "2026-03-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7543ce1b",
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "url": "https://openai.com/index/stadler",
-      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-      "date": "2026-03-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f380ae2c",
-      "title": "Liberate your OpenClaw",
-      "url": "https://huggingface.co/blog/liberate-your-openclaw",
-      "summary": "",
-      "date": "2026-03-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "815730bb",
-      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
-      "date": "2026-03-26",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "b56f0c5d",
-      "title": "Transform your headphones into a live personal translator on iOS.",
-      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
-      "date": "2026-03-26",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "7434cb8f",
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-      "date": "2026-03-25",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
