@@ -1,11 +1,56 @@
 {
-  "updated": "2026-04-03 04:32",
+  "updated": "2026-04-04 04:20",
   "items": [
     {
-      "id": "ee431e51",
-      "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
-      "url": "https://www.qbitai.com/2026/04/395206.html",
-      "summary": "近期发布更多系列大模型",
+      "id": "2ba9ce0a",
+      "title": "Four things we’d need to put data centers in space",
+      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk...",
+      "date": "2026-04-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8ad06b60",
+      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
+      "url": "https://www.qbitai.com/2026/04/395916.html",
+      "summary": "实现企业级Agent规模化管控",
+      "date": "2026-04-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "42d7505b",
+      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "url": "https://www.qbitai.com/2026/04/395477.html",
+      "summary": "千问APP迎来AI内容创作史诗级增强",
+      "date": "2026-04-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3885841d",
+      "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
+      "url": "https://www.qbitai.com/2026/04/395447.html",
+      "summary": "2026 年 4 月 23 日至 24 日，深圳福田会展中心 2 号馆，GTC2026 全球流量大会（深圳）即将拉开帷幕。",
+      "date": "2026-04-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4ef63fc4",
+      "title": "OpenAI收购了一家脱口秀公司",
+      "url": "https://www.qbitai.com/2026/04/395316.html",
+      "summary": "主持人与奥特曼私交超10年",
+      "date": "2026-04-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2f6f96e2",
+      "title": "企业玩不转龙虾，是人的思维出错了",
+      "url": "https://www.qbitai.com/2026/04/395307.html",
+      "summary": "MiniMax和腾讯云深度详解Agent大规模落地",
       "date": "2026-04-03",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -29,15 +74,6 @@
       "tag": "Google"
     },
     {
-      "id": "0ee9c16e",
-      "title": "我的天！豆包每天烧120万亿Tokens啊！",
-      "url": "https://www.qbitai.com/2026/04/395202.html",
-      "summary": "Seedance 2.0也可以公测了",
-      "date": "2026-04-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "5a3637bd",
       "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
       "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
@@ -54,33 +90,6 @@
       "date": "2026-04-02",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "78048019",
-      "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
-      "url": "https://www.qbitai.com/2026/04/395198.html",
-      "summary": "赋能药物研发等万亿产业",
-      "date": "2026-04-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ad286a21",
-      "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
-      "url": "https://www.qbitai.com/2026/04/395194.html",
-      "summary": "商汤大装置分享AI原生云实践",
-      "date": "2026-04-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8fe19c5f",
-      "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷",
-      "url": "https://www.qbitai.com/2026/04/395162.html",
-      "summary": "毛利率96.5%，谁说AI医疗不赚钱？",
-      "date": "2026-04-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "9afab4be",
@@ -189,15 +198,6 @@
       "date": "2026-03-31",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "5f5935fe",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc...",
-      "date": "2026-03-31",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "d2261147",
