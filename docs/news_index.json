@@ -1,6 +1,51 @@
 {
-  "updated": "2026-04-04 04:20",
+  "updated": "2026-04-05 04:38",
   "items": [
+    {
+      "id": "6ddeb360",
+      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "url": "https://www.qbitai.com/2026/04/396358.html",
+      "summary": "开源开发者的赛博马鞭",
+      "date": "2026-04-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a9fcfe6a",
+      "title": "为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜",
+      "url": "https://www.qbitai.com/2026/04/396351.html",
+      "summary": "1000万视频秒搜",
+      "date": "2026-04-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "af0ac5f0",
+      "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+      "url": "https://www.qbitai.com/2026/04/396346.html",
+      "summary": "日调用量突破1.4万亿Token",
+      "date": "2026-04-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "55995968",
+      "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+      "url": "https://www.qbitai.com/2026/04/396069.html",
+      "summary": "唯一原生支持指代消解，Benchmark现象级领先",
+      "date": "2026-04-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3f41f4b5",
+      "title": "联想重新定义“龙虾”",
+      "url": "https://www.qbitai.com/2026/04/396015.html",
+      "summary": "算需求有解了",
+      "date": "2026-04-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "2ba9ce0a",
       "title": "Four things we’d need to put data centers in space",
@@ -9,51 +54,6 @@
       "date": "2026-04-03",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "8ad06b60",
-      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
-      "url": "https://www.qbitai.com/2026/04/395916.html",
-      "summary": "实现企业级Agent规模化管控",
-      "date": "2026-04-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "42d7505b",
-      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
-      "url": "https://www.qbitai.com/2026/04/395477.html",
-      "summary": "千问APP迎来AI内容创作史诗级增强",
-      "date": "2026-04-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3885841d",
-      "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
-      "url": "https://www.qbitai.com/2026/04/395447.html",
-      "summary": "2026 年 4 月 23 日至 24 日，深圳福田会展中心 2 号馆，GTC2026 全球流量大会（深圳）即将拉开帷幕。",
-      "date": "2026-04-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4ef63fc4",
-      "title": "OpenAI收购了一家脱口秀公司",
-      "url": "https://www.qbitai.com/2026/04/395316.html",
-      "summary": "主持人与奥特曼私交超10年",
-      "date": "2026-04-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2f6f96e2",
-      "title": "企业玩不转龙虾，是人的思维出错了",
-      "url": "https://www.qbitai.com/2026/04/395307.html",
-      "summary": "MiniMax和腾讯云深度详解Agent大规模落地",
-      "date": "2026-04-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "b9151f44",
