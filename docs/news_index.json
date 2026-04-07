@@ -1,50 +1,86 @@
 {
-  "updated": "2026-04-06 04:46",
+  "updated": "2026-04-07 04:35",
   "items": [
     {
-      "id": "a4943e54",
-      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-      "url": "https://www.qbitai.com/2026/04/396535.html",
-      "summary": "正面回应了和Anthropic的竞争",
-      "date": "2026-04-05",
+      "id": "51571c44",
+      "title": "23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好",
+      "url": "https://www.qbitai.com/2026/04/396890.html",
+      "summary": "AI创作者的春天，属于他们",
+      "date": "2026-04-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "a3d43cd1",
-      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "url": "https://www.qbitai.com/2026/04/396533.html",
-      "summary": "",
-      "date": "2026-04-05",
+      "id": "236532a5",
+      "title": "Ilya曝光70页OpenAI绝密文件",
+      "url": "https://www.qbitai.com/2026/04/396880.html",
+      "summary": "llya：奥特曼这人撒谎成性",
+      "date": "2026-04-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8697317b",
-      "title": "具身龙虾，上车理想",
-      "url": "https://www.qbitai.com/2026/04/396517.html",
-      "summary": "在你取车的时候，主动跟你打招呼",
-      "date": "2026-04-05",
+      "id": "a87d10ba",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is...",
+      "date": "2026-04-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "97d4ea33",
+      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+      "url": "https://www.qbitai.com/2026/04/396863.html",
+      "summary": "独创“诊断-生成-校准”闭环体系",
+      "date": "2026-04-06",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d1bd9045",
-      "title": "GPT-6，曝光了",
-      "url": "https://www.qbitai.com/2026/04/396366.html",
-      "summary": "彻底奔着AGI去的模型",
-      "date": "2026-04-05",
+      "id": "2c2fe650",
+      "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+      "url": "https://www.qbitai.com/2026/04/396841.html",
+      "summary": "即插即用无需重新训练",
+      "date": "2026-04-06",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6ddeb360",
-      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
-      "url": "https://www.qbitai.com/2026/04/396358.html",
-      "summary": "开源开发者的赛博马鞭",
-      "date": "2026-04-05",
+      "id": "07695ab5",
+      "title": "AI is changing how small online sellers decide what to make",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...",
+      "date": "2026-04-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f6c272c7",
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "date": "2026-04-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0807877e",
+      "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
+      "url": "https://www.qbitai.com/2026/04/396738.html",
+      "summary": "核心思路：从画大纲到扣细节",
+      "date": "2026-04-06",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "65edefcb",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "date": "2026-04-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "2ba9ce0a",
@@ -146,24 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "1677d36c",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a...",
-      "date": "2026-04-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "afbb3709",
-      "title": "The gig workers who are training humanoid robots at home",
-      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead...",
-      "date": "2026-04-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "a6e2823e",
       "title": "Falcon Perception",
       "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
@@ -182,6 +200,15 @@
       "tag": "OpenAI"
     },
     {
+      "id": "7c794031",
+      "title": "Any Custom Frontend with Gradio's Backend",
+      "url": "https://huggingface.co/blog/introducing-gradio-server",
+      "summary": "",
+      "date": "2026-04-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
       "id": "32a41f63",
       "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
       "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
@@ -198,33 +225,6 @@
       "date": "2026-03-31",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "d2261147",
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-      "date": "2026-03-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "77b9cd00",
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "url": "https://huggingface.co/blog/trl-v1",
-      "summary": "",
-      "date": "2026-03-31",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "26481377",
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "date": "2026-03-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "e670024b",
