@@ -1,20 +1,74 @@
 {
-  "updated": "2026-04-07 04:35",
+  "updated": "2026-04-08 04:38",
   "items": [
     {
-      "id": "51571c44",
-      "title": "23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好",
-      "url": "https://www.qbitai.com/2026/04/396890.html",
-      "summary": "AI创作者的春天，属于他们",
-      "date": "2026-04-07",
+      "id": "b425e702",
+      "title": "Skill vs App：一场入口范式的争夺",
+      "url": "https://www.qbitai.com/2026/04/397799.html",
+      "summary": "是重构，而非杀死",
+      "date": "2026-04-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "236532a5",
-      "title": "Ilya曝光70页OpenAI绝密文件",
-      "url": "https://www.qbitai.com/2026/04/396880.html",
-      "summary": "llya：奥特曼这人撒谎成性",
+      "id": "4a4f5b2d",
+      "title": "DeepSeek深夜更新后自曝：我是V4（？！）",
+      "url": "https://www.qbitai.com/2026/04/397761.html",
+      "summary": "DeepSeek V4真的要来了？",
+      "date": "2026-04-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2f708eec",
+      "title": "省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%",
+      "url": "https://www.qbitai.com/2026/04/397733.html",
+      "summary": "啰嗦并不总是更好",
+      "date": "2026-04-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "94aaf0bd",
+      "title": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
+      "url": "https://www.qbitai.com/2026/04/397710.html",
+      "summary": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
+      "date": "2026-04-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "71bac24d",
+      "title": "Desalination plants in the Middle East are increasingly vulnerable",
+      "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...",
+      "date": "2026-04-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1465d338",
+      "title": "Enabling agent-first process redesign",
+      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...",
+      "date": "2026-04-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1de34e02",
+      "title": "The Download: AI’s impact on jobs, and data centres in space",
+      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually she...",
+      "date": "2026-04-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "33c66346",
+      "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
+      "url": "https://www.qbitai.com/2026/04/397610.html",
+      "summary": "榜一大哥平均每天用掉93.6亿Token",
       "date": "2026-04-07",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -27,24 +81,6 @@
       "date": "2026-04-06",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "97d4ea33",
-      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
-      "url": "https://www.qbitai.com/2026/04/396863.html",
-      "summary": "独创“诊断-生成-校准”闭环体系",
-      "date": "2026-04-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2c2fe650",
-      "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
-      "url": "https://www.qbitai.com/2026/04/396841.html",
-      "summary": "即插即用无需重新训练",
-      "date": "2026-04-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "07695ab5",
@@ -65,15 +101,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "0807877e",
-      "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
-      "url": "https://www.qbitai.com/2026/04/396738.html",
-      "summary": "核心思路：从画大纲到扣细节",
-      "date": "2026-04-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "65edefcb",
       "title": "Industrial policy for the Intelligence Age",
       "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
@@ -81,15 +108,6 @@
       "date": "2026-04-06",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "2ba9ce0a",
-      "title": "Four things we’d need to put data centers in space",
-      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk...",
-      "date": "2026-04-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "b9151f44",
@@ -110,15 +128,6 @@
       "tag": "Google"
     },
     {
-      "id": "5a3637bd",
-      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
-      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#1...",
-      "date": "2026-04-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "b487a1bf",
       "title": "OpenAI acquires TBPN",
       "url": "https://openai.com/index/openai-acquires-tbpn",
@@ -126,15 +135,6 @@
       "date": "2026-04-02",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "9afab4be",
-      "title": "Fuel prices are soaring. Plastic could be next.",
-      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can...",
-      "date": "2026-04-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "c32a08ac",
