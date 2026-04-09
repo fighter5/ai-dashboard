@@ -1,41 +1,104 @@
 {
-  "updated": "2026-04-08 04:38",
+  "updated": "2026-04-09 04:36",
   "items": [
     {
-      "id": "b425e702",
-      "title": "Skill vs App：一场入口范式的争夺",
-      "url": "https://www.qbitai.com/2026/04/397799.html",
-      "summary": "是重构，而非杀死",
+      "id": "c5c3ec43",
+      "title": "Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻",
+      "url": "https://www.qbitai.com/2026/04/398020.html",
+      "summary": "主打原生多模态",
+      "date": "2026-04-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "33b06a63",
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "summary": "",
+      "date": "2026-04-08",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "ec6faad0",
+      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+      "url": "https://www.qbitai.com/2026/04/398001.html",
+      "summary": "最新发布AI图表智能体，可深度编辑",
       "date": "2026-04-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "4a4f5b2d",
-      "title": "DeepSeek深夜更新后自曝：我是V4（？！）",
-      "url": "https://www.qbitai.com/2026/04/397761.html",
-      "summary": "DeepSeek V4真的要来了？",
+      "id": "10e4e364",
+      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...",
+      "date": "2026-04-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "536b87e0",
+      "title": "The next phase of enterprise AI",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+      "date": "2026-04-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7017c143",
+      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increas...",
+      "date": "2026-04-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2f0b965c",
+      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
+      "url": "https://www.qbitai.com/2026/04/397951.html",
+      "summary": "2026年，是具身原生元年",
       "date": "2026-04-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2f708eec",
-      "title": "省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%",
-      "url": "https://www.qbitai.com/2026/04/397733.html",
-      "summary": "啰嗦并不总是更好",
+      "id": "3b1d7e22",
+      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+      "url": "https://www.qbitai.com/2026/04/397942.html",
+      "summary": "",
       "date": "2026-04-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "94aaf0bd",
-      "title": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
-      "url": "https://www.qbitai.com/2026/04/397710.html",
-      "summary": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
+      "id": "15832ab4",
+      "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
+      "url": "https://www.qbitai.com/2026/04/397930.html",
+      "summary": "理想首款人形机器人也要来了",
       "date": "2026-04-08",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "10e69bab",
+      "title": "Introducing the Child Safety Blueprint",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "date": "2026-04-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "36a2eccf",
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "summary": "",
+      "date": "2026-04-08",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "71bac24d",
@@ -61,33 +124,6 @@
       "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually she...",
       "date": "2026-04-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "33c66346",
-      "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
-      "url": "https://www.qbitai.com/2026/04/397610.html",
-      "summary": "榜一大哥平均每天用掉93.6亿Token",
-      "date": "2026-04-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a87d10ba",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is...",
-      "date": "2026-04-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "07695ab5",
-      "title": "AI is changing how small online sellers decide what to make",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p...",
-      "date": "2026-04-06",
       "source": "MIT Tech Review",
       "tag": "research"
     },
@@ -132,15 +168,6 @@
       "title": "OpenAI acquires TBPN",
       "url": "https://openai.com/index/openai-acquires-tbpn",
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "date": "2026-04-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c32a08ac",
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
       "date": "2026-04-02",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -191,24 +218,6 @@
       "tag": "opensource"
     },
     {
-      "id": "0f9835b1",
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-      "date": "2026-04-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7c794031",
-      "title": "Any Custom Frontend with Gradio's Backend",
-      "url": "https://huggingface.co/blog/introducing-gradio-server",
-      "summary": "",
-      "date": "2026-04-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "32a41f63",
       "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
       "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
@@ -216,15 +225,6 @@
       "date": "2026-03-31",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "c93509b5",
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "summary": "",
-      "date": "2026-03-31",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e670024b",
