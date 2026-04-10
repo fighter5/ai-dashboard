@@ -1,14 +1,113 @@
 {
-  "updated": "2026-04-09 04:36",
+  "updated": "2026-04-10 04:49",
   "items": [
     {
-      "id": "c5c3ec43",
-      "title": "Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻",
-      "url": "https://www.qbitai.com/2026/04/398020.html",
-      "summary": "主打原生多模态",
+      "id": "3b10e39c",
+      "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
+      "url": "https://www.qbitai.com/2026/04/398181.html",
+      "summary": "真正成为品牌增长的共生大脑",
+      "date": "2026-04-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a9fdea37",
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?...",
+      "date": "2026-04-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "50a626fa",
+      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+      "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
+      "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more...",
+      "date": "2026-04-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7c3b4f90",
+      "title": "Desalination technology, by the numbers",
+      "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
+      "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fres...",
+      "date": "2026-04-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "57e4c8e4",
+      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+      "url": "https://www.qbitai.com/2026/04/398157.html",
+      "summary": "据传10号正式发布",
       "date": "2026-04-09",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "5759bbb8",
+      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
+      "url": "https://www.qbitai.com/2026/04/398140.html",
+      "summary": "全球首个消费级AI Agent Harness冲上热搜",
+      "date": "2026-04-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4c4ece04",
+      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
+      "url": "https://www.qbitai.com/2026/04/398121.html",
+      "summary": "开源平替GitHub迅速揽获2.6k Star",
+      "date": "2026-04-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "585e822b",
+      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
+      "url": "https://www.qbitai.com/2026/04/398117.html",
+      "summary": "可通过OpenClaw等Agent产品一键安装",
+      "date": "2026-04-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7fc7366f",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "date": "2026-04-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "3d01d31c",
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on ...",
+      "date": "2026-04-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "cb929f08",
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "url": "https://huggingface.co/blog/waypoint-1-5",
+      "summary": "",
+      "date": "2026-04-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "aeed5283",
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "summary": "",
+      "date": "2026-04-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "33b06a63",
@@ -18,15 +117,6 @@
       "date": "2026-04-08",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "ec6faad0",
-      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
-      "url": "https://www.qbitai.com/2026/04/398001.html",
-      "summary": "最新发布AI图表智能体，可深度编辑",
-      "date": "2026-04-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "10e4e364",
@@ -56,33 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "2f0b965c",
-      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
-      "url": "https://www.qbitai.com/2026/04/397951.html",
-      "summary": "2026年，是具身原生元年",
-      "date": "2026-04-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3b1d7e22",
-      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
-      "url": "https://www.qbitai.com/2026/04/397942.html",
-      "summary": "",
-      "date": "2026-04-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "15832ab4",
-      "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
-      "url": "https://www.qbitai.com/2026/04/397930.html",
-      "summary": "理想首款人形机器人也要来了",
-      "date": "2026-04-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "10e69bab",
       "title": "Introducing the Child Safety Blueprint",
       "url": "https://openai.com/index/introducing-child-safety-blueprint",
@@ -101,46 +164,10 @@
       "tag": "opensource"
     },
     {
-      "id": "71bac24d",
-      "title": "Desalination plants in the Middle East are increasingly vulnerable",
-      "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Ir...",
-      "date": "2026-04-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1465d338",
-      "title": "Enabling agent-first process redesign",
-      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en...",
-      "date": "2026-04-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1de34e02",
-      "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually she...",
-      "date": "2026-04-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "f6c272c7",
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
       "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-      "date": "2026-04-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "65edefcb",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "date": "2026-04-06",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -164,29 +191,11 @@
       "tag": "Google"
     },
     {
-      "id": "b487a1bf",
-      "title": "OpenAI acquires TBPN",
-      "url": "https://openai.com/index/openai-acquires-tbpn",
-      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "date": "2026-04-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "a38a6a43",
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
       "url": "https://huggingface.co/blog/gemma4",
       "summary": "",
       "date": "2026-04-02",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "93167e0c",
-      "title": "Holo3: Breaking the Computer Use Frontier",
-      "url": "https://huggingface.co/blog/Hcompany/holo3",
-      "summary": "",
-      "date": "2026-04-01",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -207,15 +216,6 @@
       "date": "2026-04-01",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "a6e2823e",
-      "title": "Falcon Perception",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "summary": "",
-      "date": "2026-04-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "32a41f63",
