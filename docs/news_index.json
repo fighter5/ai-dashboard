@@ -1,14 +1,122 @@
 {
-  "updated": "2026-04-10 04:49",
+  "updated": "2026-04-11 04:24",
   "items": [
     {
-      "id": "3b10e39c",
-      "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
-      "url": "https://www.qbitai.com/2026/04/398181.html",
-      "summary": "真正成为品牌增长的共生大脑",
+      "id": "5f544ca9",
+      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+      "url": "https://www.qbitai.com/2026/04/399473.html",
+      "summary": "所幸无人受伤",
+      "date": "2026-04-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "59bb5ced",
+      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+      "url": "https://www.qbitai.com/2026/04/399417.html",
+      "summary": "10万小时数据集，00后创业灵初智能一战成名",
+      "date": "2026-04-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cb72c609",
+      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+      "url": "https://www.qbitai.com/2026/04/399393.html",
+      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力",
+      "date": "2026-04-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9067ba49",
+      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+      "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox faci...",
+      "date": "2026-04-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c06200ad",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short st...",
+      "date": "2026-04-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "869a5c5f",
+      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+      "url": "https://www.qbitai.com/2026/04/399370.html",
+      "summary": "以1334Elo评分高居榜首",
       "date": "2026-04-10",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "1b166b58",
+      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
+      "url": "https://www.qbitai.com/2026/04/399366.html",
+      "summary": "面向医生和医学生开放使用",
+      "date": "2026-04-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e3e78db8",
+      "title": "Constellations",
+      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s...",
+      "date": "2026-04-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4a866cff",
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "81ca7d11",
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
+      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "563d28f6",
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "268ae8ef",
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0ec8e2b4",
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "a9fdea37",
@@ -27,69 +135,6 @@
       "date": "2026-04-09",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "7c3b4f90",
-      "title": "Desalination technology, by the numbers",
-      "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
-      "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fres...",
-      "date": "2026-04-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "57e4c8e4",
-      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
-      "url": "https://www.qbitai.com/2026/04/398157.html",
-      "summary": "据传10号正式发布",
-      "date": "2026-04-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5759bbb8",
-      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
-      "url": "https://www.qbitai.com/2026/04/398140.html",
-      "summary": "全球首个消费级AI Agent Harness冲上热搜",
-      "date": "2026-04-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4c4ece04",
-      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
-      "url": "https://www.qbitai.com/2026/04/398121.html",
-      "summary": "开源平替GitHub迅速揽获2.6k Star",
-      "date": "2026-04-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "585e822b",
-      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
-      "url": "https://www.qbitai.com/2026/04/398117.html",
-      "summary": "可通过OpenClaw等Agent产品一键安装",
-      "date": "2026-04-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7fc7366f",
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "url": "https://openai.com/index/cyberagent",
-      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-      "date": "2026-04-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3d01d31c",
-      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on ...",
-      "date": "2026-04-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "cb929f08",
@@ -119,42 +164,6 @@
       "tag": "opensource"
     },
     {
-      "id": "10e4e364",
-      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas...",
-      "date": "2026-04-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "536b87e0",
-      "title": "The next phase of enterprise AI",
-      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
-      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-      "date": "2026-04-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7017c143",
-      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
-      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increas...",
-      "date": "2026-04-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "10e69bab",
-      "title": "Introducing the Child Safety Blueprint",
-      "url": "https://openai.com/index/introducing-child-safety-blueprint",
-      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-      "date": "2026-04-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "36a2eccf",
       "title": "Safetensors is Joining the PyTorch Foundation",
       "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
@@ -162,15 +171,6 @@
       "date": "2026-04-08",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "f6c272c7",
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-      "date": "2026-04-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "b9151f44",
