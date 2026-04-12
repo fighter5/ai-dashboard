@@ -1,6 +1,15 @@
 {
-  "updated": "2026-04-11 04:24",
+  "updated": "2026-04-12 04:48",
   "items": [
+    {
+      "id": "43a2de25",
+      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
+      "url": "https://www.qbitai.com/2026/04/399675.html",
+      "summary": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2",
+      "date": "2026-04-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "5f544ca9",
       "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
@@ -56,15 +65,6 @@
       "tag": "zh-news"
     },
     {
-      "id": "1b166b58",
-      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-      "url": "https://www.qbitai.com/2026/04/399366.html",
-      "summary": "面向医生和医学生开放使用",
-      "date": "2026-04-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e3e78db8",
       "title": "Constellations",
       "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
@@ -74,46 +74,46 @@
       "tag": "research"
     },
     {
-      "id": "4a866cff",
-      "title": "Using custom GPTs",
-      "url": "https://openai.com/academy/custom-gpts",
-      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "id": "076e1c59",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "81ca7d11",
-      "title": "ChatGPT for customer success teams",
-      "url": "https://openai.com/academy/customer-success",
-      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "id": "59af07de",
+      "title": "Brainstorming with ChatGPT",
+      "url": "https://openai.com/academy/brainstorming",
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "563d28f6",
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "id": "8e1ed481",
+      "title": "Writing with ChatGPT",
+      "url": "https://openai.com/academy/writing",
+      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "268ae8ef",
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "id": "819cd6fb",
+      "title": "ChatGPT for research",
+      "url": "https://openai.com/academy/research",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "0ec8e2b4",
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
-      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "id": "8f0a1ccc",
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
