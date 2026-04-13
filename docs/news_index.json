@@ -1,39 +1,48 @@
 {
-  "updated": "2026-04-12 04:48",
+  "updated": "2026-04-13 05:15",
   "items": [
     {
-      "id": "43a2de25",
-      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
-      "url": "https://www.qbitai.com/2026/04/399675.html",
-      "summary": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2",
-      "date": "2026-04-11",
+      "id": "8db84a38",
+      "title": "「Claude Code之父」其实是野路子来的……",
+      "url": "https://www.qbitai.com/2026/04/400306.html",
+      "summary": "一生都在试图逃离原生公司（bushi）",
+      "date": "2026-04-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "5f544ca9",
-      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
-      "url": "https://www.qbitai.com/2026/04/399473.html",
-      "summary": "所幸无人受伤",
-      "date": "2026-04-11",
+      "id": "cb3ce333",
+      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
+      "url": "https://www.qbitai.com/2026/04/400197.html",
+      "summary": "有自己的网盘和邮箱，产出还能自动归档",
+      "date": "2026-04-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "59bb5ced",
-      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-      "url": "https://www.qbitai.com/2026/04/399417.html",
-      "summary": "10万小时数据集，00后创业灵初智能一战成名",
-      "date": "2026-04-11",
+      "id": "bcdf3023",
+      "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
+      "url": "https://www.qbitai.com/2026/04/399996.html",
+      "summary": "HTML也能跑Doom游戏了？？",
+      "date": "2026-04-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "cb72c609",
-      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-      "url": "https://www.qbitai.com/2026/04/399393.html",
-      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力",
-      "date": "2026-04-11",
+      "id": "578e177c",
+      "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
+      "url": "https://www.qbitai.com/2026/04/399975.html",
+      "summary": "超声AI迈入大模型时代",
+      "date": "2026-04-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fe1390db",
+      "title": "Claude复活30年前传奇游戏，仅用一个周末",
+      "url": "https://www.qbitai.com/2026/04/399903.html",
+      "summary": "破解了作者的自定义语言",
+      "date": "2026-04-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -56,15 +65,6 @@
       "tag": "research"
     },
     {
-      "id": "869a5c5f",
-      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "url": "https://www.qbitai.com/2026/04/399370.html",
-      "summary": "以1334Elo评分高居榜首",
-      "date": "2026-04-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e3e78db8",
       "title": "Constellations",
       "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
@@ -74,46 +74,46 @@
       "tag": "research"
     },
     {
-      "id": "076e1c59",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "id": "24f471f1",
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "59af07de",
-      "title": "Brainstorming with ChatGPT",
-      "url": "https://openai.com/academy/brainstorming",
-      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "id": "901994fe",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "8e1ed481",
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
-      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "id": "8a4fd43e",
+      "title": "Our response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "819cd6fb",
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "id": "4a866cff",
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "8f0a1ccc",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "id": "0ec8e2b4",
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
