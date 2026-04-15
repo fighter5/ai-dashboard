@@ -1,95 +1,122 @@
 {
-  "updated": "2026-04-14 04:47",
+  "updated": "2026-04-15 04:47",
   "items": [
     {
-      "id": "2da14d98",
-      "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
-      "url": "https://www.qbitai.com/2026/04/401047.html",
-      "summary": "把OpenClaw装进企业机房",
+      "id": "5c72674e",
+      "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
+      "url": "https://www.qbitai.com/2026/04/401333.html",
+      "summary": "Anthropic年化收入掺水80亿",
+      "date": "2026-04-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "459633ee",
+      "title": "Redefining the future of software engineering",
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Secon...",
+      "date": "2026-04-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a7d98974",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "summary": "Video showing Skills in Chrome",
+      "date": "2026-04-14",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "a3bfedc0",
+      "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
+      "url": "https://www.qbitai.com/2026/04/401202.html",
+      "summary": "首创“养虾本”，荣耀AI PC迈入3.0时代",
       "date": "2026-04-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f0ca206a",
-      "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
-      "url": "https://www.qbitai.com/2026/04/401041.html",
-      "summary": "支持从对话直接生成、编辑Excel文件",
+      "id": "a5a09672",
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check ...",
+      "date": "2026-04-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a859eeda",
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis I...",
+      "date": "2026-04-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9d31d8ec",
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a...",
+      "date": "2026-04-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3f6d67e8",
+      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
+      "url": "https://www.qbitai.com/2026/04/401190.html",
+      "summary": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。",
       "date": "2026-04-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "444cfbde",
-      "title": "Why opinion on AI is so divided",
-      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, ...",
-      "date": "2026-04-13",
+      "id": "83de39ec",
+      "title": "The problem with thinking you’re part Neanderthal",
+      "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met member...",
+      "date": "2026-04-14",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "384794bf",
-      "title": "Want to understand the current state of AI? Check out these charts.",
-      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Instit...",
-      "date": "2026-04-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "c3d0ba01",
+      "title": "Bringing people together at AI for the Economy Forum",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+      "date": "2026-04-14",
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
-      "id": "4f4253e9",
-      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article—maybe H...",
-      "date": "2026-04-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "fd25055e",
-      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
-      "url": "https://www.qbitai.com/2026/04/401011.html",
-      "summary": "火热申报中！截至4月27日。",
-      "date": "2026-04-13",
+      "id": "01bb5a38",
+      "title": "什么Excel这函数那公式，我千问永远一步搞定",
+      "url": "https://www.qbitai.com/2026/04/401127.html",
+      "summary": "手机电脑全打通，随时随地大白话改表格",
+      "date": "2026-04-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "48766101",
-      "title": "Job titles of the future: Wildlife first responder",
-      "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
-      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven year...",
-      "date": "2026-04-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8646a0bd",
-      "title": "You have no choice in reading this article—maybe",
-      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gra...",
-      "date": "2026-04-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "98bd772b",
-      "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
-      "url": "https://www.qbitai.com/2026/04/400567.html",
-      "summary": "拿下九家全球TOP 10车企",
-      "date": "2026-04-13",
+      "id": "f8ea71b2",
+      "title": "斯坦福年度结论：中美大模型已没差距",
+      "url": "https://www.qbitai.com/2026/04/401094.html",
+      "summary": "AI普及率正在历史性加速",
+      "date": "2026-04-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "aa48b664",
-      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
-      "url": "https://www.qbitai.com/2026/04/400522.html",
-      "summary": "一月标星6.66万+",
-      "date": "2026-04-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "8ae7ef47",
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "date": "2026-04-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "cf9ab79d",
@@ -97,24 +124,6 @@
       "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
       "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "date": "2026-04-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d66239cd",
-      "title": "ChatGPT for operations teams",
-      "url": "https://openai.com/academy/operations",
-      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "date": "2026-04-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "563d28f6",
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-      "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -128,10 +137,19 @@
       "tag": "OpenAI"
     },
     {
-      "id": "59af07de",
-      "title": "Brainstorming with ChatGPT",
-      "url": "https://openai.com/academy/brainstorming",
-      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "id": "901994fe",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "076e1c59",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -205,24 +223,6 @@
       "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
       "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
       "date": "2026-04-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "c10527d0",
-      "title": "The latest AI news we announced in March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "summary": "March 2026 AI Recap showing new updates",
-      "date": "2026-04-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "32a41f63",
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "summary": "Build with Veo 3.1 Lite",
-      "date": "2026-03-31",
       "source": "Google AI Blog",
       "tag": "Google"
     },
