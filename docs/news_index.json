@@ -1,14 +1,122 @@
 {
-  "updated": "2026-04-15 04:47",
+  "updated": "2026-04-16 04:52",
   "items": [
     {
-      "id": "5c72674e",
-      "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
-      "url": "https://www.qbitai.com/2026/04/401333.html",
-      "summary": "Anthropic年化收入掺水80亿",
-      "date": "2026-04-15",
+      "id": "508e9014",
+      "title": "Claude实名认证引众怒！强制验证是为了更精准封号",
+      "url": "https://www.qbitai.com/2026/04/401655.html",
+      "summary": "Opus自己都看不下去了",
+      "date": "2026-04-16",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "27d8b986",
+      "title": "短短3个月，高德已拿下具身智能领域15项世界第一",
+      "url": "https://www.qbitai.com/2026/04/401649.html",
+      "summary": "近期将有首款四足机器人发布。",
+      "date": "2026-04-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ca4272aa",
+      "title": "我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊",
+      "url": "https://www.qbitai.com/2026/04/401553.html",
+      "summary": "服务器、数据库、域名全不用管",
+      "date": "2026-04-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ae7c1ec2",
+      "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
+      "url": "https://www.qbitai.com/2026/04/401554.html",
+      "summary": "登顶WorldArena",
+      "date": "2026-04-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4e1b3fff",
+      "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
+      "url": "https://www.qbitai.com/2026/04/401541.html",
+      "summary": "4月25日周六，不见不散！",
+      "date": "2026-04-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "08d7a646",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+      "date": "2026-04-15",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "223f0246",
+      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered...",
+      "date": "2026-04-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7bef1b60",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "summary": "",
+      "date": "2026-04-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "48e8499b",
+      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a pi...",
+      "date": "2026-04-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6682cff7",
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "date": "2026-04-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1baee0e5",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "url": "https://huggingface.co/blog/Hcompany/holotab",
+      "summary": "",
+      "date": "2026-04-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "5aee0099",
+      "title": "No one’s sure if synthetic mirror life will kill us all",
+      "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas...",
+      "date": "2026-04-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c3bd0794",
+      "title": "Building trust in the AI era with privacy-led UX",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped oppor...",
+      "date": "2026-04-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "459633ee",
@@ -29,60 +137,6 @@
       "tag": "Google"
     },
     {
-      "id": "a3bfedc0",
-      "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
-      "url": "https://www.qbitai.com/2026/04/401202.html",
-      "summary": "首创“养虾本”，荣耀AI PC迈入3.0时代",
-      "date": "2026-04-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a5a09672",
-      "title": "The Download: the state of AI, and protecting bears with drones",
-      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check ...",
-      "date": "2026-04-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a859eeda",
-      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis I...",
-      "date": "2026-04-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9d31d8ec",
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a...",
-      "date": "2026-04-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "3f6d67e8",
-      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
-      "url": "https://www.qbitai.com/2026/04/401190.html",
-      "summary": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。",
-      "date": "2026-04-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "83de39ec",
-      "title": "The problem with thinking you’re part Neanderthal",
-      "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
-      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met member...",
-      "date": "2026-04-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "c3d0ba01",
       "title": "Bringing people together at AI for the Economy Forum",
       "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
@@ -90,24 +144,6 @@
       "date": "2026-04-14",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "01bb5a38",
-      "title": "什么Excel这函数那公式，我千问永远一步搞定",
-      "url": "https://www.qbitai.com/2026/04/401127.html",
-      "summary": "手机电脑全打通，随时随地大白话改表格",
-      "date": "2026-04-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f8ea71b2",
-      "title": "斯坦福年度结论：中美大模型已没差距",
-      "url": "https://www.qbitai.com/2026/04/401094.html",
-      "summary": "AI普及率正在历史性加速",
-      "date": "2026-04-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "8ae7ef47",
@@ -128,28 +164,19 @@
       "tag": "OpenAI"
     },
     {
-      "id": "fc916fc1",
-      "title": "ChatGPT for finance teams",
-      "url": "https://openai.com/academy/finance",
-      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "id": "651182ff",
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
+      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "901994fe",
-      "title": "ChatGPT for marketing teams",
-      "url": "https://openai.com/academy/marketing",
-      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "date": "2026-04-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "076e1c59",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "id": "24f471f1",
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
       "date": "2026-04-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -169,15 +196,6 @@
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "summary": "",
       "date": "2026-04-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "33b06a63",
-      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "summary": "",
-      "date": "2026-04-08",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -205,24 +223,6 @@
       "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "summary": "Google Vids logo surrounded by various video editing UI",
       "date": "2026-04-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "a38a6a43",
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "summary": "",
-      "date": "2026-04-02",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "b242e73e",
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-      "date": "2026-04-01",
       "source": "Google AI Blog",
       "tag": "Google"
     },
