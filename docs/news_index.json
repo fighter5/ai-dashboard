@@ -1,50 +1,113 @@
 {
-  "updated": "2026-04-16 04:52",
+  "updated": "2026-04-17 04:51",
   "items": [
     {
-      "id": "508e9014",
-      "title": "Claude实名认证引众怒！强制验证是为了更精准封号",
-      "url": "https://www.qbitai.com/2026/04/401655.html",
-      "summary": "Opus自己都看不下去了",
+      "id": "35335b85",
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "summary": "AI Mode in Chrome",
       "date": "2026-04-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
-      "id": "27d8b986",
-      "title": "短短3个月，高德已拿下具身智能领域15项世界第一",
-      "url": "https://www.qbitai.com/2026/04/401649.html",
-      "summary": "近期将有首款四足机器人发布。",
+      "id": "5a44b789",
+      "title": "New ways to create personalized images in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "summary": "Example images made with Personal Intelligence",
       "date": "2026-04-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
-      "id": "ca4272aa",
-      "title": "我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊",
-      "url": "https://www.qbitai.com/2026/04/401553.html",
-      "summary": "服务器、数据库、域名全不用管",
+      "id": "e099d86f",
+      "title": "Making AI operational in constrained public sector environments",
+      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, ...",
       "date": "2026-04-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "ae7c1ec2",
-      "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
-      "url": "https://www.qbitai.com/2026/04/401554.html",
-      "summary": "登顶WorldArena",
+      "id": "0498919b",
+      "title": "Treating enterprise AI as an operating layer",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning ...",
       "date": "2026-04-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "4e1b3fff",
-      "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
-      "url": "https://www.qbitai.com/2026/04/401541.html",
-      "summary": "4月25日周六，不见不散！",
+      "id": "e7584719",
+      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+      "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with i...",
       "date": "2026-04-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2e78f094",
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ...",
+      "date": "2026-04-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "18e2fb7f",
+      "title": "The noise we make is hurting animals. Can we learn to shut up?",
+      "url": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+      "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people ...",
+      "date": "2026-04-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a0464d43",
+      "title": "Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "date": "2026-04-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b6d50c92",
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "date": "2026-04-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a14aecd4",
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "date": "2026-04-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "03222db2",
+      "title": "The PR you would have opened yourself",
+      "url": "https://huggingface.co/blog/transformers-to-mlx",
+      "summary": "",
+      "date": "2026-04-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "fbf6d8cd",
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "summary": "",
+      "date": "2026-04-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "08d7a646",
@@ -56,15 +119,6 @@
       "tag": "Google"
     },
     {
-      "id": "223f0246",
-      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
-      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered...",
-      "date": "2026-04-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "7bef1b60",
       "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
       "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
@@ -72,15 +126,6 @@
       "date": "2026-04-15",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "48e8499b",
-      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
-      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a pi...",
-      "date": "2026-04-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "6682cff7",
@@ -99,33 +144,6 @@
       "date": "2026-04-15",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "5aee0099",
-      "title": "No one’s sure if synthetic mirror life will kill us all",
-      "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
-      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas...",
-      "date": "2026-04-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c3bd0794",
-      "title": "Building trust in the AI era with privacy-led UX",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped oppor...",
-      "date": "2026-04-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "459633ee",
-      "title": "Redefining the future of software engineering",
-      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Secon...",
-      "date": "2026-04-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "a7d98974",
@@ -155,33 +173,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "cf9ab79d",
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "date": "2026-04-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "651182ff",
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
-      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "date": "2026-04-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "24f471f1",
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "date": "2026-04-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "cb929f08",
       "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
       "url": "https://huggingface.co/blog/waypoint-1-5",
@@ -189,42 +180,6 @@
       "date": "2026-04-09",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "aeed5283",
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "summary": "",
-      "date": "2026-04-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "36a2eccf",
-      "title": "Safetensors is Joining the PyTorch Foundation",
-      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "summary": "",
-      "date": "2026-04-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "b9151f44",
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "summary": "Gemini API Dials",
-      "date": "2026-04-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "aaf3d2dd",
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "summary": "Google Vids logo surrounded by various video editing UI",
-      "date": "2026-04-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e670024b",
