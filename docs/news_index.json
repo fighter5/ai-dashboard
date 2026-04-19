@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-18 04:34",
+  "updated": "2026-04-19 04:52",
   "items": [
+    {
+      "id": "5cf6ae99",
+      "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+      "url": "https://www.qbitai.com/2026/04/403210.html",
+      "summary": "万字实录在此",
+      "date": "2026-04-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3d130156",
+      "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
+      "url": "https://www.qbitai.com/2026/04/403126.html",
+      "summary": "魏建军回应“接地气”：我农民出身",
+      "date": "2026-04-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "58578ba5",
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "url": "https://www.qbitai.com/2026/04/402988.html",
+      "summary": "自然语言控制设备，零编程编排流程",
+      "date": "2026-04-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2d276ad2",
+      "title": "OpenClaw的风，已经吹进了奶茶圈",
+      "url": "https://www.qbitai.com/2026/04/402965.html",
+      "summary": "企业如何安全落地龙虾？",
+      "date": "2026-04-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "bbae9c00",
       "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
@@ -63,42 +99,6 @@
       "date": "2026-04-17",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "adcc515d",
-      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-      "url": "https://www.qbitai.com/2026/04/402440.html",
-      "summary": "算力只需200TOPS",
-      "date": "2026-04-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c4b8c5b3",
-      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
-      "url": "https://www.qbitai.com/2026/04/402388.html",
-      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手",
-      "date": "2026-04-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "eaf4610b",
-      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
-      "url": "https://www.qbitai.com/2026/04/402329.html",
-      "summary": "Gemini Robotics主打空间推理的第三代模型。",
-      "date": "2026-04-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a26abc17",
-      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
-      "url": "https://www.qbitai.com/2026/04/402189.html",
-      "summary": "π0.7：具有涌现能力的可控模型",
-      "date": "2026-04-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "35335b85",
