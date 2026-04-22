@@ -1,20 +1,110 @@
 {
-  "updated": "2026-04-21 04:49",
+  "updated": "2026-04-22 04:48",
   "items": [
     {
-      "id": "5d09a2af",
-      "title": "天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物",
-      "url": "https://www.qbitai.com/2026/04/403825.html",
-      "summary": "教育+AI引领智能时代新范式",
+      "id": "dafc4e61",
+      "title": "6分钟满电续航1500公里！宁王一夜终结加油时代",
+      "url": "https://www.qbitai.com/2026/04/404167.html",
+      "summary": "钠电池也来了",
+      "date": "2026-04-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "58c2e0e0",
+      "title": "单Agent时代结束，AI们开始组团上班",
+      "url": "https://www.qbitai.com/2026/04/404130.html",
+      "summary": "Kimi K2.6来了！",
+      "date": "2026-04-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e84c955a",
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive ...",
+      "date": "2026-04-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0dc65953",
+      "title": "The new word in home construction could be “plastics”",
+      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an id...",
+      "date": "2026-04-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4df7f721",
+      "title": "A natural protein may protect the GI tract from infection",
+      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelecti...",
+      "date": "2026-04-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3348e376",
+      "title": "This tool could show how consciousness works",
+      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias M...",
+      "date": "2026-04-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "07a913fb",
+      "title": "Early life may have breathed oxygen earlier than believed",
+      "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found eviden...",
+      "date": "2026-04-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6741483c",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+      "date": "2026-04-21",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "46a1554c",
+      "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
+      "url": "https://www.qbitai.com/2026/04/404124.html",
+      "summary": "通过将自动驾驶领域成熟的“工业化AI”打法、高效的数据飞轮与极强的工程部署能力引入具身赛道，众擎加速打造原生多模态驱动、大小脑与神经末梢协同的全集成架构。",
       "date": "2026-04-21",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d8a93848",
-      "title": "K型分化，如何破局？| 第20届中国投资年会·年度峰会即将启幕",
-      "url": "https://www.qbitai.com/2026/04/403822.html",
-      "summary": "见证行业20年的演进。",
+      "id": "534c41ab",
+      "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
+      "url": "https://www.qbitai.com/2026/04/404096.html",
+      "summary": "欢迎报名，北京线下见！",
+      "date": "2026-04-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "200ccf22",
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "summary": "",
+      "date": "2026-04-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "a64c1765",
+      "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
+      "url": "https://www.qbitai.com/2026/04/404086.html",
+      "summary": "高精渲染引擎，解决\"数据稀缺\"",
       "date": "2026-04-21",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -29,58 +119,22 @@
       "tag": "opensource"
     },
     {
-      "id": "a7590acd",
-      "title": "这次，库克真的要卸任苹果CEO了！",
-      "url": "https://www.qbitai.com/2026/04/403790.html",
-      "summary": "库克公开告别信出炉",
+      "id": "a85b09f8",
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
       "date": "2026-04-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "37d1903c",
-      "title": "跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里",
-      "url": "https://www.qbitai.com/2026/04/403777.html",
-      "summary": "重塑具身世界模型评价方式",
+      "id": "3027bbe1",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "summary": "",
       "date": "2026-04-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "625092ff",
-      "title": "继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代",
-      "url": "https://www.qbitai.com/2026/04/403751.html",
-      "summary": "把多Agent协同玩明白了",
-      "date": "2026-04-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f2c49cd5",
-      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill u...",
-      "date": "2026-04-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "33700008",
-      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of ...",
-      "date": "2026-04-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c85e7467",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier thi...",
-      "date": "2026-04-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "b0b87f1d",
@@ -92,15 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "7d6b96dd",
-      "title": "Pie Day 2026",
-      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-p...",
-      "date": "2026-04-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "6ce36f8a",
       "title": "7 ways to travel smarter this summer, with help from Google",
       "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
@@ -108,15 +153,6 @@
       "date": "2026-04-17",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "d6c4b0ae",
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal ...",
-      "date": "2026-04-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "35335b85",
@@ -182,47 +218,11 @@
       "tag": "opensource"
     },
     {
-      "id": "fbf6d8cd",
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "summary": "",
-      "date": "2026-04-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "08d7a646",
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
       "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
       "date": "2026-04-15",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "7bef1b60",
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "summary": "",
-      "date": "2026-04-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6682cff7",
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "date": "2026-04-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a7d98974",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "summary": "Video showing Skills in Chrome",
-      "date": "2026-04-14",
       "source": "Google AI Blog",
       "tag": "Google"
     },
