@@ -1,68 +1,158 @@
 {
-  "updated": "2026-04-22 04:48",
+  "updated": "2026-04-23 04:52",
   "items": [
     {
-      "id": "dafc4e61",
-      "title": "6分钟满电续航1500公里！宁王一夜终结加油时代",
-      "url": "https://www.qbitai.com/2026/04/404167.html",
-      "summary": "钠电池也来了",
+      "id": "5c6eaeb0",
+      "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
+      "url": "https://www.qbitai.com/2026/04/405325.html",
+      "summary": "这次，智平方玩了个大的",
+      "date": "2026-04-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3e3929c8",
+      "title": "挖漏洞何必Mythos，国产智能体早跑通了",
+      "url": "https://www.qbitai.com/2026/04/405299.html",
+      "summary": "360智能体已经开始批量挖洞",
+      "date": "2026-04-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "705f1985",
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "url": "https://huggingface.co/blog/nvidia/gemma4",
+      "summary": "",
+      "date": "2026-04-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "f1f0cc76",
+      "title": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9acf3aa2",
+      "title": "“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺",
+      "url": "https://www.qbitai.com/2026/04/404721.html",
+      "summary": "智能车时代的Wintel已出现",
       "date": "2026-04-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "58c2e0e0",
-      "title": "单Agent时代结束，AI们开始组团上班",
-      "url": "https://www.qbitai.com/2026/04/404130.html",
-      "summary": "Kimi K2.6来了！",
+      "id": "50196347",
+      "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+      "url": "https://www.qbitai.com/2026/04/404713.html",
+      "summary": "",
       "date": "2026-04-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e84c955a",
-      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
-      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive ...",
-      "date": "2026-04-21",
+      "id": "85469e6c",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now...",
+      "date": "2026-04-22",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "0dc65953",
-      "title": "The new word in home construction could be “plastics”",
-      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
-      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an id...",
-      "date": "2026-04-21",
+      "id": "6a159b97",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "date": "2026-04-22",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "62999b0d",
+      "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
+      "url": "https://www.qbitai.com/2026/04/404645.html",
+      "summary": "",
+      "date": "2026-04-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e48afa0a",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h...",
+      "date": "2026-04-22",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "4df7f721",
-      "title": "A natural protein may protect the GI tract from infection",
-      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
-      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelecti...",
-      "date": "2026-04-21",
+      "id": "b8951309",
+      "title": "3 things Michelle Kim is into right now",
+      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, c...",
+      "date": "2026-04-22",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "3348e376",
-      "title": "This tool could show how consciousness works",
-      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
-      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias M...",
-      "date": "2026-04-21",
+      "id": "3015e411",
+      "title": "One town’s scheme to get rid of its geese",
+      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white po...",
+      "date": "2026-04-22",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "07a913fb",
-      "title": "Early life may have breathed oxygen earlier than believed",
-      "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
-      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found eviden...",
-      "date": "2026-04-21",
+      "id": "2b392b39",
+      "title": "There is no nature anymore",
+      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard...",
+      "date": "2026-04-22",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "ff43ae6f",
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "23b8c7e1",
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "3a63ffe1",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "756db924",
+      "title": "Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "6741483c",
@@ -74,24 +164,6 @@
       "tag": "Google"
     },
     {
-      "id": "46a1554c",
-      "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
-      "url": "https://www.qbitai.com/2026/04/404124.html",
-      "summary": "通过将自动驾驶领域成熟的“工业化AI”打法、高效的数据飞轮与极强的工程部署能力引入具身赛道，众擎加速打造原生多模态驱动、大小脑与神经末梢协同的全集成架构。",
-      "date": "2026-04-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "534c41ab",
-      "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
-      "url": "https://www.qbitai.com/2026/04/404096.html",
-      "summary": "欢迎报名，北京线下见！",
-      "date": "2026-04-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "200ccf22",
       "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
       "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
@@ -101,33 +173,6 @@
       "tag": "opensource"
     },
     {
-      "id": "a64c1765",
-      "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
-      "url": "https://www.qbitai.com/2026/04/404086.html",
-      "summary": "高精渲染引擎，解决\"数据稀缺\"",
-      "date": "2026-04-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "35c281ef",
-      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-      "summary": "",
-      "date": "2026-04-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "a85b09f8",
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "date": "2026-04-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "3027bbe1",
       "title": "AI and the Future of Cybersecurity: Why Openness Matters",
       "url": "https://huggingface.co/blog/cybersecurity-openness",
@@ -135,15 +180,6 @@
       "date": "2026-04-21",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "b0b87f1d",
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-      "date": "2026-04-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "6ce36f8a",
@@ -173,33 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "a0464d43",
-      "title": "Codex for (almost) everything",
-      "url": "https://openai.com/index/codex-for-almost-everything",
-      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "date": "2026-04-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b6d50c92",
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-      "date": "2026-04-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a14aecd4",
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-      "date": "2026-04-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "b1aed3d6",
       "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
       "url": "https://huggingface.co/blog/ecom-rlve",
@@ -216,15 +225,6 @@
       "date": "2026-04-16",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "08d7a646",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-      "date": "2026-04-15",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e670024b",
