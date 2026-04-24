@@ -1,23 +1,131 @@
 {
-  "updated": "2026-04-23 04:52",
+  "updated": "2026-04-24 04:56",
   "items": [
     {
-      "id": "5c6eaeb0",
-      "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
-      "url": "https://www.qbitai.com/2026/04/405325.html",
-      "summary": "这次，智平方玩了个大的",
+      "id": "24fdeb9c",
+      "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
+      "url": "https://www.qbitai.com/2026/04/406221.html",
+      "summary": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
       "date": "2026-04-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "3e3929c8",
-      "title": "挖漏洞何必Mythos，国产智能体早跑通了",
-      "url": "https://www.qbitai.com/2026/04/405299.html",
-      "summary": "360智能体已经开始批量挖洞",
+      "id": "9e7ce14d",
+      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
+      "url": "https://www.qbitai.com/2026/04/406191.html",
+      "summary": "多维表格又升级了",
       "date": "2026-04-23",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "8ffe72fb",
+      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+      "url": "https://www.qbitai.com/2026/04/406020.html",
+      "summary": "百万Token要降到1分钱",
+      "date": "2026-04-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f10c6db6",
+      "title": "The Download: introducing the Nature issue",
+      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “...",
+      "date": "2026-04-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d281c973",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "date": "2026-04-23",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "4668d77f",
+      "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
+      "url": "https://www.qbitai.com/2026/04/406036.html",
+      "summary": "L2+上车46万辆",
+      "date": "2026-04-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3aa15380",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "date": "2026-04-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "915b6ff1",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": "",
+      "date": "2026-04-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "00dceef7",
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it mig...",
+      "date": "2026-04-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6e517fdb",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "date": "2026-04-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "fce40544",
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "date": "2026-04-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "79ea493d",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "date": "2026-04-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1c5ca882",
+      "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
+      "url": "https://www.qbitai.com/2026/04/406026.html",
+      "summary": "能参与协作与执行的超级助手",
+      "date": "2026-04-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "85f0e7dc",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "summary": "Aerial image of the data center",
+      "date": "2026-04-23",
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
       "id": "705f1985",
@@ -27,33 +135,6 @@
       "date": "2026-04-22",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "f1f0cc76",
-      "title": "Making ChatGPT better for clinicians",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
-      "date": "2026-04-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "9acf3aa2",
-      "title": "“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺",
-      "url": "https://www.qbitai.com/2026/04/404721.html",
-      "summary": "智能车时代的Wintel已出现",
-      "date": "2026-04-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "50196347",
-      "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
-      "url": "https://www.qbitai.com/2026/04/404713.html",
-      "summary": "",
-      "date": "2026-04-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "85469e6c",
@@ -74,15 +155,6 @@
       "tag": "Google"
     },
     {
-      "id": "62999b0d",
-      "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
-      "url": "https://www.qbitai.com/2026/04/404645.html",
-      "summary": "",
-      "date": "2026-04-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e48afa0a",
       "title": "AI needs a strong data fabric to deliver business value",
       "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
@@ -99,60 +171,6 @@
       "date": "2026-04-22",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "3015e411",
-      "title": "One town’s scheme to get rid of its geese",
-      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
-      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white po...",
-      "date": "2026-04-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2b392b39",
-      "title": "There is no nature anymore",
-      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard...",
-      "date": "2026-04-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ff43ae6f",
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-      "date": "2026-04-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "23b8c7e1",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "date": "2026-04-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3a63ffe1",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "date": "2026-04-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "756db924",
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-      "date": "2026-04-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "6741483c",
@@ -187,24 +205,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
       "date": "2026-04-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "35335b85",
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "summary": "AI Mode in Chrome",
-      "date": "2026-04-16",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "5a44b789",
-      "title": "New ways to create personalized images in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "summary": "Example images made with Personal Intelligence",
-      "date": "2026-04-16",
       "source": "Google AI Blog",
       "tag": "Google"
     },
