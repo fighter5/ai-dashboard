@@ -1,32 +1,95 @@
 {
-  "updated": "2026-04-24 04:56",
+  "updated": "2026-04-25 04:37",
   "items": [
     {
-      "id": "24fdeb9c",
-      "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
-      "url": "https://www.qbitai.com/2026/04/406221.html",
-      "summary": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
-      "date": "2026-04-23",
+      "id": "c9c41a6f",
+      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+      "url": "https://www.qbitai.com/2026/04/406892.html",
+      "summary": "三作者如今齐聚Mira初创",
+      "date": "2026-04-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9e7ce14d",
-      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
-      "url": "https://www.qbitai.com/2026/04/406191.html",
-      "summary": "多维表格又升级了",
-      "date": "2026-04-23",
+      "id": "d061750c",
+      "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+      "url": "https://www.qbitai.com/2026/04/406809.html",
+      "summary": "mHC用了，Engram留给v5",
+      "date": "2026-04-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8ffe72fb",
-      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
-      "url": "https://www.qbitai.com/2026/04/406020.html",
-      "summary": "百万Token要降到1分钱",
-      "date": "2026-04-23",
+      "id": "f01b2e7a",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t...",
+      "date": "2026-04-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0edf8674",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+      "date": "2026-04-24",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "292e0d01",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT...",
+      "date": "2026-04-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "12a8fff1",
+      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+      "url": "https://www.qbitai.com/2026/04/406806.html",
+      "summary": "",
+      "date": "2026-04-24",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "f0624982",
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "url": "https://www.qbitai.com/2026/04/406802.html",
+      "summary": "",
+      "date": "2026-04-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "00c7496e",
+      "title": "DeepSeek-V4发布，华为云首发适配",
+      "url": "https://www.qbitai.com/2026/04/406791.html",
+      "summary": "",
+      "date": "2026-04-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e34779fe",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient rec...",
+      "date": "2026-04-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "807d3648",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "summary": "",
+      "date": "2026-04-24",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "f10c6db6",
@@ -45,15 +108,6 @@
       "date": "2026-04-23",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "4668d77f",
-      "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
-      "url": "https://www.qbitai.com/2026/04/406036.html",
-      "summary": "L2+上车46万辆",
-      "date": "2026-04-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "3aa15380",
@@ -110,15 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "1c5ca882",
-      "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
-      "url": "https://www.qbitai.com/2026/04/406026.html",
-      "summary": "能参与协作与执行的超级助手",
-      "date": "2026-04-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "85f0e7dc",
       "title": "Elevating Austria: Google invests in its first data center in the Alps.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
@@ -126,6 +171,15 @@
       "date": "2026-04-23",
       "source": "Google AI Blog",
       "tag": "Google"
+    },
+    {
+      "id": "66bd8767",
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "summary": "",
+      "date": "2026-04-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "705f1985",
@@ -137,15 +191,6 @@
       "tag": "opensource"
     },
     {
-      "id": "85469e6c",
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now...",
-      "date": "2026-04-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "6a159b97",
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
@@ -153,24 +198,6 @@
       "date": "2026-04-22",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "e48afa0a",
-      "title": "AI needs a strong data fabric to deliver business value",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h...",
-      "date": "2026-04-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b8951309",
-      "title": "3 things Michelle Kim is into right now",
-      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, c...",
-      "date": "2026-04-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "6741483c",
@@ -196,33 +223,6 @@
       "url": "https://huggingface.co/blog/cybersecurity-openness",
       "summary": "",
       "date": "2026-04-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6ce36f8a",
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "date": "2026-04-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "b1aed3d6",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "url": "https://huggingface.co/blog/ecom-rlve",
-      "summary": "",
-      "date": "2026-04-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "03222db2",
-      "title": "The PR you would have opened yourself",
-      "url": "https://huggingface.co/blog/transformers-to-mlx",
-      "summary": "",
-      "date": "2026-04-16",
       "source": "Hugging Face",
       "tag": "opensource"
     },
