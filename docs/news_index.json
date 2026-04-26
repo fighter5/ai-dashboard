@@ -1,20 +1,47 @@
 {
-  "updated": "2026-04-25 04:37",
+  "updated": "2026-04-26 05:13",
   "items": [
     {
-      "id": "c9c41a6f",
-      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
-      "url": "https://www.qbitai.com/2026/04/406892.html",
-      "summary": "三作者如今齐聚Mira初创",
+      "id": "38dcbaab",
+      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+      "url": "https://www.qbitai.com/2026/04/407465.html",
+      "summary": "V4作者之一",
+      "date": "2026-04-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "47f8d33a",
+      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+      "url": "https://www.qbitai.com/2026/04/407363.html",
+      "summary": "“为自动驾驶而来”",
       "date": "2026-04-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d061750c",
-      "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
-      "url": "https://www.qbitai.com/2026/04/406809.html",
-      "summary": "mHC用了，Engram留给v5",
+      "id": "f5b5fa47",
+      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+      "url": "https://www.qbitai.com/2026/04/407026.html",
+      "summary": "500TOPS上车世界模型",
+      "date": "2026-04-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0de86273",
+      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+      "url": "https://www.qbitai.com/2026/04/406994.html",
+      "summary": "一家低调的视觉大模型公司，浮出水面",
+      "date": "2026-04-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0f5fa1c0",
+      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+      "url": "https://www.qbitai.com/2026/04/406973.html",
+      "summary": "首次公开三大AI应用生态",
       "date": "2026-04-25",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -45,33 +72,6 @@
       "date": "2026-04-24",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "12a8fff1",
-      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
-      "url": "https://www.qbitai.com/2026/04/406806.html",
-      "summary": "",
-      "date": "2026-04-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f0624982",
-      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
-      "url": "https://www.qbitai.com/2026/04/406802.html",
-      "summary": "",
-      "date": "2026-04-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "00c7496e",
-      "title": "DeepSeek-V4发布，华为云首发适配",
-      "url": "https://www.qbitai.com/2026/04/406791.html",
-      "summary": "",
-      "date": "2026-04-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "e34779fe",
