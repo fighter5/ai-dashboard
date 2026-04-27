@@ -1,50 +1,59 @@
 {
-  "updated": "2026-04-26 05:13",
+  "updated": "2026-04-27 05:26",
   "items": [
     {
-      "id": "38dcbaab",
-      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
-      "url": "https://www.qbitai.com/2026/04/407465.html",
-      "summary": "V4作者之一",
+      "id": "29da28d2",
+      "title": "未来 从此领程：广汽领程2026北京车展全球发布会圆满举行",
+      "url": "https://www.qbitai.com/2026/04/407832.html",
+      "summary": "两大商用车品牌启幕",
+      "date": "2026-04-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ea785e7f",
+      "title": "DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%",
+      "url": "https://www.qbitai.com/2026/04/407850.html",
+      "summary": "5块钱干完30块的活",
+      "date": "2026-04-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f4bdc6cb",
+      "title": "全球市场没有标准答案？长城欧拉5给出多动力解法，限时换新价6.98万起",
+      "url": "https://www.qbitai.com/2026/04/407722.html",
+      "summary": "创吉尼斯世界纪录",
+      "date": "2026-04-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d102e18e",
+      "title": "诠释契约的力量，长城汽车全明星阵容登陆2026北京车展",
+      "url": "https://www.qbitai.com/2026/04/407705.html",
+      "summary": "60辆展车重磅亮相",
+      "date": "2026-04-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0db8de13",
+      "title": "硅谷5月将迎“Science for AI”峰会，全球科学界及企业界“最强大脑”首次线下集结",
+      "url": "https://www.qbitai.com/2026/04/407707.html",
+      "summary": "由陶哲轩联合多位诺奖、图灵奖得主共同创立",
+      "date": "2026-04-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1ba739b0",
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
       "date": "2026-04-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "47f8d33a",
-      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
-      "url": "https://www.qbitai.com/2026/04/407363.html",
-      "summary": "“为自动驾驶而来”",
-      "date": "2026-04-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f5b5fa47",
-      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
-      "url": "https://www.qbitai.com/2026/04/407026.html",
-      "summary": "500TOPS上车世界模型",
-      "date": "2026-04-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0de86273",
-      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
-      "url": "https://www.qbitai.com/2026/04/406994.html",
-      "summary": "一家低调的视觉大模型公司，浮出水面",
-      "date": "2026-04-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0f5fa1c0",
-      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
-      "url": "https://www.qbitai.com/2026/04/406973.html",
-      "summary": "首次公开三大AI应用生态",
-      "date": "2026-04-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "f01b2e7a",
@@ -110,19 +119,19 @@
       "tag": "Google"
     },
     {
-      "id": "3aa15380",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "id": "915b6ff1",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": "",
       "date": "2026-04-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "915b6ff1",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "summary": "",
+      "id": "3aa15380",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
       "date": "2026-04-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -146,19 +155,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "fce40544",
-      "title": "Top 10 uses for Codex at work",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "date": "2026-04-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "79ea493d",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "id": "afb218f7",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
       "date": "2026-04-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
