@@ -1,50 +1,149 @@
 {
-  "updated": "2026-04-27 05:26",
+  "updated": "2026-04-28 05:32",
   "items": [
     {
-      "id": "29da28d2",
-      "title": "未来 从此领程：广汽领程2026北京车展全球发布会圆满举行",
-      "url": "https://www.qbitai.com/2026/04/407832.html",
-      "summary": "两大商用车品牌启幕",
-      "date": "2026-04-27",
+      "id": "77a97843",
+      "title": "当200位具身从业者被拉进同一个屋子",
+      "url": "https://www.qbitai.com/2026/04/409670.html",
+      "summary": "做具身别着急“堆数据”，先想透这些问题",
+      "date": "2026-04-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ea785e7f",
-      "title": "DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%",
-      "url": "https://www.qbitai.com/2026/04/407850.html",
-      "summary": "5块钱干完30块的活",
-      "date": "2026-04-27",
+      "id": "e6edc63e",
+      "title": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
+      "url": "https://www.qbitai.com/2026/04/409665.html",
+      "summary": "“AI三引擎”协同发力",
+      "date": "2026-04-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f4bdc6cb",
-      "title": "全球市场没有标准答案？长城欧拉5给出多动力解法，限时换新价6.98万起",
-      "url": "https://www.qbitai.com/2026/04/407722.html",
-      "summary": "创吉尼斯世界纪录",
-      "date": "2026-04-27",
+      "id": "6bf96ce9",
+      "title": "做了10年Robotaxi，小马智行首次入局RoboVan",
+      "url": "https://www.qbitai.com/2026/04/409648.html",
+      "summary": "楼教主：AI下一步发展，有这两个方向",
+      "date": "2026-04-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d102e18e",
-      "title": "诠释契约的力量，长城汽车全明星阵容登陆2026北京车展",
-      "url": "https://www.qbitai.com/2026/04/407705.html",
-      "summary": "60辆展车重磅亮相",
-      "date": "2026-04-27",
+      "id": "eecbfc1c",
+      "title": "3个月手搓Gamma架构，这个团队打造出了场景白盒化推理的“下一代内容OS”",
+      "url": "https://www.qbitai.com/2026/04/409561.html",
+      "summary": "下一代内容OS来了",
+      "date": "2026-04-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0db8de13",
-      "title": "硅谷5月将迎“Science for AI”峰会，全球科学界及企业界“最强大脑”首次线下集结",
-      "url": "https://www.qbitai.com/2026/04/407707.html",
-      "summary": "由陶哲轩联合多位诺奖、图灵奖得主共同创立",
-      "date": "2026-04-27",
+      "id": "8cd24346",
+      "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
+      "url": "https://www.qbitai.com/2026/04/409550.html",
+      "summary": "舱驾一体解决方案不会抢市场",
+      "date": "2026-04-28",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "c1219940",
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "summary": "",
+      "date": "2026-04-28",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "370be149",
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici...",
+      "date": "2026-04-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c4880d92",
+      "title": "The missing step between hype and profit",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London...",
+      "date": "2026-04-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6240d320",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a47d3e3f",
+      "title": "Rebuilding the data stack for AI",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ...",
+      "date": "2026-04-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "29488e13",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "summary": "A web next to a laptop",
+      "date": "2026-04-27",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "cbbc45a7",
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On ...",
+      "date": "2026-04-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "cb70df53",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6cf5cb12",
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "329b8042",
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "100e8902",
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "summary": "",
+      "date": "2026-04-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "1ba739b0",
@@ -59,7 +158,7 @@
       "id": "f01b2e7a",
       "title": "Three reasons why DeepSeek’s new model matters",
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t...",
+      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that hel...",
       "date": "2026-04-24",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -74,24 +173,6 @@
       "tag": "Google"
     },
     {
-      "id": "292e0d01",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT...",
-      "date": "2026-04-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e34779fe",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient rec...",
-      "date": "2026-04-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "807d3648",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
@@ -101,15 +182,6 @@
       "tag": "opensource"
     },
     {
-      "id": "f10c6db6",
-      "title": "The Download: introducing the Nature issue",
-      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “...",
-      "date": "2026-04-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "d281c973",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
@@ -117,51 +189,6 @@
       "date": "2026-04-23",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "915b6ff1",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "summary": "",
-      "date": "2026-04-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3aa15380",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "date": "2026-04-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "00dceef7",
-      "title": "Will fusion power get cheap? Don’t count on it.",
-      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
-      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it mig...",
-      "date": "2026-04-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6e517fdb",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "date": "2026-04-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "afb218f7",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "date": "2026-04-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "85f0e7dc",
@@ -182,15 +209,6 @@
       "tag": "opensource"
     },
     {
-      "id": "705f1985",
-      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-      "url": "https://huggingface.co/blog/nvidia/gemma4",
-      "summary": "",
-      "date": "2026-04-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "6a159b97",
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
@@ -200,27 +218,9 @@
       "tag": "Google"
     },
     {
-      "id": "6741483c",
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-      "date": "2026-04-21",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "200ccf22",
       "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
       "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "summary": "",
-      "date": "2026-04-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "3027bbe1",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
       "summary": "",
       "date": "2026-04-21",
       "source": "Hugging Face",
