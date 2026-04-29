@@ -1,59 +1,95 @@
 {
-  "updated": "2026-04-28 05:32",
+  "updated": "2026-04-29 05:28",
   "items": [
     {
-      "id": "77a97843",
-      "title": "当200位具身从业者被拉进同一个屋子",
-      "url": "https://www.qbitai.com/2026/04/409670.html",
-      "summary": "做具身别着急“堆数据”，先想透这些问题",
-      "date": "2026-04-28",
+      "id": "35cecc23",
+      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+      "url": "https://www.qbitai.com/2026/04/410937.html",
+      "summary": "全网开源，即刻可用",
+      "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e6edc63e",
-      "title": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
-      "url": "https://www.qbitai.com/2026/04/409665.html",
-      "summary": "“AI三引擎”协同发力",
-      "date": "2026-04-28",
+      "id": "0cc37918",
+      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+      "url": "https://www.qbitai.com/2026/04/410791.html",
+      "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+      "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6bf96ce9",
-      "title": "做了10年Robotaxi，小马智行首次入局RoboVan",
-      "url": "https://www.qbitai.com/2026/04/409648.html",
-      "summary": "楼教主：AI下一步发展，有这两个方向",
-      "date": "2026-04-28",
+      "id": "f15f00b3",
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+      "url": "https://www.qbitai.com/2026/04/410738.html",
+      "summary": "十分钟干完一周活",
+      "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "eecbfc1c",
-      "title": "3个月手搓Gamma架构，这个团队打造出了场景白盒化推理的“下一代内容OS”",
-      "url": "https://www.qbitai.com/2026/04/409561.html",
-      "summary": "下一代内容OS来了",
-      "date": "2026-04-28",
+      "id": "84af30a0",
+      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+      "url": "https://www.qbitai.com/2026/04/410772.html",
+      "summary": "GPT-5.5马上也能用了",
+      "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8cd24346",
-      "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
-      "url": "https://www.qbitai.com/2026/04/409550.html",
-      "summary": "舱驾一体解决方案不会抢市场",
-      "date": "2026-04-28",
+      "id": "8190b575",
+      "title": "吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”",
+      "url": "https://www.qbitai.com/2026/04/410732.html",
+      "summary": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景",
+      "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c1219940",
-      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "id": "6d3470cf",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+      "date": "2026-04-28",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "3fabcf99",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "summary": "",
       "date": "2026-04-28",
       "source": "Hugging Face",
       "tag": "opensource"
+    },
+    {
+      "id": "22a88b7f",
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over O...",
+      "date": "2026-04-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d0682fe0",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "date": "2026-04-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1dc472c1",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "date": "2026-04-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "370be149",
@@ -128,15 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "329b8042",
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "date": "2026-04-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "100e8902",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
@@ -144,24 +171,6 @@
       "date": "2026-04-27",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "1ba739b0",
-      "title": "Our principles",
-      "url": "https://openai.com/index/our-principles",
-      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "date": "2026-04-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f01b2e7a",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that hel...",
-      "date": "2026-04-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "0edf8674",
@@ -207,15 +216,6 @@
       "date": "2026-04-23",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "6a159b97",
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "date": "2026-04-22",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "200ccf22",
