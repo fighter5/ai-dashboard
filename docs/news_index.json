@@ -1,50 +1,122 @@
 {
-  "updated": "2026-04-29 05:28",
+  "updated": "2026-04-30 05:32",
   "items": [
     {
-      "id": "35cecc23",
-      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
-      "url": "https://www.qbitai.com/2026/04/410937.html",
-      "summary": "全网开源，即刻可用",
+      "id": "529059d3",
+      "title": "钉钉“听劝”推出充电宝版录音卡，可连续录音180小时",
+      "url": "https://www.qbitai.com/2026/04/411600.html",
+      "summary": "半年不充电也能正常待机使用",
+      "date": "2026-04-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dd496f02",
+      "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+      "url": "https://www.qbitai.com/2026/04/411336.html",
+      "summary": "做视频，顺便把具身智能的活也干了。",
+      "date": "2026-04-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5425e3ec",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "date": "2026-04-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "33ea9610",
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "summary": "",
+      "date": "2026-04-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "59ef3aa9",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "summary": "",
+      "date": "2026-04-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8740c494",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "date": "2026-04-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f6e9fc2a",
+      "title": "The Download: storing nuclear waste and orchestrating agents",
+      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, ...",
+      "date": "2026-04-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "18ef6feb",
+      "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+      "url": "https://www.qbitai.com/2026/04/411205.html",
+      "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
       "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0cc37918",
-      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
-      "url": "https://www.qbitai.com/2026/04/410791.html",
-      "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+      "id": "66325728",
+      "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
+      "url": "https://www.qbitai.com/2026/04/411184.html",
+      "summary": "",
       "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f15f00b3",
-      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
-      "url": "https://www.qbitai.com/2026/04/410738.html",
-      "summary": "十分钟干完一周活",
+      "id": "7b6b2566",
+      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+      "url": "https://www.qbitai.com/2026/04/411186.html",
+      "summary": "无需联网，下载即可直接在手机本地运行",
       "date": "2026-04-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "84af30a0",
-      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
-      "url": "https://www.qbitai.com/2026/04/410772.html",
-      "summary": "GPT-5.5马上也能用了",
+      "id": "60838243",
+      "title": "It’s time to make a plan for nuclear waste",
+      "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+      "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a re...",
       "date": "2026-04-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "8190b575",
-      "title": "吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”",
-      "url": "https://www.qbitai.com/2026/04/410732.html",
-      "summary": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景",
+      "id": "ad57812b",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
       "date": "2026-04-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f6674537",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "summary": "",
+      "date": "2026-04-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "6d3470cf",
@@ -110,24 +182,6 @@
       "tag": "research"
     },
     {
-      "id": "6240d320",
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "date": "2026-04-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a47d3e3f",
-      "title": "Rebuilding the data stack for AI",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ...",
-      "date": "2026-04-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "29488e13",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
@@ -135,33 +189,6 @@
       "date": "2026-04-27",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "cbbc45a7",
-      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
-      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On ...",
-      "date": "2026-04-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "cb70df53",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "date": "2026-04-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6cf5cb12",
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "date": "2026-04-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "100e8902",
@@ -182,15 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "807d3648",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "summary": "",
-      "date": "2026-04-24",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "d281c973",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
@@ -207,24 +225,6 @@
       "date": "2026-04-23",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "66bd8767",
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "summary": "",
-      "date": "2026-04-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "200ccf22",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "summary": "",
-      "date": "2026-04-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e670024b",
