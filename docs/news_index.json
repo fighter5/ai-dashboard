@@ -1,75 +1,93 @@
 {
-  "updated": "2026-05-01 05:43",
+  "updated": "2026-05-02 05:12",
   "items": [
     {
-      "id": "3d553336",
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones...",
-      "date": "2026-04-30",
+      "id": "573e886a",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://www.qbitai.com/2026/05/412713.html",
+      "summary": "",
+      "date": "2026-05-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "572f1821",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h...",
+      "date": "2026-05-01",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "9ec0466f",
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo...",
-      "date": "2026-04-30",
+      "id": "6100f497",
+      "title": "Cyber-Insecurity in the AI Era",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s...",
+      "date": "2026-05-01",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "99c79c91",
-      "title": "The Download: the North Pole’s future and humanoid data",
-      "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole’s past In t...",
-      "date": "2026-04-30",
+      "id": "279ca32d",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight...",
+      "date": "2026-05-01",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "e464359e",
-      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
-      "url": "https://www.qbitai.com/2026/04/412041.html",
-      "summary": "牵引中国汽车“走出去”、“走上去”",
-      "date": "2026-04-30",
+      "id": "f147dc6d",
+      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+      "url": "https://www.qbitai.com/2026/05/412696.html",
+      "summary": "基于全栈国产化软硬件生态打造",
+      "date": "2026-05-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "cf37e917",
-      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
-      "url": "https://www.qbitai.com/2026/04/412021.html",
-      "summary": "42.8万元起售",
-      "date": "2026-04-30",
+      "id": "54f9e175",
+      "title": "他用AI办了个音乐节，主题：别读博",
+      "url": "https://www.qbitai.com/2026/05/412597.html",
+      "summary": "一代科研人的赛博苦中作乐",
+      "date": "2026-05-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e0457752",
-      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-      "url": "https://www.qbitai.com/2026/04/412018.html",
-      "summary": "Stripe推出由 Link 驱动的智能体钱包",
-      "date": "2026-04-30",
+      "id": "51238cf7",
+      "title": "The Download: a new Christian phone network, and debugging LLMs",
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to bloc...",
+      "date": "2026-05-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c6c434fb",
+      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+      "url": "https://www.qbitai.com/2026/05/412585.html",
+      "summary": "都是Prefill的锅",
+      "date": "2026-05-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "45b37755",
-      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-      "url": "https://www.qbitai.com/2026/04/412015.html",
-      "summary": "从算力时代到智能时代，三大结构性变化",
-      "date": "2026-04-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "889806c7",
+      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical mi...",
+      "date": "2026-05-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "34a5ce25",
-      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
-      "url": "https://www.qbitai.com/2026/04/411963.html",
-      "summary": "三大技术尖点+五大全面引领",
-      "date": "2026-04-30",
+      "id": "69380579",
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412577.html",
+      "summary": "真机部署“零微调”",
+      "date": "2026-05-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -119,24 +137,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "f6e9fc2a",
-      "title": "The Download: storing nuclear waste and orchestrating agents",
-      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, ...",
-      "date": "2026-04-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "60838243",
-      "title": "It’s time to make a plan for nuclear waste",
-      "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
-      "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a re...",
-      "date": "2026-04-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "ad57812b",
       "title": "Cybersecurity in the Intelligence Age",
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
@@ -173,10 +173,10 @@
       "tag": "opensource"
     },
     {
-      "id": "d0682fe0",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "id": "1dc472c1",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
       "date": "2026-04-28",
       "source": "OpenAI News",
       "tag": "OpenAI"
