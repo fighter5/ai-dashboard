@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-02 05:12",
+  "updated": "2026-05-03 05:32",
   "items": [
+    {
+      "id": "fdcda74e",
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "summary": "与全球社区共同推动具身智能创新",
+      "date": "2026-05-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "62d5832a",
+      "title": "DeepSeek V4最大的遗憾",
+      "url": "https://www.qbitai.com/2026/05/412737.html",
+      "summary": "Engram去哪了？",
+      "date": "2026-05-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "573e886a",
       "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
@@ -65,15 +83,6 @@
       "tag": "research"
     },
     {
-      "id": "c6c434fb",
-      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
-      "url": "https://www.qbitai.com/2026/05/412585.html",
-      "summary": "都是Prefill的锅",
-      "date": "2026-05-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "889806c7",
       "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
       "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
@@ -81,15 +90,6 @@
       "date": "2026-05-01",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "69380579",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412577.html",
-      "summary": "真机部署“零微调”",
-      "date": "2026-05-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "7ec2acda",
