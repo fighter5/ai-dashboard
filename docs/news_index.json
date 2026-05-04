@@ -1,33 +1,6 @@
 {
-  "updated": "2026-05-03 05:32",
+  "updated": "2026-05-04 05:43",
   "items": [
-    {
-      "id": "fdcda74e",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412870.html",
-      "summary": "与全球社区共同推动具身智能创新",
-      "date": "2026-05-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "62d5832a",
-      "title": "DeepSeek V4最大的遗憾",
-      "url": "https://www.qbitai.com/2026/05/412737.html",
-      "summary": "Engram去哪了？",
-      "date": "2026-05-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "573e886a",
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "url": "https://www.qbitai.com/2026/05/412713.html",
-      "summary": "",
-      "date": "2026-05-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
     {
       "id": "572f1821",
       "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
@@ -54,24 +27,6 @@
       "date": "2026-05-01",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "f147dc6d",
-      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
-      "url": "https://www.qbitai.com/2026/05/412696.html",
-      "summary": "基于全栈国产化软硬件生态打造",
-      "date": "2026-05-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "54f9e175",
-      "title": "他用AI办了个音乐节，主题：别读博",
-      "url": "https://www.qbitai.com/2026/05/412597.html",
-      "summary": "一代科研人的赛博苦中作乐",
-      "date": "2026-05-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "51238cf7",
