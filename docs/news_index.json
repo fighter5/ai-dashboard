@@ -1,6 +1,105 @@
 {
-  "updated": "2026-05-04 05:43",
+  "updated": "2026-05-05 05:16",
   "items": [
+    {
+      "id": "c41f5455",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "date": "2026-05-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "d6be253d",
+      "title": "The latest AI news we announced in April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+      "date": "2026-05-04",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "dcf34125",
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon...",
+      "date": "2026-05-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "79cb2cae",
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "summary": "Gemini API",
+      "date": "2026-05-04",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "0ca39b12",
+      "title": "Tailoring AI solutions for health care needs",
+      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of carin...",
+      "date": "2026-05-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a6e365ea",
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "url": "https://www.qbitai.com/2026/05/412914.html",
+      "summary": "专门针对DeepSeek优化",
+      "date": "2026-05-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1116fa5b",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "date": "2026-05-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b79d29ec",
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "url": "https://www.qbitai.com/2026/05/412080.html",
+      "summary": "瓜多到吃不完",
+      "date": "2026-05-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1d43b720",
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "url": "https://www.qbitai.com/2026/05/412896.html",
+      "summary": "完全无需互联网数据",
+      "date": "2026-05-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fdcda74e",
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "summary": "与全球社区共同推动具身智能创新",
+      "date": "2026-05-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "62d5832a",
+      "title": "DeepSeek V4最大的遗憾",
+      "url": "https://www.qbitai.com/2026/05/412737.html",
+      "summary": "Engram去哪了？",
+      "date": "2026-05-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "572f1821",
       "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
@@ -24,24 +123,6 @@
       "title": "Operationalizing AI for Scale and Sovereignty",
       "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
       "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight...",
-      "date": "2026-05-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "51238cf7",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to bloc...",
-      "date": "2026-05-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "889806c7",
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical mi...",
       "date": "2026-05-01",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -92,15 +173,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ad57812b",
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "date": "2026-04-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "f6674537",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "url": "https://huggingface.co/blog/inference-providers-deepinfra",
@@ -128,15 +200,6 @@
       "tag": "opensource"
     },
     {
-      "id": "1dc472c1",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "date": "2026-04-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "29488e13",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
@@ -160,24 +223,6 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
       "date": "2026-04-24",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "d281c973",
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "date": "2026-04-23",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "85f0e7dc",
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "summary": "Aerial image of the data center",
-      "date": "2026-04-23",
       "source": "Google AI Blog",
       "tag": "Google"
     },
