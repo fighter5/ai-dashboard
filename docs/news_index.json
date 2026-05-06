@@ -1,6 +1,96 @@
 {
-  "updated": "2026-05-05 05:16",
+  "updated": "2026-05-06 05:31",
   "items": [
+    {
+      "id": "9d520b5b",
+      "title": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开",
+      "url": "https://www.qbitai.com/2026/05/413164.html",
+      "summary": "",
+      "date": "2026-05-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1cca08f1",
+      "title": "AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能",
+      "url": "https://www.qbitai.com/2026/05/413154.html",
+      "summary": "",
+      "date": "2026-05-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1833e58b",
+      "title": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」",
+      "url": "https://www.qbitai.com/2026/05/413022.html",
+      "summary": "马斯克胜诉概率应声下降",
+      "date": "2026-05-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8dfae29b",
+      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+      "url": "https://www.qbitai.com/2026/05/412995.html",
+      "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+      "date": "2026-05-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5f907f4d",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "date": "2026-05-05",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "798ce4a3",
+      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was ...",
+      "date": "2026-05-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2fd4f4a9",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "summary": "",
+      "date": "2026-05-05",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "05d3c5cd",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "date": "2026-05-05",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c9dd6bc7",
+      "title": "A blueprint for using AI to strengthen democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr...",
+      "date": "2026-05-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3938b1e2",
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "date": "2026-05-05",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "c41f5455",
       "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
@@ -65,42 +155,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "b79d29ec",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "url": "https://www.qbitai.com/2026/05/412080.html",
-      "summary": "瓜多到吃不完",
-      "date": "2026-05-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1d43b720",
-      "title": "不好！1930年的AI都来抢程序员饭碗了",
-      "url": "https://www.qbitai.com/2026/05/412896.html",
-      "summary": "完全无需互联网数据",
-      "date": "2026-05-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "fdcda74e",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412870.html",
-      "summary": "与全球社区共同推动具身智能创新",
-      "date": "2026-05-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "62d5832a",
-      "title": "DeepSeek V4最大的遗憾",
-      "url": "https://www.qbitai.com/2026/05/412737.html",
-      "summary": "Engram去哪了？",
-      "date": "2026-05-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "572f1821",
       "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
       "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
@@ -110,51 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "6100f497",
-      "title": "Cyber-Insecurity in the AI Era",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s...",
-      "date": "2026-05-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "279ca32d",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight...",
-      "date": "2026-05-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7ec2acda",
-      "title": "Introducing Advanced Account Security",
-      "url": "https://openai.com/index/advanced-account-security",
-      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-      "date": "2026-04-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5425e3ec",
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from",
-      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-      "date": "2026-04-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "33ea9610",
-      "title": "AI evals are becoming the new compute bottleneck",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "summary": "",
-      "date": "2026-04-29",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "59ef3aa9",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
@@ -162,15 +171,6 @@
       "date": "2026-04-29",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "8740c494",
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "date": "2026-04-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "f6674537",
@@ -218,13 +218,13 @@
       "tag": "opensource"
     },
     {
-      "id": "0edf8674",
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+      "id": "807d3648",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "summary": "",
       "date": "2026-04-24",
-      "source": "Google AI Blog",
-      "tag": "Google"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "e670024b",
