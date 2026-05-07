@@ -1,41 +1,122 @@
 {
-  "updated": "2026-05-06 05:31",
+  "updated": "2026-05-07 05:33",
   "items": [
     {
-      "id": "9d520b5b",
-      "title": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开",
-      "url": "https://www.qbitai.com/2026/05/413164.html",
+      "id": "0480f712",
+      "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
+      "url": "https://www.qbitai.com/2026/05/413591.html",
+      "summary": "中国大模型的共同依赖",
+      "date": "2026-05-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "32b80d68",
+      "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
+      "url": "https://www.qbitai.com/2026/05/413569.html",
+      "summary": "Claude用户（仅限付费用户）一觉醒来，发现限额翻倍，速度还变快了",
+      "date": "2026-05-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "11e756df",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "summary": "",
       "date": "2026-05-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "5329de4b",
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifyi...",
+      "date": "2026-05-06",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "5e162e5f",
+      "title": "The Download: seafloor science and military chatbots",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could st...",
+      "date": "2026-05-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "52409a59",
+      "title": "AI PPT，这次是真不用返工了",
+      "url": "https://www.qbitai.com/2026/05/413296.html",
+      "summary": "实测讯飞智文Vision Agent",
+      "date": "2026-05-06",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "1cca08f1",
-      "title": "AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能",
-      "url": "https://www.qbitai.com/2026/05/413154.html",
+      "id": "03f6d8d6",
+      "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+      "url": "https://www.qbitai.com/2026/05/413264.html",
+      "summary": "40小时干完广告公司一年的活",
+      "date": "2026-05-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6de733ca",
+      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+      "url": "https://www.qbitai.com/2026/05/413265.html",
+      "summary": "还反向挑出审稿人的毛病",
+      "date": "2026-05-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2d7f3b66",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ...",
+      "date": "2026-05-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "54dff980",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "date": "2026-05-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b18ba1c7",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "date": "2026-05-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "49359060",
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "date": "2026-05-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6491f8c1",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
       "summary": "",
       "date": "2026-05-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1833e58b",
-      "title": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」",
-      "url": "https://www.qbitai.com/2026/05/413022.html",
-      "summary": "马斯克胜诉概率应声下降",
-      "date": "2026-05-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8dfae29b",
-      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
-      "url": "https://www.qbitai.com/2026/05/412995.html",
-      "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
-      "date": "2026-05-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "5f907f4d",
@@ -56,15 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "2fd4f4a9",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "summary": "",
-      "date": "2026-05-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "05d3c5cd",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
@@ -81,24 +153,6 @@
       "date": "2026-05-05",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "3938b1e2",
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-      "date": "2026-05-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c41f5455",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "date": "2026-05-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "d6be253d",
@@ -137,33 +191,6 @@
       "tag": "research"
     },
     {
-      "id": "a6e365ea",
-      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
-      "url": "https://www.qbitai.com/2026/05/412914.html",
-      "summary": "专门针对DeepSeek优化",
-      "date": "2026-05-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1116fa5b",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-      "date": "2026-05-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "572f1821",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h...",
-      "date": "2026-05-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "59ef3aa9",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
@@ -196,33 +223,6 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "summary": "",
       "date": "2026-04-28",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "29488e13",
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "summary": "A web next to a laptop",
-      "date": "2026-04-27",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "100e8902",
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "summary": "",
-      "date": "2026-04-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "807d3648",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "summary": "",
-      "date": "2026-04-24",
       "source": "Hugging Face",
       "tag": "opensource"
     },
