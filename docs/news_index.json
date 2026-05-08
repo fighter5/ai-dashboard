@@ -1,23 +1,122 @@
 {
-  "updated": "2026-05-07 05:33",
+  "updated": "2026-05-08 04:54",
   "items": [
     {
-      "id": "0480f712",
-      "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
-      "url": "https://www.qbitai.com/2026/05/413591.html",
-      "summary": "中国大模型的共同依赖",
+      "id": "1fcceb17",
+      "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+      "url": "https://www.qbitai.com/2026/05/413912.html",
+      "summary": "背靠国内最大ComfyUI生态",
       "date": "2026-05-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "32b80d68",
-      "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
-      "url": "https://www.qbitai.com/2026/05/413569.html",
-      "summary": "Claude用户（仅限付费用户）一觉醒来，发现限额翻倍，速度还变快了",
+      "id": "97589559",
+      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+      "url": "https://www.qbitai.com/2026/05/414006.html",
+      "summary": "让广告创意不再卡在预算里",
       "date": "2026-05-07",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "6a3f2323",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "date": "2026-05-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9f2e6d7d",
+      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for IVF IVF has brought millions of ba...",
+      "date": "2026-05-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b655fa9f",
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "date": "2026-05-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "393d7ed5",
+      "title": "The balcony solar boom is coming to the US",
+      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions...",
+      "date": "2026-05-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5f067b79",
+      "title": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "date": "2026-05-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b04c89e1",
+      "title": "What’s next for IVF",
+      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July...",
+      "date": "2026-05-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "466f03ab",
+      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
+      "url": "https://www.qbitai.com/2026/05/413612.html",
+      "summary": "低提示词，挑战主流模型的交互逻辑",
+      "date": "2026-05-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7d46382f",
+      "title": "一年磨一剑，今年最炸机器人Demo来了！",
+      "url": "https://www.qbitai.com/2026/05/413830.html",
+      "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴",
+      "date": "2026-05-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7c06d9dd",
+      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
+      "url": "https://www.qbitai.com/2026/05/413782.html",
+      "summary": "推动医疗保障体系迈入数智化新阶段",
+      "date": "2026-05-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "15d2a96b",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "date": "2026-05-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "16251d7b",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "date": "2026-05-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "11e756df",
@@ -47,69 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "52409a59",
-      "title": "AI PPT，这次是真不用返工了",
-      "url": "https://www.qbitai.com/2026/05/413296.html",
-      "summary": "实测讯飞智文Vision Agent",
-      "date": "2026-05-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "03f6d8d6",
-      "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
-      "url": "https://www.qbitai.com/2026/05/413264.html",
-      "summary": "40小时干完广告公司一年的活",
-      "date": "2026-05-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6de733ca",
-      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
-      "url": "https://www.qbitai.com/2026/05/413265.html",
-      "summary": "还反向挑出审稿人的毛病",
-      "date": "2026-05-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2d7f3b66",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ...",
-      "date": "2026-05-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "54dff980",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "date": "2026-05-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b18ba1c7",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-      "date": "2026-05-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "49359060",
-      "title": "How frontier enterprises are building an AI advantage",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "date": "2026-05-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "6491f8c1",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
@@ -137,24 +173,6 @@
       "tag": "research"
     },
     {
-      "id": "05d3c5cd",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "date": "2026-05-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c9dd6bc7",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr...",
-      "date": "2026-05-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "d6be253d",
       "title": "The latest AI news we announced in April 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
@@ -164,15 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "dcf34125",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon...",
-      "date": "2026-05-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "79cb2cae",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
@@ -180,15 +189,6 @@
       "date": "2026-05-04",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "0ca39b12",
-      "title": "Tailoring AI solutions for health care needs",
-      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of carin...",
-      "date": "2026-05-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "59ef3aa9",
