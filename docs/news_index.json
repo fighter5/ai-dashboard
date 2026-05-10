@@ -1,29 +1,56 @@
 {
-  "updated": "2026-05-09 05:23",
+  "updated": "2026-05-10 05:39",
   "items": [
     {
-      "id": "366a927d",
-      "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
-      "url": "https://www.qbitai.com/2026/05/414496.html",
-      "summary": "搜索、知识、Agent 能力全面提升",
+      "id": "2d1d48ae",
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "url": "https://www.qbitai.com/2026/05/415031.html",
+      "summary": "拉姆齐数R(3,17) 下界从92提升至93",
+      "date": "2026-05-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4a66ef6a",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "summary": "",
+      "date": "2026-05-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "360ede10",
+      "title": "太初元碁携龙虾一体机亮相北京科博会",
+      "url": "https://www.qbitai.com/2026/05/415027.html",
+      "summary": "",
       "date": "2026-05-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7970fb38",
-      "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
-      "url": "https://www.qbitai.com/2026/05/414445.html",
-      "summary": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。",
+      "id": "cb5bfe4a",
+      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+      "url": "https://www.qbitai.com/2026/05/415023.html",
+      "summary": "",
       "date": "2026-05-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "88ed8ac7",
-      "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
-      "url": "https://www.qbitai.com/2026/05/414432.html",
-      "summary": "如果最终落地，这会是中国大模型公司有史以来最大的一轮融资",
+      "id": "d0ac78be",
+      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+      "url": "https://www.qbitai.com/2026/05/415019.html",
+      "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
+      "date": "2026-05-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d81ab1e0",
+      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+      "url": "https://www.qbitai.com/2026/05/414826.html",
+      "summary": "以0.829的总成绩荣登榜首",
       "date": "2026-05-09",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -36,15 +63,6 @@
       "date": "2026-05-08",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "8cdd070f",
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "summary": "",
-      "date": "2026-05-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "2c5dba8e",
@@ -92,15 +110,6 @@
       "tag": "research"
     },
     {
-      "id": "5991a8eb",
-      "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
-      "url": "https://www.qbitai.com/2026/05/414428.html",
-      "summary": "位列第二",
-      "date": "2026-05-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "10d8c05f",
       "title": "Here’s how technology transformed babymaking",
       "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
@@ -108,15 +117,6 @@
       "date": "2026-05-08",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "5c9a8bb6",
-      "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
-      "url": "https://www.qbitai.com/2026/05/414316.html",
-      "summary": "Mac上就能本地跑deepseek",
-      "date": "2026-05-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "6a3f2323",
