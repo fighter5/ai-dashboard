@@ -1,6 +1,60 @@
 {
-  "updated": "2026-05-10 05:39",
+  "updated": "2026-05-11 06:00",
   "items": [
+    {
+      "id": "e3d1e8ca",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "date": "2026-05-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7c483a75",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "date": "2026-05-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0f6c2f91",
+      "title": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
+      "url": "https://www.qbitai.com/2026/05/415186.html",
+      "summary": "陶哲轩：但「消化」属于人类",
+      "date": "2026-05-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4c15a30c",
+      "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+      "url": "https://www.qbitai.com/2026/05/415065.html",
+      "summary": "真正学会了在隐空间里进行“物理思考”",
+      "date": "2026-05-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "760b0834",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "summary": "",
+      "date": "2026-05-10",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "2d01fe22",
+      "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+      "url": "https://www.qbitai.com/2026/05/415048.html",
+      "summary": "福尔摩斯探案都能演",
+      "date": "2026-05-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "2d1d48ae",
       "title": "浙大校友用AI突破32年拉姆齐数下界",
@@ -11,46 +65,10 @@
       "tag": "zh-news"
     },
     {
-      "id": "4a66ef6a",
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "summary": "",
-      "date": "2026-05-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "360ede10",
       "title": "太初元碁携龙虾一体机亮相北京科博会",
       "url": "https://www.qbitai.com/2026/05/415027.html",
       "summary": "",
-      "date": "2026-05-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "cb5bfe4a",
-      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
-      "url": "https://www.qbitai.com/2026/05/415023.html",
-      "summary": "",
-      "date": "2026-05-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d0ac78be",
-      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-      "url": "https://www.qbitai.com/2026/05/415019.html",
-      "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
-      "date": "2026-05-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d81ab1e0",
-      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
-      "url": "https://www.qbitai.com/2026/05/414826.html",
-      "summary": "以0.829的总成绩荣登榜首",
       "date": "2026-05-09",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -141,24 +159,6 @@
       "title": "Parloa builds service agents customers want to talk to",
       "url": "https://openai.com/index/parloa",
       "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "date": "2026-05-07",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5f067b79",
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "date": "2026-05-07",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "16251d7b",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "date": "2026-05-07",
       "source": "OpenAI News",
       "tag": "OpenAI"
