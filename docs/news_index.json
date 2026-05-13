@@ -1,14 +1,104 @@
 {
-  "updated": "2026-05-12 05:40",
+  "updated": "2026-05-13 05:50",
   "items": [
     {
-      "id": "5f1fa249",
-      "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-      "url": "https://www.qbitai.com/2026/05/416034.html",
-      "summary": "让AI agent看到屏幕，也能操作鼠标键盘",
-      "date": "2026-05-12",
+      "id": "546f6f13",
+      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+      "url": "https://www.qbitai.com/2026/05/416762.html",
+      "summary": "李彦宏提出“AI时代进化论”",
+      "date": "2026-05-13",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "3a52500e",
+      "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
+      "url": "https://www.qbitai.com/2026/05/416754.html",
+      "summary": "正式进入“迭代优化”时代",
+      "date": "2026-05-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6e90bf3f",
+      "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
+      "url": "https://www.qbitai.com/2026/05/416739.html",
+      "summary": "奥特曼曝这老些瓜",
+      "date": "2026-05-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7c45c777",
+      "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
+      "url": "https://www.qbitai.com/2026/05/416576.html",
+      "summary": "多方原告组团上阵",
+      "date": "2026-05-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c2e346c5",
+      "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+      "url": "https://www.qbitai.com/2026/05/416628.html",
+      "summary": "顶级CV大佬也来卷LLM？",
+      "date": "2026-05-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "431cb0e0",
+      "title": "World Models: 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology ...",
+      "date": "2026-05-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "14f0330c",
+      "title": "How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "date": "2026-05-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "8af79745",
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-...",
+      "date": "2026-05-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "efdc3d87",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "date": "2026-05-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "15ea4517",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint...",
+      "date": "2026-05-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "818b51bc",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "date": "2026-05-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "3bee7290",
@@ -56,78 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "cff19a85",
-      "title": "Implementing advanced AI technologies in finance",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership...",
-      "date": "2026-05-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "0f665aa2",
-      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
-      "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship...",
-      "date": "2026-05-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "24eb2834",
-      "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
-      "url": "https://www.qbitai.com/2026/05/415263.html",
-      "summary": "5月20日，马上AI起来！",
-      "date": "2026-05-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e3d1e8ca",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "date": "2026-05-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7c483a75",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "date": "2026-05-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "36c7aa43",
-      "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
-      "url": "https://www.qbitai.com/2026/05/415842.html",
-      "summary": "AI时代最贵的东西，已经不是模型了",
-      "date": "2026-05-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8ed7f7ca",
-      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
-      "url": "https://www.qbitai.com/2026/05/415810.html",
-      "summary": "办公软件的终局是交方案",
-      "date": "2026-05-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0fad3b70",
-      "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
-      "url": "https://www.qbitai.com/2026/05/415714.html",
-      "summary": "Cerebras预计本周公布定价",
-      "date": "2026-05-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "493dd3fd",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
@@ -135,15 +153,6 @@
       "date": "2026-05-11",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "c86720c8",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "date": "2026-05-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "148aa064",
@@ -162,15 +171,6 @@
       "date": "2026-05-08",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "09a84312",
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "date": "2026-05-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "11e756df",
