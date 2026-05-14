@@ -1,50 +1,95 @@
 {
-  "updated": "2026-05-13 05:50",
+  "updated": "2026-05-14 05:50",
   "items": [
     {
-      "id": "546f6f13",
-      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
-      "url": "https://www.qbitai.com/2026/05/416762.html",
-      "summary": "李彦宏提出“AI时代进化论”",
+      "id": "b14fa8fc",
+      "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
+      "url": "https://www.qbitai.com/2026/05/417469.html",
+      "summary": "云端基模蒸馏上车，用语言对齐世界模型",
+      "date": "2026-05-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "110d107a",
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a...",
+      "date": "2026-05-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8002206d",
+      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+      "url": "https://www.qbitai.com/2026/05/417447.html",
+      "summary": "5月20日，马上AI起来！",
       "date": "2026-05-13",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "3a52500e",
-      "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
-      "url": "https://www.qbitai.com/2026/05/416754.html",
-      "summary": "正式进入“迭代优化”时代",
+      "id": "81f40260",
+      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+      "url": "https://www.qbitai.com/2026/05/417366.html",
+      "summary": "甚至可以直接在手机上做APP",
       "date": "2026-05-13",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6e90bf3f",
-      "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
-      "url": "https://www.qbitai.com/2026/05/416739.html",
-      "summary": "奥特曼曝这老些瓜",
+      "id": "d55d07ca",
+      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+      "url": "https://www.qbitai.com/2026/05/416978.html",
+      "summary": "相同参数量超越扩散自回归",
       "date": "2026-05-13",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7c45c777",
-      "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
-      "url": "https://www.qbitai.com/2026/05/416576.html",
-      "summary": "多方原告组团上阵",
+      "id": "7643edf2",
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial ...",
+      "date": "2026-05-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "49a108cb",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "date": "2026-05-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ff9141df",
+      "title": "A plan to make drugs in orbit is going commercial",
+      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+      "summary": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered ...",
+      "date": "2026-05-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8f38aace",
+      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+      "url": "https://www.qbitai.com/2026/05/416963.html",
+      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。",
       "date": "2026-05-13",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c2e346c5",
-      "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
-      "url": "https://www.qbitai.com/2026/05/416628.html",
-      "summary": "顶级CV大佬也来卷LLM？",
+      "id": "7e8d14b0",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA...",
       "date": "2026-05-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "431cb0e0",
@@ -74,15 +119,6 @@
       "tag": "research"
     },
     {
-      "id": "efdc3d87",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "date": "2026-05-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "15ea4517",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
@@ -108,42 +144,6 @@
       "date": "2026-05-11",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "18e29f06",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economic...",
-      "date": "2026-05-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "45f994a1",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "date": "2026-05-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "14c481f9",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with te...",
-      "date": "2026-05-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bfe32a15",
-      "title": "Innovation abounds in device charging",
-      "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
-      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and conne...",
-      "date": "2026-05-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "493dd3fd",
