@@ -1,59 +1,140 @@
 {
-  "updated": "2026-05-14 05:50",
+  "updated": "2026-05-15 05:56",
   "items": [
     {
-      "id": "b14fa8fc",
-      "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
-      "url": "https://www.qbitai.com/2026/05/417469.html",
-      "summary": "云端基模蒸馏上车，用语言对齐世界模型",
+      "id": "d041ef6f",
+      "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
+      "url": "https://www.qbitai.com/2026/05/417943.html",
+      "summary": "“两人薪资评定全程与其父黄仁勋无关”",
+      "date": "2026-05-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6111f864",
+      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+      "url": "https://www.qbitai.com/2026/05/417935.html",
+      "summary": "具身智能正在经历一场静默但深刻的路线转变",
+      "date": "2026-05-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "73eb815a",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "date": "2026-05-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "3d307279",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "summary": "",
+      "date": "2026-05-14",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "735fcfd6",
+      "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+      "url": "https://www.qbitai.com/2026/05/417731.html",
+      "summary": "Agent时代的数据库，怎么跑通商业化？",
       "date": "2026-05-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "110d107a",
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a...",
-      "date": "2026-05-13",
+      "id": "7db00b81",
+      "title": "Data readiness for agentic AI in financial services",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second...",
+      "date": "2026-05-14",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "8002206d",
-      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
-      "url": "https://www.qbitai.com/2026/05/417447.html",
-      "summary": "5月20日，马上AI起来！",
-      "date": "2026-05-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "81f40260",
-      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
-      "url": "https://www.qbitai.com/2026/05/417366.html",
-      "summary": "甚至可以直接在手机上做APP",
-      "date": "2026-05-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d55d07ca",
-      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
-      "url": "https://www.qbitai.com/2026/05/416978.html",
-      "summary": "相同参数量超越扩散自回归",
-      "date": "2026-05-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7643edf2",
-      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
-      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial ...",
-      "date": "2026-05-13",
+      "id": "f187631e",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party ...",
+      "date": "2026-05-14",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "09ab76a1",
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "date": "2026-05-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9a693d89",
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake por...",
+      "date": "2026-05-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b022fe98",
+      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+      "url": "https://www.qbitai.com/2026/05/417816.html",
+      "summary": "Team，从来不是默认选项",
+      "date": "2026-05-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cc7a2908",
+      "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
+      "url": "https://www.qbitai.com/2026/05/417927.html",
+      "summary": "AI主导、人类协助",
+      "date": "2026-05-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8f6d6ef7",
+      "title": "The Tesla Semi could be a big deal for electric trucking",
+      "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+      "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: Th...",
+      "date": "2026-05-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7ca2e146",
+      "title": "The shock of seeing your body used in deepfake porn",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos ...",
+      "date": "2026-05-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0782024b",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "date": "2026-05-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c2fad063",
+      "title": "Unlocking asynchronicity in continuous batching",
+      "url": "https://huggingface.co/blog/continuous_async",
+      "summary": "",
+      "date": "2026-05-14",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "49a108cb",
@@ -65,74 +146,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ff9141df",
-      "title": "A plan to make drugs in orbit is going commercial",
-      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
-      "summary": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered ...",
-      "date": "2026-05-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8f38aace",
-      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
-      "url": "https://www.qbitai.com/2026/05/416963.html",
-      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。",
-      "date": "2026-05-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "7e8d14b0",
       "title": "Our response to the TanStack npm supply chain attack",
       "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
       "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA...",
       "date": "2026-05-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "431cb0e0",
-      "title": "World Models: 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology ...",
-      "date": "2026-05-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "14f0330c",
-      "title": "How finance teams use Codex",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "date": "2026-05-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8af79745",
-      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-...",
-      "date": "2026-05-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "15ea4517",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint...",
-      "date": "2026-05-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "818b51bc",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "date": "2026-05-12",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -191,15 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "6491f8c1",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "summary": "",
-      "date": "2026-05-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "5f907f4d",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -216,15 +225,6 @@
       "date": "2026-05-04",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "59ef3aa9",
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "summary": "",
-      "date": "2026-04-29",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e670024b",
