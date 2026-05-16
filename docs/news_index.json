@@ -1,23 +1,104 @@
 {
-  "updated": "2026-05-15 05:56",
+  "updated": "2026-05-16 05:29",
   "items": [
     {
-      "id": "d041ef6f",
-      "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
-      "url": "https://www.qbitai.com/2026/05/417943.html",
-      "summary": "“两人薪资评定全程与其父黄仁勋无关”",
+      "id": "ec8304fb",
+      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+      "url": "https://www.qbitai.com/2026/05/418491.html",
+      "summary": "阿里健康发布「氢离子」",
+      "date": "2026-05-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "006c9f72",
+      "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
+      "url": "https://www.qbitai.com/2026/05/418150.html",
+      "summary": "共享蔚来超8800座充换电站",
+      "date": "2026-05-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9c8aa558",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv...",
+      "date": "2026-05-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "034c5dfe",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machine...",
+      "date": "2026-05-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8620675c",
+      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+      "url": "https://www.qbitai.com/2026/05/418135.html",
+      "summary": "",
       "date": "2026-05-15",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6111f864",
-      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
-      "url": "https://www.qbitai.com/2026/05/417935.html",
-      "summary": "具身智能正在经历一场静默但深刻的路线转变",
+      "id": "516d1712",
+      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+      "url": "https://www.qbitai.com/2026/05/418035.html",
+      "summary": "说明需求，Qoder就能帮你实现",
       "date": "2026-05-15",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "a46eb54a",
+      "title": "The world is on track to miss its health targets",
+      "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambi...",
+      "date": "2026-05-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "03022e48",
+      "title": "How Chinese short dramas became AI content machines",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then...",
+      "date": "2026-05-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "49585581",
+      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+      "url": "https://www.qbitai.com/2026/05/418140.html",
+      "summary": "该平台以 AI Agent 为核心",
+      "date": "2026-05-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4ed1b1b7",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa...",
+      "date": "2026-05-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "990a39ff",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "date": "2026-05-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "73eb815a",
@@ -38,28 +119,10 @@
       "tag": "opensource"
     },
     {
-      "id": "735fcfd6",
-      "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
-      "url": "https://www.qbitai.com/2026/05/417731.html",
-      "summary": "Agent时代的数据库，怎么跑通商业化？",
-      "date": "2026-05-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "7db00b81",
       "title": "Data readiness for agentic AI in financial services",
       "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
       "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second...",
-      "date": "2026-05-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f187631e",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party ...",
       "date": "2026-05-14",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -72,51 +135,6 @@
       "date": "2026-05-14",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "9a693d89",
-      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-      "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake por...",
-      "date": "2026-05-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b022fe98",
-      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
-      "url": "https://www.qbitai.com/2026/05/417816.html",
-      "summary": "Team，从来不是默认选项",
-      "date": "2026-05-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "cc7a2908",
-      "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
-      "url": "https://www.qbitai.com/2026/05/417927.html",
-      "summary": "AI主导、人类协助",
-      "date": "2026-05-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8f6d6ef7",
-      "title": "The Tesla Semi could be a big deal for electric trucking",
-      "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
-      "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: Th...",
-      "date": "2026-05-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7ca2e146",
-      "title": "The shock of seeing your body used in deepfake porn",
-      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos ...",
-      "date": "2026-05-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "0782024b",
@@ -135,24 +153,6 @@
       "date": "2026-05-14",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "49a108cb",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-      "date": "2026-05-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7e8d14b0",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA...",
-      "date": "2026-05-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "3bee7290",
