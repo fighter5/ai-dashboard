@@ -1,27 +1,63 @@
 {
-  "updated": "2026-05-16 05:29",
+  "updated": "2026-05-17 05:50",
   "items": [
     {
-      "id": "ec8304fb",
-      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
-      "url": "https://www.qbitai.com/2026/05/418491.html",
-      "summary": "阿里健康发布「氢离子」",
+      "id": "2f840af1",
+      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+      "url": "https://www.qbitai.com/2026/05/418822.html",
+      "summary": "“但复杂需求还得Claude”",
+      "date": "2026-05-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "21b72b4f",
+      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+      "url": "https://www.qbitai.com/2026/05/418814.html",
+      "summary": "先把SFT挖的坑填了！",
+      "date": "2026-05-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d16c1a47",
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "url": "https://www.qbitai.com/2026/05/418737.html",
+      "summary": "费用参考也很透明",
+      "date": "2026-05-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9d1fbed3",
+      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+      "url": "https://www.qbitai.com/2026/05/418620.html",
+      "summary": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。",
       "date": "2026-05-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "006c9f72",
-      "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
-      "url": "https://www.qbitai.com/2026/05/418150.html",
-      "summary": "共享蔚来超8800座充换电站",
+      "id": "1e09c8d6",
+      "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+      "url": "https://www.qbitai.com/2026/05/418594.html",
+      "summary": "奥特曼的20亿持股版图也曝光了",
       "date": "2026-05-16",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "b9939c2f",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "date": "2026-05-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "9c8aa558",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv...",
       "date": "2026-05-15",
@@ -36,24 +72,6 @@
       "date": "2026-05-15",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "8620675c",
-      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
-      "url": "https://www.qbitai.com/2026/05/418135.html",
-      "summary": "",
-      "date": "2026-05-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "516d1712",
-      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
-      "url": "https://www.qbitai.com/2026/05/418035.html",
-      "summary": "说明需求，Qoder就能帮你实现",
-      "date": "2026-05-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "a46eb54a",
@@ -74,19 +92,10 @@
       "tag": "research"
     },
     {
-      "id": "49585581",
-      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
-      "url": "https://www.qbitai.com/2026/05/418140.html",
-      "summary": "该平台以 AI Agent 为核心",
-      "date": "2026-05-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4ed1b1b7",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa...",
+      "id": "d93b94d2",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "date": "2026-05-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -101,11 +110,20 @@
       "tag": "OpenAI"
     },
     {
-      "id": "73eb815a",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "date": "2026-05-14",
+      "id": "afc8cde3",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-05-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4ed1b1b7",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa...",
+      "date": "2026-05-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -126,24 +144,6 @@
       "date": "2026-05-14",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "09ab76a1",
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "date": "2026-05-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "0782024b",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "date": "2026-05-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "c2fad063",
