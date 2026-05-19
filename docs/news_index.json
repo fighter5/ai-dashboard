@@ -1,50 +1,131 @@
 {
-  "updated": "2026-05-18 06:16",
+  "updated": "2026-05-19 06:10",
   "items": [
     {
-      "id": "68ab03b8",
-      "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
-      "url": "https://www.qbitai.com/2026/05/419256.html",
-      "summary": "更有NLPCC2026直通名额",
+      "id": "5615c63b",
+      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+      "url": "https://www.qbitai.com/2026/05/419990.html",
+      "summary": "1/10成本、Opus 4.7级表现",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "eef2c24f",
+      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+      "url": "https://www.qbitai.com/2026/05/419913.html",
+      "summary": "赛车有张雪，智驾有文远",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "009b5791",
+      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+      "url": "https://www.qbitai.com/2026/05/419901.html",
+      "summary": "提前查好路况，定好闹钟，明天线下见！",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "494ae186",
+      "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+      "url": "https://www.qbitai.com/2026/05/419822.html",
+      "summary": "文本领域、视觉领域双双国产第一",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8ea7705f",
+      "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+      "url": "https://www.qbitai.com/2026/05/419597.html",
+      "summary": "落地全球27城",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9b154231",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat...",
+      "date": "2026-05-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "824e77ca",
+      "title": "What to expect from Google this week",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer ...",
       "date": "2026-05-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "ac0e5e08",
-      "title": "一只机器狗，把英伟达的算力王座拱翻了",
-      "url": "https://www.qbitai.com/2026/05/418969.html",
-      "summary": "人造劳动力，离普通家庭还有多远？",
-      "date": "2026-05-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7ec9d207",
-      "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
-      "url": "https://www.qbitai.com/2026/05/418964.html",
-      "summary": "全球规模最大、参与人数最多的大学生超算赛事",
-      "date": "2026-05-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "adb608fa",
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "url": "https://www.qbitai.com/2026/05/418836.html",
+      "id": "9e44d638",
+      "title": "The Signals That Matter – MIT Insider’s Panel",
+      "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
       "summary": "",
-      "date": "2026-05-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "date": "2026-05-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "2f840af1",
-      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
-      "url": "https://www.qbitai.com/2026/05/418822.html",
-      "summary": "“但复杂需求还得Claude”",
-      "date": "2026-05-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "981e2ce3",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ...",
+      "date": "2026-05-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5fe33294",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "summary": "",
+      "date": "2026-05-18",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "210dad3c",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "summary": "",
+      "date": "2026-05-18",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "184fb587",
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "summary": "",
+      "date": "2026-05-18",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "a6efc725",
+      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blow...",
+      "date": "2026-05-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1af67e24",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "date": "2026-05-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "b9939c2f",
@@ -52,51 +133,6 @@
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "date": "2026-05-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "9c8aa558",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv...",
-      "date": "2026-05-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "034c5dfe",
-      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machine...",
-      "date": "2026-05-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a46eb54a",
-      "title": "The world is on track to miss its health targets",
-      "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambi...",
-      "date": "2026-05-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "03022e48",
-      "title": "How Chinese short dramas became AI content machines",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then...",
-      "date": "2026-05-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d93b94d2",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "date": "2026-05-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -110,19 +146,19 @@
       "tag": "OpenAI"
     },
     {
-      "id": "afc8cde3",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "id": "d93b94d2",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "date": "2026-05-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "4ed1b1b7",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa...",
+      "id": "ca8d7bcc",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-05-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -137,29 +173,11 @@
       "tag": "opensource"
     },
     {
-      "id": "7db00b81",
-      "title": "Data readiness for agentic AI in financial services",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second...",
-      "date": "2026-05-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "c2fad063",
       "title": "Unlocking asynchronicity in continuous batching",
       "url": "https://huggingface.co/blog/continuous_async",
       "summary": "",
       "date": "2026-05-14",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "3bee7290",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "summary": "",
-      "date": "2026-05-11",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -173,15 +191,6 @@
       "tag": "Google"
     },
     {
-      "id": "148aa064",
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "summary": "",
-      "date": "2026-05-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "70615ef3",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
@@ -189,15 +198,6 @@
       "date": "2026-05-08",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "11e756df",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "summary": "",
-      "date": "2026-05-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "5329de4b",
