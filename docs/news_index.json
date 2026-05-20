@@ -1,47 +1,164 @@
 {
-  "updated": "2026-05-19 06:10",
+  "updated": "2026-05-20 06:10",
   "items": [
+    {
+      "id": "7ca0aad1",
+      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+      "url": "https://www.qbitai.com/2026/05/420531.html",
+      "summary": "AMD持续加码中国开发者生态建设",
+      "date": "2026-05-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b8480648",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "date": "2026-05-19",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "25e68804",
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch...",
+      "date": "2026-05-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "63751fb3",
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "summary": "",
+      "date": "2026-05-19",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "e7785d8c",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T...",
+      "date": "2026-05-19",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "8feaaef8",
+      "title": "I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "date": "2026-05-19",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "757b4a2a",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light bl...",
+      "date": "2026-05-19",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "adac55b4",
+      "title": "New ways to create and get things done in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "summary": "Google Workspace",
+      "date": "2026-05-19",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "cd2fbffd",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "summary": "a series of colorful icons representing Google I/O against a black background",
+      "date": "2026-05-19",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "388f97de",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+      "date": "2026-05-19",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "6dfb885e",
+      "title": "Understanding the modern cybercrime landscape",
+      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+      "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in i...",
+      "date": "2026-05-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "17cca9af",
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI ...",
+      "date": "2026-05-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "84f3f341",
+      "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+      "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+      "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquart...",
+      "date": "2026-05-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e4af29ed",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "date": "2026-05-19",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b5e6cc9c",
+      "title": "完成“由铁到钢”的生态蜕变 刘军携联想全场景AI终端点亮智能未来",
+      "url": "https://www.qbitai.com/2026/05/420561.html",
+      "summary": "首发赠送价值1500元天禧能量值",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "96c30b76",
+      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+      "url": "https://www.qbitai.com/2026/05/420083.html",
+      "summary": "所谓的真实……真的重要吗？",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ae181e8b",
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "url": "https://www.qbitai.com/2026/05/420084.html",
+      "summary": "发布MT Lambda",
+      "date": "2026-05-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "5615c63b",
       "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
       "url": "https://www.qbitai.com/2026/05/419990.html",
       "summary": "1/10成本、Opus 4.7级表现",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "eef2c24f",
-      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
-      "url": "https://www.qbitai.com/2026/05/419913.html",
-      "summary": "赛车有张雪，智驾有文远",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "009b5791",
-      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
-      "url": "https://www.qbitai.com/2026/05/419901.html",
-      "summary": "提前查好路况，定好闹钟，明天线下见！",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "494ae186",
-      "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
-      "url": "https://www.qbitai.com/2026/05/419822.html",
-      "summary": "文本领域、视觉领域双双国产第一",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8ea7705f",
-      "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
-      "url": "https://www.qbitai.com/2026/05/419597.html",
-      "summary": "落地全球27城",
       "date": "2026-05-19",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -56,31 +173,13 @@
       "tag": "research"
     },
     {
-      "id": "824e77ca",
-      "title": "What to expect from Google this week",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer ...",
-      "date": "2026-05-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9e44d638",
-      "title": "The Signals That Matter – MIT Insider’s Panel",
-      "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+      "id": "e05bf9eb",
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
       "summary": "",
-      "date": "2026-05-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "981e2ce3",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ...",
-      "date": "2026-05-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "date": "2026-05-19",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "5fe33294",
@@ -110,15 +209,6 @@
       "tag": "opensource"
     },
     {
-      "id": "a6efc725",
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blow...",
-      "date": "2026-05-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "1af67e24",
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -144,87 +234,6 @@
       "date": "2026-05-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "d93b94d2",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "date": "2026-05-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ca8d7bcc",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-05-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3d307279",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "summary": "",
-      "date": "2026-05-14",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c2fad063",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "summary": "",
-      "date": "2026-05-14",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "493dd3fd",
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "summary": "A screenshot of the AI-powered experience on Google Finance.",
-      "date": "2026-05-11",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "70615ef3",
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
-      "date": "2026-05-08",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "5329de4b",
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifyi...",
-      "date": "2026-05-06",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "5f907f4d",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "date": "2026-05-05",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "d6be253d",
-      "title": "The latest AI news we announced in April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
-      "date": "2026-05-04",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e670024b",
@@ -259,15 +268,6 @@
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully...",
       "date": "2026-01-13",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "a102a18a",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...",
-      "date": "2026-01-12",
       "source": "VentureBeat AI",
       "tag": "industry"
     }
