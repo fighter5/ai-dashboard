@@ -1,14 +1,122 @@
 {
-  "updated": "2026-05-20 06:10",
+  "updated": "2026-05-21 06:12",
   "items": [
     {
-      "id": "7ca0aad1",
-      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
-      "url": "https://www.qbitai.com/2026/05/420531.html",
-      "summary": "AMD持续加码中国开发者生态建设",
+      "id": "3b7f6b48",
+      "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+      "url": "https://www.qbitai.com/2026/05/420918.html",
+      "summary": "RoboChallenge榜首易主，清华系玩家加冕。",
+      "date": "2026-05-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a6e20798",
+      "title": "刚刚，马斯克公开SpaceX招股书！",
+      "url": "https://www.qbitai.com/2026/05/420761.html",
+      "summary": "头一回见财报像海报的",
+      "date": "2026-05-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "58130303",
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "date": "2026-05-20",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c1e2764b",
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "date": "2026-05-20",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "9e924c46",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
+      "date": "2026-05-20",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "3b2c075a",
+      "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+      "url": "https://www.qbitai.com/2026/05/420753.html",
+      "summary": "向世界模型进发。",
       "date": "2026-05-20",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "187d7742",
+      "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/420743.html",
+      "summary": "AI产业正在进入新一轮高强度算力周期",
+      "date": "2026-05-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a835a1c1",
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
+      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts...",
+      "date": "2026-05-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5f48f1a1",
+      "title": "The Download: fully artificial chicken eggs and why Musk lost",
+      "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-p...",
+      "date": "2026-05-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c6dc9077",
+      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+      "url": "https://www.qbitai.com/2026/05/420703.html",
+      "summary": "让你的经验24小时自动接单",
+      "date": "2026-05-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a23c5621",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "date": "2026-05-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ae68796c",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "date": "2026-05-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "95e072c6",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "date": "2026-05-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "b8480648",
@@ -30,7 +138,7 @@
     },
     {
       "id": "63751fb3",
-      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "summary": "",
       "date": "2026-05-19",
@@ -65,33 +173,6 @@
       "tag": "Google"
     },
     {
-      "id": "adac55b4",
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "summary": "Google Workspace",
-      "date": "2026-05-19",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "cd2fbffd",
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "summary": "a series of colorful icons representing Google I/O against a black background",
-      "date": "2026-05-19",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "388f97de",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-      "date": "2026-05-19",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "6dfb885e",
       "title": "Understanding the modern cybercrime landscape",
       "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
@@ -110,15 +191,6 @@
       "tag": "research"
     },
     {
-      "id": "84f3f341",
-      "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
-      "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
-      "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquart...",
-      "date": "2026-05-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "e4af29ed",
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "url": "https://openai.com/index/advancing-content-provenance",
@@ -126,51 +198,6 @@
       "date": "2026-05-19",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "b5e6cc9c",
-      "title": "完成“由铁到钢”的生态蜕变 刘军携联想全场景AI终端点亮智能未来",
-      "url": "https://www.qbitai.com/2026/05/420561.html",
-      "summary": "首发赠送价值1500元天禧能量值",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "96c30b76",
-      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
-      "url": "https://www.qbitai.com/2026/05/420083.html",
-      "summary": "所谓的真实……真的重要吗？",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ae181e8b",
-      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
-      "url": "https://www.qbitai.com/2026/05/420084.html",
-      "summary": "发布MT Lambda",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5615c63b",
-      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
-      "url": "https://www.qbitai.com/2026/05/419990.html",
-      "summary": "1/10成本、Opus 4.7级表现",
-      "date": "2026-05-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9b154231",
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat...",
-      "date": "2026-05-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "e05bf9eb",
@@ -207,33 +234,6 @@
       "date": "2026-05-18",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "1af67e24",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "date": "2026-05-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b9939c2f",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "date": "2026-05-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "990a39ff",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "date": "2026-05-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "e670024b",
