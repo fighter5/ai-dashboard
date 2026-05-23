@@ -1,41 +1,122 @@
 {
-  "updated": "2026-05-22 06:09",
+  "updated": "2026-05-23 05:41",
   "items": [
     {
-      "id": "bd75a521",
-      "title": "顶流里最快！智谱，你是在「喷」代码吧",
-      "url": "https://www.qbitai.com/2026/05/422511.html",
-      "summary": "400 tokens/s",
+      "id": "104ff3d7",
+      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+      "url": "https://www.qbitai.com/2026/05/423159.html",
+      "summary": "不造人形机器人，死磕餐饮后厨",
+      "date": "2026-05-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "503a5ba4",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "summary": "",
+      "date": "2026-05-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "18f4f93f",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "date": "2026-05-22",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "d58891a3",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "summary": "",
+      "date": "2026-05-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "e82ecb2c",
+      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+      "url": "https://www.qbitai.com/2026/05/422811.html",
+      "summary": "虾的下半场才刚开始",
       "date": "2026-05-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "428ece34",
-      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-      "url": "https://www.qbitai.com/2026/05/422455.html",
-      "summary": "提效数十倍，Token消耗直降70%",
+      "id": "043b8de6",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s f...",
+      "date": "2026-05-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "81495904",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul...",
+      "date": "2026-05-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "49d5d24e",
+      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+      "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performanc...",
+      "date": "2026-05-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "80b63668",
+      "title": "李飞飞再出手，空间智能的ImageNet来了",
+      "url": "https://www.qbitai.com/2026/05/422738.html",
+      "summary": "一个专门用来评测具身空间智能的新基准",
       "date": "2026-05-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d2fb215b",
-      "title": "39万！雷军发布小米最贵SUV",
-      "url": "https://www.qbitai.com/2026/05/422088.html",
-      "summary": "特斯拉前厂长宋钢加盟后首秀",
+      "id": "20df989d",
+      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+      "url": "https://www.qbitai.com/2026/05/422624.html",
+      "summary": "DeepSeek Code is Coming",
       "date": "2026-05-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0b55f7a9",
-      "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
-      "url": "https://www.qbitai.com/2026/05/422127.html",
-      "summary": "调整后净利润同比增长42.1%",
+      "id": "d2cd006a",
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "url": "https://www.qbitai.com/2026/05/422615.html",
+      "summary": "一个AI统一入口，搞定所有",
       "date": "2026-05-22",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "f2261073",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "date": "2026-05-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "740545d7",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "date": "2026-05-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "bf40a95d",
@@ -56,24 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "e46b93e1",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,...",
-      "date": "2026-05-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c779fe03",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administratio...",
-      "date": "2026-05-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "973c5765",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
@@ -81,24 +144,6 @@
       "date": "2026-05-21",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "cb183364",
-      "title": "Climate tech companies are pivoting to critical minerals",
-      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
-      "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new enviro...",
-      "date": "2026-05-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "486ead78",
-      "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-      "url": "https://www.qbitai.com/2026/05/422068.html",
-      "summary": "最大提升体现在指令遵循能力上",
-      "date": "2026-05-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "58130303",
@@ -128,10 +173,10 @@
       "tag": "Google"
     },
     {
-      "id": "95e072c6",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "id": "a23c5621",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "date": "2026-05-20",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -142,24 +187,6 @@
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "date": "2026-05-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a23c5621",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "date": "2026-05-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b8480648",
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "date": "2026-05-19",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -191,15 +218,6 @@
       "tag": "Google"
     },
     {
-      "id": "757b4a2a",
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light bl...",
-      "date": "2026-05-19",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "e05bf9eb",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
@@ -209,27 +227,9 @@
       "tag": "opensource"
     },
     {
-      "id": "5fe33294",
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "summary": "",
-      "date": "2026-05-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "210dad3c",
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "summary": "",
-      "date": "2026-05-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "184fb587",
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
       "summary": "",
       "date": "2026-05-18",
       "source": "Hugging Face",
