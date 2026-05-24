@@ -1,6 +1,42 @@
 {
-  "updated": "2026-05-23 05:41",
+  "updated": "2026-05-24 06:03",
   "items": [
+    {
+      "id": "a9f9fb7b",
+      "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+      "url": "https://www.qbitai.com/2026/05/423213.html",
+      "summary": "Vibe Coding还是太权威了vibe",
+      "date": "2026-05-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c74210a7",
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/423202.html",
+      "summary": "“AI时代经验不再是护城河”",
+      "date": "2026-05-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6fef50e4",
+      "title": "OpenAI大神教你如何榨干Codex",
+      "url": "https://www.qbitai.com/2026/05/423179.html",
+      "summary": "13k星开源库作者解锁Codex-maxxing！",
+      "date": "2026-05-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "32da40b7",
+      "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+      "url": "https://www.qbitai.com/2026/05/423162.html",
+      "summary": "梁文锋承诺坚持开源路线",
+      "date": "2026-05-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "104ff3d7",
       "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
@@ -38,15 +74,6 @@
       "tag": "opensource"
     },
     {
-      "id": "e82ecb2c",
-      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
-      "url": "https://www.qbitai.com/2026/05/422811.html",
-      "summary": "虾的下半场才刚开始",
-      "date": "2026-05-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "043b8de6",
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
@@ -72,33 +99,6 @@
       "date": "2026-05-22",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "80b63668",
-      "title": "李飞飞再出手，空间智能的ImageNet来了",
-      "url": "https://www.qbitai.com/2026/05/422738.html",
-      "summary": "一个专门用来评测具身空间智能的新基准",
-      "date": "2026-05-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "20df989d",
-      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-      "url": "https://www.qbitai.com/2026/05/422624.html",
-      "summary": "DeepSeek Code is Coming",
-      "date": "2026-05-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d2cd006a",
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "url": "https://www.qbitai.com/2026/05/422615.html",
-      "summary": "一个AI统一入口，搞定所有",
-      "date": "2026-05-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "f2261073",
