@@ -1,50 +1,68 @@
 {
-  "updated": "2026-05-25 06:37",
+  "updated": "2026-05-26 06:09",
   "items": [
     {
-      "id": "99832d4d",
-      "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
-      "url": "https://www.qbitai.com/2026/05/424552.html",
-      "summary": "原本4亿+token、61美元的账单，直降至12美元",
+      "id": "81dcad6c",
+      "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
+      "url": "https://www.qbitai.com/2026/05/425150.html",
+      "summary": "跻身全球编程模型第一梯队",
+      "date": "2026-05-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "83d62fd2",
+      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+      "url": "https://www.qbitai.com/2026/05/424851.html",
+      "summary": "深度适配OpenClaw、Claude Code、Hermes等",
+      "date": "2026-05-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6122f1f0",
+      "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/424794.html",
+      "summary": "硬件不该让人适应，它应该主动适应你",
       "date": "2026-05-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9e5ef6f6",
-      "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
-      "url": "https://www.qbitai.com/2026/05/424551.html",
-      "summary": "报名通道已开，手慢无",
+      "id": "f9f33499",
+      "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
+      "url": "https://www.qbitai.com/2026/05/424610.html",
+      "summary": "特斯拉学会“躲交警”了",
       "date": "2026-05-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "4edb45e6",
-      "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
-      "url": "https://www.qbitai.com/2026/05/424277.html",
-      "summary": "UniPat AI 发布 SaaS-Bench 评测，Claude 等主流大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。",
+      "id": "c0cf7a1d",
+      "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
+      "url": "https://www.qbitai.com/2026/05/424605.html",
+      "summary": "6月10-11日盛大启幕",
       "date": "2026-05-25",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c4f8ec7e",
-      "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
-      "url": "https://www.qbitai.com/2026/05/423455.html",
-      "summary": "用“人类心智”重做具身智能",
+      "id": "86df175a",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "date": "2026-05-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "83380461",
-      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/423441.html",
-      "summary": "这些AI关键词正在被重新定义",
+      "id": "37be5f05",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "summary": "",
       "date": "2026-05-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "503a5ba4",
@@ -101,19 +119,19 @@
       "tag": "research"
     },
     {
-      "id": "f2261073",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "id": "740545d7",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "date": "2026-05-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "740545d7",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "id": "f2261073",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "date": "2026-05-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -182,15 +200,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ae68796c",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "date": "2026-05-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "63751fb3",
       "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
@@ -223,15 +232,6 @@
       "url": "https://huggingface.co/blog/ettin-reranker",
       "summary": "",
       "date": "2026-05-19",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "210dad3c",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "summary": "",
-      "date": "2026-05-18",
       "source": "Hugging Face",
       "tag": "opensource"
     },
