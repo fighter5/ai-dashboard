@@ -1,48 +1,84 @@
 {
-  "updated": "2026-05-26 06:09",
+  "updated": "2026-05-27 06:23",
   "items": [
     {
-      "id": "81dcad6c",
-      "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
-      "url": "https://www.qbitai.com/2026/05/425150.html",
-      "summary": "跻身全球编程模型第一梯队",
+      "id": "f7ea4f15",
+      "title": "触觉具身来了个梦之队：天使轮近亿",
+      "url": "https://www.qbitai.com/2026/05/425660.html",
+      "summary": "复旦系具身新星，想让机器人真正会“触摸”",
+      "date": "2026-05-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4ddb46ff",
+      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+      "url": "https://www.qbitai.com/2026/05/425810.html",
+      "summary": "只需一段提示词",
+      "date": "2026-05-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d7b166df",
+      "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+      "url": "https://www.qbitai.com/2026/05/425523.html",
+      "summary": "“1%是我写的，99%是Agent写的。”",
+      "date": "2026-05-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b920d871",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne...",
+      "date": "2026-05-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "25ecfa04",
+      "title": "The Download: puncturing the AI jobs panic",
+      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite th...",
+      "date": "2026-05-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b81f490c",
+      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+      "url": "https://www.qbitai.com/2026/05/425600.html",
+      "summary": "光影之间，读懂未尽之意",
       "date": "2026-05-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "83d62fd2",
-      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
-      "url": "https://www.qbitai.com/2026/05/424851.html",
-      "summary": "深度适配OpenClaw、Claude Code、Hermes等",
+      "id": "7400dc01",
+      "title": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all...",
       "date": "2026-05-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "6122f1f0",
-      "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/424794.html",
-      "summary": "硬件不该让人适应，它应该主动适应你",
-      "date": "2026-05-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "e49dc2a6",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden...",
+      "date": "2026-05-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "f9f33499",
-      "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-      "url": "https://www.qbitai.com/2026/05/424610.html",
-      "summary": "特斯拉学会“躲交警”了",
-      "date": "2026-05-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c0cf7a1d",
-      "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-      "url": "https://www.qbitai.com/2026/05/424605.html",
-      "summary": "6月10-11日盛大启幕",
-      "date": "2026-05-25",
+      "id": "79cec374",
+      "title": "刚刚，国产AI自己造了AI，全球首例！",
+      "url": "https://www.qbitai.com/2026/05/425511.html",
+      "summary": "训练速度比英伟达Megatron快10%",
+      "date": "2026-05-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -101,24 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "81495904",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul...",
-      "date": "2026-05-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "49d5d24e",
-      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
-      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
-      "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performanc...",
-      "date": "2026-05-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "740545d7",
       "title": "How Virgin Atlantic ships faster with Codex",
       "url": "https://openai.com/index/virgin-atlantic",
@@ -135,24 +153,6 @@
       "date": "2026-05-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "bf40a95d",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo...",
-      "date": "2026-05-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "13fdcf24",
-      "title": "Scaling creativity in the age of AI",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: f...",
-      "date": "2026-05-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "973c5765",
@@ -191,10 +191,10 @@
       "tag": "Google"
     },
     {
-      "id": "a23c5621",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "id": "95e072c6",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "date": "2026-05-20",
       "source": "OpenAI News",
       "tag": "OpenAI"
