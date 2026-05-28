@@ -1,32 +1,122 @@
 {
-  "updated": "2026-05-27 06:23",
+  "updated": "2026-05-28 06:15",
   "items": [
     {
-      "id": "f7ea4f15",
-      "title": "触觉具身来了个梦之队：天使轮近亿",
-      "url": "https://www.qbitai.com/2026/05/425660.html",
-      "summary": "复旦系具身新星，想让机器人真正会“触摸”",
+      "id": "6f7f13fa",
+      "title": "「斯隆奖」得主戴亮全职加盟复旦",
+      "url": "https://www.qbitai.com/2026/05/425959.html",
+      "summary": "复旦的顶尖人才版图",
+      "date": "2026-05-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2db9e3c5",
+      "title": "清华有了新老师：黄仁勋",
+      "url": "https://www.qbitai.com/2026/05/425948.html",
+      "summary": "黄博好，黄博好。",
+      "date": "2026-05-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6c6d47b5",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "summary": "",
+      "date": "2026-05-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "58acaee1",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer H...",
+      "date": "2026-05-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b5479ebc",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "date": "2026-05-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7d77d502",
+      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+      "url": "https://www.qbitai.com/2026/05/425881.html",
+      "summary": "看到大厂押注Agent生态的新方向",
       "date": "2026-05-27",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "4ddb46ff",
-      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
-      "url": "https://www.qbitai.com/2026/05/425810.html",
-      "summary": "只需一段提示词",
+      "id": "1a3704e9",
+      "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+      "url": "https://www.qbitai.com/2026/05/425870.html",
+      "summary": "不再绕回2D",
       "date": "2026-05-27",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d7b166df",
-      "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
-      "url": "https://www.qbitai.com/2026/05/425523.html",
-      "summary": "“1%是我写的，99%是Agent写的。”",
+      "id": "5899b169",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "date": "2026-05-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6447b1bf",
+      "title": "OpenAI挖来了个F1级别车手搞公关",
+      "url": "https://www.qbitai.com/2026/05/425857.html",
+      "summary": "曾在Salesforce干了13年营销",
       "date": "2026-05-27",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "919d46e1",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "date": "2026-05-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1c77cec1",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "date": "2026-05-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7cdcfd61",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "summary": "",
+      "date": "2026-05-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "3b3971ce",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "summary": "",
+      "date": "2026-05-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "b920d871",
@@ -47,15 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "b81f490c",
-      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
-      "url": "https://www.qbitai.com/2026/05/425600.html",
-      "summary": "光影之间，读懂未尽之意",
-      "date": "2026-05-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "7400dc01",
       "title": "A reality check on the AI jobs hysteria",
       "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
@@ -72,15 +153,6 @@
       "date": "2026-05-26",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "79cec374",
-      "title": "刚刚，国产AI自己造了AI，全球首例！",
-      "url": "https://www.qbitai.com/2026/05/425511.html",
-      "summary": "训练速度比英伟达Megatron快10%",
-      "date": "2026-05-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "86df175a",
@@ -119,51 +191,6 @@
       "tag": "Google"
     },
     {
-      "id": "d58891a3",
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "summary": "",
-      "date": "2026-05-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "043b8de6",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s f...",
-      "date": "2026-05-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "740545d7",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "date": "2026-05-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f2261073",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "date": "2026-05-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "973c5765",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "date": "2026-05-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "58130303",
       "title": "We’re announcing new community investments in Missouri.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
@@ -191,24 +218,6 @@
       "tag": "Google"
     },
     {
-      "id": "95e072c6",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "date": "2026-05-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "63751fb3",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "summary": "",
-      "date": "2026-05-19",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "e7785d8c",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
@@ -225,15 +234,6 @@
       "date": "2026-05-19",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "e05bf9eb",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "summary": "",
-      "date": "2026-05-19",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e670024b",
