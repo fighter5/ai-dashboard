@@ -1,23 +1,122 @@
 {
-  "updated": "2026-05-28 06:15",
+  "updated": "2026-05-29 06:16",
   "items": [
     {
-      "id": "6f7f13fa",
-      "title": "「斯隆奖」得主戴亮全职加盟复旦",
-      "url": "https://www.qbitai.com/2026/05/425959.html",
-      "summary": "复旦的顶尖人才版图",
+      "id": "2d453a70",
+      "title": "清华系团队给大模型织了一张“智能算力电网”",
+      "url": "https://www.qbitai.com/2026/05/426353.html",
+      "summary": "单位Token成本降低40%",
+      "date": "2026-05-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1bcd6b65",
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "url": "https://www.qbitai.com/2026/05/426314.html",
+      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
       "date": "2026-05-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2db9e3c5",
-      "title": "清华有了新老师：黄仁勋",
-      "url": "https://www.qbitai.com/2026/05/425948.html",
-      "summary": "黄博好，黄博好。",
+      "id": "5549a01e",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more e...",
+      "date": "2026-05-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3404b326",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "date": "2026-05-28",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "29ddf319",
+      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+      "url": "https://www.qbitai.com/2026/05/426293.html",
+      "summary": "国产算力是潮流，先用起来。",
       "date": "2026-05-28",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "50385444",
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "url": "https://www.qbitai.com/2026/05/426237.html",
+      "summary": "12个月冲击物理AGI的“GPT-3时刻”",
+      "date": "2026-05-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7e0a41b0",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s ne...",
+      "date": "2026-05-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6b1fa8ae",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "date": "2026-05-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7ed1b16d",
+      "title": "Climate tech companies are going public. What’s next?",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which...",
+      "date": "2026-05-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2c6e5bbc",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t...",
+      "date": "2026-05-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bc86cc22",
+      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "url": "https://www.qbitai.com/2026/05/426223.html",
+      "summary": "实现AI技术从“能力”到“价值”的转化",
+      "date": "2026-05-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "78758b8e",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "date": "2026-05-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "702fb607",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-05-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "6c6d47b5",
@@ -47,55 +146,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "7d77d502",
-      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
-      "url": "https://www.qbitai.com/2026/05/425881.html",
-      "summary": "看到大厂押注Agent生态的新方向",
-      "date": "2026-05-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1a3704e9",
-      "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
-      "url": "https://www.qbitai.com/2026/05/425870.html",
-      "summary": "不再绕回2D",
-      "date": "2026-05-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "5899b169",
       "title": "Building self-improving tax agents with Codex",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "date": "2026-05-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6447b1bf",
-      "title": "OpenAI挖来了个F1级别车手搞公关",
-      "url": "https://www.qbitai.com/2026/05/425857.html",
-      "summary": "曾在Salesforce干了13年营销",
-      "date": "2026-05-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "919d46e1",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "date": "2026-05-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "1c77cec1",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "date": "2026-05-27",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -117,51 +171,6 @@
       "date": "2026-05-27",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "b920d871",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne...",
-      "date": "2026-05-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "25ecfa04",
-      "title": "The Download: puncturing the AI jobs panic",
-      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite th...",
-      "date": "2026-05-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7400dc01",
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all...",
-      "date": "2026-05-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e49dc2a6",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden...",
-      "date": "2026-05-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "86df175a",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "date": "2026-05-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "37be5f05",
@@ -225,15 +234,6 @@
       "date": "2026-05-19",
       "source": "VentureBeat AI",
       "tag": "industry"
-    },
-    {
-      "id": "8feaaef8",
-      "title": "I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "date": "2026-05-19",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e670024b",
