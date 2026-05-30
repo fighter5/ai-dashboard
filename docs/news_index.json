@@ -1,23 +1,149 @@
 {
-  "updated": "2026-05-29 06:16",
+  "updated": "2026-05-30 05:50",
   "items": [
     {
-      "id": "2d453a70",
-      "title": "清华系团队给大模型织了一张“智能算力电网”",
-      "url": "https://www.qbitai.com/2026/05/426353.html",
-      "summary": "单位Token成本降低40%",
+      "id": "283f003a",
+      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "url": "https://www.qbitai.com/2026/05/426643.html",
+      "summary": "让世界模型迈向多智能体交互仿真",
+      "date": "2026-05-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bb031988",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "date": "2026-05-29",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "6aee6b02",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "date": "2026-05-29",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "ef53a7ec",
+      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "url": "https://www.qbitai.com/2026/05/426557.html",
+      "summary": "智驾出事，比亚迪兜底",
       "date": "2026-05-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "1bcd6b65",
-      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
-      "url": "https://www.qbitai.com/2026/05/426314.html",
-      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
-      "date": "2026-05-28",
+      "id": "7fb6b43c",
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the worl...",
+      "date": "2026-05-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7a1c98af",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "date": "2026-05-29",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "be876b17",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "date": "2026-05-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ce0322c5",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "date": "2026-05-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "044381bf",
+      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+      "url": "https://www.qbitai.com/2026/05/426552.html",
+      "summary": "",
+      "date": "2026-05-29",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "9c974855",
+      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+      "url": "https://www.qbitai.com/2026/05/426548.html",
+      "summary": "",
+      "date": "2026-05-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "80a1eb6b",
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent ...",
+      "date": "2026-05-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f706a3b8",
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“...",
+      "date": "2026-05-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5f87b544",
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "url": "https://www.qbitai.com/2026/05/426542.html",
+      "summary": "端侧 AI 是一个系统性工程",
+      "date": "2026-05-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2f358dc4",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ...",
+      "date": "2026-05-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "fdf6c4e9",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "date": "2026-05-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "442e91c1",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "summary": "",
+      "date": "2026-05-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "5549a01e",
@@ -38,24 +164,6 @@
       "tag": "Google"
     },
     {
-      "id": "29ddf319",
-      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
-      "url": "https://www.qbitai.com/2026/05/426293.html",
-      "summary": "国产算力是潮流，先用起来。",
-      "date": "2026-05-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "50385444",
-      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
-      "url": "https://www.qbitai.com/2026/05/426237.html",
-      "summary": "12个月冲击物理AGI的“GPT-3时刻”",
-      "date": "2026-05-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "7e0a41b0",
       "title": "The Download: climate tech goes public and the AI Hype Index returns",
       "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
@@ -74,51 +182,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "7ed1b16d",
-      "title": "Climate tech companies are going public. What’s next?",
-      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which...",
-      "date": "2026-05-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2c6e5bbc",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t...",
-      "date": "2026-05-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bc86cc22",
-      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
-      "url": "https://www.qbitai.com/2026/05/426223.html",
-      "summary": "实现AI技术从“能力”到“价值”的转化",
-      "date": "2026-05-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "78758b8e",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "date": "2026-05-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "702fb607",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-05-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "6c6d47b5",
       "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
@@ -126,33 +189,6 @@
       "date": "2026-05-27",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "58acaee1",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer H...",
-      "date": "2026-05-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b5479ebc",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "date": "2026-05-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5899b169",
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "date": "2026-05-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "7cdcfd61",
@@ -182,47 +218,11 @@
       "tag": "opensource"
     },
     {
-      "id": "503a5ba4",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "summary": "",
-      "date": "2026-05-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "18f4f93f",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
       "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
       "date": "2026-05-22",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "58130303",
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "date": "2026-05-20",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "c1e2764b",
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-      "date": "2026-05-20",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "9e924c46",
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
-      "date": "2026-05-20",
       "source": "Google AI Blog",
       "tag": "Google"
     },
