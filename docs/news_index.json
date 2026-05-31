@@ -1,6 +1,42 @@
 {
-  "updated": "2026-05-30 05:50",
+  "updated": "2026-05-31 06:21",
   "items": [
+    {
+      "id": "110d226b",
+      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/426819.html",
+      "summary": "CLI更像是Agent的母语",
+      "date": "2026-05-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b373372f",
+      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+      "url": "https://www.qbitai.com/2026/05/426793.html",
+      "summary": "与其焦虑AI，不如加入AI",
+      "date": "2026-05-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "47b812a6",
+      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+      "url": "https://www.qbitai.com/2026/05/426706.html",
+      "summary": "（可能是）大模型圈里最会弹钢琴的人",
+      "date": "2026-05-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4640221a",
+      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "url": "https://www.qbitai.com/2026/05/426662.html",
+      "summary": "让世界模型迈向多智能体交互仿真",
+      "date": "2026-05-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "283f003a",
       "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
@@ -27,15 +63,6 @@
       "date": "2026-05-29",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "ef53a7ec",
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "url": "https://www.qbitai.com/2026/05/426557.html",
-      "summary": "智驾出事，比亚迪兜底",
-      "date": "2026-05-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "7fb6b43c",
@@ -74,24 +101,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "044381bf",
-      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-      "url": "https://www.qbitai.com/2026/05/426552.html",
-      "summary": "",
-      "date": "2026-05-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9c974855",
-      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
-      "url": "https://www.qbitai.com/2026/05/426548.html",
-      "summary": "",
-      "date": "2026-05-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "80a1eb6b",
       "title": "The deadly Ebola outbreak is proving difficult to control",
       "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
@@ -108,15 +117,6 @@
       "date": "2026-05-29",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "5f87b544",
-      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
-      "url": "https://www.qbitai.com/2026/05/426542.html",
-      "summary": "端侧 AI 是一个系统性工程",
-      "date": "2026-05-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "2f358dc4",
