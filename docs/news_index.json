@@ -1,48 +1,57 @@
 {
-  "updated": "2026-05-31 06:21",
+  "updated": "2026-06-01 06:59",
   "items": [
     {
-      "id": "110d226b",
-      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/426819.html",
-      "summary": "CLI更像是Agent的母语",
+      "id": "073f6387",
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+      "url": "https://www.qbitai.com/2026/06/427141.html",
+      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
+      "date": "2026-06-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2b24e2f8",
+      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
+      "url": "https://www.qbitai.com/2026/06/427142.html",
+      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
+      "date": "2026-06-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c07a2437",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "summary": "",
+      "date": "2026-06-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "f81f8ec2",
+      "title": "DDIM之父宋佳铭，宣布离职",
+      "url": "https://www.qbitai.com/2026/05/427104.html",
+      "summary": "新的浪潮，还在继续往前推",
       "date": "2026-05-31",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "b373372f",
-      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
-      "url": "https://www.qbitai.com/2026/05/426793.html",
-      "summary": "与其焦虑AI，不如加入AI",
+      "id": "ae11dbb2",
+      "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
+      "url": "https://www.qbitai.com/2026/05/427005.html",
+      "summary": "下一代CUA训练范式",
       "date": "2026-05-31",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "47b812a6",
-      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-      "url": "https://www.qbitai.com/2026/05/426706.html",
-      "summary": "（可能是）大模型圈里最会弹钢琴的人",
-      "date": "2026-05-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4640221a",
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "url": "https://www.qbitai.com/2026/05/426662.html",
-      "summary": "让世界模型迈向多智能体交互仿真",
-      "date": "2026-05-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "283f003a",
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "url": "https://www.qbitai.com/2026/05/426643.html",
-      "summary": "让世界模型迈向多智能体交互仿真",
-      "date": "2026-05-30",
+      "id": "179cb134",
+      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+      "url": "https://www.qbitai.com/2026/05/426991.html",
+      "summary": "我们需要一台「印刷机」",
+      "date": "2026-05-31",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -205,15 +214,6 @@
       "url": "https://huggingface.co/blog/delta-weight-sync",
       "summary": "",
       "date": "2026-05-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "37be5f05",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "summary": "",
-      "date": "2026-05-25",
       "source": "Hugging Face",
       "tag": "opensource"
     },
