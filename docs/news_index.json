@@ -1,23 +1,122 @@
 {
-  "updated": "2026-06-01 06:59",
+  "updated": "2026-06-02 06:43",
   "items": [
     {
-      "id": "073f6387",
-      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "url": "https://www.qbitai.com/2026/06/427141.html",
-      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
+      "id": "0f26c580",
+      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+      "url": "https://www.qbitai.com/2026/06/427729.html",
+      "summary": "全新的机器人强化学习训练架构",
+      "date": "2026-06-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "930da6b1",
+      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+      "url": "https://www.qbitai.com/2026/06/427730.html",
+      "summary": "Qwen3.7-Plus已上线阿里云百炼",
+      "date": "2026-06-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "560e4d03",
+      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+      "url": "https://www.qbitai.com/2026/06/427472.html",
+      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
+      "date": "2026-06-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "843e3e41",
+      "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+      "url": "https://www.qbitai.com/2026/06/427541.html",
+      "summary": "token热潮开始降温",
+      "date": "2026-06-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e4841d06",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "date": "2026-06-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4be32588",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t...",
+      "date": "2026-06-01",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "3cf2c3be",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "summary": "",
+      "date": "2026-06-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "287852ed",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "summary": "",
+      "date": "2026-06-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "40a07887",
+      "title": "The Download: China’s brain implant ambitions",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brai...",
+      "date": "2026-06-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "890b25ed",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "date": "2026-06-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4c7e510b",
+      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+      "url": "https://www.qbitai.com/2026/06/427530.html",
+      "summary": "已经投资了数个世界领先的AI科技公司",
       "date": "2026-06-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2b24e2f8",
-      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
-      "url": "https://www.qbitai.com/2026/06/427142.html",
-      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
+      "id": "0417997d",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u...",
       "date": "2026-06-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "dc7c3c38",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a ...",
+      "date": "2026-06-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "c07a2437",
@@ -27,33 +126,6 @@
       "date": "2026-06-01",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "f81f8ec2",
-      "title": "DDIM之父宋佳铭，宣布离职",
-      "url": "https://www.qbitai.com/2026/05/427104.html",
-      "summary": "新的浪潮，还在继续往前推",
-      "date": "2026-05-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ae11dbb2",
-      "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-      "url": "https://www.qbitai.com/2026/05/427005.html",
-      "summary": "下一代CUA训练范式",
-      "date": "2026-05-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "179cb134",
-      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-      "url": "https://www.qbitai.com/2026/05/426991.html",
-      "summary": "我们需要一台「印刷机」",
-      "date": "2026-05-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "bb031988",
@@ -128,24 +200,6 @@
       "tag": "research"
     },
     {
-      "id": "2f358dc4",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ...",
-      "date": "2026-05-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "fdf6c4e9",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "date": "2026-05-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "442e91c1",
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
@@ -153,15 +207,6 @@
       "date": "2026-05-29",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "5549a01e",
-      "title": "How a new extraction process could unlock the world’s lithium",
-      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more e...",
-      "date": "2026-05-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "3404b326",
@@ -173,33 +218,6 @@
       "tag": "Google"
     },
     {
-      "id": "7e0a41b0",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s ne...",
-      "date": "2026-05-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6b1fa8ae",
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "date": "2026-05-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6c6d47b5",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "summary": "",
-      "date": "2026-05-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "7cdcfd61",
       "title": "Reachy Mini goes fully local",
       "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
@@ -207,24 +225,6 @@
       "date": "2026-05-27",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "3b3971ce",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "summary": "",
-      "date": "2026-05-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "18f4f93f",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-      "date": "2026-05-22",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e7785d8c",
