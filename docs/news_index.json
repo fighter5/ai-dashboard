@@ -1,41 +1,122 @@
 {
-  "updated": "2026-06-02 06:43",
+  "updated": "2026-06-03 06:54",
   "items": [
     {
-      "id": "0f26c580",
-      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
-      "url": "https://www.qbitai.com/2026/06/427729.html",
-      "summary": "全新的机器人强化学习训练架构",
+      "id": "4deacbc2",
+      "title": "刚刚，Anthropic提交了招股书！",
+      "url": "https://www.qbitai.com/2026/06/428407.html",
+      "summary": "最快Q4上市",
+      "date": "2026-06-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d2b62cd3",
+      "title": "刚刚，Meta Skill来了",
+      "url": "https://www.qbitai.com/2026/06/428335.html",
+      "summary": "GitHub最新火爆仓库：OpenSquilla。",
+      "date": "2026-06-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f1565094",
+      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
+      "url": "https://www.qbitai.com/2026/06/428092.html",
+      "summary": "还能带你打卡老黄同款南锣路线",
       "date": "2026-06-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "930da6b1",
-      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
-      "url": "https://www.qbitai.com/2026/06/427730.html",
-      "summary": "Qwen3.7-Plus已上线阿里云百炼",
+      "id": "09ead51e",
+      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+      "url": "https://www.qbitai.com/2026/06/428003.html",
+      "summary": "还挖走了苏炜杰",
       "date": "2026-06-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "560e4d03",
-      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
-      "url": "https://www.qbitai.com/2026/06/427472.html",
-      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
+      "id": "e360d127",
+      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+      "url": "https://www.qbitai.com/2026/06/427922.html",
+      "summary": "平台入驻全球达人已超10万",
       "date": "2026-06-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "843e3e41",
-      "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
-      "url": "https://www.qbitai.com/2026/06/427541.html",
-      "summary": "token热潮开始降温",
+      "id": "c9edca22",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "summary": "",
       "date": "2026-06-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8462d1d0",
+      "title": "The Download: AI can run your admin department now",
+      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounti...",
+      "date": "2026-06-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "fa84d034",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "date": "2026-06-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7c39f76d",
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populatio...",
+      "date": "2026-06-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e0ba9cd4",
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t...",
+      "date": "2026-06-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9b923bad",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "date": "2026-06-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ffa5f8be",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "date": "2026-06-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "aaeba9d9",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "date": "2026-06-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "e4841d06",
@@ -83,33 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "890b25ed",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "date": "2026-06-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4c7e510b",
-      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
-      "url": "https://www.qbitai.com/2026/06/427530.html",
-      "summary": "已经投资了数个世界领先的AI科技公司",
-      "date": "2026-06-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0417997d",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u...",
-      "date": "2026-06-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "dc7c3c38",
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
       "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
@@ -146,15 +200,6 @@
       "tag": "Google"
     },
     {
-      "id": "7fb6b43c",
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the worl...",
-      "date": "2026-05-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "7a1c98af",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -162,42 +207,6 @@
       "date": "2026-05-29",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "be876b17",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "date": "2026-05-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ce0322c5",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "date": "2026-05-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "80a1eb6b",
-      "title": "The deadly Ebola outbreak is proving difficult to control",
-      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent ...",
-      "date": "2026-05-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f706a3b8",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“...",
-      "date": "2026-05-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "442e91c1",
@@ -216,15 +225,6 @@
       "date": "2026-05-28",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "7cdcfd61",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "summary": "",
-      "date": "2026-05-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e7785d8c",
