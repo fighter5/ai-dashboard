@@ -1,50 +1,131 @@
 {
-  "updated": "2026-06-03 06:54",
+  "updated": "2026-06-04 06:44",
   "items": [
     {
-      "id": "4deacbc2",
-      "title": "刚刚，Anthropic提交了招股书！",
-      "url": "https://www.qbitai.com/2026/06/428407.html",
-      "summary": "最快Q4上市",
+      "id": "73733501",
+      "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
+      "url": "https://www.qbitai.com/2026/06/428790.html",
+      "summary": "”隐空间世界模型很难，但我们一定要做“",
+      "date": "2026-06-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d5d12c08",
+      "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+      "url": "https://www.qbitai.com/2026/06/428791.html",
+      "summary": "不多不少，只要150",
+      "date": "2026-06-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9d99e9ea",
+      "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+      "url": "https://www.qbitai.com/2026/06/428778.html",
+      "summary": "甩开视觉内卷",
+      "date": "2026-06-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "53a4a6fd",
+      "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
+      "url": "https://www.qbitai.com/2026/06/428648.html",
+      "summary": "桌面、电脑、手机，三端打通",
+      "date": "2026-06-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c9b00cc1",
+      "title": "刚刚，李飞飞亲自下场定义世界模型",
+      "url": "https://www.qbitai.com/2026/06/428752.html",
+      "summary": "渲染、模拟、规划，三大功能的边界正在消融",
+      "date": "2026-06-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "75963495",
+      "title": "How virtual power plants could provide energy for data centers",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual pow...",
       "date": "2026-06-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "d2b62cd3",
-      "title": "刚刚，Meta Skill来了",
-      "url": "https://www.qbitai.com/2026/06/428335.html",
-      "summary": "GitHub最新火爆仓库：OpenSquilla。",
+      "id": "1a654943",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "date": "2026-06-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "f1565094",
-      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
-      "url": "https://www.qbitai.com/2026/06/428092.html",
-      "summary": "还能带你打卡老黄同款南锣路线",
-      "date": "2026-06-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "a799e1e6",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas...",
+      "date": "2026-06-03",
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
-      "id": "09ead51e",
-      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
-      "url": "https://www.qbitai.com/2026/06/428003.html",
-      "summary": "还挖走了苏炜杰",
-      "date": "2026-06-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "6e68da9f",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "summary": "",
+      "date": "2026-06-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "e360d127",
-      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
-      "url": "https://www.qbitai.com/2026/06/427922.html",
-      "summary": "平台入驻全球达人已超10万",
-      "date": "2026-06-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "3f1f21c2",
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less th...",
+      "date": "2026-06-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0af0c5c7",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "date": "2026-06-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b918a552",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "date": "2026-06-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "985e9a4f",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "date": "2026-06-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "951093dd",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "summary": "",
+      "date": "2026-06-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "c9edca22",
@@ -92,42 +173,6 @@
       "tag": "research"
     },
     {
-      "id": "9b923bad",
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "date": "2026-06-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ffa5f8be",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "date": "2026-06-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "aaeba9d9",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "date": "2026-06-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "e4841d06",
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "date": "2026-06-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "4be32588",
       "title": "How we used Gemini to build Google I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
@@ -149,33 +194,6 @@
       "id": "287852ed",
       "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
       "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "summary": "",
-      "date": "2026-06-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "40a07887",
-      "title": "The Download: China’s brain implant ambitions",
-      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brai...",
-      "date": "2026-06-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "dc7c3c38",
-      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a ...",
-      "date": "2026-06-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c07a2437",
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
       "summary": "",
       "date": "2026-06-01",
       "source": "Hugging Face",
@@ -205,24 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
       "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "442e91c1",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "summary": "",
-      "date": "2026-05-29",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "3404b326",
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
-      "date": "2026-05-28",
       "source": "Google AI Blog",
       "tag": "Google"
     },
