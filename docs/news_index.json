@@ -1,50 +1,122 @@
 {
-  "updated": "2026-06-04 06:44",
+  "updated": "2026-06-05 06:25",
   "items": [
     {
-      "id": "73733501",
-      "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
-      "url": "https://www.qbitai.com/2026/06/428790.html",
-      "summary": "”隐空间世界模型很难，但我们一定要做“",
+      "id": "d22a3054",
+      "title": "刚刚，姚顺雨现身！公开回应腾讯AI落后了吗？",
+      "url": "https://www.qbitai.com/2026/06/429285.html",
+      "summary": "现场爆满！",
+      "date": "2026-06-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "16b629a3",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "summary": "",
+      "date": "2026-06-04",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "4758e963",
+      "title": "重估比亚迪，从智驾开始",
+      "url": "https://www.qbitai.com/2026/06/429192.html",
+      "summary": "",
       "date": "2026-06-04",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d5d12c08",
-      "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
-      "url": "https://www.qbitai.com/2026/06/428791.html",
-      "summary": "不多不少，只要150",
+      "id": "5819201f",
+      "title": "中国足球小将夺冠，比亚迪携手足球少年走向世界",
+      "url": "https://www.qbitai.com/2026/06/429186.html",
+      "summary": "",
       "date": "2026-06-04",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9d99e9ea",
-      "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
-      "url": "https://www.qbitai.com/2026/06/428778.html",
-      "summary": "甩开视觉内卷",
+      "id": "2bae54a2",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "summary": "",
+      "date": "2026-06-04",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "884dc455",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated...",
+      "date": "2026-06-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ae995b9c",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "date": "2026-06-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "756ca097",
+      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+      "url": "https://www.qbitai.com/2026/06/429130.html",
+      "summary": "率先实现物理AI闭环飞轮",
       "date": "2026-06-04",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "53a4a6fd",
-      "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
-      "url": "https://www.qbitai.com/2026/06/428648.html",
-      "summary": "桌面、电脑、手机，三端打通",
+      "id": "ce50fb25",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a law...",
+      "date": "2026-06-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "785dbaa6",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "date": "2026-06-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "213bbaa6",
+      "title": "连GitLab都开始裁程序员了",
+      "url": "https://www.qbitai.com/2026/06/429117.html",
+      "summary": "硅谷科技公司Q1裁员同比增长40%",
       "date": "2026-06-04",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c9b00cc1",
-      "title": "刚刚，李飞飞亲自下场定义世界模型",
-      "url": "https://www.qbitai.com/2026/06/428752.html",
-      "summary": "渲染、模拟、规划，三大功能的边界正在消融",
+      "id": "5be6c339",
+      "title": "Biodefense in the Intelligence Age",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "summary": "An action plan for AI-powered biological resilience",
       "date": "2026-06-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4da7ced3",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "summary": "",
+      "date": "2026-06-04",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "75963495",
@@ -101,38 +173,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "b918a552",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "date": "2026-06-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "985e9a4f",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "date": "2026-06-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "951093dd",
       "title": "Adding MCP Tools to Reachy Mini",
       "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
       "summary": "",
       "date": "2026-06-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c9edca22",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "summary": "",
-      "date": "2026-06-02",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -146,33 +191,6 @@
       "tag": "research"
     },
     {
-      "id": "fa84d034",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "date": "2026-06-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7c39f76d",
-      "title": "Rehumanizing global health care with agentic AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populatio...",
-      "date": "2026-06-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e0ba9cd4",
-      "title": "How small businesses can leverage AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t...",
-      "date": "2026-06-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "4be32588",
       "title": "How we used Gemini to build Google I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
@@ -180,24 +198,6 @@
       "date": "2026-06-01",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "3cf2c3be",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "summary": "",
-      "date": "2026-06-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "287852ed",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "summary": "",
-      "date": "2026-06-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "bb031988",
