@@ -1,14 +1,95 @@
 {
-  "updated": "2026-06-05 06:25",
+  "updated": "2026-06-06 05:55",
   "items": [
     {
-      "id": "d22a3054",
-      "title": "刚刚，姚顺雨现身！公开回应腾讯AI落后了吗？",
-      "url": "https://www.qbitai.com/2026/06/429285.html",
-      "summary": "现场爆满！",
+      "id": "12ce7476",
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "summary": "形成「鞋履+人工智能数据」双主业",
+      "date": "2026-06-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4acad91f",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "summary": "",
+      "date": "2026-06-05",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "752c96ff",
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "summary": "May AI recap",
+      "date": "2026-06-05",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "54912687",
+      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "url": "https://www.qbitai.com/2026/06/431045.html",
+      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」",
       "date": "2026-06-05",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "224dd616",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security th...",
+      "date": "2026-06-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "36a04dc6",
+      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "url": "https://www.qbitai.com/2026/06/431033.html",
+      "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
+      "date": "2026-06-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "014b1c36",
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "url": "https://www.qbitai.com/2026/06/431027.html",
+      "summary": "",
+      "date": "2026-06-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cc41ba55",
+      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "url": "https://www.qbitai.com/2026/06/430757.html",
+      "summary": "",
+      "date": "2026-06-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5ecdba61",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of ...",
+      "date": "2026-06-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "94d4f7da",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ...",
+      "date": "2026-06-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "16b629a3",
@@ -18,24 +99,6 @@
       "date": "2026-06-04",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "4758e963",
-      "title": "重估比亚迪，从智驾开始",
-      "url": "https://www.qbitai.com/2026/06/429192.html",
-      "summary": "",
-      "date": "2026-06-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5819201f",
-      "title": "中国足球小将夺冠，比亚迪携手足球少年走向世界",
-      "url": "https://www.qbitai.com/2026/06/429186.html",
-      "summary": "",
-      "date": "2026-06-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "2bae54a2",
@@ -65,15 +128,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "756ca097",
-      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
-      "url": "https://www.qbitai.com/2026/06/429130.html",
-      "summary": "率先实现物理AI闭环飞轮",
-      "date": "2026-06-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "ce50fb25",
       "title": "How courts are coping with a flood of AI-generated lawsuits",
       "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
@@ -92,15 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "213bbaa6",
-      "title": "连GitLab都开始裁程序员了",
-      "url": "https://www.qbitai.com/2026/06/429117.html",
-      "summary": "硅谷科技公司Q1裁员同比增长40%",
-      "date": "2026-06-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "5be6c339",
       "title": "Biodefense in the Intelligence Age",
       "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
@@ -117,15 +162,6 @@
       "date": "2026-06-04",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "75963495",
-      "title": "How virtual power plants could provide energy for data centers",
-      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual pow...",
-      "date": "2026-06-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "1a654943",
@@ -155,15 +191,6 @@
       "tag": "opensource"
     },
     {
-      "id": "3f1f21c2",
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less th...",
-      "date": "2026-06-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "0af0c5c7",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "url": "https://openai.com/index/wasmer",
@@ -171,24 +198,6 @@
       "date": "2026-06-03",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "951093dd",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "summary": "",
-      "date": "2026-06-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8462d1d0",
-      "title": "The Download: AI can run your admin department now",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounti...",
-      "date": "2026-06-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "4be32588",
@@ -213,15 +222,6 @@
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "summary": "Gemini Omni & Gemini 3.5 hero",
-      "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "7a1c98af",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "date": "2026-05-29",
       "source": "Google AI Blog",
       "tag": "Google"
