@@ -1,23 +1,59 @@
 {
-  "updated": "2026-06-06 05:55",
+  "updated": "2026-06-07 06:26",
   "items": [
     {
-      "id": "12ce7476",
-      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
-      "url": "https://www.qbitai.com/2026/06/431056.html",
-      "summary": "形成「鞋履+人工智能数据」双主业",
+      "id": "ab98557c",
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "url": "https://www.qbitai.com/2026/06/431487.html",
+      "summary": "花旗美银都是客户",
+      "date": "2026-06-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "82b53175",
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "url": "https://www.qbitai.com/2026/06/431401.html",
+      "summary": "高一致性、低延迟、实时超分全梭哈",
+      "date": "2026-06-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ec2b897e",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "summary": "",
+      "date": "2026-06-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "d60002ea",
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "url": "https://www.qbitai.com/2026/06/431371.html",
+      "summary": "造火箭的正在批量造巨富",
       "date": "2026-06-06",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "4acad91f",
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "summary": "",
-      "date": "2026-06-05",
-      "source": "Hugging Face",
-      "tag": "opensource"
+      "id": "7ffc2b39",
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "url": "https://www.qbitai.com/2026/06/431287.html",
+      "summary": "观众投币定前十！",
+      "date": "2026-06-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "09a62f53",
+      "title": "Hinton吹哨了：AI已经有意识！",
+      "url": "https://www.qbitai.com/2026/06/431349.html",
+      "summary": "人类得接受自己不再是唯一智能生命体",
+      "date": "2026-06-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
     },
     {
       "id": "752c96ff",
@@ -29,15 +65,6 @@
       "tag": "Google"
     },
     {
-      "id": "54912687",
-      "title": "有人靠CPU把AI算力密度卷到了新高度",
-      "url": "https://www.qbitai.com/2026/06/431045.html",
-      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」",
-      "date": "2026-06-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "224dd616",
       "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
       "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
@@ -45,33 +72,6 @@
       "date": "2026-06-05",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "36a04dc6",
-      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
-      "url": "https://www.qbitai.com/2026/06/431033.html",
-      "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
-      "date": "2026-06-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "014b1c36",
-      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
-      "url": "https://www.qbitai.com/2026/06/431027.html",
-      "summary": "",
-      "date": "2026-06-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "cc41ba55",
-      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
-      "url": "https://www.qbitai.com/2026/06/430757.html",
-      "summary": "",
-      "date": "2026-06-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "5ecdba61",
