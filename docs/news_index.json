@@ -1,59 +1,104 @@
 {
-  "updated": "2026-06-08 06:46",
+  "updated": "2026-06-09 06:11",
   "items": [
     {
-      "id": "b634f1b2",
-      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
-      "url": "https://www.qbitai.com/2026/06/432084.html",
-      "summary": "最值得看的不是火箭是AI",
-      "date": "2026-06-08",
+      "id": "b9913caa",
+      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+      "url": "https://www.qbitai.com/2026/06/433478.html",
+      "summary": "效果比肩GPT-5.4",
+      "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6946d729",
-      "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
-      "url": "https://www.qbitai.com/2026/06/432062.html",
-      "summary": "黄仁勋要算一万步，这家公司的芯片只需一步",
-      "date": "2026-06-08",
+      "id": "157da64f",
+      "title": "你天天刷的小红书，正在长出一个GitHub",
+      "url": "https://www.qbitai.com/2026/06/433066.html",
+      "summary": "RED Skill预计7月全量上线",
+      "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0e1b4f8e",
-      "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
-      "url": "https://www.qbitai.com/2026/06/432055.html",
-      "summary": "文远知行携L2++ 一段式端到端方案WRD 3.0参展",
-      "date": "2026-06-08",
+      "id": "66aa845a",
+      "title": "国产通用大模型第一梯队，来新人了？！",
+      "url": "https://www.qbitai.com/2026/06/432747.html",
+      "summary": "不卷参数，卷“智能密度×Token价值”",
+      "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "347aba1d",
-      "title": "Amazing Digital Dentures (a failed project)",
-      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "id": "27e271a2",
+      "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+      "url": "https://www.qbitai.com/2026/06/432735.html",
+      "summary": "追赶老马与微软",
+      "date": "2026-06-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b6b256be",
+      "title": "腾讯想让企业打开AI的方式只剩一个",
+      "url": "https://www.qbitai.com/2026/06/432631.html",
+      "summary": "一个入口串起全栈智能体",
+      "date": "2026-06-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c39ad57d",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "date": "2026-06-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "84c1f92c",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far ...",
+      "date": "2026-06-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1b9b9c10",
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different ho...",
+      "date": "2026-06-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "536604e9",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "date": "2026-06-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f4ee2a7a",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "date": "2026-06-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4cd526a0",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "summary": "",
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "dea34742",
-      "title": "有余凯不投的地平线离职创业员工吗？",
-      "url": "https://www.qbitai.com/2026/06/431931.html",
-      "summary": "「放任」人才外流的反常操作，只是格局使然吗？",
-      "date": "2026-06-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "49f85d59",
-      "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-      "url": "https://www.qbitai.com/2026/06/431694.html",
-      "summary": "人类历史最大规模的IPO招股开始了！",
-      "date": "2026-06-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "752c96ff",
@@ -110,15 +155,6 @@
       "tag": "opensource"
     },
     {
-      "id": "884dc455",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated...",
-      "date": "2026-06-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "ae995b9c",
       "title": "How Endava is redesigning software delivery around AI agents",
       "url": "https://openai.com/index/endava-frontiers",
@@ -128,28 +164,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ce50fb25",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a law...",
-      "date": "2026-06-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "785dbaa6",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "date": "2026-06-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5be6c339",
-      "title": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "summary": "An action plan for AI-powered biological resilience",
       "date": "2026-06-04",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -162,15 +180,6 @@
       "date": "2026-06-04",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "1a654943",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "date": "2026-06-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "a799e1e6",
@@ -189,15 +198,6 @@
       "date": "2026-06-03",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "0af0c5c7",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "date": "2026-06-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "4be32588",
