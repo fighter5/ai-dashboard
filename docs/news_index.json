@@ -1,50 +1,149 @@
 {
-  "updated": "2026-06-09 06:11",
+  "updated": "2026-06-10 06:26",
   "items": [
     {
-      "id": "b9913caa",
-      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
-      "url": "https://www.qbitai.com/2026/06/433478.html",
-      "summary": "效果比肩GPT-5.4",
+      "id": "38351408",
+      "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
+      "url": "https://www.qbitai.com/2026/06/433590.html",
+      "summary": "一个更强的模型上桌了",
       "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "157da64f",
-      "title": "你天天刷的小红书，正在长出一个GitHub",
-      "url": "https://www.qbitai.com/2026/06/433066.html",
-      "summary": "RED Skill预计7月全量上线",
+      "id": "92ac3196",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "summary": "",
+      "date": "2026-06-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "2428838e",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "summary": "",
+      "date": "2026-06-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "26692a34",
+      "title": "内蒙跑通AI逆袭新解法",
+      "url": "https://www.qbitai.com/2026/06/433565.html",
+      "summary": "全行业的Token焦虑何解？",
       "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "66aa845a",
-      "title": "国产通用大模型第一梯队，来新人了？！",
-      "url": "https://www.qbitai.com/2026/06/432747.html",
-      "summary": "不卷参数，卷“智能密度×Token价值”",
+      "id": "e7ad9376",
+      "title": "理想智驾一号位创业，落户北京亦庄了",
+      "url": "https://www.qbitai.com/2026/06/433560.html",
+      "summary": "10天跻身具身独角兽",
       "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "27e271a2",
-      "title": "DeepSeek开招土木老哥：自建GW级数据中心",
-      "url": "https://www.qbitai.com/2026/06/432735.html",
-      "summary": "追赶老马与微软",
+      "id": "52b0b046",
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenati...",
+      "date": "2026-06-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "de0a2342",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "date": "2026-06-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6d8d3867",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "summary": "",
+      "date": "2026-06-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "25761d58",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterp...",
+      "date": "2026-06-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "135288a6",
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has lea...",
+      "date": "2026-06-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "fbb44934",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "date": "2026-06-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "5a0f8f20",
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 ...",
+      "date": "2026-06-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2403a171",
+      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+      "url": "https://www.qbitai.com/2026/06/433517.html",
+      "summary": "祝大家都能找到，属于自己的驱动力",
       "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "b6b256be",
-      "title": "腾讯想让企业打开AI的方式只剩一个",
-      "url": "https://www.qbitai.com/2026/06/432631.html",
-      "summary": "一个入口串起全栈智能体",
+      "id": "24eb7d05",
+      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+      "url": "https://www.qbitai.com/2026/06/433508.html",
+      "summary": "",
       "date": "2026-06-09",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "65edefcb",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "date": "2026-06-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "eb3e2d9f",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "summary": "",
+      "date": "2026-06-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "c39ad57d",
@@ -65,28 +164,10 @@
       "tag": "research"
     },
     {
-      "id": "1b9b9c10",
-      "title": "Why this year’s World Cup ball may not fly as far",
-      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
-      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different ho...",
-      "date": "2026-06-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "536604e9",
       "title": "Built to benefit everyone: our plan",
       "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "date": "2026-06-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f4ee2a7a",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
       "date": "2026-06-08",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -110,78 +191,6 @@
       "tag": "Google"
     },
     {
-      "id": "224dd616",
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security th...",
-      "date": "2026-06-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5ecdba61",
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of ...",
-      "date": "2026-06-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "94d4f7da",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ...",
-      "date": "2026-06-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "16b629a3",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "summary": "",
-      "date": "2026-06-04",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "2bae54a2",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "summary": "",
-      "date": "2026-06-04",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "ae995b9c",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "date": "2026-06-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "785dbaa6",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "date": "2026-06-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4da7ced3",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "summary": "",
-      "date": "2026-06-04",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "a799e1e6",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
@@ -189,15 +198,6 @@
       "date": "2026-06-03",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "6e68da9f",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "summary": "",
-      "date": "2026-06-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "4be32588",
