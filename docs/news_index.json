@@ -1,50 +1,104 @@
 {
-  "updated": "2026-06-10 06:26",
+  "updated": "2026-06-11 06:51",
   "items": [
     {
-      "id": "38351408",
-      "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
-      "url": "https://www.qbitai.com/2026/06/433590.html",
-      "summary": "一个更强的模型上桌了",
-      "date": "2026-06-09",
+      "id": "628f27f8",
+      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "url": "https://www.qbitai.com/2026/06/434317.html",
+      "summary": "Meshy发布全球首个3D AI Agent",
+      "date": "2026-06-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "92ac3196",
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "summary": "",
-      "date": "2026-06-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "2428838e",
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "summary": "",
-      "date": "2026-06-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "26692a34",
-      "title": "内蒙跑通AI逆袭新解法",
-      "url": "https://www.qbitai.com/2026/06/433565.html",
-      "summary": "全行业的Token焦虑何解？",
-      "date": "2026-06-09",
+      "id": "bdf698d6",
+      "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
+      "url": "https://www.qbitai.com/2026/06/434316.html",
+      "summary": "用扩散模型生成文字",
+      "date": "2026-06-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e7ad9376",
-      "title": "理想智驾一号位创业，落户北京亦庄了",
-      "url": "https://www.qbitai.com/2026/06/433560.html",
-      "summary": "10天跻身具身独角兽",
-      "date": "2026-06-09",
+      "id": "c6d10a62",
+      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+      "url": "https://www.qbitai.com/2026/06/434326.html",
+      "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
+      "date": "2026-06-11",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "1afb4773",
+      "title": "AI短剧工具赛道，年度最大单笔融资来了",
+      "url": "https://www.qbitai.com/2026/06/434298.html",
+      "summary": "年度最大单笔融资来了",
+      "date": "2026-06-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5679466d",
+      "title": "谷歌I/O最出圈的一幕，发生在抖音？？？",
+      "url": "https://www.qbitai.com/2026/06/434267.html",
+      "summary": "看12位抖音创作者如何”翻译“AI",
+      "date": "2026-06-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f5fdb80f",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "date": "2026-06-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c6fecd91",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "date": "2026-06-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1076dadb",
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window ...",
+      "date": "2026-06-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2c872de7",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "date": "2026-06-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ea2ec57e",
+      "title": "The “steroid olympics” were a circus—and a window into our culture",
+      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, ...",
+      "date": "2026-06-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e527af61",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "date": "2026-06-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "52b0b046",
@@ -65,15 +119,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "6d8d3867",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "summary": "",
-      "date": "2026-06-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "25761d58",
       "title": "Learning to lead in a hybrid human-AI enterprise",
       "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
@@ -90,96 +135,6 @@
       "date": "2026-06-09",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "fbb44934",
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "date": "2026-06-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5a0f8f20",
-      "title": "Five things you need to know about AI",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 ...",
-      "date": "2026-06-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2403a171",
-      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "url": "https://www.qbitai.com/2026/06/433517.html",
-      "summary": "祝大家都能找到，属于自己的驱动力",
-      "date": "2026-06-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "24eb7d05",
-      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "url": "https://www.qbitai.com/2026/06/433508.html",
-      "summary": "",
-      "date": "2026-06-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "65edefcb",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "date": "2026-06-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "eb3e2d9f",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "summary": "",
-      "date": "2026-06-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c39ad57d",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "date": "2026-06-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "84c1f92c",
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far ...",
-      "date": "2026-06-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "536604e9",
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "date": "2026-06-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4cd526a0",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "summary": "",
-      "date": "2026-06-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "752c96ff",
