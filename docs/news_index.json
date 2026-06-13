@@ -1,32 +1,113 @@
 {
-  "updated": "2026-06-12 06:44",
+  "updated": "2026-06-13 06:18",
   "items": [
     {
-      "id": "8f108a40",
-      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "url": "https://www.qbitai.com/2026/06/434774.html",
-      "summary": "最难档通通零蛋",
+      "id": "7262eb30",
+      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "url": "https://www.qbitai.com/2026/06/435339.html",
+      "summary": "马斯克成人类历史首位万亿美金富豪",
+      "date": "2026-06-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e278683e",
+      "title": "神了，世界杯第一天真按千问剧本踢了",
+      "url": "https://www.qbitai.com/2026/06/435321.html",
+      "summary": "比分、红牌、绝杀全押中",
       "date": "2026-06-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "cbd26d94",
-      "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-      "url": "https://www.qbitai.com/2026/06/434761.html",
+      "id": "446830a5",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "summary": "",
       "date": "2026-06-12",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "2ad84e39",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to re...",
+      "date": "2026-06-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "64620bfb",
+      "title": "You do your own time",
+      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming...",
+      "date": "2026-06-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "31e268b2",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "date": "2026-06-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "99f7213b",
+      "title": "千里收购了一家毫米波雷达公司",
+      "url": "https://www.qbitai.com/2026/06/435196.html",
+      "summary": "布局全栈闭环",
+      "date": "2026-06-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "cfed0649",
-      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
-      "url": "https://www.qbitai.com/2026/06/434733.html",
-      "summary": "光散户就给马斯克冲了700亿刀",
+      "id": "3553f6a4",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatm...",
+      "date": "2026-06-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1930a634",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here....",
+      "date": "2026-06-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e651c515",
+      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
+      "url": "https://www.qbitai.com/2026/06/435192.html",
+      "summary": "助力LP与GP高效合",
       "date": "2026-06-12",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "3c955216",
+      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
+      "url": "https://www.qbitai.com/2026/06/433717.html",
+      "summary": "那位被OpenAI开除的股神",
+      "date": "2026-06-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e5e9bd93",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "date": "2026-06-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "a004c2b1",
@@ -47,64 +128,10 @@
       "tag": "research"
     },
     {
-      "id": "5fa34051",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A...",
-      "date": "2026-06-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "869cad82",
-      "title": "Job titles of the future: Nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-      "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes ...",
-      "date": "2026-06-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d64a6f7d",
-      "title": "Inside soccer’s data renaissance",
-      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans migh...",
-      "date": "2026-06-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d853c3a3",
-      "title": "Why China is betting on big nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-      "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of tot...",
-      "date": "2026-06-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ee717c42",
-      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
-      "url": "https://www.qbitai.com/2026/06/434571.html",
-      "summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
-      "date": "2026-06-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "beaac211",
-      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
-      "url": "https://www.qbitai.com/2026/06/434558.html",
-      "summary": "前期做了40万AI考生压测",
-      "date": "2026-06-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f5fdb80f",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "id": "bfbf641b",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "date": "2026-06-11",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -114,15 +141,6 @@
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "date": "2026-06-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bfbf641b",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "date": "2026-06-11",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -144,15 +162,6 @@
       "date": "2026-06-11",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "c6fecd91",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "date": "2026-06-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "2428838e",
@@ -178,15 +187,6 @@
       "url": "https://huggingface.co/blog/github-ci-hf-jobs",
       "summary": "",
       "date": "2026-06-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "4cd526a0",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "summary": "",
-      "date": "2026-06-08",
       "source": "Hugging Face",
       "tag": "opensource"
     },
