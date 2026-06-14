@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-13 06:18",
+  "updated": "2026-06-14 06:43",
   "items": [
+    {
+      "id": "591ef998",
+      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+      "url": "https://www.qbitai.com/2026/06/435483.html",
+      "summary": "模型参数量只有1B",
+      "date": "2026-06-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "259cd821",
+      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+      "url": "https://www.qbitai.com/2026/06/435455.html",
+      "summary": "一起构建下一代物理世界的智能系统",
+      "date": "2026-06-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d98bcec0",
+      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "url": "https://www.qbitai.com/2026/06/435394.html",
+      "summary": "",
+      "date": "2026-06-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "7262eb30",
       "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
@@ -56,15 +83,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "99f7213b",
-      "title": "千里收购了一家毫米波雷达公司",
-      "url": "https://www.qbitai.com/2026/06/435196.html",
-      "summary": "布局全栈闭环",
-      "date": "2026-06-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "3553f6a4",
       "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
       "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
@@ -81,24 +99,6 @@
       "date": "2026-06-12",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "e651c515",
-      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-      "url": "https://www.qbitai.com/2026/06/435192.html",
-      "summary": "助力LP与GP高效合",
-      "date": "2026-06-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3c955216",
-      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-      "url": "https://www.qbitai.com/2026/06/433717.html",
-      "summary": "那位被OpenAI开除的股神",
-      "date": "2026-06-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "e5e9bd93",
