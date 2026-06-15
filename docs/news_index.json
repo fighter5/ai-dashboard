@@ -1,48 +1,57 @@
 {
-  "updated": "2026-06-14 06:43",
+  "updated": "2026-06-15 07:23",
   "items": [
+    {
+      "id": "017e90b3",
+      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+      "url": "https://www.qbitai.com/2026/06/435574.html",
+      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。",
+      "date": "2026-06-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0efaf3e9",
+      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+      "url": "https://www.qbitai.com/2026/06/435558.html",
+      "summary": "原来最强AI不是一个AI",
+      "date": "2026-06-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "74dccd8c",
+      "title": "Agent时代，华为云开始重新造地基了",
+      "url": "https://www.qbitai.com/2026/06/435531.html",
+      "summary": "Agentic新基建",
+      "date": "2026-06-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "45abcdd3",
+      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
+      "url": "https://www.qbitai.com/2026/06/435520.html",
+      "summary": "昆仑万维将持续深耕，步履不停",
+      "date": "2026-06-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9b41ef63",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "date": "2026-06-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "591ef998",
       "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
       "url": "https://www.qbitai.com/2026/06/435483.html",
       "summary": "模型参数量只有1B",
       "date": "2026-06-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "259cd821",
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "url": "https://www.qbitai.com/2026/06/435455.html",
-      "summary": "一起构建下一代物理世界的智能系统",
-      "date": "2026-06-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d98bcec0",
-      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-      "url": "https://www.qbitai.com/2026/06/435394.html",
-      "summary": "",
-      "date": "2026-06-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7262eb30",
-      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-      "url": "https://www.qbitai.com/2026/06/435339.html",
-      "summary": "马斯克成人类历史首位万亿美金富豪",
-      "date": "2026-06-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e278683e",
-      "title": "神了，世界杯第一天真按千问剧本踢了",
-      "url": "https://www.qbitai.com/2026/06/435321.html",
-      "summary": "比分、红牌、绝杀全押中",
-      "date": "2026-06-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -146,29 +155,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "9b77dce7",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "date": "2026-06-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "9a812e42",
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
       "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "summary": "",
       "date": "2026-06-11",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "2428838e",
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "summary": "",
-      "date": "2026-06-09",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -187,6 +178,15 @@
       "url": "https://huggingface.co/blog/github-ci-hf-jobs",
       "summary": "",
       "date": "2026-06-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "4cd526a0",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "summary": "",
+      "date": "2026-06-08",
       "source": "Hugging Face",
       "tag": "opensource"
     },
