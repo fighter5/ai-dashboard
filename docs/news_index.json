@@ -1,41 +1,95 @@
 {
-  "updated": "2026-06-15 07:23",
+  "updated": "2026-06-16 07:29",
   "items": [
     {
-      "id": "017e90b3",
-      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
-      "url": "https://www.qbitai.com/2026/06/435574.html",
-      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。",
+      "id": "3f5b03aa",
+      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "url": "https://www.qbitai.com/2026/06/435873.html",
+      "summary": "边走、边看、边思考",
+      "date": "2026-06-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "26460d35",
+      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+      "url": "https://www.qbitai.com/2026/06/435859.html",
+      "summary": "",
+      "date": "2026-06-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1eea9a93",
+      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
+      "url": "https://www.qbitai.com/2026/06/435853.html",
+      "summary": "成为全球领先的通用人工智能科技公司",
+      "date": "2026-06-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bdfd1400",
+      "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
+      "url": "https://www.qbitai.com/2026/06/435861.html",
+      "summary": "专为 Agent 设计的 AI 搜索层服务",
+      "date": "2026-06-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2e6677ef",
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight fr...",
+      "date": "2026-06-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5e6df513",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (...",
+      "date": "2026-06-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "72386a5f",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "date": "2026-06-15",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "6e2d00e6",
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "url": "https://www.qbitai.com/2026/06/435848.html",
+      "summary": "",
       "date": "2026-06-15",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0efaf3e9",
-      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-      "url": "https://www.qbitai.com/2026/06/435558.html",
-      "summary": "原来最强AI不是一个AI",
+      "id": "c432632d",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. S...",
       "date": "2026-06-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "74dccd8c",
-      "title": "Agent时代，华为云开始重新造地基了",
-      "url": "https://www.qbitai.com/2026/06/435531.html",
-      "summary": "Agentic新基建",
+      "id": "2860d43c",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will ...",
       "date": "2026-06-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "45abcdd3",
-      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
-      "url": "https://www.qbitai.com/2026/06/435520.html",
-      "summary": "昆仑万维将持续深耕，步履不停",
-      "date": "2026-06-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "9b41ef63",
@@ -45,15 +99,6 @@
       "date": "2026-06-14",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "591ef998",
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-      "url": "https://www.qbitai.com/2026/06/435483.html",
-      "summary": "模型参数量只有1B",
-      "date": "2026-06-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "446830a5",
@@ -74,15 +119,6 @@
       "tag": "research"
     },
     {
-      "id": "64620bfb",
-      "title": "You do your own time",
-      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
-      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming...",
-      "date": "2026-06-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "31e268b2",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -90,24 +126,6 @@
       "date": "2026-06-12",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "3553f6a4",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatm...",
-      "date": "2026-06-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1930a634",
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here....",
-      "date": "2026-06-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "e5e9bd93",
@@ -128,19 +146,10 @@
       "tag": "Google"
     },
     {
-      "id": "2e52d711",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in...",
-      "date": "2026-06-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bfbf641b",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "id": "f5fdb80f",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "date": "2026-06-11",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t...",
       "date": "2026-06-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "bb031988",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "date": "2026-05-29",
       "source": "Google AI Blog",
       "tag": "Google"
     },
