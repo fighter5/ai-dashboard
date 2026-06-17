@@ -1,41 +1,86 @@
 {
-  "updated": "2026-06-16 07:29",
+  "updated": "2026-06-17 07:12",
   "items": [
     {
-      "id": "3f5b03aa",
-      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
-      "url": "https://www.qbitai.com/2026/06/435873.html",
-      "summary": "边走、边看、边思考",
-      "date": "2026-06-16",
+      "id": "fc534c71",
+      "title": "六连冠！文远知行再度刷新中国智驾大赛连胜纪录",
+      "url": "https://www.qbitai.com/2026/06/436130.html",
+      "summary": "转载来源：文远知行 本文为量子位获授权转载，观点仅为原作者所有。",
+      "date": "2026-06-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "26460d35",
-      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
-      "url": "https://www.qbitai.com/2026/06/435859.html",
-      "summary": "",
-      "date": "2026-06-16",
+      "id": "d47a1727",
+      "title": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+      "url": "https://www.qbitai.com/2026/06/436110.html",
+      "summary": "天工超级智能体的收入实现了三倍增长",
+      "date": "2026-06-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "1eea9a93",
-      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
-      "url": "https://www.qbitai.com/2026/06/435853.html",
-      "summary": "成为全球领先的通用人工智能科技公司",
-      "date": "2026-06-16",
+      "id": "cd3a06a0",
+      "title": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！",
+      "url": "https://www.qbitai.com/2026/06/436085.html",
+      "summary": "1M上下文",
+      "date": "2026-06-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "bdfd1400",
-      "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
-      "url": "https://www.qbitai.com/2026/06/435861.html",
-      "summary": "专为 Agent 设计的 AI 搜索层服务",
-      "date": "2026-06-16",
+      "id": "f0fef8e5",
+      "title": "英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连",
+      "url": "https://www.qbitai.com/2026/06/436082.html",
+      "summary": "详解制程节点里程碑与未来技术创新",
+      "date": "2026-06-17",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "e4eeb887",
+      "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+      "url": "https://www.qbitai.com/2026/06/436077.html",
+      "summary": "世界级科学家领跑AI蛋白第二次范式革命",
+      "date": "2026-06-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "89266766",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review betwe...",
+      "date": "2026-06-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "82251555",
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a b...",
+      "date": "2026-06-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a0c826c4",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments ...",
+      "date": "2026-06-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "031fe56c",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "date": "2026-06-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "2e6677ef",
@@ -65,33 +110,6 @@
       "tag": "Google"
     },
     {
-      "id": "6e2d00e6",
-      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-      "url": "https://www.qbitai.com/2026/06/435848.html",
-      "summary": "",
-      "date": "2026-06-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c432632d",
-      "title": "The Download: cutting AC emissions, and nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. S...",
-      "date": "2026-06-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2860d43c",
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will ...",
-      "date": "2026-06-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "9b41ef63",
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
@@ -108,15 +126,6 @@
       "date": "2026-06-12",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "2ad84e39",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to re...",
-      "date": "2026-06-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "31e268b2",
@@ -150,15 +159,6 @@
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "date": "2026-06-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8926e37d",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "date": "2026-06-11",
       "source": "OpenAI News",
       "tag": "OpenAI"
