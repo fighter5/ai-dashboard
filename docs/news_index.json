@@ -1,6 +1,51 @@
 {
-  "updated": "2026-06-19 07:08",
+  "updated": "2026-06-20 06:23",
   "items": [
+    {
+      "id": "229a5a6c",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck tha...",
+      "date": "2026-06-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8add01e4",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo...",
+      "date": "2026-06-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3a1b3208",
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate t...",
+      "date": "2026-06-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "183efb0f",
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to sp...",
+      "date": "2026-06-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bb693b57",
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "url": "https://www.qbitai.com/2026/06/436864.html",
+      "summary": "创作者的终极玩具来了",
+      "date": "2026-06-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "f4ebc0d3",
       "title": "GPT发AI原创新成果了",
@@ -74,33 +119,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ce76626b",
-      "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-      "url": "https://www.qbitai.com/2026/06/436751.html",
-      "summary": "",
-      "date": "2026-06-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a8281218",
-      "title": "Geoengineering still faces major practical challenges",
-      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
-      "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the...",
-      "date": "2026-06-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "125b40f2",
-      "title": "The search for dark matter has been blown wide open",
-      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
-      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detect...",
-      "date": "2026-06-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "796b3536",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -146,15 +164,6 @@
       "tag": "Google"
     },
     {
-      "id": "049cb7f5",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a real...",
-      "date": "2026-06-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "f8bb7a94",
       "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
@@ -171,15 +180,6 @@
       "date": "2026-06-17",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "db992211",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity ...",
-      "date": "2026-06-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "916e534a",
