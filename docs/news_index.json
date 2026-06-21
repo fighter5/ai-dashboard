@@ -1,6 +1,51 @@
 {
-  "updated": "2026-06-20 06:23",
+  "updated": "2026-06-21 06:53",
   "items": [
+    {
+      "id": "baf908cb",
+      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "url": "https://www.qbitai.com/2026/06/437141.html",
+      "summary": "一个月只要340块",
+      "date": "2026-06-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cbcfa74e",
+      "title": "英伟达开始搞机器人自己研究机器人那套了…",
+      "url": "https://www.qbitai.com/2026/06/437041.html",
+      "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
+      "date": "2026-06-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "adcdd846",
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "url": "https://www.qbitai.com/2026/06/437023.html",
+      "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
+      "date": "2026-06-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c54ed43c",
+      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+      "url": "https://www.qbitai.com/2026/06/436996.html",
+      "summary": "速度快7倍，成本只有Veo 3的1/2000",
+      "date": "2026-06-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b696d69e",
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "url": "https://www.qbitai.com/2026/06/436980.html",
+      "summary": "Gemini 3.5 Pro呢？",
+      "date": "2026-06-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "229a5a6c",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
@@ -38,33 +83,6 @@
       "tag": "research"
     },
     {
-      "id": "bb693b57",
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-      "url": "https://www.qbitai.com/2026/06/436864.html",
-      "summary": "创作者的终极玩具来了",
-      "date": "2026-06-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f4ebc0d3",
-      "title": "GPT发AI原创新成果了",
-      "url": "https://www.qbitai.com/2026/06/436842.html",
-      "summary": "AI实现药物全自动研发，还远吗？",
-      "date": "2026-06-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "abde44de",
-      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "url": "https://www.qbitai.com/2026/06/436813.html",
-      "summary": "人形机器人正式迈入“GPT时代”",
-      "date": "2026-06-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "63333d90",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -81,24 +99,6 @@
       "date": "2026-06-18",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "a4918aa9",
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "url": "https://www.qbitai.com/2026/06/436758.html",
-      "summary": "M4是大脑，百小医是身体",
-      "date": "2026-06-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7d34050a",
-      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-      "url": "https://www.qbitai.com/2026/06/436802.html",
-      "summary": "全系产品入驻万机易租2.0",
-      "date": "2026-06-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "3d684ebd",
