@@ -1,48 +1,57 @@
 {
-  "updated": "2026-06-21 06:53",
+  "updated": "2026-06-22 07:26",
   "items": [
+    {
+      "id": "e4d7f834",
+      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+      "url": "https://www.qbitai.com/2026/06/437308.html",
+      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一",
+      "date": "2026-06-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "07dd669d",
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "url": "https://www.qbitai.com/2026/06/437249.html",
+      "summary": "DeepSeek正在全力押注",
+      "date": "2026-06-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6377da27",
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "url": "https://www.qbitai.com/2026/06/437235.html",
+      "summary": "120分钟长视频一边看一边记",
+      "date": "2026-06-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "663d8726",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "date": "2026-06-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9b0f1b01",
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
+      "date": "2026-06-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "baf908cb",
       "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
       "url": "https://www.qbitai.com/2026/06/437141.html",
       "summary": "一个月只要340块",
       "date": "2026-06-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "cbcfa74e",
-      "title": "英伟达开始搞机器人自己研究机器人那套了…",
-      "url": "https://www.qbitai.com/2026/06/437041.html",
-      "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
-      "date": "2026-06-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "adcdd846",
-      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-      "url": "https://www.qbitai.com/2026/06/437023.html",
-      "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
-      "date": "2026-06-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c54ed43c",
-      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
-      "url": "https://www.qbitai.com/2026/06/436996.html",
-      "summary": "速度快7倍，成本只有Veo 3的1/2000",
-      "date": "2026-06-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b696d69e",
-      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
-      "url": "https://www.qbitai.com/2026/06/436980.html",
-      "summary": "Gemini 3.5 Pro呢？",
-      "date": "2026-06-20",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -177,15 +186,6 @@
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "date": "2026-06-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "916e534a",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "date": "2026-06-17",
       "source": "OpenAI News",
       "tag": "OpenAI"
