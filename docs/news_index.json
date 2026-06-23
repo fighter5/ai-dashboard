@@ -1,6 +1,78 @@
 {
-  "updated": "2026-06-22 07:26",
+  "updated": "2026-06-23 06:09",
   "items": [
+    {
+      "id": "48c1c300",
+      "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
+      "url": "https://www.qbitai.com/2026/06/437330.html",
+      "summary": "Meta这团乱麻，几顿零食是搞不定了",
+      "date": "2026-06-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e5321e5c",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l...",
+      "date": "2026-06-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d3ee6895",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "summary": "",
+      "date": "2026-06-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "7e4268ec",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road...",
+      "date": "2026-06-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5d9de7a5",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "date": "2026-06-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f601b26b",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "date": "2026-06-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "15e05676",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It s...",
+      "date": "2026-06-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c88103f1",
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "url": "https://www.qbitai.com/2026/06/437317.html",
+      "summary": "",
+      "date": "2026-06-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "e4d7f834",
       "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
@@ -29,6 +101,15 @@
       "tag": "zh-news"
     },
     {
+      "id": "5edb7201",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "date": "2026-06-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
       "id": "663d8726",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
@@ -36,24 +117,6 @@
       "date": "2026-06-21",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "9b0f1b01",
-      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-      "url": "https://www.qbitai.com/2026/06/437198.html",
-      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
-      "date": "2026-06-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "baf908cb",
-      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-      "url": "https://www.qbitai.com/2026/06/437141.html",
-      "summary": "一个月只要340块",
-      "date": "2026-06-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "229a5a6c",
@@ -68,25 +131,7 @@
       "id": "8add01e4",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo...",
-      "date": "2026-06-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "3a1b3208",
-      "title": "The inevitable weakness of metrics",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate t...",
-      "date": "2026-06-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "183efb0f",
-      "title": "Brain-computer interface trials are taking off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to sp...",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language model...",
       "date": "2026-06-19",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -105,33 +150,6 @@
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "date": "2026-06-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3d684ebd",
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide ope...",
-      "date": "2026-06-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ad2ec02b",
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "date": "2026-06-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "796b3536",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "date": "2026-06-18",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -171,24 +189,6 @@
       "date": "2026-06-17",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "f8bb7a94",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "summary": "",
-      "date": "2026-06-17",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "80c1a326",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "date": "2026-06-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "72386a5f",
