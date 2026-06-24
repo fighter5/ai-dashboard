@@ -1,23 +1,149 @@
 {
-  "updated": "2026-06-23 06:09",
+  "updated": "2026-06-24 06:08",
   "items": [
     {
-      "id": "48c1c300",
-      "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
-      "url": "https://www.qbitai.com/2026/06/437330.html",
-      "summary": "Meta这团乱麻，几顿零食是搞不定了",
-      "date": "2026-06-23",
+      "id": "7c30a00d",
+      "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
+      "url": "https://www.qbitai.com/2026/06/437834.html",
+      "summary": "涵盖QoderWork、Qoder Desktop等",
+      "date": "2026-06-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e5321e5c",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l...",
-      "date": "2026-06-22",
+      "id": "7be80af1",
+      "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
+      "url": "https://www.qbitai.com/2026/06/437734.html",
+      "summary": "目前A社约65%的产品代码已经由Claude Tag参与完成",
+      "date": "2026-06-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "792b299e",
+      "title": "周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划",
+      "url": "https://www.qbitai.com/2026/06/437838.html",
+      "summary": "不能坐等风险爆发",
+      "date": "2026-06-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5a39d116",
+      "title": "2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
+      "url": "https://www.qbitai.com/2026/06/437698.html",
+      "summary": "卓越人工智能引领者奖颁布",
+      "date": "2026-06-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "66cfb375",
+      "title": "智能座舱之王「转身」物理AI，高通需要被重估了",
+      "url": "https://www.qbitai.com/2026/06/432494.html",
+      "summary": "不争最强算力，只求无处不在",
+      "date": "2026-06-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9ab4e89c",
+      "title": "Heads in the game",
+      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+      "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game...",
+      "date": "2026-06-23",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "cab8cc49",
+      "title": "Super Mario is mathier than you think",
+      "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+      "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has bee...",
+      "date": "2026-06-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "251d7d3c",
+      "title": "A man of many words",
+      "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+      "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words t...",
+      "date": "2026-06-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d5c7b562",
+      "title": "Sharing a love for calculus",
+      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope yo...",
+      "date": "2026-06-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "22a3e516",
+      "title": "Stand Up for Research, Innovation, and Education",
+      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, sec...",
+      "date": "2026-06-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1948945e",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "date": "2026-06-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1b1b1aa4",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "date": "2026-06-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "237e7c87",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "summary": "",
+      "date": "2026-06-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "350becd7",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "date": "2026-06-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e9e69e17",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "summary": "",
+      "date": "2026-06-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "c144d0a7",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "summary": "",
+      "date": "2026-06-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "d3ee6895",
@@ -27,15 +153,6 @@
       "date": "2026-06-22",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "7e4268ec",
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road...",
-      "date": "2026-06-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "5d9de7a5",
@@ -56,128 +173,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "15e05676",
-      "title": "Inside the world’s deepest and longest subsea road tunnel",
-      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
-      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It s...",
-      "date": "2026-06-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c88103f1",
-      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-      "url": "https://www.qbitai.com/2026/06/437317.html",
+      "id": "4af30edd",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
       "summary": "",
       "date": "2026-06-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e4d7f834",
-      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
-      "url": "https://www.qbitai.com/2026/06/437308.html",
-      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一",
-      "date": "2026-06-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "07dd669d",
-      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-      "url": "https://www.qbitai.com/2026/06/437249.html",
-      "summary": "DeepSeek正在全力押注",
-      "date": "2026-06-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6377da27",
-      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
-      "url": "https://www.qbitai.com/2026/06/437235.html",
-      "summary": "120分钟长视频一边看一边记",
-      "date": "2026-06-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5edb7201",
-      "title": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "date": "2026-06-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "663d8726",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "date": "2026-06-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "229a5a6c",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck tha...",
-      "date": "2026-06-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8add01e4",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language model...",
-      "date": "2026-06-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "63333d90",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "summary": "",
-      "date": "2026-06-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "a55ebd41",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "date": "2026-06-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a84ffebb",
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "summary": "",
-      "date": "2026-06-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "91c11fac",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "summary": "",
-      "date": "2026-06-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "4630c466",
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "summary": "",
-      "date": "2026-06-17",
       "source": "Hugging Face",
       "tag": "opensource"
     },
