@@ -1,95 +1,122 @@
 {
-  "updated": "2026-06-24 06:08",
+  "updated": "2026-06-25 06:09",
   "items": [
     {
-      "id": "7c30a00d",
-      "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
-      "url": "https://www.qbitai.com/2026/06/437834.html",
-      "summary": "涵盖QoderWork、Qoder Desktop等",
+      "id": "e4f15d0f",
+      "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
+      "url": "https://www.qbitai.com/2026/06/438351.html",
+      "summary": "互利共赢的生态繁荣",
+      "date": "2026-06-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "027651f6",
+      "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
+      "url": "https://www.qbitai.com/2026/06/438336.html",
+      "summary": "中国AI应用公司并没有停留在追赶全球浪潮",
+      "date": "2026-06-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7ff123fe",
+      "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
+      "url": "https://www.qbitai.com/2026/06/438297.html",
+      "summary": "谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？",
+      "date": "2026-06-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dfcd1c9f",
+      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+      "url": "https://www.qbitai.com/2026/06/438204.html",
+      "summary": "专业版上线，首开付费模式",
+      "date": "2026-06-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9ecf53df",
+      "title": "世界模型混战，Momenta率先冲刺IPO",
+      "url": "https://www.qbitai.com/2026/06/438179.html",
+      "summary": "AI司机收入3年涨42倍",
       "date": "2026-06-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7be80af1",
-      "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
-      "url": "https://www.qbitai.com/2026/06/437734.html",
-      "summary": "目前A社约65%的产品代码已经由Claude Tag参与完成",
+      "id": "8b215902",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "summary": "",
       "date": "2026-06-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "792b299e",
-      "title": "周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划",
-      "url": "https://www.qbitai.com/2026/06/437838.html",
-      "summary": "不能坐等风险爆发",
+      "id": "4bfd31e8",
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to...",
       "date": "2026-06-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "5a39d116",
-      "title": "2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
-      "url": "https://www.qbitai.com/2026/06/437698.html",
-      "summary": "卓越人工智能引领者奖颁布",
+      "id": "77540ffe",
+      "title": "The Download: introducing the Engineering issue",
+      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix ev...",
       "date": "2026-06-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "66cfb375",
-      "title": "智能座舱之王「转身」物理AI，高通需要被重估了",
-      "url": "https://www.qbitai.com/2026/06/432494.html",
-      "summary": "不争最强算力，只求无处不在",
+      "id": "63a3868f",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment comp...",
       "date": "2026-06-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9ab4e89c",
-      "title": "Heads in the game",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game...",
-      "date": "2026-06-23",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "cab8cc49",
-      "title": "Super Mario is mathier than you think",
-      "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-      "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has bee...",
-      "date": "2026-06-23",
+      "id": "abc015d0",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru...",
+      "date": "2026-06-24",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "251d7d3c",
-      "title": "A man of many words",
-      "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-      "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words t...",
-      "date": "2026-06-23",
+      "id": "b8d25285",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craf...",
+      "date": "2026-06-24",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "d5c7b562",
-      "title": "Sharing a love for calculus",
-      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope yo...",
-      "date": "2026-06-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "24a3a922",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "date": "2026-06-24",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "22a3e516",
-      "title": "Stand Up for Research, Innovation, and Education",
-      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, sec...",
-      "date": "2026-06-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "8d09b4f6",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "summary": "",
+      "date": "2026-06-24",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "1948945e",
@@ -146,15 +173,6 @@
       "tag": "opensource"
     },
     {
-      "id": "d3ee6895",
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "summary": "",
-      "date": "2026-06-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "5d9de7a5",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -162,24 +180,6 @@
       "date": "2026-06-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "f601b26b",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "date": "2026-06-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4af30edd",
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "summary": "",
-      "date": "2026-06-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "0af1478c",
