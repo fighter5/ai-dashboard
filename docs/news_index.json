@@ -1,50 +1,122 @@
 {
-  "updated": "2026-06-25 06:09",
+  "updated": "2026-06-26 06:12",
   "items": [
     {
-      "id": "e4f15d0f",
-      "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
-      "url": "https://www.qbitai.com/2026/06/438351.html",
-      "summary": "互利共赢的生态繁荣",
-      "date": "2026-06-25",
+      "id": "29c8aaf3",
+      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+      "url": "https://www.qbitai.com/2026/06/438741.html",
+      "summary": "共建工业物理智能“数据底座与智能大脑”",
+      "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "027651f6",
-      "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
-      "url": "https://www.qbitai.com/2026/06/438336.html",
-      "summary": "中国AI应用公司并没有停留在追赶全球浪潮",
-      "date": "2026-06-25",
+      "id": "ae465ae4",
+      "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+      "url": "https://www.qbitai.com/2026/06/438701.html",
+      "summary": "提前200毫秒预判",
+      "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7ff123fe",
-      "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
-      "url": "https://www.qbitai.com/2026/06/438297.html",
-      "summary": "谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？",
-      "date": "2026-06-25",
+      "id": "20779e34",
+      "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
+      "url": "https://www.qbitai.com/2026/06/438703.html",
+      "summary": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
+      "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "dfcd1c9f",
-      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
-      "url": "https://www.qbitai.com/2026/06/438204.html",
-      "summary": "专业版上线，首开付费模式",
-      "date": "2026-06-25",
+      "id": "f616bd46",
+      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+      "url": "https://www.qbitai.com/2026/06/438698.html",
+      "summary": "",
+      "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9ecf53df",
-      "title": "世界模型混战，Momenta率先冲刺IPO",
-      "url": "https://www.qbitai.com/2026/06/438179.html",
-      "summary": "AI司机收入3年涨42倍",
-      "date": "2026-06-24",
+      "id": "0b0909cd",
+      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+      "url": "https://www.qbitai.com/2026/06/438690.html",
+      "summary": "Macbook涨了2500元",
+      "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "61fe0e42",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "summary": "",
+      "date": "2026-06-26",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8c236664",
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "summary": "",
+      "date": "2026-06-25",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "235f1239",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "date": "2026-06-25",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "21b4b9b7",
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants...",
+      "date": "2026-06-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0b81bf46",
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plant...",
+      "date": "2026-06-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6367bd9b",
+      "title": "What Europe’s heat wave means for the power grid",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, ...",
+      "date": "2026-06-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6a7b51be",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced i...",
+      "date": "2026-06-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "24d4c954",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "date": "2026-06-25",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "8b215902",
@@ -60,42 +132,6 @@
       "title": "Europe’s extreme heat is shutting down power plants",
       "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
       "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to...",
-      "date": "2026-06-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "77540ffe",
-      "title": "The Download: introducing the Engineering issue",
-      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix ev...",
-      "date": "2026-06-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "63a3868f",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment comp...",
-      "date": "2026-06-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "abc015d0",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru...",
-      "date": "2026-06-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b8d25285",
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craf...",
       "date": "2026-06-24",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -155,33 +191,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "e9e69e17",
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "summary": "",
-      "date": "2026-06-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c144d0a7",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "summary": "",
-      "date": "2026-06-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "5d9de7a5",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "date": "2026-06-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "0af1478c",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "summary": "May AI recap",
       "date": "2026-06-05",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "a799e1e6",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas...",
-      "date": "2026-06-03",
       "source": "Google AI Blog",
       "tag": "Google"
     },
