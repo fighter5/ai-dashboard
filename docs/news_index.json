@@ -1,47 +1,74 @@
 {
-  "updated": "2026-06-26 06:12",
+  "updated": "2026-06-27 05:55",
   "items": [
     {
-      "id": "29c8aaf3",
-      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
-      "url": "https://www.qbitai.com/2026/06/438741.html",
-      "summary": "共建工业物理智能“数据底座与智能大脑”",
-      "date": "2026-06-26",
+      "id": "845cd870",
+      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+      "url": "https://www.qbitai.com/2026/06/438895.html",
+      "summary": "一口气端出三款GPT 5.6系列模型",
+      "date": "2026-06-27",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ae465ae4",
-      "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
-      "url": "https://www.qbitai.com/2026/06/438701.html",
-      "summary": "提前200毫秒预判",
-      "date": "2026-06-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "20779e34",
-      "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
-      "url": "https://www.qbitai.com/2026/06/438703.html",
-      "summary": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
-      "date": "2026-06-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f616bd46",
-      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
-      "url": "https://www.qbitai.com/2026/06/438698.html",
+      "id": "c280694c",
+      "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+      "url": "https://www.qbitai.com/2026/06/438887.html",
       "summary": "",
       "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0b0909cd",
-      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
-      "url": "https://www.qbitai.com/2026/06/438690.html",
-      "summary": "Macbook涨了2500元",
+      "id": "9ae9fea2",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are tr...",
+      "date": "2026-06-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7843b9ea",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "date": "2026-06-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e24e3fb0",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a...",
+      "date": "2026-06-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "27eeff14",
+      "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+      "url": "https://www.qbitai.com/2026/06/438848.html",
+      "summary": "Coding为王",
+      "date": "2026-06-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "96137628",
+      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+      "url": "https://www.qbitai.com/2026/06/438789.html",
+      "summary": "这不能是营销计划的一部分吧？",
+      "date": "2026-06-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ccf0868d",
+      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+      "url": "https://www.qbitai.com/2026/06/438750.html",
+      "summary": "精准识别设计系统",
       "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -101,15 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "6a7b51be",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced i...",
-      "date": "2026-06-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "24d4c954",
       "title": "How agents are transforming work",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
@@ -126,15 +144,6 @@
       "date": "2026-06-24",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "4bfd31e8",
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to...",
-      "date": "2026-06-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "24a3a922",
@@ -180,15 +189,6 @@
       "date": "2026-06-23",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "350becd7",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "date": "2026-06-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "0af1478c",
