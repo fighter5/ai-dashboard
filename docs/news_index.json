@@ -1,21 +1,48 @@
 {
-  "updated": "2026-06-27 05:55",
+  "updated": "2026-06-28 06:20",
   "items": [
+    {
+      "id": "1a302005",
+      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+      "url": "https://www.qbitai.com/2026/06/439393.html",
+      "summary": "人类一次录制，Agent就能模拟",
+      "date": "2026-06-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8b5a77cf",
+      "title": "第一批一人公司，现在怎么样了？",
+      "url": "https://www.qbitai.com/2026/06/439237.html",
+      "summary": "我们跟一群OPC创业者聊了聊",
+      "date": "2026-06-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5c17039b",
+      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+      "url": "https://www.qbitai.com/2026/06/439236.html",
+      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
+      "date": "2026-06-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "663d5e5a",
+      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+      "url": "https://www.qbitai.com/2026/06/439032.html",
+      "summary": "28页干货爆炸",
+      "date": "2026-06-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "845cd870",
       "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
       "url": "https://www.qbitai.com/2026/06/438895.html",
       "summary": "一口气端出三款GPT 5.6系列模型",
       "date": "2026-06-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c280694c",
-      "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
-      "url": "https://www.qbitai.com/2026/06/438887.html",
-      "summary": "",
-      "date": "2026-06-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -45,33 +72,6 @@
       "date": "2026-06-26",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "27eeff14",
-      "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
-      "url": "https://www.qbitai.com/2026/06/438848.html",
-      "summary": "Coding为王",
-      "date": "2026-06-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "96137628",
-      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
-      "url": "https://www.qbitai.com/2026/06/438789.html",
-      "summary": "这不能是营销计划的一部分吧？",
-      "date": "2026-06-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ccf0868d",
-      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
-      "url": "https://www.qbitai.com/2026/06/438750.html",
-      "summary": "精准识别设计系统",
-      "date": "2026-06-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "61fe0e42",
