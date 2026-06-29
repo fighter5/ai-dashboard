@@ -1,48 +1,57 @@
 {
-  "updated": "2026-06-28 06:20",
+  "updated": "2026-06-29 06:50",
   "items": [
     {
-      "id": "1a302005",
-      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-      "url": "https://www.qbitai.com/2026/06/439393.html",
-      "summary": "人类一次录制，Agent就能模拟",
-      "date": "2026-06-27",
+      "id": "f30e422e",
+      "title": "啥？做AI短剧可以免费，免费，免费了！",
+      "url": "https://www.qbitai.com/2026/06/439750.html",
+      "summary": "我反手做了个修仙爽剧",
+      "date": "2026-06-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8b5a77cf",
-      "title": "第一批一人公司，现在怎么样了？",
-      "url": "https://www.qbitai.com/2026/06/439237.html",
-      "summary": "我们跟一群OPC创业者聊了聊",
-      "date": "2026-06-27",
+      "id": "eda2f68e",
+      "title": "“词元盗用”正在成为AI商业化面临的新风险",
+      "url": "https://www.qbitai.com/2026/06/439746.html",
+      "summary": "有人盯上的不是钱，而是 Token",
+      "date": "2026-06-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "5c17039b",
-      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
-      "url": "https://www.qbitai.com/2026/06/439236.html",
-      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
-      "date": "2026-06-27",
+      "id": "0705a694",
+      "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
+      "url": "https://www.qbitai.com/2026/06/439728.html",
+      "summary": "把天基计算推进到可验证、可迭代的工程路线",
+      "date": "2026-06-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "663d5e5a",
-      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-      "url": "https://www.qbitai.com/2026/06/439032.html",
-      "summary": "28页干货爆炸",
-      "date": "2026-06-27",
+      "id": "178c1d5a",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "date": "2026-06-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "06cdcec1",
+      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+      "url": "https://www.qbitai.com/2026/06/439603.html",
+      "summary": "杀进一众大厂中间",
+      "date": "2026-06-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "845cd870",
-      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-      "url": "https://www.qbitai.com/2026/06/438895.html",
-      "summary": "一口气端出三款GPT 5.6系列模型",
-      "date": "2026-06-27",
+      "id": "1a59c956",
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "url": "https://www.qbitai.com/2026/06/439548.html",
+      "summary": "精髓在于极强的系统工程",
+      "date": "2026-06-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -162,15 +171,6 @@
       "date": "2026-06-24",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "1948945e",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "date": "2026-06-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "1b1b1aa4",
