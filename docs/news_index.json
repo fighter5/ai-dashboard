@@ -1,6 +1,123 @@
 {
-  "updated": "2026-06-30 06:14",
+  "updated": "2026-07-01 06:36",
   "items": [
+    {
+      "id": "ed854947",
+      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+      "url": "https://www.qbitai.com/2026/07/441124.html",
+      "summary": "物理世界AI的下一步",
+      "date": "2026-07-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cc624ac9",
+      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+      "url": "https://www.qbitai.com/2026/07/441001.html",
+      "summary": "“性价比模型”价格明降暗涨",
+      "date": "2026-07-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dd2d5dae",
+      "title": "视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒",
+      "url": "https://www.qbitai.com/2026/07/440985.html",
+      "summary": "Gemni 3.5 Pro到底啥时候来啊！！！",
+      "date": "2026-07-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "78c50124",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way...",
+      "date": "2026-06-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9d697f00",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "summary": "",
+      "date": "2026-06-30",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "790e3857",
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimenta...",
+      "date": "2026-06-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4a099067",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "summary": "",
+      "date": "2026-06-30",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "ecf57bff",
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming ...",
+      "date": "2026-06-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "76712e6d",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, ...",
+      "date": "2026-06-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4e950923",
+      "title": "百亿估值只是起点，跨维智能的物理AGI之路",
+      "url": "https://www.qbitai.com/2026/06/440949.html",
+      "summary": "",
+      "date": "2026-06-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cdfa1091",
+      "title": "Building tech in the world’s secret R&D hub",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city...",
+      "date": "2026-06-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "55f8eb42",
+      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+      "url": "https://www.qbitai.com/2026/06/440818.html",
+      "summary": "谁能把这个空间高质量地数字化，谁就掌握了下一阶段机器智能的入口。",
+      "date": "2026-06-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a0bd493d",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "date": "2026-06-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "bcdfc8c6",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
@@ -11,40 +128,40 @@
       "tag": "Google"
     },
     {
-      "id": "b833e039",
-      "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
-      "url": "https://www.qbitai.com/2026/06/440236.html",
-      "summary": "能聊、能唱跳、能陪你玩游戏",
+      "id": "fce36a9d",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "date": "2026-06-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "0f6379b0",
-      "title": "Agent之间，有互联网了！",
-      "url": "https://www.qbitai.com/2026/06/440199.html",
-      "summary": "明略科技开源发布Octo",
+      "id": "3abd2cd2",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "c771f99e",
-      "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
-      "url": "https://www.qbitai.com/2026/06/440162.html",
-      "summary": "好消息是V4正式版能力有升级",
+      "id": "e2556323",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
       "date": "2026-06-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "ad7f1370",
-      "title": "智谱唐杰：成功企业靠管理那是曾经，AI时代不行了",
-      "url": "https://www.qbitai.com/2026/06/440024.html",
-      "summary": "AI时代：认知＞格局＞技术＞管理。",
+      "id": "0f13ff90",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "summary": "",
       "date": "2026-06-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "7eccecbf",
@@ -56,15 +173,6 @@
       "tag": "opensource"
     },
     {
-      "id": "70b9fae8",
-      "title": "AI agents are not your “coworkers”",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r...",
-      "date": "2026-06-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "d2a0fe43",
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
@@ -74,33 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "90763c99",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount...",
-      "date": "2026-06-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b0250702",
-      "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
-      "url": "https://www.qbitai.com/2026/06/439891.html",
-      "summary": "刚融了2亿美元，冲到了具身榜单第一",
-      "date": "2026-06-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "664c8715",
-      "title": "The Download: metric weaknesses and AI elephant warnings",
-      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plent...",
-      "date": "2026-06-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "df49518d",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -108,42 +189,6 @@
       "date": "2026-06-29",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "178c1d5a",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "date": "2026-06-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "9ae9fea2",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are tr...",
-      "date": "2026-06-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7843b9ea",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "date": "2026-06-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "e24e3fb0",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a...",
-      "date": "2026-06-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "61fe0e42",
@@ -162,51 +207,6 @@
       "date": "2026-06-25",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "24d4c954",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "date": "2026-06-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8b215902",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "summary": "",
-      "date": "2026-06-24",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "24a3a922",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "date": "2026-06-24",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8d09b4f6",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "summary": "",
-      "date": "2026-06-24",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "237e7c87",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "summary": "",
-      "date": "2026-06-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "0af1478c",
