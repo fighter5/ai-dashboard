@@ -1,32 +1,95 @@
 {
-  "updated": "2026-07-01 06:36",
+  "updated": "2026-07-02 06:01",
   "items": [
     {
-      "id": "ed854947",
-      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
-      "url": "https://www.qbitai.com/2026/07/441124.html",
-      "summary": "物理世界AI的下一步",
-      "date": "2026-07-01",
+      "id": "86b1c059",
+      "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
+      "url": "https://www.qbitai.com/2026/07/441725.html",
+      "summary": "具身智能数采迎来了新范式",
+      "date": "2026-07-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "cc624ac9",
-      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
-      "url": "https://www.qbitai.com/2026/07/441001.html",
-      "summary": "“性价比模型”价格明降暗涨",
-      "date": "2026-07-01",
+      "id": "0840f0b7",
+      "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
+      "url": "https://www.qbitai.com/2026/07/441586.html",
+      "summary": "AI入场景，Token大时代。",
+      "date": "2026-07-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "dd2d5dae",
-      "title": "视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒",
-      "url": "https://www.qbitai.com/2026/07/440985.html",
-      "summary": "Gemni 3.5 Pro到底啥时候来啊！！！",
-      "date": "2026-07-01",
+      "id": "d45710f1",
+      "title": "世界模型来了因果技术标杆！具身大脑真要长脑子了",
+      "url": "https://www.qbitai.com/2026/07/441490.html",
+      "summary": "",
+      "date": "2026-07-02",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "a42dbf27",
+      "title": "AI眼镜不再依赖手机！这次真要单飞了",
+      "url": "https://www.qbitai.com/2026/07/441491.html",
+      "summary": "AI时代自己的操作系统来了",
+      "date": "2026-07-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "05dce1be",
+      "title": "7月14日悉尼RSS’26，线下Social Mixer晚宴报名中！",
+      "url": "https://www.qbitai.com/2026/07/441479.html",
+      "summary": "机器人顶会RSS 2026就要来了！",
+      "date": "2026-07-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1f96c5e6",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "summary": "June Pixel Drop hero",
+      "date": "2026-07-01",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "05a77cd0",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "date": "2026-07-01",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b7a1a19f",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll...",
+      "date": "2026-07-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "714a5dcd",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship prod...",
+      "date": "2026-07-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "11d5ccf1",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "summary": "",
+      "date": "2026-07-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "78c50124",
@@ -74,42 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "76712e6d",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, ...",
-      "date": "2026-06-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4e950923",
-      "title": "百亿估值只是起点，跨维智能的物理AGI之路",
-      "url": "https://www.qbitai.com/2026/06/440949.html",
-      "summary": "",
-      "date": "2026-06-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "cdfa1091",
-      "title": "Building tech in the world’s secret R&D hub",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city...",
-      "date": "2026-06-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "55f8eb42",
-      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
-      "url": "https://www.qbitai.com/2026/06/440818.html",
-      "summary": "谁能把这个空间高质量地数字化，谁就掌握了下一阶段机器智能的入口。",
-      "date": "2026-06-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "a0bd493d",
       "title": "How ChatGPT adoption has expanded",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -128,6 +155,15 @@
       "tag": "Google"
     },
     {
+      "id": "e2556323",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "date": "2026-06-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
       "id": "fce36a9d",
       "title": "Introducing GeneBench-Pro",
       "url": "https://openai.com/index/introducing-genebench-pro",
@@ -141,15 +177,6 @@
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "e2556323",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "summary": "",
       "date": "2026-06-30",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -191,38 +218,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "61fe0e42",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "summary": "",
-      "date": "2026-06-26",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "235f1239",
       "title": "Our latest Google Finance upgrades, including a new app",
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "summary": "The Google Finance logo, surrounded by elements of the user interface",
       "date": "2026-06-25",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "0af1478c",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "date": "2026-06-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "72386a5f",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "date": "2026-06-15",
       "source": "Google AI Blog",
       "tag": "Google"
     },
