@@ -1,50 +1,86 @@
 {
-  "updated": "2026-07-02 06:01",
+  "updated": "2026-07-03 05:55",
   "items": [
     {
-      "id": "86b1c059",
-      "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
-      "url": "https://www.qbitai.com/2026/07/441725.html",
-      "summary": "具身智能数采迎来了新范式",
+      "id": "45b02fe2",
+      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "url": "https://www.qbitai.com/2026/07/442167.html",
+      "summary": "7月17-7月20",
+      "date": "2026-07-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "03e488ab",
+      "title": "世界模型的新用途：不做选手，去当裁判",
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "summary": "",
+      "date": "2026-07-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "47a875dd",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le...",
+      "date": "2026-07-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "76da70e4",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in...",
+      "date": "2026-07-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0c578b2b",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startu...",
+      "date": "2026-07-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "748086f9",
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "summary": "与社区共同推进自演进智能体生态发展",
       "date": "2026-07-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0840f0b7",
-      "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
-      "url": "https://www.qbitai.com/2026/07/441586.html",
-      "summary": "AI入场景，Token大时代。",
+      "id": "5e7fdbc4",
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "summary": "霸榜OpenR ou",
       "date": "2026-07-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d45710f1",
-      "title": "世界模型来了因果技术标杆！具身大脑真要长脑子了",
-      "url": "https://www.qbitai.com/2026/07/441490.html",
+      "id": "5b652d2d",
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "url": "https://www.qbitai.com/2026/07/442048.html",
       "summary": "",
       "date": "2026-07-02",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "a42dbf27",
-      "title": "AI眼镜不再依赖手机！这次真要单飞了",
-      "url": "https://www.qbitai.com/2026/07/441491.html",
-      "summary": "AI时代自己的操作系统来了",
+      "id": "bc904098",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, enc...",
       "date": "2026-07-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "05dce1be",
-      "title": "7月14日悉尼RSS’26，线下Social Mixer晚宴报名中！",
-      "url": "https://www.qbitai.com/2026/07/441479.html",
-      "summary": "机器人顶会RSS 2026就要来了！",
-      "date": "2026-07-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "1f96c5e6",
@@ -74,15 +110,6 @@
       "tag": "research"
     },
     {
-      "id": "714a5dcd",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship prod...",
-      "date": "2026-07-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "11d5ccf1",
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
@@ -90,15 +117,6 @@
       "date": "2026-07-01",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "78c50124",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way...",
-      "date": "2026-06-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "9d697f00",
@@ -110,15 +128,6 @@
       "tag": "opensource"
     },
     {
-      "id": "790e3857",
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimenta...",
-      "date": "2026-06-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "4a099067",
       "title": "Why Specialization Is Inevitable",
       "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
@@ -126,15 +135,6 @@
       "date": "2026-06-30",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "ecf57bff",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming ...",
-      "date": "2026-06-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "a0bd493d",
