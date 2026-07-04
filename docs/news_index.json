@@ -1,23 +1,77 @@
 {
-  "updated": "2026-07-03 05:55",
+  "updated": "2026-07-04 05:47",
   "items": [
     {
-      "id": "45b02fe2",
-      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
-      "url": "https://www.qbitai.com/2026/07/442167.html",
-      "summary": "7月17-7月20",
+      "id": "3869c17f",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n...",
+      "date": "2026-07-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f7f06b30",
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
       "date": "2026-07-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "03e488ab",
-      "title": "世界模型的新用途：不做选手，去当裁判",
-      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "id": "028dfdc6",
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "url": "https://www.qbitai.com/2026/07/442567.html",
+      "summary": "单词数r也是风险问题？！",
+      "date": "2026-07-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e9cb2d76",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ...",
+      "date": "2026-07-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "31052e7e",
+      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+      "url": "https://www.qbitai.com/2026/07/442531.html",
       "summary": "",
       "date": "2026-07-03",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "2bc74201",
+      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+      "url": "https://www.qbitai.com/2026/07/442517.html",
+      "summary": "",
+      "date": "2026-07-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "eefbc55a",
+      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+      "url": "https://www.qbitai.com/2026/07/442503.html",
+      "summary": "",
+      "date": "2026-07-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "21fa08f8",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework...",
+      "date": "2026-07-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "47a875dd",
@@ -33,51 +87,6 @@
       "title": "Teaching AI to run with the turbines",
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in...",
-      "date": "2026-07-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "0c578b2b",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startu...",
-      "date": "2026-07-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "748086f9",
-      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-      "url": "https://www.qbitai.com/2026/07/442134.html",
-      "summary": "与社区共同推进自演进智能体生态发展",
-      "date": "2026-07-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5e7fdbc4",
-      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
-      "url": "https://www.qbitai.com/2026/07/442047.html",
-      "summary": "霸榜OpenR ou",
-      "date": "2026-07-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5b652d2d",
-      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
-      "url": "https://www.qbitai.com/2026/07/442048.html",
-      "summary": "",
-      "date": "2026-07-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "bc904098",
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, enc...",
       "date": "2026-07-02",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -99,15 +108,6 @@
       "date": "2026-07-01",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "b7a1a19f",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll...",
-      "date": "2026-07-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "11d5ccf1",
