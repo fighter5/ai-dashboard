@@ -1,12 +1,57 @@
 {
-  "updated": "2026-07-05 06:06",
+  "updated": "2026-07-06 06:38",
   "items": [
     {
-      "id": "5235583b",
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "id": "981be7ab",
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "url": "https://www.qbitai.com/2026/07/443559.html",
+      "summary": "少烧钱、真交付",
+      "date": "2026-07-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6bd37f53",
+      "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+      "url": "https://www.qbitai.com/2026/07/443522.html",
       "summary": "",
-      "date": "2026-07-04",
+      "date": "2026-07-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "eef4b7f4",
+      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "summary": "",
+      "date": "2026-07-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "76d9e5a5",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "summary": "",
+      "date": "2026-07-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "deced30a",
+      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+      "url": "https://www.qbitai.com/2026/07/443339.html",
+      "summary": "正考虑推出Meta Compute",
+      "date": "2026-07-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3aded839",
+      "title": "华为更新韬定律论文！",
+      "url": "https://www.qbitai.com/2026/07/443186.html",
+      "summary": "放弃的路线也说清楚了",
+      "date": "2026-07-05",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -20,24 +65,6 @@
       "tag": "research"
     },
     {
-      "id": "f7f06b30",
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "url": "https://www.qbitai.com/2026/07/442746.html",
-      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
-      "date": "2026-07-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "028dfdc6",
-      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
-      "url": "https://www.qbitai.com/2026/07/442567.html",
-      "summary": "单词数r也是风险问题？！",
-      "date": "2026-07-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e9cb2d76",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
@@ -45,24 +72,6 @@
       "date": "2026-07-03",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "31052e7e",
-      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
-      "url": "https://www.qbitai.com/2026/07/442531.html",
-      "summary": "",
-      "date": "2026-07-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2bc74201",
-      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
-      "url": "https://www.qbitai.com/2026/07/442517.html",
-      "summary": "",
-      "date": "2026-07-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "21fa08f8",
@@ -187,15 +196,6 @@
       "url": "https://huggingface.co/blog/eee-community-evals",
       "summary": "",
       "date": "2026-06-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "7eccecbf",
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "summary": "",
-      "date": "2026-06-29",
       "source": "Hugging Face",
       "tag": "opensource"
     },
