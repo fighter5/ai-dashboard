@@ -1,32 +1,95 @@
 {
-  "updated": "2026-07-06 06:38",
+  "updated": "2026-07-07 06:10",
   "items": [
     {
-      "id": "981be7ab",
-      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
-      "url": "https://www.qbitai.com/2026/07/443559.html",
-      "summary": "少烧钱、真交付",
-      "date": "2026-07-06",
+      "id": "26e80eb2",
+      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+      "url": "https://www.qbitai.com/2026/07/445229.html",
+      "summary": "从文字说明书到多模态经验库",
+      "date": "2026-07-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6bd37f53",
-      "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
-      "url": "https://www.qbitai.com/2026/07/443522.html",
-      "summary": "",
-      "date": "2026-07-06",
+      "id": "0437d5eb",
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "url": "https://www.qbitai.com/2026/07/445230.html",
+      "summary": "来自蚂蚁灵波",
+      "date": "2026-07-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "eef4b7f4",
-      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
-      "url": "https://www.qbitai.com/2026/07/443399.html",
+      "id": "90a0ff8c",
+      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.qbitai.com/2026/07/445184.html",
       "summary": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "2853c244",
+      "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+      "url": "https://www.qbitai.com/2026/07/445067.html",
+      "summary": "",
+      "date": "2026-07-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "377e0c2b",
+      "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+      "url": "https://www.qbitai.com/2026/07/444859.html",
+      "summary": "",
+      "date": "2026-07-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d798ac5f",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "summary": "",
+      "date": "2026-07-07",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "e930f63d",
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w...",
+      "date": "2026-07-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3dd55d88",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "summary": "",
+      "date": "2026-07-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "c83f7287",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke...",
+      "date": "2026-07-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "166d1efe",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents...",
+      "date": "2026-07-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "76d9e5a5",
@@ -36,24 +99,6 @@
       "date": "2026-07-06",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "deced30a",
-      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
-      "url": "https://www.qbitai.com/2026/07/443339.html",
-      "summary": "正考虑推出Meta Compute",
-      "date": "2026-07-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3aded839",
-      "title": "华为更新韬定律论文！",
-      "url": "https://www.qbitai.com/2026/07/443186.html",
-      "summary": "放弃的路线也说清楚了",
-      "date": "2026-07-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "3869c17f",
@@ -70,33 +115,6 @@
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ...",
       "date": "2026-07-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "21fa08f8",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework...",
-      "date": "2026-07-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "47a875dd",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le...",
-      "date": "2026-07-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "76da70e4",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in...",
-      "date": "2026-07-02",
       "source": "MIT Tech Review",
       "tag": "research"
     },
@@ -137,15 +155,6 @@
       "tag": "opensource"
     },
     {
-      "id": "4a099067",
-      "title": "Why Specialization Is Inevitable",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "summary": "",
-      "date": "2026-06-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "a0bd493d",
       "title": "How ChatGPT adoption has expanded",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -164,10 +173,10 @@
       "tag": "Google"
     },
     {
-      "id": "e2556323",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "summary": "",
+      "id": "3abd2cd2",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -182,22 +191,13 @@
       "tag": "OpenAI"
     },
     {
-      "id": "3abd2cd2",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "id": "e2556323",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
       "date": "2026-06-30",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "0f13ff90",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "summary": "",
-      "date": "2026-06-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "d2a0fe43",
