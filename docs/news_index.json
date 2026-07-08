@@ -1,50 +1,131 @@
 {
-  "updated": "2026-07-07 06:10",
+  "updated": "2026-07-08 05:23",
   "items": [
     {
-      "id": "26e80eb2",
-      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
-      "url": "https://www.qbitai.com/2026/07/445229.html",
-      "summary": "从文字说明书到多模态经验库",
-      "date": "2026-07-07",
+      "id": "ca841bc4",
+      "title": "60000小时炼出新开源VLA！20多种机器人都能用",
+      "url": "https://www.qbitai.com/2026/07/445678.html",
+      "summary": "蚂蚁灵波Lingbot-VLA 2.0",
+      "date": "2026-07-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0437d5eb",
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-      "url": "https://www.qbitai.com/2026/07/445230.html",
-      "summary": "来自蚂蚁灵波",
-      "date": "2026-07-07",
+      "id": "981d5558",
+      "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
+      "url": "https://www.qbitai.com/2026/07/445668.html",
+      "summary": "",
+      "date": "2026-07-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "90a0ff8c",
-      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.qbitai.com/2026/07/445184.html",
+      "id": "d48b02cb",
+      "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
+      "url": "https://www.qbitai.com/2026/07/445531.html",
+      "summary": "机器人开始自己造自己了。",
+      "date": "2026-07-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "830b87f8",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "summary": "",
       "date": "2026-07-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "2853c244",
-      "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-      "url": "https://www.qbitai.com/2026/07/445067.html",
+      "id": "37a75100",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "summary": "",
+      "date": "2026-07-07",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "0e5ebf4a",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr...",
+      "date": "2026-07-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "361dcfa5",
+      "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+      "url": "https://www.qbitai.com/2026/07/445608.html",
+      "summary": "难怪DeepSeek要着重强调招HR（doge）",
       "date": "2026-07-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "377e0c2b",
-      "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
-      "url": "https://www.qbitai.com/2026/07/444859.html",
-      "summary": "",
+      "id": "34dc6f6d",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris...",
+      "date": "2026-07-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b11b6e4d",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re...",
+      "date": "2026-07-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c754a9a1",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "summary": "Managed agents feature bundle launch",
+      "date": "2026-07-07",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c4cbe218",
+      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+      "url": "https://www.qbitai.com/2026/07/445443.html",
+      "summary": "“共识与非共识”的深度思辨",
       "date": "2026-07-07",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "241bab22",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "date": "2026-07-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "702fb607",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "38da928f",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "summary": "",
+      "date": "2026-07-07",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "d798ac5f",
@@ -83,42 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "166d1efe",
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents...",
-      "date": "2026-07-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "76d9e5a5",
-      "title": "🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "summary": "",
-      "date": "2026-07-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "3869c17f",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n...",
-      "date": "2026-07-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e9cb2d76",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ...",
-      "date": "2026-07-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "1f96c5e6",
       "title": "The latest AI news we announced in June 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
@@ -135,24 +180,6 @@
       "date": "2026-07-01",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "11d5ccf1",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "summary": "",
-      "date": "2026-07-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "9d697f00",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "summary": "",
-      "date": "2026-06-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "a0bd493d",
@@ -191,38 +218,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "e2556323",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "summary": "",
-      "date": "2026-06-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "d2a0fe43",
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
       "date": "2026-06-29",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "df49518d",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "date": "2026-06-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "235f1239",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "summary": "The Google Finance logo, surrounded by elements of the user interface",
-      "date": "2026-06-25",
       "source": "Google AI Blog",
       "tag": "Google"
     },
