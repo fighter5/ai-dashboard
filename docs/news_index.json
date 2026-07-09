@@ -1,32 +1,122 @@
 {
-  "updated": "2026-07-08 05:23",
+  "updated": "2026-07-09 06:07",
   "items": [
     {
-      "id": "ca841bc4",
-      "title": "60000小时炼出新开源VLA！20多种机器人都能用",
-      "url": "https://www.qbitai.com/2026/07/445678.html",
-      "summary": "蚂蚁灵波Lingbot-VLA 2.0",
-      "date": "2026-07-08",
+      "id": "a4b622d6",
+      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+      "url": "https://www.qbitai.com/2026/07/446568.html",
+      "summary": "视频生成的下一站，或是机器人大脑",
+      "date": "2026-07-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "981d5558",
-      "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
-      "url": "https://www.qbitai.com/2026/07/445668.html",
+      "id": "113be55d",
+      "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
+      "url": "https://www.qbitai.com/2026/07/446562.html",
+      "summary": "“一生一案”书写优质教育",
+      "date": "2026-07-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e4debdef",
+      "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+      "url": "https://www.qbitai.com/2026/07/446548.html",
+      "summary": "",
+      "date": "2026-07-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ea45918f",
+      "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
+      "url": "https://www.qbitai.com/2026/07/446458.html",
+      "summary": "",
+      "date": "2026-07-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "89e4f80b",
+      "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
+      "url": "https://www.qbitai.com/2026/07/446435.html",
+      "summary": "",
+      "date": "2026-07-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dad44939",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "summary": "",
       "date": "2026-07-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "d48b02cb",
-      "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
-      "url": "https://www.qbitai.com/2026/07/445531.html",
-      "summary": "机器人开始自己造自己了。",
+      "id": "df693c77",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "summary": "",
       "date": "2026-07-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "34adf3bd",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "date": "2026-07-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "18ab2ec4",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "date": "2026-07-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "de792f4a",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu...",
+      "date": "2026-07-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "df3e09db",
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "date": "2026-07-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "733b8abf",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "date": "2026-07-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "94cec3e2",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "summary": "",
+      "date": "2026-07-08",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "830b87f8",
@@ -56,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "361dcfa5",
-      "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
-      "url": "https://www.qbitai.com/2026/07/445608.html",
-      "summary": "难怪DeepSeek要着重强调招HR（doge）",
-      "date": "2026-07-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "34dc6f6d",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -92,28 +173,10 @@
       "tag": "Google"
     },
     {
-      "id": "c4cbe218",
-      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
-      "url": "https://www.qbitai.com/2026/07/445443.html",
-      "summary": "“共识与非共识”的深度思辨",
-      "date": "2026-07-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "241bab22",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "url": "https://openai.com/index/australian-payments-plus",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "date": "2026-07-07",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "702fb607",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "date": "2026-07-07",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -126,42 +189,6 @@
       "date": "2026-07-07",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "d798ac5f",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "summary": "",
-      "date": "2026-07-07",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "e930f63d",
-      "title": "Your family’s $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w...",
-      "date": "2026-07-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "3dd55d88",
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "summary": "",
-      "date": "2026-07-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c83f7287",
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke...",
-      "date": "2026-07-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "1f96c5e6",
@@ -182,15 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "a0bd493d",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "date": "2026-06-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "bcdfc8c6",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
@@ -198,24 +216,6 @@
       "date": "2026-06-30",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "3abd2cd2",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "fce36a9d",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "d2a0fe43",
