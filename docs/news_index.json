@@ -1,47 +1,110 @@
 {
-  "updated": "2026-07-09 06:07",
+  "updated": "2026-07-10 06:05",
   "items": [
     {
-      "id": "a4b622d6",
-      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
-      "url": "https://www.qbitai.com/2026/07/446568.html",
-      "summary": "视频生成的下一站，或是机器人大脑",
+      "id": "8e56e96f",
+      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+      "url": "https://www.qbitai.com/2026/07/447602.html",
+      "summary": "字节也入局了",
+      "date": "2026-07-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9bcac926",
+      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+      "url": "https://www.qbitai.com/2026/07/447597.html",
+      "summary": "",
+      "date": "2026-07-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a90a0d3e",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they...",
+      "date": "2026-07-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a9ac60dc",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "date": "2026-07-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "cc5b75dd",
+      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+      "url": "https://www.qbitai.com/2026/07/447508.html",
+      "summary": "“已经出现泛化涌现”",
       "date": "2026-07-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "113be55d",
-      "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
-      "url": "https://www.qbitai.com/2026/07/446562.html",
-      "summary": "“一生一案”书写优质教育",
+      "id": "c3749aa3",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the U...",
       "date": "2026-07-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "e4debdef",
-      "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
-      "url": "https://www.qbitai.com/2026/07/446548.html",
+      "id": "10a73f08",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "date": "2026-07-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0453af9f",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6e3eba7a",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bb316941",
+      "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
+      "url": "https://www.qbitai.com/2026/07/446843.html",
       "summary": "",
       "date": "2026-07-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ea45918f",
-      "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
-      "url": "https://www.qbitai.com/2026/07/446458.html",
-      "summary": "",
+      "id": "178dc986",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump ad...",
       "date": "2026-07-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "89e4f80b",
-      "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
-      "url": "https://www.qbitai.com/2026/07/446435.html",
-      "summary": "",
+      "id": "6ab23833",
+      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+      "url": "https://www.qbitai.com/2026/07/446778.html",
+      "summary": "李开复笑着回应了",
       "date": "2026-07-09",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -74,15 +137,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "18ab2ec4",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "date": "2026-07-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "de792f4a",
       "title": "The Download: worms fight pollution, and geoengineering faces reality",
       "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
@@ -90,24 +144,6 @@
       "date": "2026-07-08",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "df3e09db",
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "date": "2026-07-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "733b8abf",
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "date": "2026-07-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "94cec3e2",
@@ -137,33 +173,6 @@
       "tag": "opensource"
     },
     {
-      "id": "0e5ebf4a",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr...",
-      "date": "2026-07-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "34dc6f6d",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris...",
-      "date": "2026-07-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b11b6e4d",
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re...",
-      "date": "2026-07-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "c754a9a1",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
@@ -171,15 +180,6 @@
       "date": "2026-07-07",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "241bab22",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "date": "2026-07-07",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "38da928f",
