@@ -1,23 +1,86 @@
 {
-  "updated": "2026-07-10 06:05",
+  "updated": "2026-07-11 05:14",
   "items": [
     {
-      "id": "8e56e96f",
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "url": "https://www.qbitai.com/2026/07/447602.html",
-      "summary": "字节也入局了",
+      "id": "51b29471",
+      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+      "url": "https://www.qbitai.com/2026/07/447846.html",
+      "summary": "四大方向，奖金直给",
       "date": "2026-07-10",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9bcac926",
-      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
-      "url": "https://www.qbitai.com/2026/07/447597.html",
+      "id": "2885c6b1",
+      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "url": "https://www.qbitai.com/2026/07/447832.html",
+      "summary": "AI变为研发流程的“组织者”",
+      "date": "2026-07-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8e9121e5",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzle...",
+      "date": "2026-07-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "baa569e4",
+      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+      "url": "https://www.qbitai.com/2026/07/447796.html",
+      "summary": "把数据闭环搬进卧室",
+      "date": "2026-07-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3ba29f86",
+      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "url": "https://www.qbitai.com/2026/07/447691.html",
       "summary": "",
       "date": "2026-07-10",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "b838de8f",
+      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+      "url": "https://www.qbitai.com/2026/07/447682.html",
+      "summary": "",
+      "date": "2026-07-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c41b81cc",
+      "title": "Sperm donors need limits, says a European fertility group",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherland...",
+      "date": "2026-07-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "31630fba",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "date": "2026-07-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ec381c2c",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "summary": "",
+      "date": "2026-07-10",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "a90a0d3e",
@@ -38,15 +101,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "cc5b75dd",
-      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
-      "url": "https://www.qbitai.com/2026/07/447508.html",
-      "summary": "“已经出现泛化涌现”",
-      "date": "2026-07-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "c3749aa3",
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
       "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
@@ -54,6 +108,15 @@
       "date": "2026-07-09",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "6e3eba7a",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "10a73f08",
@@ -74,24 +137,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "6e3eba7a",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bb316941",
-      "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
-      "url": "https://www.qbitai.com/2026/07/446843.html",
-      "summary": "",
-      "date": "2026-07-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "178dc986",
       "title": "Four nuclear reactors hit a big milestone in the US",
       "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
@@ -101,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "6ab23833",
-      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
-      "url": "https://www.qbitai.com/2026/07/446778.html",
-      "summary": "李开复笑着回应了",
-      "date": "2026-07-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "dad44939",
       "title": "Data for Agents",
       "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
@@ -117,33 +153,6 @@
       "date": "2026-07-08",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "df693c77",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "summary": "",
-      "date": "2026-07-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "34adf3bd",
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "date": "2026-07-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "de792f4a",
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu...",
-      "date": "2026-07-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "94cec3e2",
@@ -180,15 +189,6 @@
       "date": "2026-07-07",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "38da928f",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "summary": "",
-      "date": "2026-07-07",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "1f96c5e6",
