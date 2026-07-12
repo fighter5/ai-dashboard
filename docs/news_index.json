@@ -1,21 +1,48 @@
 {
-  "updated": "2026-07-11 05:14",
+  "updated": "2026-07-12 05:30",
   "items": [
     {
-      "id": "51b29471",
-      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
-      "url": "https://www.qbitai.com/2026/07/447846.html",
-      "summary": "四大方向，奖金直给",
-      "date": "2026-07-10",
+      "id": "0849e861",
+      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+      "url": "https://www.qbitai.com/2026/07/447981.html",
+      "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
+      "date": "2026-07-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2885c6b1",
-      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
-      "url": "https://www.qbitai.com/2026/07/447832.html",
-      "summary": "AI变为研发流程的“组织者”",
-      "date": "2026-07-10",
+      "id": "1480d7c2",
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "url": "https://www.qbitai.com/2026/07/447914.html",
+      "summary": "为了帮你看清具身数据行业，我们总结了以下十个行业现状",
+      "date": "2026-07-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bb937bb4",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "summary": "已跑通300余项应用",
+      "date": "2026-07-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d64ce369",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "summary": "从FP64到INT8，全精度覆盖。",
+      "date": "2026-07-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dbe10a2c",
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "summary": "神话级大模型驾驭宝典",
+      "date": "2026-07-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -27,33 +54,6 @@
       "date": "2026-07-10",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "baa569e4",
-      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
-      "url": "https://www.qbitai.com/2026/07/447796.html",
-      "summary": "把数据闭环搬进卧室",
-      "date": "2026-07-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3ba29f86",
-      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
-      "url": "https://www.qbitai.com/2026/07/447691.html",
-      "summary": "",
-      "date": "2026-07-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b838de8f",
-      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
-      "url": "https://www.qbitai.com/2026/07/447682.html",
-      "summary": "",
-      "date": "2026-07-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "c41b81cc",
