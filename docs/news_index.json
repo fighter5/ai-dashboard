@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-12 05:30",
+  "updated": "2026-07-13 05:39",
   "items": [
+    {
+      "id": "2777ec13",
+      "title": "全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院",
+      "url": "https://www.qbitai.com/2026/07/448139.html",
+      "summary": "有人因为token用不完就连续工作，把自己整医院里去了",
+      "date": "2026-07-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ed1fc95f",
+      "title": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题",
+      "url": "https://www.qbitai.com/2026/07/448239.html",
+      "summary": "从人类认知范式，构建Physical AGI",
+      "date": "2026-07-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fef84eb9",
+      "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+      "url": "https://www.qbitai.com/2026/07/448034.html",
+      "summary": "从采集触觉，到对齐触觉，再到使用触觉",
+      "date": "2026-07-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "0849e861",
       "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
@@ -16,33 +43,6 @@
       "url": "https://www.qbitai.com/2026/07/447914.html",
       "summary": "为了帮你看清具身数据行业，我们总结了以下十个行业现状",
       "date": "2026-07-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "bb937bb4",
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447902.html",
-      "summary": "已跑通300余项应用",
-      "date": "2026-07-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d64ce369",
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447891.html",
-      "summary": "从FP64到INT8，全精度覆盖。",
-      "date": "2026-07-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "dbe10a2c",
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-      "url": "https://www.qbitai.com/2026/07/447873.html",
-      "summary": "神话级大模型驾驭宝典",
-      "date": "2026-07-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
