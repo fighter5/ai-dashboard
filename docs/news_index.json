@@ -1,41 +1,104 @@
 {
-  "updated": "2026-07-14 04:52",
+  "updated": "2026-07-15 04:53",
   "items": [
     {
-      "id": "c94af54b",
-      "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
-      "url": "https://www.qbitai.com/2026/07/449568.html",
+      "id": "bb76b7f6",
+      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+      "url": "https://www.qbitai.com/2026/07/450250.html",
       "summary": "",
+      "date": "2026-07-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1f6026c3",
+      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
+      "url": "https://www.qbitai.com/2026/07/450101.html",
+      "summary": "距首轮估值上涨37%",
+      "date": "2026-07-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5bdf441e",
+      "title": "阶跃入局，重构智能体时代操作系统",
+      "url": "https://www.qbitai.com/2026/07/449979.html",
+      "summary": "董事长印奇称“未来的OS一定是跨端的”",
       "date": "2026-07-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "828d4da6",
-      "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
-      "url": "https://www.qbitai.com/2026/07/449566.html",
-      "summary": "Agent携上百个Skills助我当大导演",
+      "id": "84e3af10",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "date": "2026-07-14",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "f675ec0b",
+      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "url": "https://www.qbitai.com/2026/07/448475.html",
+      "summary": "一手实测这就奉上",
       "date": "2026-07-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9c70827c",
-      "title": "逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑",
-      "url": "https://www.qbitai.com/2026/07/449474.html",
-      "summary": "机器人应该掌握什么技能，并不只取决于模型够不够强，而取决于构建这个技能产生的商业价值是否大于它所要数据的成本。",
+      "id": "64ea7070",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and does...",
+      "date": "2026-07-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "187a5471",
+      "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
+      "url": "https://www.qbitai.com/2026/07/449906.html",
+      "summary": "全面硬刚Figure",
       "date": "2026-07-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "cb0f2af7",
-      "title": "菲尔兹奖提前泄露！王虹邓煜双双在列",
-      "url": "https://www.qbitai.com/2026/07/449407.html",
-      "summary": "都是北大07级校友",
+      "id": "e59f55fe",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "date": "2026-07-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b5aa16b3",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet ...",
+      "date": "2026-07-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "afc8cde3",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ca8d7bcc",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "date": "2026-07-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "50ee0b46",
@@ -45,15 +108,6 @@
       "date": "2026-07-13",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "70fe6b53",
-      "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
-      "url": "https://www.qbitai.com/2026/07/449327.html",
-      "summary": "出自中国团队",
-      "date": "2026-07-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "9b905ecd",
@@ -69,15 +123,6 @@
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzle...",
-      "date": "2026-07-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c41b81cc",
-      "title": "Sperm donors need limits, says a European fertility group",
-      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherland...",
       "date": "2026-07-10",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -108,42 +153,6 @@
       "date": "2026-07-10",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "a90a0d3e",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they...",
-      "date": "2026-07-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a9ac60dc",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "date": "2026-07-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "0453af9f",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6e3eba7a",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "dad44939",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "date": "2026-06-30",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "d2a0fe43",
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
-      "date": "2026-06-29",
       "source": "Google AI Blog",
       "tag": "Google"
     },
