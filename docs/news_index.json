@@ -1,32 +1,131 @@
 {
-  "updated": "2026-07-15 04:53",
+  "updated": "2026-07-16 05:12",
   "items": [
     {
-      "id": "bb76b7f6",
-      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "url": "https://www.qbitai.com/2026/07/450250.html",
+      "id": "8c9fd725",
+      "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
+      "url": "https://www.qbitai.com/2026/07/450917.html",
+      "summary": "",
+      "date": "2026-07-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "669acc0d",
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "summary": "后训练中真机数据需求骤降60%",
+      "date": "2026-07-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dc315898",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re...",
+      "date": "2026-07-15",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "534a0446",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "summary": "",
+      "date": "2026-07-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "6bf98bfe",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "summary": "",
+      "date": "2026-07-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "0081d2e6",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver...",
+      "date": "2026-07-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5c918f53",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum co...",
+      "date": "2026-07-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "817e2aed",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "date": "2026-07-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "5ea0a635",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "date": "2026-07-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "5b30f889",
+      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
+      "url": "https://www.qbitai.com/2026/07/450841.html",
       "summary": "",
       "date": "2026-07-15",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "1f6026c3",
-      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
-      "url": "https://www.qbitai.com/2026/07/450101.html",
-      "summary": "距首轮估值上涨37%",
+      "id": "2b84c470",
+      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+      "url": "https://www.qbitai.com/2026/07/450831.html",
+      "summary": "",
       "date": "2026-07-15",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "5bdf441e",
-      "title": "阶跃入局，重构智能体时代操作系统",
-      "url": "https://www.qbitai.com/2026/07/449979.html",
-      "summary": "董事长印奇称“未来的OS一定是跨端的”",
-      "date": "2026-07-14",
+      "id": "8bf7a443",
+      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
+      "url": "https://www.qbitai.com/2026/07/450709.html",
+      "summary": "26名员工正在集体起诉Meta",
+      "date": "2026-07-15",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "67a5bbc0",
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "summary": "",
+      "date": "2026-07-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "4c932574",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "summary": "",
+      "date": "2026-07-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "84e3af10",
@@ -38,15 +137,6 @@
       "tag": "Google"
     },
     {
-      "id": "f675ec0b",
-      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
-      "url": "https://www.qbitai.com/2026/07/448475.html",
-      "summary": "一手实测这就奉上",
-      "date": "2026-07-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "64ea7070",
       "title": "The Download: Claude’s inner workings, and the future of world models",
       "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
@@ -54,15 +144,6 @@
       "date": "2026-07-14",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "187a5471",
-      "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
-      "url": "https://www.qbitai.com/2026/07/449906.html",
-      "summary": "全面硬刚Figure",
-      "date": "2026-07-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "e59f55fe",
@@ -83,19 +164,19 @@
       "tag": "research"
     },
     {
-      "id": "afc8cde3",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "id": "ca8d7bcc",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-07-14",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "ca8d7bcc",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "id": "afc8cde3",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "date": "2026-07-14",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -110,83 +191,11 @@
       "tag": "research"
     },
     {
-      "id": "9b905ecd",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertilit...",
-      "date": "2026-07-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8e9121e5",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzle...",
-      "date": "2026-07-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "31630fba",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "date": "2026-07-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "076e1c59",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "date": "2026-07-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "ec381c2c",
       "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
       "url": "https://huggingface.co/blog/torch-attention-profile",
       "summary": "",
       "date": "2026-07-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "dad44939",
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "summary": "",
-      "date": "2026-07-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "94cec3e2",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "summary": "",
-      "date": "2026-07-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "830b87f8",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "summary": "",
-      "date": "2026-07-07",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "37a75100",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "summary": "",
-      "date": "2026-07-07",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -259,15 +268,6 @@
       "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
       "date": "2026-01-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "db7ff708",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully...",
-      "date": "2026-01-13",
       "source": "VentureBeat AI",
       "tag": "industry"
     }
