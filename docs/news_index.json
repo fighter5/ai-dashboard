@@ -1,23 +1,167 @@
 {
-  "updated": "2026-07-16 05:12",
+  "updated": "2026-07-17 05:15",
   "items": [
     {
-      "id": "8c9fd725",
-      "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
-      "url": "https://www.qbitai.com/2026/07/450917.html",
+      "id": "4c84fd5a",
+      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
+      "url": "https://www.qbitai.com/2026/07/451691.html",
+      "summary": "",
+      "date": "2026-07-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "308c77cd",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model...",
+      "date": "2026-07-16",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "e1584d59",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide...",
+      "date": "2026-07-16",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "7caead53",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc...",
+      "date": "2026-07-16",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "1a909f02",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
+      "date": "2026-07-16",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "2b7cf192",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "summary": "",
+      "date": "2026-07-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "c2f66cb0",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "summary": "Connected apps rendering",
+      "date": "2026-07-16",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b1da67ab",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "date": "2026-07-16",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "fc1dde75",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "date": "2026-07-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "330853fe",
+      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+      "url": "https://www.qbitai.com/2026/07/451576.html",
+      "summary": "最快下周一提车",
+      "date": "2026-07-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2f85cd9e",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to ...",
+      "date": "2026-07-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a075d60d",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "summary": "",
+      "date": "2026-07-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "938e9cfb",
+      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+      "url": "https://www.qbitai.com/2026/07/451403.html",
+      "summary": "还能让机器人边干边学",
+      "date": "2026-07-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3b0d1e97",
+      "title": "Why heat pumps are still so hot in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. Th...",
+      "date": "2026-07-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f341d3a4",
+      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+      "url": "https://www.qbitai.com/2026/07/451371.html",
       "summary": "",
       "date": "2026-07-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "669acc0d",
-      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
-      "url": "https://www.qbitai.com/2026/07/450896.html",
-      "summary": "后训练中真机数据需求骤降60%",
+      "id": "936d95f3",
+      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+      "url": "https://www.qbitai.com/2026/07/451379.html",
+      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”",
       "date": "2026-07-16",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "b57416a8",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "date": "2026-07-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "07a9214c",
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "summary": "",
+      "date": "2026-07-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "dc315898",
@@ -83,51 +227,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "5b30f889",
-      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
-      "url": "https://www.qbitai.com/2026/07/450841.html",
-      "summary": "",
-      "date": "2026-07-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2b84c470",
-      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
-      "url": "https://www.qbitai.com/2026/07/450831.html",
-      "summary": "",
-      "date": "2026-07-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8bf7a443",
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "url": "https://www.qbitai.com/2026/07/450709.html",
-      "summary": "26名员工正在集体起诉Meta",
-      "date": "2026-07-15",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "67a5bbc0",
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "summary": "",
-      "date": "2026-07-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "4c932574",
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "summary": "",
-      "date": "2026-07-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "84e3af10",
       "title": "Celebrating 25 years of visual search innovation",
       "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
@@ -155,51 +254,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "b5aa16b3",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet ...",
-      "date": "2026-07-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ca8d7bcc",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-07-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "afc8cde3",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "50ee0b46",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with...",
-      "date": "2026-07-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ec381c2c",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "summary": "",
-      "date": "2026-07-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "c754a9a1",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
@@ -216,60 +270,6 @@
       "date": "2026-07-01",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "05a77cd0",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "date": "2026-07-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "bcdfc8c6",
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-      "date": "2026-06-30",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "e7785d8c",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T...",
-      "date": "2026-05-19",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "e670024b",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
-      "date": "2026-01-22",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "1bd5d5f6",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap...",
-      "date": "2026-01-19",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "ca731494",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
-      "date": "2026-01-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
     }
   ]
 }
