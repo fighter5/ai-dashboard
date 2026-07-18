@@ -1,14 +1,95 @@
 {
-  "updated": "2026-07-17 05:15",
+  "updated": "2026-07-18 04:50",
   "items": [
     {
-      "id": "4c84fd5a",
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "url": "https://www.qbitai.com/2026/07/451691.html",
-      "summary": "",
-      "date": "2026-07-17",
+      "id": "530b0fd8",
+      "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+      "url": "https://www.qbitai.com/2026/07/453641.html",
+      "summary": "3500亿估值曝光",
+      "date": "2026-07-18",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "824da83c",
+      "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
+      "url": "https://www.qbitai.com/2026/07/453631.html",
+      "summary": "图灵奖得主、两院院士……精彩、太精彩",
+      "date": "2026-07-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c00a74ed",
+      "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
+      "url": "https://www.qbitai.com/2026/07/453617.html",
+      "summary": "让每一份算力都变成有效Token",
+      "date": "2026-07-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "36427ab5",
+      "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
+      "url": "https://www.qbitai.com/2026/07/453530.html",
+      "summary": "",
+      "date": "2026-07-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0d80f89f",
+      "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+      "url": "https://www.qbitai.com/2026/07/453506.html",
+      "summary": "",
+      "date": "2026-07-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2369b1fe",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "summary": "",
+      "date": "2026-07-17",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "6d08c5b7",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t ...",
+      "date": "2026-07-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "be04b43c",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "date": "2026-07-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "60f1cf5a",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers....",
+      "date": "2026-07-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5777494d",
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance...",
+      "date": "2026-07-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "308c77cd",
@@ -47,15 +128,6 @@
       "tag": "industry"
     },
     {
-      "id": "2b7cf192",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "summary": "",
-      "date": "2026-07-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "c2f66cb0",
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -83,15 +155,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "330853fe",
-      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
-      "url": "https://www.qbitai.com/2026/07/451576.html",
-      "summary": "最快下周一提车",
-      "date": "2026-07-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "2f85cd9e",
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
       "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
@@ -110,15 +173,6 @@
       "tag": "opensource"
     },
     {
-      "id": "938e9cfb",
-      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
-      "url": "https://www.qbitai.com/2026/07/451403.html",
-      "summary": "还能让机器人边干边学",
-      "date": "2026-07-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "3b0d1e97",
       "title": "Why heat pumps are still so hot in the US",
       "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
@@ -126,24 +180,6 @@
       "date": "2026-07-16",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "f341d3a4",
-      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
-      "url": "https://www.qbitai.com/2026/07/451371.html",
-      "summary": "",
-      "date": "2026-07-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "936d95f3",
-      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
-      "url": "https://www.qbitai.com/2026/07/451379.html",
-      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”",
-      "date": "2026-07-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "b57416a8",
@@ -191,24 +227,6 @@
       "tag": "opensource"
     },
     {
-      "id": "0081d2e6",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver...",
-      "date": "2026-07-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5c918f53",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum co...",
-      "date": "2026-07-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "817e2aed",
       "title": "The US is advancing AI safety through state and federal action",
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
@@ -234,24 +252,6 @@
       "date": "2026-07-14",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "64ea7070",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and does...",
-      "date": "2026-07-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e59f55fe",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "date": "2026-07-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "c754a9a1",
