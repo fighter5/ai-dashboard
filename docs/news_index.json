@@ -1,59 +1,95 @@
 {
-  "updated": "2026-07-20 05:41",
+  "updated": "2026-07-21 05:22",
   "items": [
     {
-      "id": "5b82cddd",
-      "title": "1.5B开源通用VLA模型，冲进具身智能第一梯队",
-      "url": "https://www.qbitai.com/2026/07/455229.html",
-      "summary": "面壁智能发布MiniCPM-Robot系列模型",
+      "id": "61d13d19",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ...",
       "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "017b85f1",
-      "title": "Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售",
-      "url": "https://www.qbitai.com/2026/07/455179.html",
-      "summary": "市场表现也跟着加速狂飙",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "da2edb87",
-      "title": "WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座",
-      "url": "https://www.qbitai.com/2026/07/455136.html",
+      "id": "86f2663f",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "summary": "",
       "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1b41fcd7",
-      "title": "蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠",
-      "url": "https://www.qbitai.com/2026/07/455130.html",
-      "summary": "",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9a12ecce",
-      "title": "冷门的哲学，成了“治”AI的热门",
-      "url": "https://www.qbitai.com/2026/07/455041.html",
-      "summary": "智能进了社会，治理不能慢半拍",
-      "date": "2026-07-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2369b1fe",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "summary": "",
-      "date": "2026-07-17",
       "source": "Hugging Face",
       "tag": "opensource"
+    },
+    {
+      "id": "d3e0bcea",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when ...",
+      "date": "2026-07-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "485099be",
+      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+      "url": "https://www.qbitai.com/2026/07/455963.html",
+      "summary": "",
+      "date": "2026-07-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b87ff1d7",
+      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+      "url": "https://www.qbitai.com/2026/07/455805.html",
+      "summary": "大模型时代的共同选择",
+      "date": "2026-07-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "960e35dd",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "date": "2026-07-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "137bfeea",
+      "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+      "url": "https://www.qbitai.com/2026/07/455791.html",
+      "summary": "",
+      "date": "2026-07-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "95d5cc6a",
+      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+      "url": "https://www.qbitai.com/2026/07/455729.html",
+      "summary": "",
+      "date": "2026-07-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "50726753",
+      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+      "url": "https://www.qbitai.com/2026/07/455730.html",
+      "summary": "从理论探索到体系构建",
+      "date": "2026-07-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d213c30d",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ...",
+      "date": "2026-07-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "6d08c5b7",
@@ -78,15 +114,6 @@
       "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
       "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
       "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers....",
-      "date": "2026-07-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5777494d",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance...",
       "date": "2026-07-17",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -155,15 +182,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "2f85cd9e",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to ...",
-      "date": "2026-07-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "a075d60d",
       "title": "Newer Models, Same Advantage",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -171,15 +189,6 @@
       "date": "2026-07-16",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "3b0d1e97",
-      "title": "Why heat pumps are still so hot in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. Th...",
-      "date": "2026-07-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "b57416a8",
@@ -231,15 +240,6 @@
       "title": "The US is advancing AI safety through state and federal action",
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "date": "2026-07-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5ea0a635",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "date": "2026-07-15",
       "source": "OpenAI News",
       "tag": "OpenAI"
