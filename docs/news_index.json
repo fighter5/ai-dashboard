@@ -1,6 +1,114 @@
 {
-  "updated": "2026-07-21 05:22",
+  "updated": "2026-07-22 05:21",
   "items": [
+    {
+      "id": "3aa1cf31",
+      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+      "url": "https://www.qbitai.com/2026/07/456910.html",
+      "summary": "",
+      "date": "2026-07-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "41c57235",
+      "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
+      "url": "https://www.qbitai.com/2026/07/456728.html",
+      "summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
+      "date": "2026-07-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "136c6d20",
+      "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
+      "url": "https://www.qbitai.com/2026/07/456555.html",
+      "summary": "建一座「元医院」比造AI工具难多了。",
+      "date": "2026-07-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9772d11f",
+      "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
+      "url": "https://www.qbitai.com/2026/07/456178.html",
+      "summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
+      "date": "2026-07-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "48e21935",
+      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+      "url": "https://www.qbitai.com/2026/07/456061.html",
+      "summary": "中国大模型首次获得IMO官方金牌水平认证",
+      "date": "2026-07-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4be84331",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "summary": "",
+      "date": "2026-07-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "9783627b",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "date": "2026-07-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4f2427b7",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war wit...",
+      "date": "2026-07-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6d5a8655",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a...",
+      "date": "2026-07-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "07a59789",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "date": "2026-07-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "10666aeb",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "date": "2026-07-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4e39045e",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "summary": "",
+      "date": "2026-07-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
     {
       "id": "61d13d19",
       "title": "China’s AI models have Trump’s AI world at war with itself",
@@ -9,15 +117,6 @@
       "date": "2026-07-20",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "86f2663f",
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "summary": "",
-      "date": "2026-07-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "d3e0bcea",
@@ -29,24 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "485099be",
-      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
-      "url": "https://www.qbitai.com/2026/07/455963.html",
-      "summary": "",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b87ff1d7",
-      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-      "url": "https://www.qbitai.com/2026/07/455805.html",
-      "summary": "大模型时代的共同选择",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "960e35dd",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -54,33 +135,6 @@
       "date": "2026-07-20",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "137bfeea",
-      "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
-      "url": "https://www.qbitai.com/2026/07/455791.html",
-      "summary": "",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "95d5cc6a",
-      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
-      "url": "https://www.qbitai.com/2026/07/455729.html",
-      "summary": "",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "50726753",
-      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
-      "url": "https://www.qbitai.com/2026/07/455730.html",
-      "summary": "从理论探索到体系构建",
-      "date": "2026-07-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "d213c30d",
@@ -92,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "6d08c5b7",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t ...",
-      "date": "2026-07-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "be04b43c",
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -108,15 +153,6 @@
       "date": "2026-07-17",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "60f1cf5a",
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers....",
-      "date": "2026-07-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "308c77cd",
@@ -173,15 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "fc1dde75",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "date": "2026-07-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "a075d60d",
       "title": "Newer Models, Same Advantage",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -189,15 +216,6 @@
       "date": "2026-07-16",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "b57416a8",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "date": "2026-07-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "07a9214c",
@@ -225,24 +243,6 @@
       "date": "2026-07-15",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "6bf98bfe",
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "summary": "",
-      "date": "2026-07-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "817e2aed",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "date": "2026-07-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "84e3af10",
