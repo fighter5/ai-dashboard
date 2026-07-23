@@ -1,50 +1,122 @@
 {
-  "updated": "2026-07-22 05:21",
+  "updated": "2026-07-23 05:27",
   "items": [
     {
-      "id": "3aa1cf31",
-      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
-      "url": "https://www.qbitai.com/2026/07/456910.html",
+      "id": "52d6ecf1",
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+      "url": "https://www.qbitai.com/2026/07/457469.html",
+      "summary": "一台机器人的「多任务实战」",
+      "date": "2026-07-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2847a825",
+      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
+      "url": "https://www.qbitai.com/2026/07/457434.html",
       "summary": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "41c57235",
-      "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
-      "url": "https://www.qbitai.com/2026/07/456728.html",
-      "summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
-      "date": "2026-07-22",
+      "id": "ecbcabb9",
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "url": "https://www.qbitai.com/2026/07/457405.html",
+      "summary": "开源AI软件栈SAIL，260+框架即开即用",
+      "date": "2026-07-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "136c6d20",
-      "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
-      "url": "https://www.qbitai.com/2026/07/456555.html",
-      "summary": "建一座「元医院」比造AI工具难多了。",
-      "date": "2026-07-22",
+      "id": "e203c52d",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "url": "https://www.qbitai.com/2026/07/457359.html",
+      "summary": "",
+      "date": "2026-07-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9772d11f",
-      "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
-      "url": "https://www.qbitai.com/2026/07/456178.html",
-      "summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
-      "date": "2026-07-22",
+      "id": "f10c9156",
+      "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
+      "url": "https://www.qbitai.com/2026/07/457356.html",
+      "summary": "",
+      "date": "2026-07-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "48e21935",
-      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
-      "url": "https://www.qbitai.com/2026/07/456061.html",
-      "summary": "中国大模型首次获得IMO官方金牌水平认证",
+      "id": "bf18d69a",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
       "date": "2026-07-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "4eb37512",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "date": "2026-07-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7c576931",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "date": "2026-07-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b030bc34",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telesco...",
+      "date": "2026-07-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1de86603",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "date": "2026-07-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "def4f0c1",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first...",
+      "date": "2026-07-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1f5d786b",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "date": "2026-07-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0723f553",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "date": "2026-07-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "4be84331",
@@ -54,15 +126,6 @@
       "date": "2026-07-21",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "9783627b",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "date": "2026-07-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "4f2427b7",
@@ -83,24 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "07a59789",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "date": "2026-07-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "10666aeb",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "date": "2026-07-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "4e39045e",
       "title": "Grabette: an open system to record robot-manipulation data",
       "url": "https://huggingface.co/blog/grabette",
@@ -117,42 +162,6 @@
       "date": "2026-07-20",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "d3e0bcea",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when ...",
-      "date": "2026-07-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "960e35dd",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "date": "2026-07-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d213c30d",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ...",
-      "date": "2026-07-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "be04b43c",
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "date": "2026-07-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "308c77cd",
@@ -259,15 +268,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "summary": "Managed agents feature bundle launch",
       "date": "2026-07-07",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "1f96c5e6",
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "summary": "June Pixel Drop hero",
-      "date": "2026-07-01",
       "source": "Google AI Blog",
       "tag": "Google"
     }
