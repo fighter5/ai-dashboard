@@ -1,50 +1,104 @@
 {
-  "updated": "2026-07-23 05:27",
+  "updated": "2026-07-24 05:21",
   "items": [
     {
-      "id": "52d6ecf1",
-      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
-      "url": "https://www.qbitai.com/2026/07/457469.html",
-      "summary": "一台机器人的「多任务实战」",
-      "date": "2026-07-23",
+      "id": "2a06c445",
+      "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
+      "url": "https://www.qbitai.com/2026/07/458357.html",
+      "summary": "",
+      "date": "2026-07-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2847a825",
-      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-      "url": "https://www.qbitai.com/2026/07/457434.html",
+      "id": "357268c0",
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "url": "https://www.qbitai.com/2026/07/458348.html",
+      "summary": "",
+      "date": "2026-07-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7f84c57e",
+      "title": "李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业",
+      "url": "https://www.qbitai.com/2026/07/457920.html",
+      "summary": "",
+      "date": "2026-07-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b1071bc2",
+      "title": "北大「双菲」：天才们的鲜活人生",
+      "url": "https://www.qbitai.com/2026/07/457922.html",
+      "summary": "菲尔兹奖得主王虹、邓煜创造中国历史！这是他们的故事。",
+      "date": "2026-07-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "585e750a",
+      "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
+      "url": "https://www.qbitai.com/2026/07/457792.html",
+      "summary": "他的学生刚用Fable 5推翻87年悬案",
+      "date": "2026-07-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ba665883",
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a reci...",
+      "date": "2026-07-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4851c8c0",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid ...",
+      "date": "2026-07-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7f188a0c",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos...",
+      "date": "2026-07-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "31cc69d5",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that p...",
+      "date": "2026-07-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b6e63d54",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "date": "2026-07-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a8b687ef",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
       "summary": "",
       "date": "2026-07-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ecbcabb9",
-      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
-      "url": "https://www.qbitai.com/2026/07/457405.html",
-      "summary": "开源AI软件栈SAIL，260+框架即开即用",
-      "date": "2026-07-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e203c52d",
-      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
-      "url": "https://www.qbitai.com/2026/07/457359.html",
-      "summary": "",
-      "date": "2026-07-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f10c9156",
-      "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
-      "url": "https://www.qbitai.com/2026/07/457356.html",
-      "summary": "",
-      "date": "2026-07-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "bf18d69a",
@@ -92,28 +146,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "def4f0c1",
-      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first...",
-      "date": "2026-07-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "1f5d786b",
       "title": "Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "date": "2026-07-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "0723f553",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "date": "2026-07-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -128,24 +164,6 @@
       "tag": "opensource"
     },
     {
-      "id": "4f2427b7",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war wit...",
-      "date": "2026-07-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6d5a8655",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a...",
-      "date": "2026-07-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "4e39045e",
       "title": "Grabette: an open system to record robot-manipulation data",
       "url": "https://huggingface.co/blog/grabette",
@@ -153,51 +171,6 @@
       "date": "2026-07-21",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "61d13d19",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ...",
-      "date": "2026-07-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "308c77cd",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model...",
-      "date": "2026-07-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "e1584d59",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide...",
-      "date": "2026-07-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "7caead53",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc...",
-      "date": "2026-07-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "1a909f02",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
-      "date": "2026-07-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
     },
     {
       "id": "c2f66cb0",
@@ -236,24 +209,6 @@
       "tag": "opensource"
     },
     {
-      "id": "dc315898",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re...",
-      "date": "2026-07-15",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "534a0446",
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "summary": "",
-      "date": "2026-07-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "84e3af10",
       "title": "Celebrating 25 years of visual search innovation",
       "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
@@ -270,6 +225,51 @@
       "date": "2026-07-07",
       "source": "Google AI Blog",
       "tag": "Google"
+    },
+    {
+      "id": "e7785d8c",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T...",
+      "date": "2026-05-19",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "e670024b",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
+      "date": "2026-01-22",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "1bd5d5f6",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap...",
+      "date": "2026-01-19",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "ca731494",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
+      "date": "2026-01-16",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "db7ff708",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully...",
+      "date": "2026-01-13",
+      "source": "VentureBeat AI",
+      "tag": "industry"
     }
   ]
 }
