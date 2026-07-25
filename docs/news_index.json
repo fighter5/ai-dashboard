@@ -1,47 +1,65 @@
 {
-  "updated": "2026-07-24 05:21",
+  "updated": "2026-07-25 05:16",
   "items": [
     {
-      "id": "2a06c445",
-      "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
-      "url": "https://www.qbitai.com/2026/07/458357.html",
-      "summary": "",
+      "id": "ce8b0b56",
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "url": "https://www.qbitai.com/2026/07/460174.html",
+      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
+      "date": "2026-07-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0ad2f376",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ...",
+      "date": "2026-07-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "93cdca4c",
+      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+      "url": "https://www.qbitai.com/2026/07/460154.html",
+      "summary": "跑出原生全模态新路径",
       "date": "2026-07-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "357268c0",
-      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
-      "url": "https://www.qbitai.com/2026/07/458348.html",
-      "summary": "",
+      "id": "9a215f52",
+      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+      "url": "https://www.qbitai.com/2026/07/460041.html",
+      "summary": "给它一张图，还你整个世界",
       "date": "2026-07-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7f84c57e",
-      "title": "李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业",
-      "url": "https://www.qbitai.com/2026/07/457920.html",
-      "summary": "",
+      "id": "6f3dc14c",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pi...",
+      "date": "2026-07-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "cfce17ce",
+      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+      "url": "https://www.qbitai.com/2026/07/460042.html",
+      "summary": "王虹主页唯一没挂链接的论文",
       "date": "2026-07-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "b1071bc2",
-      "title": "北大「双菲」：天才们的鲜活人生",
-      "url": "https://www.qbitai.com/2026/07/457922.html",
-      "summary": "菲尔兹奖得主王虹、邓煜创造中国历史！这是他们的故事。",
-      "date": "2026-07-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "585e750a",
-      "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
-      "url": "https://www.qbitai.com/2026/07/457792.html",
-      "summary": "他的学生刚用Fable 5推翻87年悬案",
+      "id": "e5a4f039",
+      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+      "url": "https://www.qbitai.com/2026/07/459432.html",
+      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程",
       "date": "2026-07-24",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -69,15 +87,6 @@
       "title": "How AI helps scientists design the next generation of medicines",
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos...",
-      "date": "2026-07-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "31cc69d5",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that p...",
       "date": "2026-07-23",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -126,15 +135,6 @@
       "date": "2026-07-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "b030bc34",
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telesco...",
-      "date": "2026-07-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "1de86603",
