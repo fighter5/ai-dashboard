@@ -1,11 +1,47 @@
 {
-  "updated": "2026-07-25 05:16",
+  "updated": "2026-07-26 05:33",
   "items": [
     {
-      "id": "ce8b0b56",
-      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-      "url": "https://www.qbitai.com/2026/07/460174.html",
-      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
+      "id": "af2c1bf7",
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "summary": "开源、隐私、本地优先、模型无关",
+      "date": "2026-07-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e64fe6ab",
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "url": "https://www.qbitai.com/2026/07/460542.html",
+      "summary": "这是机器人领域最好的时代",
+      "date": "2026-07-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "32da8e0c",
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "url": "https://www.qbitai.com/2026/07/460253.html",
+      "summary": "模型变强，Claude Code系统提示词都精简了",
+      "date": "2026-07-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "437e4daa",
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "url": "https://www.qbitai.com/2026/07/460234.html",
+      "summary": "不做人形，抓住真实用户需求",
+      "date": "2026-07-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5fd02dff",
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "url": "https://www.qbitai.com/2026/07/460186.html",
+      "summary": "工业圈和学术圈“唱反调”",
       "date": "2026-07-25",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -20,24 +56,6 @@
       "tag": "research"
     },
     {
-      "id": "93cdca4c",
-      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-      "url": "https://www.qbitai.com/2026/07/460154.html",
-      "summary": "跑出原生全模态新路径",
-      "date": "2026-07-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9a215f52",
-      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "url": "https://www.qbitai.com/2026/07/460041.html",
-      "summary": "给它一张图，还你整个世界",
-      "date": "2026-07-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "6f3dc14c",
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
       "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
@@ -45,24 +63,6 @@
       "date": "2026-07-24",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "cfce17ce",
-      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-      "url": "https://www.qbitai.com/2026/07/460042.html",
-      "summary": "王虹主页唯一没挂链接的论文",
-      "date": "2026-07-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e5a4f039",
-      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-      "url": "https://www.qbitai.com/2026/07/459432.html",
-      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程",
-      "date": "2026-07-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "ba665883",
