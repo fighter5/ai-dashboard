@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-26 05:33",
+  "updated": "2026-07-27 05:52",
   "items": [
+    {
+      "id": "de4fd80f",
+      "title": "企业出海，被中国信通院和腾讯重新定义了一次",
+      "url": "https://www.qbitai.com/2026/07/461153.html",
+      "summary": "22位AI专家率先上岗WorkBuddy",
+      "date": "2026-07-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8217d57d",
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "url": "https://www.qbitai.com/2026/07/461149.html",
+      "summary": "",
+      "date": "2026-07-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2a276d0b",
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "url": "https://www.qbitai.com/2026/07/460962.html",
+      "summary": "项目数据模型均开源",
+      "date": "2026-07-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "af2c1bf7",
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -15,33 +42,6 @@
       "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
       "url": "https://www.qbitai.com/2026/07/460542.html",
       "summary": "这是机器人领域最好的时代",
-      "date": "2026-07-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "32da8e0c",
-      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-      "url": "https://www.qbitai.com/2026/07/460253.html",
-      "summary": "模型变强，Claude Code系统提示词都精简了",
-      "date": "2026-07-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "437e4daa",
-      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-      "url": "https://www.qbitai.com/2026/07/460234.html",
-      "summary": "不做人形，抓住真实用户需求",
-      "date": "2026-07-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5fd02dff",
-      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
-      "url": "https://www.qbitai.com/2026/07/460186.html",
-      "summary": "工业圈和学术圈“唱反调”",
       "date": "2026-07-25",
       "source": "Qbitai",
       "tag": "zh-news"
