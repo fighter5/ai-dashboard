@@ -1,95 +1,113 @@
 {
-  "updated": "2026-07-27 05:52",
+  "updated": "2026-07-28 05:16",
   "items": [
     {
-      "id": "de4fd80f",
-      "title": "企业出海，被中国信通院和腾讯重新定义了一次",
-      "url": "https://www.qbitai.com/2026/07/461153.html",
-      "summary": "22位AI专家率先上岗WorkBuddy",
+      "id": "29f71726",
+      "title": "智能体走向终端，个人AI时代正在到来",
+      "url": "https://www.qbitai.com/2026/07/461565.html",
+      "summary": "",
+      "date": "2026-07-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d7a30d52",
+      "title": "突发，翁荔离职Thinking Machines",
+      "url": "https://www.qbitai.com/2026/07/461517.html",
+      "summary": "20个月「像过完了一辈子」",
+      "date": "2026-07-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bd9265e4",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod...",
+      "date": "2026-07-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "aa693ec6",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could...",
+      "date": "2026-07-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a380c4dc",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear rea...",
+      "date": "2026-07-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "25cc5f27",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they ...",
+      "date": "2026-07-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "31a791e8",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceutical...",
+      "date": "2026-07-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2695469f",
+      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+      "url": "https://www.qbitai.com/2026/07/461444.html",
+      "summary": "一次技术与场景的深度耦合",
       "date": "2026-07-27",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8217d57d",
-      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-      "url": "https://www.qbitai.com/2026/07/461149.html",
+      "id": "b24ba357",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "summary": "",
+      "date": "2026-07-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "486073ec",
+      "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+      "url": "https://www.qbitai.com/2026/07/461398.html",
       "summary": "",
       "date": "2026-07-27",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2a276d0b",
-      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-      "url": "https://www.qbitai.com/2026/07/460962.html",
-      "summary": "项目数据模型均开源",
-      "date": "2026-07-26",
+      "id": "fae48fe8",
+      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+      "url": "https://www.qbitai.com/2026/07/461392.html",
+      "summary": "",
+      "date": "2026-07-27",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "af2c1bf7",
-      "title": "100%开源！吴恩达做了个个人桌面Agent",
-      "url": "https://www.qbitai.com/2026/07/460892.html",
-      "summary": "开源、隐私、本地优先、模型无关",
-      "date": "2026-07-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e64fe6ab",
-      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
-      "url": "https://www.qbitai.com/2026/07/460542.html",
-      "summary": "这是机器人领域最好的时代",
-      "date": "2026-07-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0ad2f376",
-      "title": "The quest to keep organs alive outside the body",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ...",
-      "date": "2026-07-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6f3dc14c",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pi...",
-      "date": "2026-07-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ba665883",
-      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-      "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a reci...",
-      "date": "2026-07-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4851c8c0",
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid ...",
-      "date": "2026-07-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7f188a0c",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos...",
-      "date": "2026-07-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "680c3dc9",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "date": "2026-07-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "b6e63d54",
@@ -144,24 +162,6 @@
       "date": "2026-07-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "1f5d786b",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "date": "2026-07-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4be84331",
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "summary": "",
-      "date": "2026-07-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "4e39045e",
