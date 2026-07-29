@@ -1,20 +1,119 @@
 {
-  "updated": "2026-07-28 05:16",
+  "updated": "2026-07-29 05:23",
   "items": [
     {
-      "id": "29f71726",
-      "title": "智能体走向终端，个人AI时代正在到来",
-      "url": "https://www.qbitai.com/2026/07/461565.html",
+      "id": "ceb2d2f5",
+      "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+      "url": "https://www.qbitai.com/2026/07/462065.html",
+      "summary": "让多智能体团队随时随地为你干活",
+      "date": "2026-07-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f981e7e1",
+      "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
+      "url": "https://www.qbitai.com/2026/07/462062.html",
       "summary": "",
+      "date": "2026-07-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "029e0218",
+      "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+      "url": "https://www.qbitai.com/2026/07/462058.html",
+      "summary": "",
+      "date": "2026-07-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8cc1ba4a",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "date": "2026-07-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f57b088c",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "summary": "",
+      "date": "2026-07-28",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "85f9e223",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "date": "2026-07-28",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "9a40059e",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "summary": "",
+      "date": "2026-07-28",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "ed733c91",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "date": "2026-07-28",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "cd8e20ce",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "date": "2026-07-28",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c57d8e18",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedente...",
+      "date": "2026-07-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "57f356aa",
+      "title": "豆包搜索，走出了豆包",
+      "url": "https://www.qbitai.com/2026/07/461961.html",
+      "summary": "把搜索能力开放给Agent了",
       "date": "2026-07-28",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d7a30d52",
-      "title": "突发，翁荔离职Thinking Machines",
-      "url": "https://www.qbitai.com/2026/07/461517.html",
-      "summary": "20个月「像过完了一辈子」",
+      "id": "e9c7d242",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight...",
+      "date": "2026-07-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b8a08bd0",
+      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+      "url": "https://www.qbitai.com/2026/07/461949.html",
+      "summary": "",
       "date": "2026-07-28",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -47,33 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "25cc5f27",
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they ...",
-      "date": "2026-07-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "31a791e8",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceutical...",
-      "date": "2026-07-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2695469f",
-      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
-      "url": "https://www.qbitai.com/2026/07/461444.html",
-      "summary": "一次技术与场景的深度耦合",
-      "date": "2026-07-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -83,24 +155,6 @@
       "tag": "opensource"
     },
     {
-      "id": "486073ec",
-      "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
-      "url": "https://www.qbitai.com/2026/07/461398.html",
-      "summary": "",
-      "date": "2026-07-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "fae48fe8",
-      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-      "url": "https://www.qbitai.com/2026/07/461392.html",
-      "summary": "",
-      "date": "2026-07-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "680c3dc9",
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -108,6 +162,15 @@
       "date": "2026-07-27",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "45ee50f0",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "summary": "",
+      "date": "2026-07-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "b6e63d54",
@@ -155,74 +218,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "1de86603",
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "date": "2026-07-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4e39045e",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "summary": "",
-      "date": "2026-07-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "c2f66cb0",
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "summary": "Connected apps rendering",
       "date": "2026-07-16",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "b1da67ab",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "date": "2026-07-16",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "a075d60d",
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "summary": "",
-      "date": "2026-07-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "07a9214c",
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "summary": "",
-      "date": "2026-07-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "84e3af10",
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "date": "2026-07-14",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "c754a9a1",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "summary": "Managed agents feature bundle launch",
-      "date": "2026-07-07",
       "source": "Google AI Blog",
       "tag": "Google"
     },
