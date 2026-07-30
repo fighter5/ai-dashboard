@@ -1,32 +1,104 @@
 {
-  "updated": "2026-07-29 05:23",
+  "updated": "2026-07-30 05:10",
   "items": [
     {
-      "id": "ceb2d2f5",
-      "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
-      "url": "https://www.qbitai.com/2026/07/462065.html",
-      "summary": "让多智能体团队随时随地为你干活",
+      "id": "874cffdf",
+      "title": "这这这…翁荔光速回OpenAI上班了",
+      "url": "https://www.qbitai.com/2026/07/462947.html",
+      "summary": "6位联合创始人——只剩2名。",
+      "date": "2026-07-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2ef3d49a",
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, maki...",
+      "date": "2026-07-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "232de1e5",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "date": "2026-07-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b43ed6d2",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival S...",
+      "date": "2026-07-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "63f61739",
+      "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+      "url": "https://www.qbitai.com/2026/07/462943.html",
+      "summary": "中科院、北电数智等专家共探数学与AI边界",
       "date": "2026-07-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f981e7e1",
-      "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
-      "url": "https://www.qbitai.com/2026/07/462062.html",
+      "id": "e787c3a2",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "date": "2026-07-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b4d3a90f",
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ...",
+      "date": "2026-07-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ccf203c0",
+      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+      "url": "https://www.qbitai.com/2026/07/462447.html",
+      "summary": "AI开始组团“挖漏洞”",
+      "date": "2026-07-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1542d6a7",
+      "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
+      "url": "https://www.qbitai.com/2026/07/462384.html",
+      "summary": "百万网友已玩疯",
+      "date": "2026-07-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "71704d27",
+      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+      "url": "https://www.qbitai.com/2026/07/462380.html",
       "summary": "",
       "date": "2026-07-29",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "029e0218",
-      "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
-      "url": "https://www.qbitai.com/2026/07/462058.html",
-      "summary": "",
+      "id": "2c718aee",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "date": "2026-07-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "8cc1ba4a",
@@ -92,56 +164,11 @@
       "tag": "research"
     },
     {
-      "id": "57f356aa",
-      "title": "豆包搜索，走出了豆包",
-      "url": "https://www.qbitai.com/2026/07/461961.html",
-      "summary": "把搜索能力开放给Agent了",
-      "date": "2026-07-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e9c7d242",
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight...",
       "date": "2026-07-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b8a08bd0",
-      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
-      "url": "https://www.qbitai.com/2026/07/461949.html",
-      "summary": "",
-      "date": "2026-07-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "bd9265e4",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod...",
-      "date": "2026-07-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "aa693ec6",
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could...",
-      "date": "2026-07-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a380c4dc",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear rea...",
-      "date": "2026-07-27",
       "source": "MIT Tech Review",
       "tag": "research"
     },
@@ -173,15 +200,6 @@
       "tag": "opensource"
     },
     {
-      "id": "b6e63d54",
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "date": "2026-07-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "a8b687ef",
       "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
       "url": "https://huggingface.co/blog/nunchaku-diffusers",
@@ -198,24 +216,6 @@
       "date": "2026-07-22",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "4eb37512",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "date": "2026-07-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7c576931",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "date": "2026-07-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "c2f66cb0",
