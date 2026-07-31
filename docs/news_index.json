@@ -1,14 +1,104 @@
 {
-  "updated": "2026-07-30 05:10",
+  "updated": "2026-07-31 05:37",
   "items": [
     {
-      "id": "874cffdf",
-      "title": "这这这…翁荔光速回OpenAI上班了",
-      "url": "https://www.qbitai.com/2026/07/462947.html",
-      "summary": "6位联合创始人——只剩2名。",
+      "id": "fbb409a6",
+      "title": "GPT-5.6今起大降价，最大幅度80%！",
+      "url": "https://www.qbitai.com/2026/07/463640.html",
+      "summary": "Luna打骨折",
+      "date": "2026-07-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3c7c2d3e",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a...",
+      "date": "2026-07-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bac0f01a",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "summary": "",
+      "date": "2026-07-30",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "97aec3fd",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerab...",
+      "date": "2026-07-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d3ef4a34",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen...",
+      "date": "2026-07-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "28f36991",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "date": "2026-07-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "67b91183",
+      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+      "url": "https://www.qbitai.com/2026/07/463433.html",
+      "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
       "date": "2026-07-30",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "778f5fdd",
+      "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
+      "url": "https://www.qbitai.com/2026/07/463204.html",
+      "summary": "靠“堆参数换销量\"的逻辑，不再管用了",
+      "date": "2026-07-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d0adfe51",
+      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+      "url": "https://www.qbitai.com/2026/07/463297.html",
+      "summary": "OpenAI的RSI焚诀，它来了！",
+      "date": "2026-07-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0079de8a",
+      "title": "李飞飞的世界模型，终于开始训练机器人了",
+      "url": "https://www.qbitai.com/2026/07/463217.html",
+      "summary": "李飞飞老师的World Labs，补了块关键拼图",
+      "date": "2026-07-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4ff655ca",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "date": "2026-07-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "2ef3d49a",
@@ -38,15 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "63f61739",
-      "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
-      "url": "https://www.qbitai.com/2026/07/462943.html",
-      "summary": "中科院、北电数智等专家共探数学与AI边界",
-      "date": "2026-07-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e787c3a2",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
@@ -56,56 +137,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "b4d3a90f",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ...",
-      "date": "2026-07-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ccf203c0",
-      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-      "url": "https://www.qbitai.com/2026/07/462447.html",
-      "summary": "AI开始组团“挖漏洞”",
-      "date": "2026-07-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1542d6a7",
-      "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
-      "url": "https://www.qbitai.com/2026/07/462384.html",
-      "summary": "百万网友已玩疯",
-      "date": "2026-07-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "71704d27",
-      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
-      "url": "https://www.qbitai.com/2026/07/462380.html",
-      "summary": "",
-      "date": "2026-07-29",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "2c718aee",
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "date": "2026-07-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8cc1ba4a",
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "date": "2026-07-28",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -155,24 +191,6 @@
       "tag": "Google"
     },
     {
-      "id": "c57d8e18",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedente...",
-      "date": "2026-07-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e9c7d242",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight...",
-      "date": "2026-07-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -182,29 +200,11 @@
       "tag": "opensource"
     },
     {
-      "id": "680c3dc9",
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "date": "2026-07-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "45ee50f0",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "summary": "",
       "date": "2026-07-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "a8b687ef",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "summary": "",
-      "date": "2026-07-23",
       "source": "Hugging Face",
       "tag": "opensource"
     },
