@@ -1,14 +1,104 @@
 {
-  "updated": "2026-07-31 05:37",
+  "updated": "2026-08-01 05:28",
   "items": [
     {
-      "id": "fbb409a6",
-      "title": "GPT-5.6今起大降价，最大幅度80%！",
-      "url": "https://www.qbitai.com/2026/07/463640.html",
-      "summary": "Luna打骨折",
+      "id": "00d72147",
+      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+      "url": "https://www.qbitai.com/2026/08/464452.html",
+      "summary": "三本教科书，救活英伟达",
+      "date": "2026-08-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "af5289c9",
+      "title": "Anthropic模型，也失控了。。。",
+      "url": "https://www.qbitai.com/2026/08/464412.html",
+      "summary": "14万次测试翻旧账",
+      "date": "2026-08-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c7212652",
+      "title": "AI顶会现场，见到了一家美妆巨头",
+      "url": "https://www.qbitai.com/2026/08/464364.html",
+      "summary": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+      "date": "2026-08-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5b3393f6",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "date": "2026-07-31",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ef7e135b",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "date": "2026-07-31",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0abc8a3e",
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical h...",
+      "date": "2026-07-31",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "dcb42dd9",
+      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+      "url": "https://www.qbitai.com/2026/07/464328.html",
+      "summary": "开源项目GitHub狂揽8000+Star",
       "date": "2026-07-31",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "f3afcd69",
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles...",
+      "date": "2026-07-31",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6c03018b",
+      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+      "url": "https://www.qbitai.com/2026/07/464329.html",
+      "summary": "行业独家的30s视频原生直出",
+      "date": "2026-07-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dc984bc2",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "date": "2026-07-31",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e2b8f863",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "date": "2026-07-31",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "3c7c2d3e",
@@ -52,96 +142,6 @@
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "date": "2026-07-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "67b91183",
-      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-      "url": "https://www.qbitai.com/2026/07/463433.html",
-      "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
-      "date": "2026-07-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "778f5fdd",
-      "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
-      "url": "https://www.qbitai.com/2026/07/463204.html",
-      "summary": "靠“堆参数换销量\"的逻辑，不再管用了",
-      "date": "2026-07-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d0adfe51",
-      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-      "url": "https://www.qbitai.com/2026/07/463297.html",
-      "summary": "OpenAI的RSI焚诀，它来了！",
-      "date": "2026-07-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0079de8a",
-      "title": "李飞飞的世界模型，终于开始训练机器人了",
-      "url": "https://www.qbitai.com/2026/07/463217.html",
-      "summary": "李飞飞老师的World Labs，补了块关键拼图",
-      "date": "2026-07-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4ff655ca",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "date": "2026-07-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "2ef3d49a",
-      "title": "How an overlooked geothermal plant got a second chance",
-      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, maki...",
-      "date": "2026-07-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "232de1e5",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "date": "2026-07-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b43ed6d2",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival S...",
-      "date": "2026-07-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e787c3a2",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "date": "2026-07-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "2c718aee",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "date": "2026-07-29",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
