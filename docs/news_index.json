@@ -1,32 +1,59 @@
 {
-  "updated": "2026-08-01 05:28",
+  "updated": "2026-08-02 05:29",
   "items": [
     {
-      "id": "00d72147",
-      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-      "url": "https://www.qbitai.com/2026/08/464452.html",
-      "summary": "三本教科书，救活英伟达",
+      "id": "b83b452a",
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "url": "https://www.qbitai.com/2026/08/464781.html",
+      "summary": "具身智能的τ（bushi）",
       "date": "2026-08-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "af5289c9",
-      "title": "Anthropic模型，也失控了。。。",
-      "url": "https://www.qbitai.com/2026/08/464412.html",
-      "summary": "14万次测试翻旧账",
+      "id": "87a92a50",
+      "title": "获奖之后，王虹最想感谢的人",
+      "url": "https://www.qbitai.com/2026/08/464761.html",
+      "summary": "\"他真的给了我很大的帮助\"",
       "date": "2026-08-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c7212652",
-      "title": "AI顶会现场，见到了一家美妆巨头",
-      "url": "https://www.qbitai.com/2026/08/464364.html",
-      "summary": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+      "id": "12bfc5e3",
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "url": "https://www.qbitai.com/2026/08/464713.html",
+      "summary": "狂刷3小时！",
       "date": "2026-08-01",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "6108e1de",
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "url": "https://www.qbitai.com/2026/08/464693.html",
+      "summary": "对前沿实验室估值悲观",
+      "date": "2026-08-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d14561e2",
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "summary": "下一场竞争，是谁能造出更多“有用的世界”",
+      "date": "2026-08-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e1503b98",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "date": "2026-08-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "5b3393f6",
@@ -56,15 +83,6 @@
       "tag": "research"
     },
     {
-      "id": "dcb42dd9",
-      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-      "url": "https://www.qbitai.com/2026/07/464328.html",
-      "summary": "开源项目GitHub狂揽8000+Star",
-      "date": "2026-07-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "f3afcd69",
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
       "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
@@ -72,15 +90,6 @@
       "date": "2026-07-31",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "6c03018b",
-      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-      "url": "https://www.qbitai.com/2026/07/464329.html",
-      "summary": "行业独家的30s视频原生直出",
-      "date": "2026-07-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "dc984bc2",
@@ -135,15 +144,6 @@
       "date": "2026-07-30",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "28f36991",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "date": "2026-07-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "f57b088c",
