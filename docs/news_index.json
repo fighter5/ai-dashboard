@@ -1,50 +1,95 @@
 {
-  "updated": "2026-08-03 05:43",
+  "updated": "2026-08-04 05:16",
   "items": [
     {
-      "id": "40c72092",
-      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-      "url": "https://www.qbitai.com/2026/08/465215.html",
-      "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
+      "id": "489b616f",
+      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+      "url": "https://www.qbitai.com/2026/08/465732.html",
+      "summary": "出海AI，正被“三重算力锁链\"捆死",
+      "date": "2026-08-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dc0d90ec",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum...",
+      "date": "2026-08-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "72f55c67",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their ...",
+      "date": "2026-08-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "69db89a4",
+      "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+      "url": "https://www.qbitai.com/2026/08/465673.html",
+      "summary": "商汤预览了SenseNova U1.5 Lite",
       "date": "2026-08-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "aaf3843d",
-      "title": "阿里“千问办公”开启公测",
-      "url": "https://www.qbitai.com/2026/08/465211.html",
-      "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
+      "id": "e4b3c3d5",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model...",
+      "date": "2026-08-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1d3b55e4",
+      "title": "年薪百万抢电工，Meta急到自己办技校",
+      "url": "https://www.qbitai.com/2026/08/465223.html",
+      "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍",
       "date": "2026-08-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "bc546dbe",
-      "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
-      "url": "https://www.qbitai.com/2026/08/465176.html",
-      "summary": "终究还是喜提了「美国豆包」",
+      "id": "9be5bdf1",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "date": "2026-08-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f3c3f5d0",
+      "title": "当品牌开始争夺AI的答案：翰智GEO入场",
+      "url": "https://www.qbitai.com/2026/08/465662.html",
+      "summary": "",
       "date": "2026-08-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "752e50f5",
-      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
-      "url": "https://www.qbitai.com/2026/08/464835.html",
-      "summary": "面向AI Agent的可迁移、自演进记忆操作层MindMemOS",
+      "id": "30651aee",
+      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+      "url": "https://www.qbitai.com/2026/08/465361.html",
+      "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
       "date": "2026-08-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "b83b452a",
-      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-      "url": "https://www.qbitai.com/2026/08/464781.html",
-      "summary": "具身智能的τ（bushi）",
-      "date": "2026-08-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "97562427",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "date": "2026-08-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "e1503b98",
@@ -92,33 +137,6 @@
       "tag": "research"
     },
     {
-      "id": "dc984bc2",
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "date": "2026-07-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "e2b8f863",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "date": "2026-07-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3c7c2d3e",
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a...",
-      "date": "2026-07-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "bac0f01a",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
@@ -126,24 +144,6 @@
       "date": "2026-07-30",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "97aec3fd",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerab...",
-      "date": "2026-07-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d3ef4a34",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen...",
-      "date": "2026-07-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "f57b088c",
