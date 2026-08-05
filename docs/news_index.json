@@ -1,23 +1,122 @@
 {
-  "updated": "2026-08-04 05:16",
+  "updated": "2026-08-05 05:16",
   "items": [
     {
-      "id": "489b616f",
-      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-      "url": "https://www.qbitai.com/2026/08/465732.html",
-      "summary": "出海AI，正被“三重算力锁链\"捆死",
+      "id": "899f3cac",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "date": "2026-08-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4d42e33f",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "summary": "",
+      "date": "2026-08-04",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "eb1a8d52",
+      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+      "url": "https://www.qbitai.com/2026/08/466386.html",
+      "summary": "北京大学&#038;元空AI Agent联合实验室",
       "date": "2026-08-04",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
+      "id": "34a7f382",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "summary": "July AI recap header",
+      "date": "2026-08-04",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "03bae251",
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —Ja...",
+      "date": "2026-08-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a735fbaf",
+      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+      "url": "https://www.qbitai.com/2026/08/465792.html",
+      "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+      "date": "2026-08-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "da2d3030",
+      "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+      "url": "https://www.qbitai.com/2026/08/466262.html",
+      "summary": "Skill和Agent也能被封装调用",
+      "date": "2026-08-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "feb33531",
+      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+      "url": "https://www.qbitai.com/2026/08/466032.html",
+      "summary": "OpenAI+田园牧歌，画风属实太违和",
+      "date": "2026-08-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a09d647d",
+      "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+      "url": "https://www.qbitai.com/2026/08/465973.html",
+      "summary": "元宝已接入",
+      "date": "2026-08-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "26f5b739",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "date": "2026-08-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "39d4fd00",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "date": "2026-08-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
       "id": "dc0d90ec",
       "title": "Trump’s AI protectionism has come for robotics",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum...",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They...",
       "date": "2026-08-03",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "3ce791ab",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
+      "date": "2026-08-03",
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
       "id": "72f55c67",
@@ -29,15 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "69db89a4",
-      "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
-      "url": "https://www.qbitai.com/2026/08/465673.html",
-      "summary": "商汤预览了SenseNova U1.5 Lite",
-      "date": "2026-08-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e4b3c3d5",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -45,15 +135,6 @@
       "date": "2026-08-03",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "1d3b55e4",
-      "title": "年薪百万抢电工，Meta急到自己办技校",
-      "url": "https://www.qbitai.com/2026/08/465223.html",
-      "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍",
-      "date": "2026-08-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "9be5bdf1",
@@ -65,24 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "f3c3f5d0",
-      "title": "当品牌开始争夺AI的答案：翰智GEO入场",
-      "url": "https://www.qbitai.com/2026/08/465662.html",
-      "summary": "",
-      "date": "2026-08-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "30651aee",
-      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-      "url": "https://www.qbitai.com/2026/08/465361.html",
-      "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
-      "date": "2026-08-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "97562427",
       "title": "Circles powers telco personalization with OpenAI technology",
       "url": "https://openai.com/index/circles",
@@ -92,46 +155,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "e1503b98",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "date": "2026-08-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "5b3393f6",
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "date": "2026-07-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ef7e135b",
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "date": "2026-07-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "0abc8a3e",
       "title": "The Download: Montana’s new experimental drug rules",
       "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical h...",
-      "date": "2026-07-31",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f3afcd69",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles...",
       "date": "2026-07-31",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -162,15 +189,6 @@
       "date": "2026-07-28",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "9a40059e",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "summary": "",
-      "date": "2026-07-28",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "ed733c91",
@@ -207,24 +225,6 @@
       "date": "2026-07-27",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "bf18d69a",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "date": "2026-07-22",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "c2f66cb0",
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "summary": "Connected apps rendering",
-      "date": "2026-07-16",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e7785d8c",
