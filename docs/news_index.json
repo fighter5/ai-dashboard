@@ -1,6 +1,78 @@
 {
-  "updated": "2026-08-05 05:16",
+  "updated": "2026-08-06 05:18",
   "items": [
+    {
+      "id": "a19e2634",
+      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "url": "https://www.qbitai.com/2026/08/467196.html",
+      "summary": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+      "date": "2026-08-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ab78e492",
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includ...",
+      "date": "2026-08-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1620d62c",
+      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+      "url": "https://www.qbitai.com/2026/08/467034.html",
+      "summary": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
+      "date": "2026-08-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "36c6d64b",
+      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
+      "url": "https://www.qbitai.com/2026/08/467036.html",
+      "summary": "MiniMax H3也能开箱即用了",
+      "date": "2026-08-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "83ab3f0c",
+      "title": "又一家AI基金暴雷了",
+      "url": "https://www.qbitai.com/2026/08/467001.html",
+      "summary": "开源改写游戏规则",
+      "date": "2026-08-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ff71d16d",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also de...",
+      "date": "2026-08-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d04f9104",
+      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+      "url": "https://www.qbitai.com/2026/08/466998.html",
+      "summary": "阿里巴巴淘天集团开启2027届应届生招聘。",
+      "date": "2026-08-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ec86245c",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-l...",
+      "date": "2026-08-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
     {
       "id": "899f3cac",
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -20,15 +92,6 @@
       "tag": "opensource"
     },
     {
-      "id": "eb1a8d52",
-      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "url": "https://www.qbitai.com/2026/08/466386.html",
-      "summary": "北京大学&#038;元空AI Agent联合实验室",
-      "date": "2026-08-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "34a7f382",
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -39,48 +102,12 @@
     },
     {
       "id": "03bae251",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —Ja...",
       "date": "2026-08-04",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "a735fbaf",
-      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-      "url": "https://www.qbitai.com/2026/08/465792.html",
-      "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
-      "date": "2026-08-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "da2d3030",
-      "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
-      "url": "https://www.qbitai.com/2026/08/466262.html",
-      "summary": "Skill和Agent也能被封装调用",
-      "date": "2026-08-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "feb33531",
-      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-      "url": "https://www.qbitai.com/2026/08/466032.html",
-      "summary": "OpenAI+田园牧歌，画风属实太违和",
-      "date": "2026-08-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a09d647d",
-      "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-      "url": "https://www.qbitai.com/2026/08/465973.html",
-      "summary": "元宝已接入",
-      "date": "2026-08-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "26f5b739",
@@ -119,24 +146,6 @@
       "tag": "Google"
     },
     {
-      "id": "72f55c67",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their ...",
-      "date": "2026-08-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e4b3c3d5",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model...",
-      "date": "2026-08-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "9be5bdf1",
       "title": "How we built a realtime system for responsive voice AI in six months",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
@@ -153,15 +162,6 @@
       "date": "2026-08-03",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "0abc8a3e",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical h...",
-      "date": "2026-07-31",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "bac0f01a",
