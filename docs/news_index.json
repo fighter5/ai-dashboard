@@ -1,14 +1,95 @@
 {
-  "updated": "2026-08-06 05:18",
+  "updated": "2026-08-07 04:26",
   "items": [
     {
-      "id": "a19e2634",
-      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-      "url": "https://www.qbitai.com/2026/08/467196.html",
-      "summary": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
-      "date": "2026-08-05",
+      "id": "aa1d32e8",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+      "date": "2026-08-07",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "f990c11a",
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "summary": "Chat优化版",
+      "date": "2026-08-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "21371518",
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+      "date": "2026-08-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d2c23da5",
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "summary": "算力、网络、内存与存储开始围绕每个Token协同",
+      "date": "2026-08-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c6992253",
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "summary": "",
+      "date": "2026-08-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "85fc330f",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’...",
+      "date": "2026-08-06",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e1775d8d",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "date": "2026-08-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "61e5f938",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "date": "2026-08-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a55486a7",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "date": "2026-08-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a87688ff",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "summary": "",
+      "date": "2026-08-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "ab78e492",
@@ -20,33 +101,6 @@
       "tag": "research"
     },
     {
-      "id": "1620d62c",
-      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-      "url": "https://www.qbitai.com/2026/08/467034.html",
-      "summary": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
-      "date": "2026-08-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "36c6d64b",
-      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-      "url": "https://www.qbitai.com/2026/08/467036.html",
-      "summary": "MiniMax H3也能开箱即用了",
-      "date": "2026-08-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "83ab3f0c",
-      "title": "又一家AI基金暴雷了",
-      "url": "https://www.qbitai.com/2026/08/467001.html",
-      "summary": "开源改写游戏规则",
-      "date": "2026-08-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "ff71d16d",
       "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
       "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
@@ -54,15 +108,6 @@
       "date": "2026-08-05",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "d04f9104",
-      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-      "url": "https://www.qbitai.com/2026/08/466998.html",
-      "summary": "阿里巴巴淘天集团开启2027届应届生招聘。",
-      "date": "2026-08-05",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "ec86245c",
@@ -119,24 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "39d4fd00",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "date": "2026-08-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "dc0d90ec",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They...",
-      "date": "2026-08-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "3ce791ab",
       "title": "Inside our 353,000-person vibe coding course",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
@@ -144,24 +171,6 @@
       "date": "2026-08-03",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "9be5bdf1",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "date": "2026-08-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "97562427",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "date": "2026-08-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "bac0f01a",
@@ -212,15 +221,6 @@
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "summary": "",
-      "date": "2026-07-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "45ee50f0",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "summary": "",
       "date": "2026-07-27",
       "source": "Hugging Face",
