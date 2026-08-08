@@ -1,47 +1,92 @@
 {
-  "updated": "2026-08-07 04:26",
+  "updated": "2026-08-08 03:27",
   "items": [
     {
-      "id": "aa1d32e8",
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "url": "https://www.qbitai.com/2026/08/467877.html",
-      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-      "date": "2026-08-07",
+      "id": "270dd16f",
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "summary": "再花15亿美元买现成AI编程团队",
+      "date": "2026-08-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f990c11a",
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "url": "https://www.qbitai.com/2026/08/467879.html",
-      "summary": "Chat优化版",
-      "date": "2026-08-07",
+      "id": "87b18924",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "summary": "啊，这真是个AI“失控”的夏天",
+      "date": "2026-08-08",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "21371518",
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "url": "https://www.qbitai.com/2026/08/467871.html",
-      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-      "date": "2026-08-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d2c23da5",
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "url": "https://www.qbitai.com/2026/08/467840.html",
-      "summary": "算力、网络、内存与存储开始围绕每个Token协同",
-      "date": "2026-08-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c6992253",
-      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "id": "420b06b9",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
       "summary": "",
+      "date": "2026-08-07",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "93f793ec",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "date": "2026-08-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f987acd1",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from ...",
+      "date": "2026-08-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ad57289b",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th...",
+      "date": "2026-08-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "04dbcdd1",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "date": "2026-08-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ca059e9f",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "summary": "AI语音“听、说、创”一站式满足",
+      "date": "2026-08-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5f3529d9",
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "summary": "",
+      "date": "2026-08-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "37de17e2",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "summary": "从「能用」走向「规模化落地」",
       "date": "2026-08-07",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -110,24 +155,6 @@
       "tag": "research"
     },
     {
-      "id": "ec86245c",
-      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-l...",
-      "date": "2026-08-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "899f3cac",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "date": "2026-08-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "4d42e33f",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -146,24 +173,6 @@
       "tag": "Google"
     },
     {
-      "id": "03bae251",
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —Ja...",
-      "date": "2026-08-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "26f5b739",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "date": "2026-08-04",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "3ce791ab",
       "title": "Inside our 353,000-person vibe coding course",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
@@ -178,15 +187,6 @@
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "summary": "",
       "date": "2026-07-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "f57b088c",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "summary": "",
-      "date": "2026-07-28",
       "source": "Hugging Face",
       "tag": "opensource"
     },
