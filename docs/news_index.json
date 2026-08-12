@@ -1,20 +1,101 @@
 {
-  "updated": "2026-08-11 03:45",
+  "updated": "2026-08-12 04:09",
   "items": [
     {
-      "id": "43f92cb6",
-      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-      "url": "https://www.qbitai.com/2026/08/469869.html",
-      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+      "id": "53d6c4a3",
+      "title": "刚刚，Manus恢复独立运营",
+      "url": "https://www.qbitai.com/2026/08/470805.html",
+      "summary": "Manus，完成复活赛了！",
+      "date": "2026-08-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ab860a04",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering f...",
+      "date": "2026-08-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "af6b5661",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "AMIE promotional video",
+      "date": "2026-08-11",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "cd83f6c4",
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "url": "https://www.qbitai.com/2026/08/470674.html",
+      "summary": "资本正从具身本体集体涌向触觉",
       "date": "2026-08-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "bcf66fa7",
-      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
-      "url": "https://www.qbitai.com/2026/08/469860.html",
-      "summary": "三视角世界模型谁更稳?",
+      "id": "e55e02c2",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "summary": "",
+      "date": "2026-08-11",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "1e9dd24f",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in L...",
+      "date": "2026-08-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6aa8520c",
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "url": "https://www.qbitai.com/2026/08/470621.html",
+      "summary": "算力竞赛的天平，正在向电力倾斜",
+      "date": "2026-08-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "16251d7b",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "date": "2026-08-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ca816138",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "date": "2026-08-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "546a0361",
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "url": "https://www.qbitai.com/2026/08/470576.html",
+      "summary": "谷歌算力分配内耗严重",
+      "date": "2026-08-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f56d1595",
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "url": "https://www.qbitai.com/2026/08/470485.html",
+      "summary": "把下界推高了一大截",
       "date": "2026-08-11",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -65,24 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "cffb1479",
-      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-      "url": "https://www.qbitai.com/2026/08/469795.html",
-      "summary": "科研人快来啊，天上掉选题了",
-      "date": "2026-08-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "015f3c9d",
-      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "url": "https://www.qbitai.com/2026/08/469721.html",
-      "summary": "以后论文的第一读者不是人，而是AI？",
-      "date": "2026-08-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "1e1aa73b",
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
       "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
@@ -110,46 +173,10 @@
       "tag": "opensource"
     },
     {
-      "id": "d570d270",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "date": "2026-08-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "dd3ed843",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "date": "2026-08-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d097f928",
-      "title": "模型路线趋同之后，Physical AI的胜负手变了",
-      "url": "https://www.qbitai.com/2026/08/469544.html",
-      "summary": "物理AI新瓶颈已出现",
-      "date": "2026-08-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "20c95f3f",
       "title": "AI for science needs reasoning, not just data",
       "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
       "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s...",
-      "date": "2026-08-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6859719f",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of ...",
       "date": "2026-08-10",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -169,24 +196,6 @@
       "url": "https://huggingface.co/blog/allenai/tutormoments",
       "summary": "",
       "date": "2026-08-07",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "f987acd1",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from ...",
-      "date": "2026-08-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a87688ff",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "summary": "",
-      "date": "2026-08-06",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -213,15 +222,6 @@
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "date": "2026-07-28",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "ed733c91",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
       "date": "2026-07-28",
       "source": "Google AI Blog",
       "tag": "Google"
