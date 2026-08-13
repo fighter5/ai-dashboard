@@ -1,18 +1,126 @@
 {
-  "updated": "2026-08-12 04:09",
+  "updated": "2026-08-13 04:12",
   "items": [
     {
-      "id": "53d6c4a3",
-      "title": "刚刚，Manus恢复独立运营",
-      "url": "https://www.qbitai.com/2026/08/470805.html",
-      "summary": "Manus，完成复活赛了！",
+      "id": "a1fcdf87",
+      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
+      "url": "https://www.qbitai.com/2026/08/471624.html",
+      "summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+      "date": "2026-08-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0257c161",
+      "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+      "url": "https://www.qbitai.com/2026/08/471451.html",
+      "summary": "",
+      "date": "2026-08-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0b5cc6d9",
+      "title": "Scientists just created female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female ...",
+      "date": "2026-08-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "afc23a12",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work...",
+      "date": "2026-08-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1110b810",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "summary": "",
+      "date": "2026-08-12",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "9fea4b35",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "summary": "",
+      "date": "2026-08-12",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "42208056",
+      "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
+      "url": "https://www.qbitai.com/2026/08/471254.html",
+      "summary": "回消息到凌晨2点半",
       "date": "2026-08-12",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
+      "id": "6886810f",
+      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+      "url": "https://www.qbitai.com/2026/08/471162.html",
+      "summary": "Dario能不能少吓唬点人…",
+      "date": "2026-08-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "25c18875",
+      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+      "url": "https://www.qbitai.com/2026/08/471049.html",
+      "summary": "具身模型一小时狂拣1816件异形包裹",
+      "date": "2026-08-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "aa04d9fe",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientis...",
+      "date": "2026-08-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2c99e5ba",
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and b...",
+      "date": "2026-08-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "143a56c3",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "date": "2026-08-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "dc35058b",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "date": "2026-08-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
       "id": "ab860a04",
-      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
       "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering f...",
       "date": "2026-08-11",
@@ -29,15 +137,6 @@
       "tag": "Google"
     },
     {
-      "id": "cd83f6c4",
-      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-      "url": "https://www.qbitai.com/2026/08/470674.html",
-      "summary": "资本正从具身本体集体涌向触觉",
-      "date": "2026-08-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e55e02c2",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
@@ -45,24 +144,6 @@
       "date": "2026-08-11",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "1e9dd24f",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in L...",
-      "date": "2026-08-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6aa8520c",
-      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-      "url": "https://www.qbitai.com/2026/08/470621.html",
-      "summary": "算力竞赛的天平，正在向电力倾斜",
-      "date": "2026-08-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "16251d7b",
@@ -79,42 +160,6 @@
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "date": "2026-08-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "546a0361",
-      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-      "url": "https://www.qbitai.com/2026/08/470576.html",
-      "summary": "谷歌算力分配内耗严重",
-      "date": "2026-08-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f56d1595",
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "url": "https://www.qbitai.com/2026/08/470485.html",
-      "summary": "把下界推高了一大截",
-      "date": "2026-08-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1281650c",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel...",
-      "date": "2026-08-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1b4a121c",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "date": "2026-08-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -146,56 +191,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "1e1aa73b",
-      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eri...",
-      "date": "2026-08-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "52b9c6e0",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "date": "2026-08-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "98a69bb3",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "summary": "",
       "date": "2026-08-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "20c95f3f",
-      "title": "AI for science needs reasoning, not just data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s...",
-      "date": "2026-08-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "89474050",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "summary": "",
-      "date": "2026-08-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "420b06b9",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "summary": "",
-      "date": "2026-08-07",
       "source": "Hugging Face",
       "tag": "opensource"
     },
