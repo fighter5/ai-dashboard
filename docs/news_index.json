@@ -1,41 +1,149 @@
 {
-  "updated": "2026-08-13 04:12",
+  "updated": "2026-08-14 04:10",
   "items": [
     {
-      "id": "a1fcdf87",
-      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-      "url": "https://www.qbitai.com/2026/08/471624.html",
-      "summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+      "id": "a5a20f62",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi...",
       "date": "2026-08-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "0257c161",
-      "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
-      "url": "https://www.qbitai.com/2026/08/471451.html",
+      "id": "bba9e984",
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for busin...",
+      "date": "2026-08-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "24013c06",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "summary": "",
       "date": "2026-08-13",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "657afebb",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "summary": "The video shows Sheets canvas in action.",
+      "date": "2026-08-13",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b9f216ce",
+      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+      "url": "https://www.qbitai.com/2026/08/472208.html",
+      "summary": "欢迎，为后人种点树",
+      "date": "2026-08-13",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "0b5cc6d9",
-      "title": "Scientists just created female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female ...",
-      "date": "2026-08-12",
+      "id": "c22abf28",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ...",
+      "date": "2026-08-13",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "afc23a12",
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work...",
-      "date": "2026-08-12",
+      "id": "c13c5c6a",
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "url": "https://www.qbitai.com/2026/08/472059.html",
+      "summary": "首颗AI芯片已进入量产",
+      "date": "2026-08-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "967189fe",
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Sw...",
+      "date": "2026-08-13",
       "source": "MIT Tech Review",
       "tag": "research"
+    },
+    {
+      "id": "14da30b5",
+      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+      "url": "https://www.qbitai.com/2026/08/472067.html",
+      "summary": "马斯克版Workbuddy也来了",
+      "date": "2026-08-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f3494fa4",
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "url": "https://www.qbitai.com/2026/08/472060.html",
+      "summary": "重新定义物理AI数据基础设施",
+      "date": "2026-08-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "741c4712",
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "url": "https://www.qbitai.com/2026/08/472016.html",
+      "summary": "好数学家不挑AI模型",
+      "date": "2026-08-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3e500cca",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "date": "2026-08-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f3f772b8",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest mont...",
+      "date": "2026-08-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b66fa57c",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "date": "2026-08-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "36609b93",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "date": "2026-08-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a67f3eaa",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "summary": "",
+      "date": "2026-08-13",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "1110b810",
@@ -56,51 +164,6 @@
       "tag": "opensource"
     },
     {
-      "id": "42208056",
-      "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-      "url": "https://www.qbitai.com/2026/08/471254.html",
-      "summary": "回消息到凌晨2点半",
-      "date": "2026-08-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6886810f",
-      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-      "url": "https://www.qbitai.com/2026/08/471162.html",
-      "summary": "Dario能不能少吓唬点人…",
-      "date": "2026-08-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "25c18875",
-      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-      "url": "https://www.qbitai.com/2026/08/471049.html",
-      "summary": "具身模型一小时狂拣1816件异形包裹",
-      "date": "2026-08-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "aa04d9fe",
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientis...",
-      "date": "2026-08-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2c99e5ba",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and b...",
-      "date": "2026-08-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "143a56c3",
       "title": "From assistance to execution: How enterprises put AI to work",
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
@@ -117,15 +180,6 @@
       "date": "2026-08-12",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "ab860a04",
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering f...",
-      "date": "2026-08-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "af6b5661",
@@ -146,33 +200,6 @@
       "tag": "opensource"
     },
     {
-      "id": "16251d7b",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "date": "2026-08-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ca816138",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "date": "2026-08-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8bec2762",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "summary": "",
-      "date": "2026-08-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "34b94057",
       "title": "Evolve your marketing with new AI tools",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -180,24 +207,6 @@
       "date": "2026-08-10",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "56292896",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "date": "2026-08-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "98a69bb3",
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "summary": "",
-      "date": "2026-08-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "34a7f382",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
       "date": "2026-08-03",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "85f9e223",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "date": "2026-07-28",
       "source": "Google AI Blog",
       "tag": "Google"
     },
