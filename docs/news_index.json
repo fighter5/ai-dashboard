@@ -1,20 +1,101 @@
 {
-  "updated": "2026-08-14 04:10",
+  "updated": "2026-08-15 02:52",
   "items": [
+    {
+      "id": "383e4c0a",
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "url": "https://www.qbitai.com/2026/08/473379.html",
+      "summary": "所有人都可免费下载部署及商用。",
+      "date": "2026-08-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f027280b",
+      "title": "7亿年薪留不住！余家辉离职Meta创业",
+      "url": "https://www.qbitai.com/2026/08/473261.html",
+      "summary": "真就只待了一年",
+      "date": "2026-08-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d346f2af",
+      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+      "url": "https://www.qbitai.com/2026/08/473153.html",
+      "summary": "布林亲自下场督战",
+      "date": "2026-08-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9ede57ea",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro...",
+      "date": "2026-08-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2700e510",
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "url": "https://www.qbitai.com/2026/08/473149.html",
+      "summary": "",
+      "date": "2026-08-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "809a6cee",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai...",
+      "date": "2026-08-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "19bcbe11",
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a...",
+      "date": "2026-08-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1cc51220",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create fem...",
+      "date": "2026-08-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "34015cf9",
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "url": "https://www.qbitai.com/2026/08/473038.html",
+      "summary": "顺手拿下最强开源安全模型",
+      "date": "2026-08-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ef192153",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "summary": "",
+      "date": "2026-08-14",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
     {
       "id": "a5a20f62",
       "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
       "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
       "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi...",
-      "date": "2026-08-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bba9e984",
-      "title": "Building a practical path to post-quantum cryptography",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for busin...",
       "date": "2026-08-13",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -38,69 +119,6 @@
       "tag": "Google"
     },
     {
-      "id": "b9f216ce",
-      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-      "url": "https://www.qbitai.com/2026/08/472208.html",
-      "summary": "欢迎，为后人种点树",
-      "date": "2026-08-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c22abf28",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ...",
-      "date": "2026-08-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c13c5c6a",
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "summary": "首颗AI芯片已进入量产",
-      "date": "2026-08-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "967189fe",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Sw...",
-      "date": "2026-08-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "14da30b5",
-      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-      "url": "https://www.qbitai.com/2026/08/472067.html",
-      "summary": "马斯克版Workbuddy也来了",
-      "date": "2026-08-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f3494fa4",
-      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-      "url": "https://www.qbitai.com/2026/08/472060.html",
-      "summary": "重新定义物理AI数据基础设施",
-      "date": "2026-08-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "741c4712",
-      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-      "url": "https://www.qbitai.com/2026/08/472016.html",
-      "summary": "好数学家不挑AI模型",
-      "date": "2026-08-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "3e500cca",
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -108,15 +126,6 @@
       "date": "2026-08-13",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "f3f772b8",
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest mont...",
-      "date": "2026-08-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "b66fa57c",
@@ -189,15 +198,6 @@
       "date": "2026-08-11",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "e55e02c2",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "summary": "",
-      "date": "2026-08-11",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "34b94057",
