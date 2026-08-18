@@ -1,83 +1,137 @@
 {
-  "updated": "2026-08-17 03:03",
+  "updated": "2026-08-18 02:56",
   "items": [
     {
-      "id": "f64d8efb",
-      "title": "杭州95后小伙，5亿买走硅谷城堡",
-      "url": "https://www.qbitai.com/2026/08/474245.html",
-      "summary": "辞别马斯克xAI半年之后…",
-      "date": "2026-08-16",
+      "id": "74fdd9bd",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "summary": "",
+      "date": "2026-08-17",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "dc51f568",
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120...",
+      "date": "2026-08-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8207d686",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? ...",
+      "date": "2026-08-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "693ac4c2",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "url": "https://www.qbitai.com/2026/08/474537.html",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+      "date": "2026-08-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "42549949",
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
-      "url": "https://www.qbitai.com/2026/08/474140.html",
-      "summary": "AI不是替代者，而是个人能力的放大镜",
-      "date": "2026-08-16",
+      "id": "a0b1731e",
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "url": "https://www.qbitai.com/2026/08/474518.html",
+      "summary": "没有遥控、没人喂球",
+      "date": "2026-08-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "36bfc023",
-      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-      "url": "https://www.qbitai.com/2026/08/474064.html",
-      "summary": "“错过种一棵树最好的时间”",
-      "date": "2026-08-16",
+      "id": "b1e5b7bc",
+      "title": "How much hydrogen awaits us underground?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemist...",
+      "date": "2026-08-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0c3e7b3f",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel...",
+      "date": "2026-08-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "10de60a6",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "url": "https://www.qbitai.com/2026/08/474381.html",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”",
+      "date": "2026-08-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "5e620141",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "summary": "背后是四项关键能力",
-      "date": "2026-08-16",
+      "id": "6cbbed30",
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "url": "https://www.qbitai.com/2026/08/474361.html",
+      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+      "date": "2026-08-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d30ccf02",
-      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-      "url": "https://www.qbitai.com/2026/08/473947.html",
-      "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
-      "date": "2026-08-16",
+      "id": "4b142232",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "date": "2026-08-17",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "81f82b2f",
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "summary": "即将完全开源",
+      "date": "2026-08-17",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "699d10e1",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "date": "2026-08-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a7860c43",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "date": "2026-08-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e5221d6f",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "date": "2026-08-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "9ede57ea",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
       "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro...",
-      "date": "2026-08-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "809a6cee",
-      "title": "This scientist is helping build a missing map of childhood",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai...",
-      "date": "2026-08-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "19bcbe11",
-      "title": "Job titles of the future: Space travel agent",
-      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a...",
-      "date": "2026-08-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1cc51220",
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create fem...",
       "date": "2026-08-14",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -90,15 +144,6 @@
       "date": "2026-08-14",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "a5a20f62",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi...",
-      "date": "2026-08-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "24013c06",
@@ -137,15 +182,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "36609b93",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "date": "2026-08-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "a67f3eaa",
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
       "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
@@ -162,33 +198,6 @@
       "date": "2026-08-12",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "9fea4b35",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "summary": "",
-      "date": "2026-08-12",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "143a56c3",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "date": "2026-08-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "dc35058b",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "date": "2026-08-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "af6b5661",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "summary": "July AI recap header",
       "date": "2026-08-04",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "3ce791ab",
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-      "date": "2026-08-03",
       "source": "Google AI Blog",
       "tag": "Google"
     },
