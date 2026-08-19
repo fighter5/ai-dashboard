@@ -1,6 +1,150 @@
 {
-  "updated": "2026-08-18 02:56",
+  "updated": "2026-08-19 02:58",
   "items": [
+    {
+      "id": "50d62d06",
+      "title": "郭富城换车，30万级顶配华为全家桶",
+      "url": "https://www.qbitai.com/2026/08/475009.html",
+      "summary": "5.3米六座家用SUV",
+      "date": "2026-08-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "da3edf87",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "47ea3c6c",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "summary": "",
+      "date": "2026-08-18",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "f7758ff2",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI...",
+      "date": "2026-08-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0bb4d7f0",
+      "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+      "url": "https://www.qbitai.com/2026/08/474907.html",
+      "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
+      "date": "2026-08-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f7788bfa",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1204bd54",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "48f9d5cf",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "61c9242f",
+      "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+      "url": "https://www.qbitai.com/2026/08/474868.html",
+      "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+      "date": "2026-08-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "77666583",
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;...",
+      "date": "2026-08-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f3492990",
+      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+      "url": "https://www.qbitai.com/2026/08/474857.html",
+      "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
+      "date": "2026-08-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d01a695e",
+      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
+      "url": "https://www.qbitai.com/2026/08/474838.html",
+      "summary": "给机器人造一个更接近真实的“第二世界”",
+      "date": "2026-08-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "34ce57c1",
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by...",
+      "date": "2026-08-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "89f9a699",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz...",
+      "date": "2026-08-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b308f272",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7550eaf8",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "summary": "",
+      "date": "2026-08-18",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
     {
       "id": "74fdd9bd",
       "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -14,73 +158,10 @@
       "id": "dc51f568",
       "title": "What Flock’s defenders are missing",
       "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120...",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som...",
       "date": "2026-08-17",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "8207d686",
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? ...",
-      "date": "2026-08-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "693ac4c2",
-      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-      "url": "https://www.qbitai.com/2026/08/474537.html",
-      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
-      "date": "2026-08-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a0b1731e",
-      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
-      "url": "https://www.qbitai.com/2026/08/474518.html",
-      "summary": "没有遥控、没人喂球",
-      "date": "2026-08-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b1e5b7bc",
-      "title": "How much hydrogen awaits us underground?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemist...",
-      "date": "2026-08-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "0c3e7b3f",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel...",
-      "date": "2026-08-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "10de60a6",
-      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
-      "url": "https://www.qbitai.com/2026/08/474381.html",
-      "summary": "AI最近最出圈的数学突破，都在“找反例”",
-      "date": "2026-08-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6cbbed30",
-      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
-      "url": "https://www.qbitai.com/2026/08/474361.html",
-      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
-      "date": "2026-08-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "4b142232",
@@ -90,51 +171,6 @@
       "date": "2026-08-17",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "81f82b2f",
-      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
-      "url": "https://www.qbitai.com/2026/08/474334.html",
-      "summary": "即将完全开源",
-      "date": "2026-08-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "699d10e1",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "date": "2026-08-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a7860c43",
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "date": "2026-08-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "e5221d6f",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "date": "2026-08-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "9ede57ea",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro...",
-      "date": "2026-08-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "ef192153",
@@ -162,42 +198,6 @@
       "date": "2026-08-13",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "3e500cca",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "date": "2026-08-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b66fa57c",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "date": "2026-08-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a67f3eaa",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "summary": "",
-      "date": "2026-08-13",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "1110b810",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "summary": "",
-      "date": "2026-08-12",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "af6b5661",
