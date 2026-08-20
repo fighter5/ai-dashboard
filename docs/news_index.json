@@ -1,14 +1,122 @@
 {
-  "updated": "2026-08-19 02:58",
+  "updated": "2026-08-20 02:57",
   "items": [
     {
-      "id": "50d62d06",
-      "title": "郭富城换车，30万级顶配华为全家桶",
-      "url": "https://www.qbitai.com/2026/08/475009.html",
-      "summary": "5.3米六座家用SUV",
+      "id": "55391b6a",
+      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+      "url": "https://www.qbitai.com/2026/08/476078.html",
+      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+      "date": "2026-08-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7f5c76b0",
+      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+      "url": "https://www.qbitai.com/2026/08/476075.html",
+      "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
+      "date": "2026-08-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "55692edd",
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+      "url": "https://www.qbitai.com/2026/08/476070.html",
+      "summary": "成本也正成为Agent商业化需要考虑的重要因素",
+      "date": "2026-08-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ffa128c0",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "date": "2026-08-19",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "7e1debc1",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "date": "2026-08-19",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f8a8e90f",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i...",
+      "date": "2026-08-19",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "34372b36",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "summary": "",
+      "date": "2026-08-19",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "c4c7cdc8",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so ...",
+      "date": "2026-08-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f9649422",
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "url": "https://www.qbitai.com/2026/08/475931.html",
+      "summary": "",
       "date": "2026-08-19",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "0b41bff3",
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/475907.html",
+      "summary": "超维动力KAI全栈具身智能硬核登场",
+      "date": "2026-08-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2fd4207b",
+      "title": "Child-monitoring apps might need a reboot",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile ...",
+      "date": "2026-08-19",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "09f9dc1b",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "date": "2026-08-19",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "40e57b67",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "da3edf87",
@@ -38,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "0bb4d7f0",
-      "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-      "url": "https://www.qbitai.com/2026/08/474907.html",
-      "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
-      "date": "2026-08-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "f7788bfa",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "url": "https://openai.com/index/partnering-with-codeai",
@@ -54,33 +153,6 @@
       "date": "2026-08-18",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "1204bd54",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "date": "2026-08-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "48f9d5cf",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "date": "2026-08-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "61c9242f",
-      "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-      "url": "https://www.qbitai.com/2026/08/474868.html",
-      "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
-      "date": "2026-08-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "77666583",
@@ -92,24 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "f3492990",
-      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-      "url": "https://www.qbitai.com/2026/08/474857.html",
-      "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
-      "date": "2026-08-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d01a695e",
-      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-      "url": "https://www.qbitai.com/2026/08/474838.html",
-      "summary": "给机器人造一个更接近真实的“第二世界”",
-      "date": "2026-08-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "34ce57c1",
       "title": "The role of the astronaut is in flux",
       "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
@@ -117,24 +171,6 @@
       "date": "2026-08-18",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "89f9a699",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz...",
-      "date": "2026-08-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b308f272",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "date": "2026-08-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "7550eaf8",
@@ -155,15 +191,6 @@
       "tag": "opensource"
     },
     {
-      "id": "dc51f568",
-      "title": "What Flock’s defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som...",
-      "date": "2026-08-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "4b142232",
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -178,15 +205,6 @@
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "summary": "",
       "date": "2026-08-14",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "24013c06",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "summary": "",
-      "date": "2026-08-13",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -214,15 +232,6 @@
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
       "summary": "Advisor UI in Google Ads and Google Analytics",
       "date": "2026-08-10",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "34a7f382",
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "summary": "July AI recap header",
-      "date": "2026-08-04",
       "source": "Google AI Blog",
       "tag": "Google"
     },
@@ -259,15 +268,6 @@
       "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
       "date": "2026-01-16",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "db7ff708",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully...",
-      "date": "2026-01-13",
       "source": "VentureBeat AI",
       "tag": "industry"
     }
