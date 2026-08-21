@@ -1,32 +1,122 @@
 {
-  "updated": "2026-08-20 02:57",
+  "updated": "2026-08-21 03:03",
   "items": [
     {
-      "id": "55391b6a",
-      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-      "url": "https://www.qbitai.com/2026/08/476078.html",
-      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+      "id": "996f5538",
+      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+      "url": "https://www.qbitai.com/2026/08/476409.html",
+      "summary": "",
+      "date": "2026-08-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5f09d5ec",
+      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
+      "url": "https://www.qbitai.com/2026/08/476406.html",
+      "summary": "",
+      "date": "2026-08-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fe69a21c",
+      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
+      "url": "https://www.qbitai.com/2026/08/476403.html",
+      "summary": "",
+      "date": "2026-08-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "441d37aa",
+      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
+      "url": "https://www.qbitai.com/2026/08/476400.html",
+      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
+      "date": "2026-08-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b1eabc16",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "summary": "",
+      "date": "2026-08-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "5e86b723",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ...",
+      "date": "2026-08-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4ad78b2d",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the poly...",
+      "date": "2026-08-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f48fba20",
+      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+      "url": "https://www.qbitai.com/2026/08/476280.html",
+      "summary": "",
       "date": "2026-08-20",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7f5c76b0",
-      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-      "url": "https://www.qbitai.com/2026/08/476075.html",
-      "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
+      "id": "20d0e9fe",
+      "title": "The next big thing in hydrogen could be underground",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks t...",
       "date": "2026-08-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "55692edd",
-      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-      "url": "https://www.qbitai.com/2026/08/476070.html",
-      "summary": "成本也正成为Agent商业化需要考虑的重要因素",
+      "id": "546c18a8",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a...",
       "date": "2026-08-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f13376a8",
+      "title": "Support networks aim to help kids through the polycrisis",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the ...",
+      "date": "2026-08-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2e8bfa27",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "date": "2026-08-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6213ce5c",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "date": "2026-08-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "ffa128c0",
@@ -56,51 +146,6 @@
       "tag": "industry"
     },
     {
-      "id": "34372b36",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "summary": "",
-      "date": "2026-08-19",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c4c7cdc8",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so ...",
-      "date": "2026-08-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f9649422",
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-      "url": "https://www.qbitai.com/2026/08/475931.html",
-      "summary": "",
-      "date": "2026-08-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0b41bff3",
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "url": "https://www.qbitai.com/2026/08/475907.html",
-      "summary": "超维动力KAI全栈具身智能硬核登场",
-      "date": "2026-08-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2fd4207b",
-      "title": "Child-monitoring apps might need a reboot",
-      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile ...",
-      "date": "2026-08-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "09f9dc1b",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit",
@@ -119,15 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "da3edf87",
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "date": "2026-08-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "47ea3c6c",
       "title": "How Much Memory Does Your Agent Actually Need?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -135,42 +171,6 @@
       "date": "2026-08-18",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "f7758ff2",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI...",
-      "date": "2026-08-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f7788bfa",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "date": "2026-08-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "77666583",
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;...",
-      "date": "2026-08-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "34ce57c1",
-      "title": "The role of the astronaut is in flux",
-      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by...",
-      "date": "2026-08-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "7550eaf8",
