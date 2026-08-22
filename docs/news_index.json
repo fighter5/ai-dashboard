@@ -1,41 +1,95 @@
 {
-  "updated": "2026-08-21 03:03",
+  "updated": "2026-08-22 02:55",
   "items": [
     {
-      "id": "996f5538",
-      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
-      "url": "https://www.qbitai.com/2026/08/476409.html",
-      "summary": "",
+      "id": "7fdd0898",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could...",
+      "date": "2026-08-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "fe92f66b",
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "url": "https://www.qbitai.com/2026/08/476778.html",
+      "summary": "载重4.2吨、容积19.32m³",
       "date": "2026-08-21",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "5f09d5ec",
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "url": "https://www.qbitai.com/2026/08/476406.html",
-      "summary": "",
+      "id": "58ce9583",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
       "date": "2026-08-21",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "fe69a21c",
-      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
-      "url": "https://www.qbitai.com/2026/08/476403.html",
-      "summary": "",
+      "id": "c0ef6339",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
       "date": "2026-08-21",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "441d37aa",
-      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
-      "url": "https://www.qbitai.com/2026/08/476400.html",
-      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
+      "id": "2be7e5f3",
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,...",
+      "date": "2026-08-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "66806890",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco...",
+      "date": "2026-08-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b0b66b95",
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US c...",
+      "date": "2026-08-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "86594252",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "summary": "机器人看3秒演示就能学会",
       "date": "2026-08-21",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "1efbd6f5",
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "summary": "让科学家的时间回到科学创造",
+      "date": "2026-08-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "31b34c53",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "summary": "",
+      "date": "2026-08-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "b1eabc16",
@@ -51,51 +105,6 @@
       "title": "Debates over AI consciousness are a trap",
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ...",
-      "date": "2026-08-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4ad78b2d",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the poly...",
-      "date": "2026-08-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f48fba20",
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "url": "https://www.qbitai.com/2026/08/476280.html",
-      "summary": "",
-      "date": "2026-08-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "20d0e9fe",
-      "title": "The next big thing in hydrogen could be underground",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks t...",
-      "date": "2026-08-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "546c18a8",
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a...",
-      "date": "2026-08-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f13376a8",
-      "title": "Support networks aim to help kids through the polycrisis",
-      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the ...",
       "date": "2026-08-20",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -198,15 +207,6 @@
       "date": "2026-08-17",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "ef192153",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "summary": "",
-      "date": "2026-08-14",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "657afebb",
