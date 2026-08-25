@@ -1,6 +1,87 @@
 {
-  "updated": "2026-08-24 03:04",
+  "updated": "2026-08-25 02:59",
   "items": [
+    {
+      "id": "9f525aca",
+      "title": "WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线",
+      "url": "https://www.qbitai.com/2026/08/478690.html",
+      "summary": "",
+      "date": "2026-08-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b5e27988",
+      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+      "url": "https://www.qbitai.com/2026/08/478675.html",
+      "summary": "虽然明确机器人创业，但依然在职蔚来",
+      "date": "2026-08-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b11795f5",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools...",
+      "date": "2026-08-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "86c796a2",
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "url": "https://www.qbitai.com/2026/08/478670.html",
+      "summary": "Visa看到的AI未来",
+      "date": "2026-08-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8accf293",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "url": "https://www.qbitai.com/2026/08/478568.html",
+      "summary": "全球大厂开始押注的AI科研，终于有了统一标准",
+      "date": "2026-08-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7d7123f3",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teach...",
+      "date": "2026-08-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b4f331f2",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "date": "2026-08-24",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b781f4c4",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl...",
+      "date": "2026-08-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "99de617c",
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "url": "https://www.qbitai.com/2026/08/478473.html",
+      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+      "date": "2026-08-24",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "7fdd0898",
       "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -15,24 +96,6 @@
       "title": "Mother tongue",
       "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
       "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,...",
-      "date": "2026-08-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "66806890",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco...",
-      "date": "2026-08-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b0b66b95",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US c...",
       "date": "2026-08-21",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -54,15 +117,6 @@
       "date": "2026-08-20",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "5e86b723",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ...",
-      "date": "2026-08-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "2e8bfa27",
@@ -115,15 +169,6 @@
       "url": "https://openai.com/index/replit",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "date": "2026-08-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "40e57b67",
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "date": "2026-08-18",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
