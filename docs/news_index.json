@@ -1,59 +1,158 @@
 {
-  "updated": "2026-08-26 03:06",
+  "updated": "2026-08-27 12:26",
   "items": [
     {
-      "id": "cc6e8b8b",
-      "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
-      "url": "https://www.qbitai.com/2026/08/479320.html",
-      "summary": "不和老黄商量",
+      "id": "6aeb2012",
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the sin...",
+      "date": "2026-08-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "955ee273",
+      "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+      "url": "https://www.qbitai.com/2026/08/480079.html",
+      "summary": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
+      "date": "2026-08-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "250ea25b",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "date": "2026-08-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bd6e4f16",
+      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+      "url": "https://www.qbitai.com/2026/08/480005.html",
+      "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+      "date": "2026-08-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "024d5bf5",
+      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+      "url": "https://www.qbitai.com/2026/08/480001.html",
+      "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+      "date": "2026-08-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "db5b8f42",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T...",
+      "date": "2026-08-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8fb429aa",
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "url": "https://www.qbitai.com/2026/08/479919.html",
+      "summary": "GLM-5.3 Flash",
       "date": "2026-08-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6dd838ea",
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers....",
-      "date": "2026-08-25",
+      "id": "c6f5e02f",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t...",
+      "date": "2026-08-26",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "7a6b849c",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit...",
+      "date": "2026-08-26",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "79bd0379",
-      "title": "YouTuber finds niche as college admissions mentor",
-      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-      "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier ...",
-      "date": "2026-08-25",
+      "id": "d4b17d4e",
+      "title": "AI视频应用井喷，美图打开新的增长空间",
+      "url": "https://www.qbitai.com/2026/08/479895.html",
+      "summary": "从图像到视频，美图找到了一门更赚钱的生意",
+      "date": "2026-08-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7e008cb7",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6d0a5932",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "606181c5",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh...",
+      "date": "2026-08-26",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "3a050818",
-      "title": "Launching youth entrepreneurship",
-      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good...",
-      "date": "2026-08-25",
+      "id": "8e8985de",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva...",
+      "date": "2026-08-26",
       "source": "MIT Tech Review",
       "tag": "research"
     },
     {
-      "id": "045a74f0",
-      "title": "A new stamp on cyberfraud prevention",
-      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “pr...",
-      "date": "2026-08-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "1c454c14",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "fe402d05",
-      "title": "AgeLab research inspires an A I startup",
-      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard mo...",
-      "date": "2026-08-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "d8bbd65e",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "cea6b0e8",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "summary": "",
+      "date": "2026-08-26",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "74af7ce4",
@@ -83,78 +182,6 @@
       "tag": "opensource"
     },
     {
-      "id": "c6a92d5f",
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "url": "https://www.qbitai.com/2026/08/479314.html",
-      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
-      "date": "2026-08-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1c0de2ab",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "date": "2026-08-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "31f9b254",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "date": "2026-08-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "61b5b15d",
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
-      "url": "https://www.qbitai.com/2026/08/479192.html",
-      "summary": "SenseNova U1.5 Lite",
-      "date": "2026-08-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "bc546fb3",
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-      "url": "https://www.qbitai.com/2026/08/479132.html",
-      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资",
-      "date": "2026-08-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8457b0d2",
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-      "url": "https://www.qbitai.com/2026/08/479096.html",
-      "summary": "AI科研能力从工具级转向系统级",
-      "date": "2026-08-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5bd63150",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "date": "2026-08-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bbe7f12d",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "date": "2026-08-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "3a9a9569",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
@@ -164,27 +191,9 @@
       "tag": "opensource"
     },
     {
-      "id": "b4f331f2",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "date": "2026-08-24",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "b00c3e47",
       "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
       "url": "https://huggingface.co/blog/pwc-search",
-      "summary": "",
-      "date": "2026-08-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "31b34c53",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "summary": "",
       "date": "2026-08-21",
       "source": "Hugging Face",
@@ -259,15 +268,6 @@
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap...",
       "date": "2026-01-19",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "ca731494",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
-      "date": "2026-01-16",
       "source": "VentureBeat AI",
       "tag": "industry"
     }
