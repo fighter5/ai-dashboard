@@ -1,6 +1,123 @@
 {
-  "updated": "2026-08-27 12:26",
+  "updated": "2026-08-28 13:55",
   "items": [
+    {
+      "id": "b623714f",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl...",
+      "date": "2026-08-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c85c6310",
+      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "url": "https://www.qbitai.com/2026/08/480666.html",
+      "summary": "久久不愿来到台前的智元掌舵人",
+      "date": "2026-08-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "870e6997",
+      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "url": "https://www.qbitai.com/2026/08/480600.html",
+      "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+      "date": "2026-08-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5cb4d68d",
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility an...",
+      "date": "2026-08-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "93c99163",
+      "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
+      "url": "https://www.qbitai.com/2026/08/480591.html",
+      "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
+      "date": "2026-08-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9cbaae82",
+      "title": "首款癌症疫苗，一针300万？？？",
+      "url": "https://www.qbitai.com/2026/08/480557.html",
+      "summary": "别让顶级治疗方法称为富人专属",
+      "date": "2026-08-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9f222add",
+      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+      "url": "https://www.qbitai.com/2026/08/480482.html",
+      "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+      "date": "2026-08-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8a2a589a",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "date": "2026-08-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "2074ade1",
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatmen...",
+      "date": "2026-08-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6a67ad8b",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "summary": "Graphic depicting new travel features for AI Mode in Search",
+      "date": "2026-08-27",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "975b7811",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
+      "date": "2026-08-27",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
+    {
+      "id": "96b419a5",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Huggi...",
+      "date": "2026-08-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b6edaf7b",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
+      "date": "2026-08-27",
+      "source": "VentureBeat AI",
+      "tag": "industry"
+    },
     {
       "id": "6aeb2012",
       "title": "Is Slate Auto’s new electric truck the EV Americans need?",
@@ -11,13 +128,13 @@
       "tag": "research"
     },
     {
-      "id": "955ee273",
-      "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
-      "url": "https://www.qbitai.com/2026/08/480079.html",
-      "summary": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
+      "id": "5250e71c",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "date": "2026-08-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "250ea25b",
@@ -29,42 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "bd6e4f16",
-      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-      "url": "https://www.qbitai.com/2026/08/480005.html",
-      "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
-      "date": "2026-08-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "024d5bf5",
-      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-      "url": "https://www.qbitai.com/2026/08/480001.html",
-      "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
-      "date": "2026-08-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "db5b8f42",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T...",
-      "date": "2026-08-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8fb429aa",
-      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
-      "url": "https://www.qbitai.com/2026/08/479919.html",
-      "summary": "GLM-5.3 Flash",
-      "date": "2026-08-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "c6f5e02f",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
@@ -72,24 +153,6 @@
       "date": "2026-08-26",
       "source": "VentureBeat AI",
       "tag": "industry"
-    },
-    {
-      "id": "7a6b849c",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit...",
-      "date": "2026-08-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d4b17d4e",
-      "title": "AI视频应用井喷，美图打开新的增长空间",
-      "url": "https://www.qbitai.com/2026/08/479895.html",
-      "summary": "从图像到视频，美图找到了一门更赚钱的生意",
-      "date": "2026-08-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "7e008cb7",
@@ -105,42 +168,6 @@
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "606181c5",
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh...",
-      "date": "2026-08-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8e8985de",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva...",
-      "date": "2026-08-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1c454c14",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "date": "2026-08-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d8bbd65e",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "date": "2026-08-26",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -236,38 +263,11 @@
       "tag": "Google"
     },
     {
-      "id": "af6b5661",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "summary": "AMIE promotional video",
-      "date": "2026-08-11",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "e7785d8c",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T...",
       "date": "2026-05-19",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "e670024b",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...",
-      "date": "2026-01-22",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "1bd5d5f6",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap...",
-      "date": "2026-01-19",
       "source": "VentureBeat AI",
       "tag": "industry"
     }
