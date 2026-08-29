@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28 13:55",
+  "updated": "2026-08-29 08:42",
   "items": [
+    {
+      "id": "e25bd0f7",
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "url": "https://www.qbitai.com/2026/08/480700.html",
+      "summary": "",
+      "date": "2026-08-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "b623714f",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -56,13 +65,13 @@
       "tag": "zh-news"
     },
     {
-      "id": "9f222add",
-      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-      "url": "https://www.qbitai.com/2026/08/480482.html",
-      "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+      "id": "57a3b900",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "date": "2026-08-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "8a2a589a",
@@ -72,6 +81,15 @@
       "date": "2026-08-28",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "5f64da98",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "summary": "",
+      "date": "2026-08-28",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "2074ade1",
@@ -155,15 +173,6 @@
       "tag": "industry"
     },
     {
-      "id": "7e008cb7",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "6d0a5932",
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
@@ -214,15 +223,6 @@
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
       "summary": "",
       "date": "2026-08-25",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "b00c3e47",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "summary": "",
-      "date": "2026-08-21",
       "source": "Hugging Face",
       "tag": "opensource"
     },
