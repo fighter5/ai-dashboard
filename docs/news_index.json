@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-31 08:14",
+  "updated": "2026-09-01 07:25",
   "items": [
+    {
+      "id": "9b4618e9",
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "url": "https://www.qbitai.com/2026/09/482337.html",
+      "summary": "参数冻结，能力暴涨",
+      "date": "2026-09-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ffd11e2c",
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "url": "https://www.qbitai.com/2026/09/482300.html",
+      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+      "date": "2026-09-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e985a8c1",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur...",
+      "date": "2026-08-31",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7b1f7314",
+      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+      "url": "https://www.qbitai.com/2026/08/481928.html",
+      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
+      "date": "2026-08-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "7ced73f7",
       "title": "滴滴自动驾驶新一代车型开启载客测试服务",
@@ -20,31 +56,31 @@
       "tag": "zh-news"
     },
     {
-      "id": "3b0713a3",
-      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-      "url": "https://www.qbitai.com/2026/08/481893.html",
-      "summary": "核弹爆炸",
+      "id": "7f3e9f8d",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "date": "2026-08-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "e0171bd5",
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "url": "https://www.qbitai.com/2026/08/481759.html",
-      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+      "id": "6489dfdc",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "date": "2026-08-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "1c596e4e",
-      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
-      "url": "https://www.qbitai.com/2026/08/481750.html",
-      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+      "id": "7aa1f68e",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "date": "2026-08-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "b623714f",
@@ -137,33 +173,6 @@
       "tag": "industry"
     },
     {
-      "id": "6aeb2012",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the sin...",
-      "date": "2026-08-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5250e71c",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "date": "2026-08-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "250ea25b",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "date": "2026-08-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "c6f5e02f",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
@@ -171,15 +180,6 @@
       "date": "2026-08-26",
       "source": "VentureBeat AI",
       "tag": "industry"
-    },
-    {
-      "id": "6d0a5932",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "cea6b0e8",
