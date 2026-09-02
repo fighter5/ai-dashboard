@@ -1,23 +1,113 @@
 {
-  "updated": "2026-09-01 07:25",
+  "updated": "2026-09-02 06:58",
   "items": [
     {
-      "id": "9b4618e9",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "url": "https://www.qbitai.com/2026/09/482337.html",
-      "summary": "参数冻结，能力暴涨",
+      "id": "c0fa2da8",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "summary": "",
       "date": "2026-09-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "ffd11e2c",
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "url": "https://www.qbitai.com/2026/09/482300.html",
-      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+      "id": "e2c119ac",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
       "date": "2026-09-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "1945d1d3",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—i...",
+      "date": "2026-09-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4be3ed23",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "date": "2026-09-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4320c69e",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "date": "2026-09-01",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "dcfcfe16",
+      "title": "Making the AI-powered case for legacy modernization",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could...",
+      "date": "2026-09-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c931d0b3",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "date": "2026-09-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c1ca73e9",
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’...",
+      "date": "2026-09-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "56641fe0",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "date": "2026-09-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9eb16bd4",
+      "title": "How engineered microbes could help feed the world’s crops",
+      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seedi...",
+      "date": "2026-09-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8e955ff5",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "date": "2026-09-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0f146bbd",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "summary": "",
+      "date": "2026-09-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "e985a8c1",
@@ -29,92 +119,11 @@
       "tag": "research"
     },
     {
-      "id": "7b1f7314",
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "url": "https://www.qbitai.com/2026/08/481928.html",
-      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-      "date": "2026-08-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7ced73f7",
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "url": "https://www.qbitai.com/2026/08/481923.html",
-      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
-      "date": "2026-08-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "839ddb77",
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "url": "https://www.qbitai.com/2026/08/481919.html",
-      "summary": "",
-      "date": "2026-08-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "7f3e9f8d",
       "title": "OpenAI supports California’s bill to advance youth AI safety",
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "date": "2026-08-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6489dfdc",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "date": "2026-08-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7aa1f68e",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "date": "2026-08-31",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b623714f",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl...",
-      "date": "2026-08-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5cb4d68d",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility an...",
-      "date": "2026-08-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "57a3b900",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "date": "2026-08-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8a2a589a",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "date": "2026-08-28",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -126,15 +135,6 @@
       "date": "2026-08-28",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "2074ade1",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatmen...",
-      "date": "2026-08-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "6a67ad8b",
@@ -153,15 +153,6 @@
       "date": "2026-08-27",
       "source": "VentureBeat AI",
       "tag": "industry"
-    },
-    {
-      "id": "96b419a5",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Huggi...",
-      "date": "2026-08-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "b6edaf7b",
@@ -209,24 +200,6 @@
       "tag": "opensource"
     },
     {
-      "id": "ba39c4d2",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "summary": "",
-      "date": "2026-08-25",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "3a9a9569",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "summary": "",
-      "date": "2026-08-25",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "ffa128c0",
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -243,24 +216,6 @@
       "date": "2026-08-19",
       "source": "VentureBeat AI",
       "tag": "industry"
-    },
-    {
-      "id": "4b142232",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "date": "2026-08-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "657afebb",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "summary": "The video shows Sheets canvas in action.",
-      "date": "2026-08-13",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "e7785d8c",
