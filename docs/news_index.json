@@ -1,41 +1,149 @@
 {
-  "updated": "2026-09-03 06:57",
+  "updated": "2026-09-04 07:01",
   "items": [
     {
-      "id": "52c90928",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "url": "https://www.qbitai.com/2026/09/483565.html",
-      "summary": "从工厂一路干到家庭",
+      "id": "6c901137",
+      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+      "url": "https://www.qbitai.com/2026/09/484159.html",
+      "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+      "date": "2026-09-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "37ec4cca",
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "url": "https://www.qbitai.com/2026/09/484155.html",
+      "summary": "",
+      "date": "2026-09-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "eee51ba5",
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "url": "https://www.qbitai.com/2026/09/483984.html",
+      "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+      "date": "2026-09-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a6217fcb",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "url": "https://www.qbitai.com/2026/09/483598.html",
+      "summary": "吃下90%市场",
+      "date": "2026-09-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2c0b78a3",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "url": "https://www.qbitai.com/2026/09/483948.html",
+      "summary": "改进GPT Image 2的噪点问题",
       "date": "2026-09-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9f544cce",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "id": "30eec5aa",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "aad76210",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
       "summary": "",
       "date": "2026-09-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "7f37577b",
-      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-      "url": "https://www.qbitai.com/2026/09/483462.html",
-      "summary": "4激光雷达+双M100上车",
+      "id": "77da68a9",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital ...",
       "date": "2026-09-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "4e5ee396",
-      "title": "今年最难的机器人Demo，“机器人含量”为0",
-      "url": "https://www.qbitai.com/2026/09/483351.html",
-      "summary": "遥操，可能真的危险了",
+      "id": "d54e7a3a",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "date": "2026-09-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9a8f1e3a",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e9a223db",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial...",
+      "date": "2026-09-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "85cb7c59",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across ...",
+      "date": "2026-09-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "af3b8492",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "980824ac",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "summary": "",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "f01b512d",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "summary": "",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "3f452d14",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "summary": "",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "9fef7b06",
@@ -83,24 +191,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "1b21bbaa",
-      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-      "url": "https://www.qbitai.com/2026/09/483274.html",
-      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-      "date": "2026-09-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c0fa2da8",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "summary": "",
-      "date": "2026-09-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "e2c119ac",
       "title": "The latest AI news we announced in August 2026",
       "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
@@ -108,24 +198,6 @@
       "date": "2026-09-01",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "1945d1d3",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—i...",
-      "date": "2026-09-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4be3ed23",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "date": "2026-09-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "4320c69e",
@@ -137,69 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "dcfcfe16",
-      "title": "Making the AI-powered case for legacy modernization",
-      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could...",
-      "date": "2026-09-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c931d0b3",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "date": "2026-09-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c1ca73e9",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’...",
-      "date": "2026-09-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "56641fe0",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "date": "2026-09-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8e955ff5",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "date": "2026-09-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "0f146bbd",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "summary": "",
-      "date": "2026-09-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "5f64da98",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "summary": "",
-      "date": "2026-08-28",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "6a67ad8b",
       "title": "3 new ways to plan and book travel in Search",
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
@@ -209,42 +218,6 @@
       "tag": "Google"
     },
     {
-      "id": "975b7811",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
-      "date": "2026-08-27",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "b6edaf7b",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
-      "date": "2026-08-27",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "c6f5e02f",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t...",
-      "date": "2026-08-26",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "cea6b0e8",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "summary": "",
-      "date": "2026-08-26",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "74af7ce4",
       "title": "5 ways to upgrade your home decor with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -252,24 +225,6 @@
       "date": "2026-08-25",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "f8a8e90f",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i...",
-      "date": "2026-08-19",
-      "source": "VentureBeat AI",
-      "tag": "industry"
-    },
-    {
-      "id": "e7785d8c",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T...",
-      "date": "2026-05-19",
-      "source": "VentureBeat AI",
-      "tag": "industry"
     }
   ]
 }
