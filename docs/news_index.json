@@ -1,48 +1,75 @@
 {
-  "updated": "2026-09-04 07:01",
+  "updated": "2026-09-05 06:45",
   "items": [
     {
-      "id": "6c901137",
-      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
-      "url": "https://www.qbitai.com/2026/09/484159.html",
-      "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+      "id": "509f2c61",
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "date": "2026-09-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e1883293",
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+      "date": "2026-09-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a9c5d8bc",
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "summary": "最后靠Harness救回来",
+      "date": "2026-09-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c5405304",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv...",
+      "date": "2026-09-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "53901d2f",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild ...",
+      "date": "2026-09-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "16db96c9",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the...",
+      "date": "2026-09-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "345a8452",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能",
       "date": "2026-09-04",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "37ec4cca",
-      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-      "url": "https://www.qbitai.com/2026/09/484155.html",
-      "summary": "",
+      "id": "f6aa1d51",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
       "date": "2026-09-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "eee51ba5",
-      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
-      "url": "https://www.qbitai.com/2026/09/483984.html",
-      "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
-      "date": "2026-09-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a6217fcb",
-      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
-      "url": "https://www.qbitai.com/2026/09/483598.html",
-      "summary": "吃下90%市场",
-      "date": "2026-09-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2c0b78a3",
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "url": "https://www.qbitai.com/2026/09/483948.html",
-      "summary": "改进GPT Image 2的噪点问题",
-      "date": "2026-09-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -74,15 +101,6 @@
       "tag": "research"
     },
     {
-      "id": "d54e7a3a",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "9a8f1e3a",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
@@ -92,19 +110,28 @@
       "tag": "OpenAI"
     },
     {
+      "id": "d54e7a3a",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "8b954ea2",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
       "id": "e9a223db",
       "title": "Agriculture relies on fossil fuels. It’s costing us.",
       "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
       "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial...",
-      "date": "2026-09-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "85cb7c59",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across ...",
       "date": "2026-09-03",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -155,15 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "c0e30f01",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ...",
-      "date": "2026-09-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "d23fc469",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
@@ -171,24 +189,6 @@
       "date": "2026-09-02",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "fdfd47cb",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you f...",
-      "date": "2026-09-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "21f8b896",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "date": "2026-09-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "e2c119ac",
