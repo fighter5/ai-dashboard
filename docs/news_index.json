@@ -1,6 +1,141 @@
 {
-  "updated": "2026-09-08 07:00",
+  "updated": "2026-09-09 07:09",
   "items": [
+    {
+      "id": "2eff6143",
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "date": "2026-09-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "60844d27",
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "date": "2026-09-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6f3eceb3",
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "url": "https://www.qbitai.com/2026/09/486052.html",
+      "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "date": "2026-09-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "388663d3",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan...",
+      "date": "2026-09-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2efb77cd",
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "date": "2026-09-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "48232c1c",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c847825e",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "summary": "",
+      "date": "2026-09-08",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "6c888c96",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "be434c4e",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 20...",
+      "date": "2026-09-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c76ec6f9",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "176099a4",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and...",
+      "date": "2026-09-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f4a18652",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ...",
+      "date": "2026-09-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "62c6010b",
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt...",
+      "date": "2026-09-08",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4b61789c",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c34d7a76",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "49cf9235",
       "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
@@ -11,114 +146,6 @@
       "tag": "zh-news"
     },
     {
-      "id": "b9267480",
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "summary": "百万奖金、大厂直通、VC跟投",
-      "date": "2026-09-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9bae5f48",
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-      "date": "2026-09-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ecc38698",
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
-      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-      "date": "2026-09-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "06ec0794",
-      "title": "王云鹤创业后交出首个模型",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "summary": "把多模型执行经验用到了模型训练",
-      "date": "2026-09-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "31c68cc1",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry ...",
-      "date": "2026-09-07",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "24d8a7ae",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "date": "2026-09-07",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "08d94691",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "date": "2026-09-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "2b36e6db",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "date": "2026-09-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c5405304",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv...",
-      "date": "2026-09-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "53901d2f",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild ...",
-      "date": "2026-09-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "16db96c9",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the...",
-      "date": "2026-09-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "30eec5aa",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "date": "2026-09-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
@@ -126,24 +153,6 @@
       "date": "2026-09-03",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "77da68a9",
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital ...",
-      "date": "2026-09-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d54e7a3a",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "980824ac",
@@ -180,15 +189,6 @@
       "date": "2026-09-02",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "d23fc469",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "summary": "",
-      "date": "2026-09-02",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "e2c119ac",
