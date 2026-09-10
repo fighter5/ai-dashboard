@@ -1,32 +1,131 @@
 {
-  "updated": "2026-09-09 07:09",
+  "updated": "2026-09-10 07:05",
   "items": [
     {
-      "id": "2eff6143",
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "url": "https://www.qbitai.com/2026/09/486288.html",
-      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "id": "adf2bd41",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "url": "https://www.qbitai.com/2026/09/486625.html",
+      "summary": "模型可以开源，部署经验不能",
+      "date": "2026-09-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e641e88d",
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "url": "https://www.qbitai.com/2026/09/486436.html",
+      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "date": "2026-09-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "845bcb28",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "url": "https://www.qbitai.com/2026/09/486350.html",
+      "summary": "赶上了API限时五折",
+      "date": "2026-09-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b76385f0",
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "url": "https://www.qbitai.com/2026/09/486450.html",
+      "summary": "一比根号二的小胖折叠",
       "date": "2026-09-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "60844d27",
-      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-      "url": "https://www.qbitai.com/2026/09/486280.html",
-      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "id": "bb894e92",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "date": "2026-09-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "43d2948c",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play di...",
+      "date": "2026-09-09",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "32522e85",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+      "date": "2026-09-09",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "0e4c7024",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "summary": "",
+      "date": "2026-09-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "e50720e5",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "date": "2026-09-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b5781936",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about th...",
+      "date": "2026-09-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "dc8c3baa",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "date": "2026-09-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ca52d9e2",
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "url": "https://www.qbitai.com/2026/09/486370.html",
+      "summary": "",
       "date": "2026-09-09",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6f3eceb3",
-      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-      "url": "https://www.qbitai.com/2026/09/486052.html",
-      "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "id": "deb34805",
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily ...",
       "date": "2026-09-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "44bcee21",
+      "title": "Understanding the thermal ceiling in portable power",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging...",
+      "date": "2026-09-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "388663d3",
@@ -36,15 +135,6 @@
       "date": "2026-09-09",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "2efb77cd",
-      "title": "宜宾，一场机器人“招聘会”的产业雄心",
-      "url": "https://www.qbitai.com/2026/09/486038.html",
-      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
-      "date": "2026-09-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "48232c1c",
@@ -83,69 +173,6 @@
       "tag": "research"
     },
     {
-      "id": "c76ec6f9",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "date": "2026-09-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "176099a4",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and...",
-      "date": "2026-09-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f4a18652",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ...",
-      "date": "2026-09-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "62c6010b",
-      "title": "This founder is making cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt...",
-      "date": "2026-09-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4b61789c",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "date": "2026-09-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c34d7a76",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "date": "2026-09-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "49cf9235",
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
-      "summary": "Blender也不用学了",
-      "date": "2026-09-08",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
@@ -167,15 +194,6 @@
       "id": "f01b512d",
       "title": "Give Your Coding Agents a Memory You Own",
       "url": "https://huggingface.co/blog/funes",
-      "summary": "",
-      "date": "2026-09-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "3f452d14",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "summary": "",
       "date": "2026-09-03",
       "source": "Hugging Face",
@@ -205,24 +223,6 @@
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
       "date": "2026-09-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "6a67ad8b",
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "summary": "Graphic depicting new travel features for AI Mode in Search",
-      "date": "2026-08-27",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "74af7ce4",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "date": "2026-08-25",
       "source": "Google AI Blog",
       "tag": "Google"
     }
