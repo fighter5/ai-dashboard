@@ -1,50 +1,158 @@
 {
-  "updated": "2026-09-10 07:05",
+  "updated": "2026-09-11 07:04",
   "items": [
     {
-      "id": "adf2bd41",
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "url": "https://www.qbitai.com/2026/09/486625.html",
-      "summary": "模型可以开源，部署经验不能",
+      "id": "aff9f337",
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "summary": "今年12月，北京，MEET2027智能未来大会！",
+      "date": "2026-09-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ad180fb3",
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "summary": "",
+      "date": "2026-09-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "85f1b118",
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "summary": "爆料直指霍奇猜想",
+      "date": "2026-09-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "38218d6f",
+      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "summary": "15秒视频，50秒出片",
+      "date": "2026-09-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "afc832aa",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
       "date": "2026-09-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
-      "id": "e641e88d",
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "id": "8e610a22",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "date": "2026-09-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "845bcb28",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486350.html",
-      "summary": "赶上了API限时五折",
-      "date": "2026-09-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b76385f0",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "url": "https://www.qbitai.com/2026/09/486450.html",
-      "summary": "一比根号二的小胖折叠",
-      "date": "2026-09-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "bb894e92",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "date": "2026-09-09",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "d86fa96a",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "date": "2026-09-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "15f72ba4",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost...",
+      "date": "2026-09-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "dcafb6d4",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#...",
+      "date": "2026-09-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5ffceb73",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineerin...",
+      "date": "2026-09-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "05de9ec6",
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "url": "https://www.qbitai.com/2026/09/486934.html",
+      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+      "date": "2026-09-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f95ee6f6",
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help s...",
+      "date": "2026-09-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "72111da3",
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he wa...",
+      "date": "2026-09-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3f77446f",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "date": "2026-09-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "aa2ea623",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "date": "2026-09-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "96db0e24",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "date": "2026-09-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "54954960",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "summary": "",
+      "date": "2026-09-10",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "43d2948c",
@@ -74,78 +182,6 @@
       "tag": "opensource"
     },
     {
-      "id": "e50720e5",
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "date": "2026-09-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b5781936",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about th...",
-      "date": "2026-09-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "dc8c3baa",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "date": "2026-09-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ca52d9e2",
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "url": "https://www.qbitai.com/2026/09/486370.html",
-      "summary": "",
-      "date": "2026-09-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "deb34805",
-      "title": "Batteries just broke another record in the US",
-      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily ...",
-      "date": "2026-09-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "44bcee21",
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging...",
-      "date": "2026-09-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "388663d3",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan...",
-      "date": "2026-09-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "48232c1c",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "date": "2026-09-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "c847825e",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -153,24 +189,6 @@
       "date": "2026-09-08",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "6c888c96",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "date": "2026-09-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "be434c4e",
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 20...",
-      "date": "2026-09-08",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "aad76210",
@@ -191,15 +209,6 @@
       "tag": "opensource"
     },
     {
-      "id": "f01b512d",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "summary": "",
-      "date": "2026-09-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "9fef7b06",
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -213,15 +222,6 @@
       "title": "The latest AI news we announced in August 2026",
       "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
-      "date": "2026-09-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "4320c69e",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
       "date": "2026-09-01",
       "source": "Google AI Blog",
       "tag": "Google"
