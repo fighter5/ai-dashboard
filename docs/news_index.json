@@ -1,38 +1,101 @@
 {
-  "updated": "2026-09-11 07:04",
+  "updated": "2026-09-12 06:57",
   "items": [
     {
-      "id": "aff9f337",
-      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-      "url": "https://www.qbitai.com/2026/09/487176.html",
-      "summary": "今年12月，北京，MEET2027智能未来大会！",
+      "id": "ea5b1933",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "date": "2026-09-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a662e62b",
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "url": "https://www.qbitai.com/2026/09/487653.html",
+      "summary": "25位菲尔兹奖得主联名吹哨",
+      "date": "2026-09-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "12de2051",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te...",
+      "date": "2026-09-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8644a196",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "summary": "看清「一个真正的人」",
       "date": "2026-09-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ad180fb3",
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "id": "bb3fa770",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "date": "2026-09-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f0ed5ea0",
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "url": "https://www.qbitai.com/2026/09/487573.html",
+      "summary": "原来你俩互相下单呢",
+      "date": "2026-09-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e5dc6f4a",
+      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+      "url": "https://www.qbitai.com/2026/09/487415.html",
+      "summary": "把开发、交付和接单全打通了",
+      "date": "2026-09-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ac3ad0fb",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E...",
+      "date": "2026-09-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ebb4b1b0",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "date": "2026-09-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c92be95c",
+      "title": "Meet the under-35s shaping the future of biotech",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whos...",
+      "date": "2026-09-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a31a6d7c",
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "url": "https://www.qbitai.com/2026/09/487282.html",
       "summary": "",
-      "date": "2026-09-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "85f1b118",
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "url": "https://www.qbitai.com/2026/09/487092.html",
-      "summary": "爆料直指霍奇猜想",
-      "date": "2026-09-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "38218d6f",
-      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
-      "url": "https://www.qbitai.com/2026/09/487055.html",
-      "summary": "15秒视频，50秒出片",
       "date": "2026-09-11",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -81,69 +144,6 @@
       "date": "2026-09-10",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "5ffceb73",
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineerin...",
-      "date": "2026-09-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "05de9ec6",
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "url": "https://www.qbitai.com/2026/09/486934.html",
-      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
-      "date": "2026-09-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f95ee6f6",
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help s...",
-      "date": "2026-09-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "72111da3",
-      "title": "God told them to sell crypto. Their investors lost everything.",
-      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he wa...",
-      "date": "2026-09-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "3f77446f",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "date": "2026-09-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "aa2ea623",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "date": "2026-09-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "96db0e24",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "date": "2026-09-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "54954960",
