@@ -1,47 +1,110 @@
 {
-  "updated": "2026-09-14 07:39",
+  "updated": "2026-09-15 07:20",
   "items": [
     {
-      "id": "87e94220",
-      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-      "url": "https://www.qbitai.com/2026/09/488875.html",
-      "summary": "共话AI时代的生活、影像与创造。",
+      "id": "b8f5aa44",
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "url": "https://www.qbitai.com/2026/09/489288.html",
+      "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+      "date": "2026-09-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a7846bb1",
+      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "url": "https://www.qbitai.com/2026/09/489277.html",
+      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+      "date": "2026-09-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b7b26262",
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "summary": "几百个Agent参与研发，AI开始造AI",
+      "date": "2026-09-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a46be6dd",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "date": "2026-09-14",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "f4964ed0",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for...",
+      "date": "2026-09-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ecdb99b4",
+      "title": "Donated livers can be made biologically younger",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade....",
+      "date": "2026-09-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4ca5a8ed",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent ...",
+      "date": "2026-09-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f8a70a08",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
+      "date": "2026-09-14",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "77e5d572",
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employee...",
+      "date": "2026-09-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "23187506",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "date": "2026-09-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c1376ee8",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "url": "https://www.qbitai.com/2026/09/489105.html",
+      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
       "date": "2026-09-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "591c8734",
-      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
-      "url": "https://www.qbitai.com/2026/09/488832.html",
-      "summary": "小模型突破瓶颈，旗舰模型打开新空间",
-      "date": "2026-09-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "577a412c",
-      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-      "url": "https://www.qbitai.com/2026/09/488725.html",
-      "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路",
-      "date": "2026-09-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f6c9ccd3",
-      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-      "url": "https://www.qbitai.com/2026/09/488699.html",
-      "summary": "还是太嫩了啊Dario",
-      "date": "2026-09-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3188c530",
-      "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
-      "url": "https://www.qbitai.com/2026/09/488694.html",
-      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+      "id": "bba8fdbe",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "summary": "业界首个5A算电协同认证",
       "date": "2026-09-14",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -74,15 +137,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ac3ad0fb",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E...",
-      "date": "2026-09-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "ebb4b1b0",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -90,15 +144,6 @@
       "date": "2026-09-11",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "c92be95c",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whos...",
-      "date": "2026-09-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "afc832aa",
@@ -119,31 +164,13 @@
       "tag": "OpenAI"
     },
     {
-      "id": "d86fa96a",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "id": "c7496952",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "summary": "",
       "date": "2026-09-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "15f72ba4",
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost...",
-      "date": "2026-09-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "dcafb6d4",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#...",
-      "date": "2026-09-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "54954960",
@@ -198,33 +225,6 @@
       "date": "2026-09-03",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "980824ac",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "summary": "",
-      "date": "2026-09-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "9fef7b06",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "summary": "Introducing Fairwind Program",
-      "date": "2026-09-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "e2c119ac",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
-      "date": "2026-09-01",
-      "source": "Google AI Blog",
-      "tag": "Google"
     }
   ]
 }
