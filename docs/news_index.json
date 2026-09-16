@@ -1,32 +1,131 @@
 {
-  "updated": "2026-09-15 07:20",
+  "updated": "2026-09-16 07:21",
   "items": [
     {
-      "id": "b8f5aa44",
-      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
-      "url": "https://www.qbitai.com/2026/09/489288.html",
-      "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
-      "date": "2026-09-15",
+      "id": "c6714b5b",
+      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+      "url": "https://www.qbitai.com/2026/09/490400.html",
+      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+      "date": "2026-09-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "a7846bb1",
-      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
-      "url": "https://www.qbitai.com/2026/09/489277.html",
-      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
-      "date": "2026-09-15",
+      "id": "04e4a3a4",
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "url": "https://www.qbitai.com/2026/09/490396.html",
+      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+      "date": "2026-09-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "b7b26262",
-      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-      "url": "https://www.qbitai.com/2026/09/489227.html",
-      "summary": "几百个Agent参与研发，AI开始造AI",
-      "date": "2026-09-15",
+      "id": "8ed712df",
+      "title": "量子位2026人工智能年度榜单，正式启动！",
+      "url": "https://www.qbitai.com/2026/09/490329.html",
+      "summary": "报名通道已开启，欢迎参与！",
+      "date": "2026-09-16",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "5f7cf919",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "summary": "从想法到结果，一次对话实现",
+      "date": "2026-09-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "662b83ac",
+      "title": "把记忆交给CPU，大模型会变快",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "summary": "让GPU去忙生成Token",
+      "date": "2026-09-16",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c733aaf0",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more...",
+      "date": "2026-09-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5236dbdf",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "summary": "",
+      "date": "2026-09-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "a56de3e9",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "date": "2026-09-15",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b5ab0b9d",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "date": "2026-09-15",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "02a68444",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "summary": "Animation of several words in different languages slowly zooming past",
+      "date": "2026-09-15",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "7c45bd62",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+      "date": "2026-09-15",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "4b8958bc",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now?...",
+      "date": "2026-09-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f3c2d252",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy p...",
+      "date": "2026-09-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "03f235e7",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and...",
+      "date": "2026-09-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "a46be6dd",
@@ -41,43 +140,7 @@
       "id": "f4964ed0",
       "title": "The AI industry has taken a doomer turn. What now?",
       "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for...",
-      "date": "2026-09-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ecdb99b4",
-      "title": "Donated livers can be made biologically younger",
-      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade....",
-      "date": "2026-09-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4ca5a8ed",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent ...",
-      "date": "2026-09-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f8a70a08",
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
-      "date": "2026-09-14",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "77e5d572",
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employee...",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin...",
       "date": "2026-09-14",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -92,24 +155,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "c1376ee8",
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "url": "https://www.qbitai.com/2026/09/489105.html",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
-      "date": "2026-09-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "bba8fdbe",
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-      "url": "https://www.qbitai.com/2026/09/489106.html",
-      "summary": "业界首个5A算电协同认证",
-      "date": "2026-09-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "ea5b1933",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -117,15 +162,6 @@
       "date": "2026-09-14",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "12de2051",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te...",
-      "date": "2026-09-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "bb3fa770",
@@ -144,15 +180,6 @@
       "date": "2026-09-11",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "afc832aa",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "date": "2026-09-10",
-      "source": "Google AI Blog",
-      "tag": "Google"
     },
     {
       "id": "8e610a22",
@@ -178,33 +205,6 @@
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "summary": "",
       "date": "2026-09-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "43d2948c",
-      "title": "Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play di...",
-      "date": "2026-09-09",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "32522e85",
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "date": "2026-09-09",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "0e4c7024",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "summary": "",
-      "date": "2026-09-09",
       "source": "Hugging Face",
       "tag": "opensource"
     },
