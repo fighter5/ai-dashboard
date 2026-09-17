@@ -1,50 +1,122 @@
 {
-  "updated": "2026-09-16 07:21",
+  "updated": "2026-09-17 07:17",
   "items": [
     {
-      "id": "c6714b5b",
-      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-      "url": "https://www.qbitai.com/2026/09/490400.html",
-      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "date": "2026-09-16",
+      "id": "c6d59fdd",
+      "title": "马斯克睡进工地！为AI基建拼了",
+      "url": "https://www.qbitai.com/2026/09/491280.html",
+      "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+      "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "04e4a3a4",
-      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-      "url": "https://www.qbitai.com/2026/09/490396.html",
-      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-      "date": "2026-09-16",
+      "id": "996b8d0e",
+      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+      "url": "https://www.qbitai.com/2026/09/491147.html",
+      "summary": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
+      "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8ed712df",
-      "title": "量子位2026人工智能年度榜单，正式启动！",
-      "url": "https://www.qbitai.com/2026/09/490329.html",
-      "summary": "报名通道已开启，欢迎参与！",
-      "date": "2026-09-16",
+      "id": "ac33df8f",
+      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+      "url": "https://www.qbitai.com/2026/09/491091.html",
+      "summary": "1亿Tokens人人免费领",
+      "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "5f7cf919",
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-      "url": "https://www.qbitai.com/2026/09/490185.html",
-      "summary": "从想法到结果，一次对话实现",
-      "date": "2026-09-16",
+      "id": "2c81d151",
+      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+      "url": "https://www.qbitai.com/2026/09/491062.html",
+      "summary": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
+      "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "662b83ac",
-      "title": "把记忆交给CPU，大模型会变快",
-      "url": "https://www.qbitai.com/2026/09/489724.html",
-      "summary": "让GPU去忙生成Token",
-      "date": "2026-09-16",
+      "id": "4af18d5e",
+      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
+      "url": "https://www.qbitai.com/2026/09/490974.html",
+      "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
+      "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "1be7a085",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "date": "2026-09-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "2c7667f6",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "date": "2026-09-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bb25cc83",
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so careful...",
+      "date": "2026-09-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d2e2a131",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "date": "2026-09-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c81fa26a",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon...",
+      "date": "2026-09-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "49e7531b",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble Whe...",
+      "date": "2026-09-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ddf43229",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "date": "2026-09-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f8009176",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "date": "2026-09-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "c733aaf0",
@@ -110,24 +182,6 @@
       "tag": "research"
     },
     {
-      "id": "f3c2d252",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy p...",
-      "date": "2026-09-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "03f235e7",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and...",
-      "date": "2026-09-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "a46be6dd",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -135,60 +189,6 @@
       "date": "2026-09-14",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "f4964ed0",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin...",
-      "date": "2026-09-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "23187506",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "date": "2026-09-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ea5b1933",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "date": "2026-09-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bb3fa770",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "date": "2026-09-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "ebb4b1b0",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "date": "2026-09-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8e610a22",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "date": "2026-09-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "c7496952",
