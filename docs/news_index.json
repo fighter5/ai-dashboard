@@ -1,57 +1,93 @@
 {
-  "updated": "2026-09-17 07:17",
+  "updated": "2026-09-18 07:09",
   "items": [
     {
-      "id": "c6d59fdd",
-      "title": "马斯克睡进工地！为AI基建拼了",
-      "url": "https://www.qbitai.com/2026/09/491280.html",
-      "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+      "id": "9ed4b9bd",
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "summary": "用通用AI去啃最硬的骨头，这条路走得通",
+      "date": "2026-09-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "94e99955",
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "summary": "作价40亿美元推进新融资",
+      "date": "2026-09-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2797646a",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "summary": "Git白学了？？？",
+      "date": "2026-09-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b7fa72fd",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "summary": "UN System Data Commons Data webpage",
+      "date": "2026-09-17",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "4b73a7a5",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of huma...",
+      "date": "2026-09-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e45c9a68",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "summary": "构建个体专属AI助理",
       "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "996b8d0e",
-      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-      "url": "https://www.qbitai.com/2026/09/491147.html",
-      "summary": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
+      "id": "e268b158",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "date": "2026-09-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6583ba55",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "url": "https://www.qbitai.com/2026/09/491596.html",
+      "summary": "工程师的核心永远是Problem Solving。",
       "date": "2026-09-17",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ac33df8f",
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "summary": "1亿Tokens人人免费领",
+      "id": "82f2f82c",
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the n...",
       "date": "2026-09-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "2c81d151",
-      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-      "url": "https://www.qbitai.com/2026/09/491062.html",
-      "summary": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
+      "id": "a99e443a",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "date": "2026-09-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4af18d5e",
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "url": "https://www.qbitai.com/2026/09/490974.html",
-      "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
-      "date": "2026-09-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1be7a085",
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "date": "2026-09-16",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -110,24 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "f8009176",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "date": "2026-09-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c733aaf0",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more...",
-      "date": "2026-09-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "5236dbdf",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
@@ -169,24 +187,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
       "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
       "date": "2026-09-15",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "4b8958bc",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now?...",
-      "date": "2026-09-15",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a46be6dd",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "date": "2026-09-14",
       "source": "Google AI Blog",
       "tag": "Google"
     },
