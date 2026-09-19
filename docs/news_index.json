@@ -1,32 +1,104 @@
 {
-  "updated": "2026-09-18 07:09",
+  "updated": "2026-09-19 07:06",
   "items": [
     {
-      "id": "9ed4b9bd",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "summary": "用通用AI去啃最硬的骨头，这条路走得通",
+      "id": "5dc82350",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "url": "https://www.qbitai.com/2026/09/492467.html",
+      "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "date": "2026-09-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fba59f0f",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "url": "https://www.qbitai.com/2026/09/492429.html",
+      "summary": "同一预测核心，跨七类系统验证",
+      "date": "2026-09-19",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7ff77023",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "url": "https://www.qbitai.com/2026/09/492426.html",
+      "summary": "协同布局AI基础设施",
       "date": "2026-09-18",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "94e99955",
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "url": "https://www.qbitai.com/2026/09/491764.html",
-      "summary": "作价40亿美元推进新融资",
+      "id": "596dc558",
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "url": "https://www.qbitai.com/2026/09/492421.html",
+      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
       "date": "2026-09-18",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2797646a",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "url": "https://www.qbitai.com/2026/09/491711.html",
-      "summary": "Git白学了？？？",
+      "id": "3dd23fb9",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "date": "2026-09-18",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c1be04a8",
+      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+      "url": "https://www.qbitai.com/2026/09/492238.html",
+      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
       "date": "2026-09-18",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "abcde602",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "summary": "Jane Wade and Sergio Hudson",
+      "date": "2026-09-18",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "2c98174b",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answe...",
+      "date": "2026-09-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "48d4db25",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "date": "2026-09-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "43991f13",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que...",
+      "date": "2026-09-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7ebbd7dd",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious ri...",
+      "date": "2026-09-18",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "b7fa72fd",
@@ -47,15 +119,6 @@
       "tag": "research"
     },
     {
-      "id": "e45c9a68",
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "url": "https://www.qbitai.com/2026/09/491649.html",
-      "summary": "构建个体专属AI助理",
-      "date": "2026-09-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "e268b158",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
@@ -63,15 +126,6 @@
       "date": "2026-09-17",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "6583ba55",
-      "title": "Claude Code团队讲究啊，这都往外说",
-      "url": "https://www.qbitai.com/2026/09/491596.html",
-      "summary": "工程师的核心永远是Problem Solving。",
-      "date": "2026-09-17",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "82f2f82c",
@@ -101,46 +155,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "bb25cc83",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so careful...",
-      "date": "2026-09-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "d2e2a131",
       "title": "Reimagining advertising with AI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "date": "2026-09-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c81fa26a",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon...",
-      "date": "2026-09-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "49e7531b",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble Whe...",
-      "date": "2026-09-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ddf43229",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "date": "2026-09-16",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -168,24 +186,6 @@
       "title": "Building AI to accelerate science and improve lives",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "date": "2026-09-15",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "02a68444",
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "summary": "Animation of several words in different languages slowly zooming past",
-      "date": "2026-09-15",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "7c45bd62",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
       "date": "2026-09-15",
       "source": "Google AI Blog",
       "tag": "Google"
