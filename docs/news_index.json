@@ -1,39 +1,48 @@
 {
-  "updated": "2026-09-19 07:06",
+  "updated": "2026-09-20 07:32",
   "items": [
     {
-      "id": "5dc82350",
-      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-      "url": "https://www.qbitai.com/2026/09/492467.html",
-      "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "id": "550de060",
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+      "date": "2026-09-20",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "dbe88ed3",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "url": "https://www.qbitai.com/2026/09/492755.html",
+      "summary": "AI有可能终结我们所有人",
       "date": "2026-09-19",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "fba59f0f",
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "url": "https://www.qbitai.com/2026/09/492429.html",
-      "summary": "同一预测核心，跨七类系统验证",
+      "id": "9f3db688",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "url": "https://www.qbitai.com/2026/09/492661.html",
+      "summary": "老马想买倒闭公司数据为哪般",
       "date": "2026-09-19",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7ff77023",
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "url": "https://www.qbitai.com/2026/09/492426.html",
-      "summary": "协同布局AI基础设施",
-      "date": "2026-09-18",
+      "id": "9947f204",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "url": "https://www.qbitai.com/2026/09/492573.html",
+      "summary": "设计、前端一口气全干了，结果后端没来上班",
+      "date": "2026-09-19",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "596dc558",
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "url": "https://www.qbitai.com/2026/09/492421.html",
-      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-      "date": "2026-09-18",
+      "id": "1db99c46",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "url": "https://www.qbitai.com/2026/09/492550.html",
+      "summary": "AI能否提出相对论？",
+      "date": "2026-09-19",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -45,15 +54,6 @@
       "date": "2026-09-18",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "c1be04a8",
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "url": "https://www.qbitai.com/2026/09/492238.html",
-      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-      "date": "2026-09-18",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "abcde602",
@@ -164,15 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "5236dbdf",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "summary": "",
-      "date": "2026-09-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "a56de3e9",
       "title": "AI for Societal Impact",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -189,42 +180,6 @@
       "date": "2026-09-15",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "c7496952",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "summary": "",
-      "date": "2026-09-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "54954960",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "summary": "",
-      "date": "2026-09-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c847825e",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "summary": "",
-      "date": "2026-09-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "aad76210",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "summary": "",
-      "date": "2026-09-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
     }
   ]
 }
