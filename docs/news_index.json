@@ -1,50 +1,167 @@
 {
-  "updated": "2026-09-21 07:43",
+  "updated": "2026-09-22 07:26",
   "items": [
     {
-      "id": "b08ef0ee",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "url": "https://www.qbitai.com/2026/09/493218.html",
-      "summary": "在物理世界真正干活的具身智能体",
-      "date": "2026-09-21",
+      "id": "aaf804a4",
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+      "url": "https://www.qbitai.com/2026/09/493629.html",
+      "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+      "date": "2026-09-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "809808f5",
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "url": "https://www.qbitai.com/2026/09/493179.html",
-      "summary": "激活参数仅27B",
-      "date": "2026-09-21",
+      "id": "09de0c80",
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "date": "2026-09-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c24c2859",
-      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "url": "https://www.qbitai.com/2026/09/493175.html",
-      "summary": "沙利文报告",
-      "date": "2026-09-21",
+      "id": "43532073",
+      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "summary": "“潮起之时，靠岸相见”",
+      "date": "2026-09-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "8407221c",
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "url": "https://www.qbitai.com/2026/09/493114.html",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "date": "2026-09-21",
+      "id": "2621e496",
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "url": "https://www.qbitai.com/2026/09/493502.html",
+      "summary": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+      "date": "2026-09-22",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "461c10e6",
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "url": "https://www.qbitai.com/2026/09/493109.html",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-      "date": "2026-09-21",
+      "id": "1bcbd060",
+      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "url": "https://www.qbitai.com/2026/09/493485.html",
+      "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "date": "2026-09-22",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "c5f86512",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": "",
+      "date": "2026-09-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "5a7c9e86",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "summary": "",
+      "date": "2026-09-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "06d3f809",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why ...",
+      "date": "2026-09-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5f5c6ffd",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a...",
+      "date": "2026-09-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b4add577",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. W...",
+      "date": "2026-09-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "aec46d55",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16...",
+      "date": "2026-09-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c90b9145",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge ...",
+      "date": "2026-09-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "aba8f862",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7a457bd9",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "25363ac6",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "cbe71413",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "07a9efb9",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "87a2ea63",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "summary": "",
+      "date": "2026-09-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "3dd23fb9",
@@ -65,42 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "2c98174b",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answe...",
-      "date": "2026-09-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "48d4db25",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "date": "2026-09-18",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "43991f13",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que...",
-      "date": "2026-09-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7ebbd7dd",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious ri...",
-      "date": "2026-09-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "b7fa72fd",
       "title": "Making global data easier to explore",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -108,60 +189,6 @@
       "date": "2026-09-17",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "4b73a7a5",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of huma...",
-      "date": "2026-09-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e268b158",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "date": "2026-09-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "82f2f82c",
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the n...",
-      "date": "2026-09-17",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a99e443a",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "date": "2026-09-17",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "2c7667f6",
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "date": "2026-09-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d2e2a131",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "date": "2026-09-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "5236dbdf",
@@ -196,33 +223,6 @@
       "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
       "summary": "",
       "date": "2026-09-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "54954960",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "summary": "",
-      "date": "2026-09-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c847825e",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "summary": "",
-      "date": "2026-09-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "aad76210",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "summary": "",
-      "date": "2026-09-03",
       "source": "Hugging Face",
       "tag": "opensource"
     }
