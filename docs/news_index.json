@@ -1,50 +1,131 @@
 {
-  "updated": "2026-09-22 07:26",
+  "updated": "2026-09-23 07:28",
   "items": [
     {
-      "id": "aaf804a4",
-      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-      "url": "https://www.qbitai.com/2026/09/493629.html",
-      "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
-      "date": "2026-09-22",
+      "id": "8e21b202",
+      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+      "url": "https://www.qbitai.com/2026/09/496329.html",
+      "summary": "实时性和通用能力，世界模型可以全都要",
+      "date": "2026-09-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "09de0c80",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "url": "https://www.qbitai.com/2026/09/493625.html",
-      "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
-      "date": "2026-09-22",
+      "id": "148b2242",
+      "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
+      "url": "https://www.qbitai.com/2026/09/496304.html",
+      "summary": "两万元，买到的是怎样一个机器人",
+      "date": "2026-09-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "43532073",
-      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-      "url": "https://www.qbitai.com/2026/09/493510.html",
-      "summary": "“潮起之时，靠岸相见”",
-      "date": "2026-09-22",
+      "id": "fb1c60e9",
+      "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+      "url": "https://www.qbitai.com/2026/09/496301.html",
+      "summary": "覆盖MaaS、Agent服务、行业AI解决方案",
+      "date": "2026-09-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2621e496",
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-      "url": "https://www.qbitai.com/2026/09/493502.html",
-      "summary": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
-      "date": "2026-09-22",
+      "id": "c109be53",
+      "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+      "url": "https://www.qbitai.com/2026/09/496170.html",
+      "summary": "下半场开始了",
+      "date": "2026-09-23",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "1bcbd060",
-      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
-      "url": "https://www.qbitai.com/2026/09/493485.html",
-      "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
-      "date": "2026-09-22",
+      "id": "59992d2b",
+      "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
+      "url": "https://www.qbitai.com/2026/09/496221.html",
+      "summary": "缓存读取价砍了60%",
+      "date": "2026-09-23",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "991bdfde",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c4259d8d",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "fbbb2f48",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live...",
+      "date": "2026-09-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "69b66234",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —T...",
+      "date": "2026-09-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "81928ec1",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "d185f661",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O...",
+      "date": "2026-09-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5a9917ed",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "137c5833",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "summary": "",
+      "date": "2026-09-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "6aa8c26a",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "summary": "",
+      "date": "2026-09-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "c5f86512",
@@ -83,73 +164,10 @@
       "tag": "research"
     },
     {
-      "id": "b4add577",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. W...",
-      "date": "2026-09-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "aec46d55",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16...",
-      "date": "2026-09-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c90b9145",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge ...",
-      "date": "2026-09-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "aba8f862",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "date": "2026-09-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "7a457bd9",
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "date": "2026-09-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "25363ac6",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "date": "2026-09-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "cbe71413",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "date": "2026-09-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "07a9efb9",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "date": "2026-09-21",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -191,15 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "5236dbdf",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "summary": "",
-      "date": "2026-09-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "a56de3e9",
       "title": "AI for Societal Impact",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -216,15 +225,6 @@
       "date": "2026-09-15",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "c7496952",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "summary": "",
-      "date": "2026-09-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
     }
   ]
 }
