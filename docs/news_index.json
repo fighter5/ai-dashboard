@@ -1,68 +1,149 @@
 {
-  "updated": "2026-09-23 07:28",
+  "updated": "2026-09-24 07:21",
   "items": [
     {
-      "id": "8e21b202",
-      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
-      "url": "https://www.qbitai.com/2026/09/496329.html",
-      "summary": "实时性和通用能力，世界模型可以全都要",
-      "date": "2026-09-23",
+      "id": "3caee869",
+      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+      "url": "https://www.qbitai.com/2026/09/496779.html",
+      "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+      "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "148b2242",
-      "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
-      "url": "https://www.qbitai.com/2026/09/496304.html",
-      "summary": "两万元，买到的是怎样一个机器人",
-      "date": "2026-09-23",
+      "id": "ac604390",
+      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+      "url": "https://www.qbitai.com/2026/09/496778.html",
+      "summary": "专治人机动作对不齐",
+      "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "fb1c60e9",
-      "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
-      "url": "https://www.qbitai.com/2026/09/496301.html",
-      "summary": "覆盖MaaS、Agent服务、行业AI解决方案",
-      "date": "2026-09-23",
+      "id": "d9ee9497",
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "url": "https://www.qbitai.com/2026/09/496767.html",
+      "summary": "开源一座具身智能的新“塔台”",
+      "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c109be53",
-      "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
-      "url": "https://www.qbitai.com/2026/09/496170.html",
-      "summary": "下半场开始了",
-      "date": "2026-09-23",
+      "id": "3c52cd2c",
+      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "url": "https://www.qbitai.com/2026/09/496658.html",
+      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "59992d2b",
-      "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
-      "url": "https://www.qbitai.com/2026/09/496221.html",
-      "summary": "缓存读取价砍了60%",
-      "date": "2026-09-23",
+      "id": "2b6910bb",
+      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "url": "https://www.qbitai.com/2026/09/496647.html",
+      "summary": "美国也开启了全民养虾狂潮",
+      "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "991bdfde",
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "date": "2026-09-22",
+      "id": "8308f413",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "summary": "",
+      "date": "2026-09-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "1862986a",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "summary": "Google Beam promotional animation",
+      "date": "2026-09-23",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "8549157d",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The annou...",
+      "date": "2026-09-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "cd65d3ae",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "date": "2026-09-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "c4259d8d",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "date": "2026-09-22",
+      "id": "7d0f5cd5",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "date": "2026-09-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "3f94f552",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India W...",
+      "date": "2026-09-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7c9a1180",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "32b5509c",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "01d0ed63",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "edaeeef0",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j...",
+      "date": "2026-09-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "195d2c23",
+      "title": "Smart glasses are already causing havoc in India",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this...",
+      "date": "2026-09-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "fbbb2f48",
@@ -72,42 +153,6 @@
       "date": "2026-09-22",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "69b66234",
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —T...",
-      "date": "2026-09-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "81928ec1",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "date": "2026-09-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d185f661",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O...",
-      "date": "2026-09-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5a9917ed",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "date": "2026-09-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "137c5833",
@@ -146,42 +191,6 @@
       "tag": "opensource"
     },
     {
-      "id": "06d3f809",
-      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why ...",
-      "date": "2026-09-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5f5c6ffd",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a...",
-      "date": "2026-09-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7a457bd9",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "date": "2026-09-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "87a2ea63",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "summary": "",
-      "date": "2026-09-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "3dd23fb9",
       "title": "New experts join Google’s AI & Economy team",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
@@ -213,15 +222,6 @@
       "title": "AI for Societal Impact",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
       "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "date": "2026-09-15",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "b5ab0b9d",
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
       "date": "2026-09-15",
       "source": "Google AI Blog",
       "tag": "Google"
