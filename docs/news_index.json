@@ -1,50 +1,77 @@
 {
-  "updated": "2026-09-24 07:21",
+  "updated": "2026-09-25 07:15",
   "items": [
     {
-      "id": "3caee869",
-      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-      "url": "https://www.qbitai.com/2026/09/496779.html",
-      "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+      "id": "843ea4e2",
+      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+      "url": "https://www.qbitai.com/2026/09/497075.html",
+      "summary": "Agent的手越伸越长",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e64f7dba",
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "summary": "一场物理世界的基模实验",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5217c226",
+      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+      "url": "https://www.qbitai.com/2026/09/497060.html",
+      "summary": "人工外包团队",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cffdfa89",
+      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+      "url": "https://www.qbitai.com/2026/09/497012.html",
+      "summary": "",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b95d3b2f",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496961.html",
+      "summary": "懂出海，能记忆，自进化",
       "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ac604390",
-      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-      "url": "https://www.qbitai.com/2026/09/496778.html",
-      "summary": "专治人机动作对不齐",
+      "id": "a3267440",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "summary": "",
       "date": "2026-09-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "d9ee9497",
-      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-      "url": "https://www.qbitai.com/2026/09/496767.html",
-      "summary": "开源一座具身智能的新“塔台”",
+      "id": "d8c947a9",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killi...",
       "date": "2026-09-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "3c52cd2c",
-      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-      "url": "https://www.qbitai.com/2026/09/496658.html",
-      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "id": "148d6434",
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan...",
       "date": "2026-09-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2b6910bb",
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "url": "https://www.qbitai.com/2026/09/496647.html",
-      "summary": "美国也开启了全民养虾狂潮",
-      "date": "2026-09-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
       "id": "8308f413",
@@ -137,24 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "195d2c23",
-      "title": "Smart glasses are already causing havoc in India",
-      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this...",
-      "date": "2026-09-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "fbbb2f48",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live...",
-      "date": "2026-09-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "137c5833",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "url": "https://huggingface.co/blog/evaleval-aisi",
@@ -178,15 +187,6 @@
       "url": "https://huggingface.co/blog/omlx",
       "summary": "",
       "date": "2026-09-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "5a7c9e86",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "summary": "",
-      "date": "2026-09-21",
       "source": "Hugging Face",
       "tag": "opensource"
     },
