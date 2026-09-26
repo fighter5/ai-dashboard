@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-25 07:15",
+  "updated": "2026-09-26 07:10",
   "items": [
+    {
+      "id": "0192a09d",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "date": "2026-09-25",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "81873e2c",
+      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "url": "https://www.qbitai.com/2026/09/497278.html",
+      "summary": "",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c46a7714",
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "url": "https://www.qbitai.com/2026/09/497177.html",
+      "summary": "",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b0fa98e8",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe...",
+      "date": "2026-09-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8392b4af",
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "url": "https://www.qbitai.com/2026/09/497108.html",
+      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+      "date": "2026-09-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b50925bd",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly...",
+      "date": "2026-09-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b02f7376",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught ...",
+      "date": "2026-09-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
     {
       "id": "843ea4e2",
       "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
@@ -16,33 +79,6 @@
       "url": "https://www.qbitai.com/2026/09/497070.html",
       "summary": "一场物理世界的基模实验",
       "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5217c226",
-      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
-      "url": "https://www.qbitai.com/2026/09/497060.html",
-      "summary": "人工外包团队",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "cffdfa89",
-      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-      "url": "https://www.qbitai.com/2026/09/497012.html",
-      "summary": "",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b95d3b2f",
-      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-      "url": "https://www.qbitai.com/2026/09/496961.html",
-      "summary": "懂出海，能记忆，自进化",
-      "date": "2026-09-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -92,15 +128,6 @@
       "tag": "Google"
     },
     {
-      "id": "8549157d",
-      "title": "A congressional representative just proposed killing America’s border tower program",
-      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The annou...",
-      "date": "2026-09-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "cd65d3ae",
       "title": "Two years of OpenAI Academy",
       "url": "https://openai.com/index/two-years-of-openai-academy",
@@ -119,15 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "3f94f552",
-      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India W...",
-      "date": "2026-09-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "7c9a1180",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -144,24 +162,6 @@
       "date": "2026-09-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "01d0ed63",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "date": "2026-09-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "edaeeef0",
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j...",
-      "date": "2026-09-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "137c5833",
