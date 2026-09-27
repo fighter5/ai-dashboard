@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-26 07:10",
+  "updated": "2026-09-27 07:43",
   "items": [
+    {
+      "id": "1db1dcc4",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "url": "https://www.qbitai.com/2026/09/498478.html",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "date": "2026-09-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "61646d2d",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "url": "https://www.qbitai.com/2026/09/498271.html",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "date": "2026-09-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a532feb3",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "url": "https://www.qbitai.com/2026/09/497624.html",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "date": "2026-09-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "4c90ac44",
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "url": "https://www.qbitai.com/2026/09/497613.html",
+      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+      "date": "2026-09-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9209d16f",
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "url": "https://www.qbitai.com/2026/09/497425.html",
+      "summary": "vLLM人马创业公司团队出品",
+      "date": "2026-09-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "0192a09d",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -11,24 +56,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "81873e2c",
-      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-      "url": "https://www.qbitai.com/2026/09/497278.html",
-      "summary": "",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c46a7714",
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
-      "summary": "",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "b0fa98e8",
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
@@ -36,15 +63,6 @@
       "date": "2026-09-25",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "8392b4af",
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "url": "https://www.qbitai.com/2026/09/497108.html",
-      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "b50925bd",
@@ -63,24 +81,6 @@
       "date": "2026-09-25",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "843ea4e2",
-      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-      "url": "https://www.qbitai.com/2026/09/497075.html",
-      "summary": "Agent的手越伸越长",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e64f7dba",
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "url": "https://www.qbitai.com/2026/09/497070.html",
-      "summary": "一场物理世界的基模实验",
-      "date": "2026-09-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "a3267440",
