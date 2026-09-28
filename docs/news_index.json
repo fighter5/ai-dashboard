@@ -1,47 +1,47 @@
 {
-  "updated": "2026-09-27 07:43",
+  "updated": "2026-09-28 08:21",
   "items": [
+    {
+      "id": "24cd0f7f",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "summary": "",
+      "date": "2026-09-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e97d490a",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://www.qbitai.com/2026/09/498605.html",
+      "summary": "想让开发者“说句话就能跑量子计算”",
+      "date": "2026-09-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5e5c2970",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "url": "https://www.qbitai.com/2026/09/498584.html",
+      "summary": "中秋假期文具OpenRouter调用日榜榜首",
+      "date": "2026-09-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "55842200",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "url": "https://www.qbitai.com/2026/09/498546.html",
+      "summary": "",
+      "date": "2026-09-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "1db1dcc4",
       "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
       "url": "https://www.qbitai.com/2026/09/498478.html",
       "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "date": "2026-09-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "61646d2d",
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "url": "https://www.qbitai.com/2026/09/498271.html",
-      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-      "date": "2026-09-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a532feb3",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "date": "2026-09-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4c90ac44",
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "url": "https://www.qbitai.com/2026/09/497613.html",
-      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "date": "2026-09-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9209d16f",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "url": "https://www.qbitai.com/2026/09/497425.html",
-      "summary": "vLLM人马创业公司团队出品",
       "date": "2026-09-26",
       "source": "Qbitai",
       "tag": "zh-news"
