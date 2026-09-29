@@ -1,6 +1,132 @@
 {
-  "updated": "2026-09-28 08:21",
+  "updated": "2026-09-29 08:00",
   "items": [
+    {
+      "id": "8e436fbf",
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "summary": "李飞飞将入职AMD首席科学家",
+      "date": "2026-09-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8cdbfa70",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap...",
+      "date": "2026-09-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c5edbf46",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "date": "2026-09-28",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "2c968f6b",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f95544b5",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f073d5eb",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it ...",
+      "date": "2026-09-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e1e75379",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+      "date": "2026-09-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fb9f2e81",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over t...",
+      "date": "2026-09-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "541be183",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "summary": "AI基础设施下一站：算电协同",
+      "date": "2026-09-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6766f31e",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "summary": "",
+      "date": "2026-09-28",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "9df3eed3",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few mon...",
+      "date": "2026-09-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9888749a",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "d7db80e0",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f8842226",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program...",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "24cd0f7f",
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
@@ -20,64 +146,10 @@
       "tag": "zh-news"
     },
     {
-      "id": "5e5c2970",
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "url": "https://www.qbitai.com/2026/09/498584.html",
-      "summary": "中秋假期文具OpenRouter调用日榜榜首",
-      "date": "2026-09-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "55842200",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "url": "https://www.qbitai.com/2026/09/498546.html",
-      "summary": "",
-      "date": "2026-09-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1db1dcc4",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "date": "2026-09-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0192a09d",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "date": "2026-09-25",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "b0fa98e8",
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe...",
-      "date": "2026-09-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b50925bd",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly...",
-      "date": "2026-09-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b02f7376",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught ...",
       "date": "2026-09-25",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -90,24 +162,6 @@
       "date": "2026-09-24",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "d8c947a9",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killi...",
-      "date": "2026-09-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "148d6434",
-      "title": "AI is dominating the conversation at Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan...",
-      "date": "2026-09-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "8308f413",
@@ -128,42 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "cd65d3ae",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "date": "2026-09-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7d0f5cd5",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "date": "2026-09-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7c9a1180",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "date": "2026-09-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "32b5509c",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "date": "2026-09-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "137c5833",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "url": "https://huggingface.co/blog/evaleval-aisi",
@@ -176,15 +194,6 @@
       "id": "6aa8c26a",
       "title": "Transformers now runs llama.cpp quants",
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "summary": "",
-      "date": "2026-09-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c5f86512",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
       "summary": "",
       "date": "2026-09-22",
       "source": "Hugging Face",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "summary": "UN System Data Commons Data webpage",
       "date": "2026-09-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "a56de3e9",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "date": "2026-09-15",
       "source": "Google AI Blog",
       "tag": "Google"
     }
