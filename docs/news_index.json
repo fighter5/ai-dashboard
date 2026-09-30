@@ -1,14 +1,122 @@
 {
-  "updated": "2026-09-29 08:00",
+  "updated": "2026-09-30 08:08",
   "items": [
     {
-      "id": "8e436fbf",
-      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-      "url": "https://www.qbitai.com/2026/09/499098.html",
-      "summary": "李飞飞将入职AMD首席科学家",
-      "date": "2026-09-29",
+      "id": "b4d3871e",
+      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+      "url": "https://www.qbitai.com/2026/09/499592.html",
+      "summary": "给Agent配上手机号，再拉个群",
+      "date": "2026-09-30",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "6f802b20",
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "url": "https://www.qbitai.com/2026/09/499493.html",
+      "summary": "让GPT把机器人技能当工具调用",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "939c2f70",
+      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "url": "https://www.qbitai.com/2026/09/499308.html",
+      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f93191fb",
+      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+      "url": "https://www.qbitai.com/2026/09/499280.html",
+      "summary": "机器人上市，风向有变",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "09424972",
+      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "summary": "",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6af8dd1a",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "summary": "",
+      "date": "2026-09-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "9179e475",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "summary": "",
+      "date": "2026-09-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "b77e9af7",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Compani...",
+      "date": "2026-09-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3a0cc922",
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achiev...",
+      "date": "2026-09-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2665823b",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?...",
+      "date": "2026-09-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "dd3f81de",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "66cfd105",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "date": "2026-09-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f806dd97",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "date": "2026-09-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "8cdbfa70",
@@ -29,19 +137,19 @@
       "tag": "Google"
     },
     {
-      "id": "2c968f6b",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "id": "f95544b5",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "date": "2026-09-28",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "f95544b5",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "id": "2c968f6b",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "date": "2026-09-28",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -56,33 +164,6 @@
       "tag": "research"
     },
     {
-      "id": "e1e75379",
-      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-      "url": "https://www.qbitai.com/2026/09/498877.html",
-      "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-      "date": "2026-09-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "fb9f2e81",
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over t...",
-      "date": "2026-09-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "541be183",
-      "title": "HC归来，华为正重新定义AIDC基础设施",
-      "url": "https://www.qbitai.com/2026/09/498787.html",
-      "summary": "AI基础设施下一站：算电协同",
-      "date": "2026-09-28",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "6766f31e",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
@@ -92,83 +173,11 @@
       "tag": "opensource"
     },
     {
-      "id": "9df3eed3",
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few mon...",
-      "date": "2026-09-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9888749a",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "date": "2026-09-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d7db80e0",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "date": "2026-09-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f8842226",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program...",
-      "date": "2026-09-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "24cd0f7f",
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "url": "https://www.qbitai.com/2026/09/498633.html",
-      "summary": "",
-      "date": "2026-09-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e97d490a",
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "summary": "想让开发者“说句话就能跑量子计算”",
-      "date": "2026-09-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b0fa98e8",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe...",
-      "date": "2026-09-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "a3267440",
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "summary": "",
       "date": "2026-09-24",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8308f413",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "summary": "",
-      "date": "2026-09-23",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -185,15 +194,6 @@
       "id": "137c5833",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "url": "https://huggingface.co/blog/evaleval-aisi",
-      "summary": "",
-      "date": "2026-09-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6aa8c26a",
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "summary": "",
       "date": "2026-09-22",
       "source": "Hugging Face",
