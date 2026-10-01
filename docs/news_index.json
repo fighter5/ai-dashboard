@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-30 08:08",
+  "updated": "2026-10-01 08:28",
   "items": [
+    {
+      "id": "56458f70",
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a0c8fb52",
+      "title": "直播回顾：工业AI的下一个机会在哪？",
+      "url": "https://www.qbitai.com/2026/09/499605.html",
+      "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a65fe8c4",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” o...",
+      "date": "2026-09-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "249c9190",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr...",
+      "date": "2026-09-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9c5854b8",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "date": "2026-09-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bc7b7555",
+      "title": "Anthropic，你是来给智谱打广告的吧！",
+      "url": "https://www.qbitai.com/2026/09/499597.html",
+      "summary": "实测说GLM-5.3很强",
+      "date": "2026-09-30",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3cfffd6c",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "date": "2026-09-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "b4d3871e",
       "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
@@ -20,31 +83,13 @@
       "tag": "zh-news"
     },
     {
-      "id": "939c2f70",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "url": "https://www.qbitai.com/2026/09/499308.html",
-      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f93191fb",
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "url": "https://www.qbitai.com/2026/09/499280.html",
-      "summary": "机器人上市，风向有变",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "09424972",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "id": "30ddd413",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "summary": "",
       "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "6af8dd1a",
@@ -119,15 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "8cdbfa70",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap...",
-      "date": "2026-09-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "c5edbf46",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -135,33 +171,6 @@
       "date": "2026-09-28",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "f95544b5",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "date": "2026-09-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "2c968f6b",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "date": "2026-09-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f073d5eb",
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it ...",
-      "date": "2026-09-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "6766f31e",
@@ -189,15 +198,6 @@
       "date": "2026-09-23",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "137c5833",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "summary": "",
-      "date": "2026-09-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "3dd23fb9",
