@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-01 08:28",
+  "updated": "2026-10-02 08:03",
   "items": [
+    {
+      "id": "87e5762e",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "summary": "",
+      "date": "2026-10-02",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "2210ff8a",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "date": "2026-10-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0582363b",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "date": "2026-10-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a06074be",
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "summary": "用ImageNet训练encoder",
+      "date": "2026-10-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a1f8a33e",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "url": "https://www.qbitai.com/2026/10/499663.html",
+      "summary": "价格只有Astra一半",
+      "date": "2026-10-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "500c9092",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "summary": "",
+      "date": "2026-10-01",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "94a1f180",
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you...",
+      "date": "2026-10-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e49f8e25",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activit...",
+      "date": "2026-10-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b6fc6006",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Fac...",
+      "date": "2026-10-01",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b35ef3c4",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "date": "2026-10-01",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "56458f70",
       "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
@@ -65,24 +155,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "b4d3871e",
-      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "url": "https://www.qbitai.com/2026/09/499592.html",
-      "summary": "给Agent配上手机号，再拉个群",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6f802b20",
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "summary": "让GPT把机器人技能当工具调用",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "30ddd413",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
@@ -110,60 +182,6 @@
       "tag": "opensource"
     },
     {
-      "id": "b77e9af7",
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Compani...",
-      "date": "2026-09-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "3a0cc922",
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achiev...",
-      "date": "2026-09-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2665823b",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?...",
-      "date": "2026-09-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "dd3f81de",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "66cfd105",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "date": "2026-09-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f806dd97",
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "date": "2026-09-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "c5edbf46",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -171,24 +189,6 @@
       "date": "2026-09-28",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "6766f31e",
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "summary": "",
-      "date": "2026-09-28",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "a3267440",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "summary": "",
-      "date": "2026-09-24",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "1862986a",
