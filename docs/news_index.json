@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-02 08:03",
+  "updated": "2026-10-03 07:44",
   "items": [
+    {
+      "id": "ee26523a",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "url": "https://www.qbitai.com/2026/10/501368.html",
+      "summary": "又咋啦。。。",
+      "date": "2026-10-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f722d977",
+      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "url": "https://www.qbitai.com/2026/10/500148.html",
+      "summary": "",
+      "date": "2026-10-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d8bea22f",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "date": "2026-10-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ed9dd57b",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f...",
+      "date": "2026-10-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e5ba9a82",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "summary": "",
+      "date": "2026-10-02",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "bfe2b156",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "summary": "A video showing the September AI updates",
+      "date": "2026-10-02",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "afc40194",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other ...",
+      "date": "2026-10-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c8078b80",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age...",
+      "date": "2026-10-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "67142250",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five...",
+      "date": "2026-10-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3902c77b",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "date": "2026-10-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "77bb0481",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "summary": "44年前被亲自列入问题清单",
+      "date": "2026-10-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "323e404f",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "summary": "换区也没用",
+      "date": "2026-10-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "87e5762e",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -9,6 +117,15 @@
       "date": "2026-10-02",
       "source": "Hugging Face",
       "tag": "opensource"
+    },
+    {
+      "id": "f5331f11",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "date": "2026-10-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "2210ff8a",
@@ -29,55 +146,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "a06074be",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "summary": "用ImageNet训练encoder",
-      "date": "2026-10-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a1f8a33e",
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "url": "https://www.qbitai.com/2026/10/499663.html",
-      "summary": "价格只有Astra一半",
-      "date": "2026-10-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "500c9092",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "summary": "",
-      "date": "2026-10-01",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "94a1f180",
       "title": "The Download: AI “mind-reading” and creative uses for small batteries",
       "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you...",
-      "date": "2026-10-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e49f8e25",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activit...",
-      "date": "2026-10-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b6fc6006",
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Fac...",
       "date": "2026-10-01",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -88,69 +160,6 @@
       "url": "https://openai.com/index/the-den-family-social",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "date": "2026-10-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "56458f70",
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "url": "https://www.qbitai.com/2026/09/499654.html",
-      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a0c8fb52",
-      "title": "直播回顾：工业AI的下一个机会在哪？",
-      "url": "https://www.qbitai.com/2026/09/499605.html",
-      "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a65fe8c4",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” o...",
-      "date": "2026-09-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "249c9190",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr...",
-      "date": "2026-09-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9c5854b8",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "date": "2026-09-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bc7b7555",
-      "title": "Anthropic，你是来给智谱打广告的吧！",
-      "url": "https://www.qbitai.com/2026/09/499597.html",
-      "summary": "实测说GLM-5.3很强",
-      "date": "2026-09-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3cfffd6c",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "date": "2026-09-30",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "summary": "Jane Wade and Sergio Hudson",
       "date": "2026-09-18",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "b7fa72fd",
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage",
-      "date": "2026-09-17",
       "source": "Google AI Blog",
       "tag": "Google"
     }
