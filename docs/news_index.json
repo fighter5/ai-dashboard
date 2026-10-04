@@ -1,20 +1,56 @@
 {
-  "updated": "2026-10-03 07:44",
+  "updated": "2026-10-04 07:53",
   "items": [
     {
-      "id": "ee26523a",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "summary": "又咋啦。。。",
+      "id": "b3312a1a",
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "date": "2026-10-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "107889cc",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "summary": "什么是FDE？它会一直存在吗？",
+      "date": "2026-10-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "463d5a9e",
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "summary": "专业3D模型反而更稀缺了",
+      "date": "2026-10-04",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "01637857",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "summary": "",
+      "date": "2026-10-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "a763d94c",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "url": "https://www.qbitai.com/2026/10/501381.html",
+      "summary": "岗位JD甩了篇技术报告",
       "date": "2026-10-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f722d977",
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
-      "summary": "",
+      "id": "ee26523a",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "url": "https://www.qbitai.com/2026/10/501368.html",
+      "summary": "又咋啦。。。",
       "date": "2026-10-03",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -83,33 +119,6 @@
       "tag": "research"
     },
     {
-      "id": "3902c77b",
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-      "date": "2026-10-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "77bb0481",
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "summary": "44年前被亲自列入问题清单",
-      "date": "2026-10-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "323e404f",
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "summary": "换区也没用",
-      "date": "2026-10-02",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "87e5762e",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -176,15 +185,6 @@
       "id": "6af8dd1a",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "summary": "",
-      "date": "2026-09-29",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "9179e475",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "summary": "",
       "date": "2026-09-29",
       "source": "Hugging Face",
