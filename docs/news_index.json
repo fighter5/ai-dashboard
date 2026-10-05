@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-04 07:53",
+  "updated": "2026-10-05 08:33",
   "items": [
+    {
+      "id": "cc4fbf26",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he ...",
+      "date": "2026-10-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "890e83a7",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+      "date": "2026-10-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c8d1f5dc",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it in...",
+      "date": "2026-10-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c5f2391c",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "summary": "有改进就体验，没改进就重置，横竖不亏。",
+      "date": "2026-10-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "b3312a1a",
       "title": "AI算力硬合作，马斯克还是更相信中国制造",
@@ -36,24 +72,6 @@
       "date": "2026-10-03",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "a763d94c",
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
-      "summary": "岗位JD甩了篇技术报告",
-      "date": "2026-10-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ee26523a",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "summary": "又咋啦。。。",
-      "date": "2026-10-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "d8bea22f",
@@ -110,15 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "67142250",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five...",
-      "date": "2026-10-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "87e5762e",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -153,15 +162,6 @@
       "date": "2026-10-01",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "94a1f180",
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you...",
-      "date": "2026-10-01",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "b35ef3c4",
