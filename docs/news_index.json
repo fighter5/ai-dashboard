@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-05 08:33",
+  "updated": "2026-10-06 08:40",
   "items": [
+    {
+      "id": "f1c64089",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "summary": "",
+      "date": "2026-10-06",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "807faee2",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "summary": "",
+      "date": "2026-10-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "16ad415e",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha...",
+      "date": "2026-10-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f9545c4e",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "date": "2026-10-05",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "10d6f4f6",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t...",
+      "date": "2026-10-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a9f048f8",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enoug...",
+      "date": "2026-10-05",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5f770e0c",
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "url": "https://www.qbitai.com/2026/10/501720.html",
+      "summary": "从绿藻里的光开关，到控制神经元",
+      "date": "2026-10-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b0c49834",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "date": "2026-10-05",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "cc4fbf26",
       "title": "People really hate AI, so why can’t they get enough?",
@@ -47,24 +119,6 @@
       "tag": "zh-news"
     },
     {
-      "id": "107889cc",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "summary": "什么是FDE？它会一直存在吗？",
-      "date": "2026-10-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "463d5a9e",
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "summary": "专业3D模型反而更稀缺了",
-      "date": "2026-10-04",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "01637857",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -83,15 +137,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "ed9dd57b",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f...",
-      "date": "2026-10-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "e5ba9a82",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
@@ -108,24 +153,6 @@
       "date": "2026-10-02",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "afc40194",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other ...",
-      "date": "2026-10-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c8078b80",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age...",
-      "date": "2026-10-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "87e5762e",
@@ -155,38 +182,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "0582363b",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "date": "2026-10-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b35ef3c4",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "date": "2026-10-01",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "30ddd413",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "summary": "",
       "date": "2026-09-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6af8dd1a",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "summary": "",
-      "date": "2026-09-29",
       "source": "Hugging Face",
       "tag": "opensource"
     },
