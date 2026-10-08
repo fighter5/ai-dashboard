@@ -1,23 +1,113 @@
 {
-  "updated": "2026-10-07 08:15",
+  "updated": "2026-10-08 08:31",
   "items": [
     {
-      "id": "d639d66a",
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "url": "https://www.qbitai.com/2026/10/501791.html",
-      "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "id": "790e24bb",
+      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+      "url": "https://www.qbitai.com/2026/10/501930.html",
+      "summary": "管理岗砍掉四成，顶级车型涨价20%卖",
+      "date": "2026-10-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "959b5474",
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "url": "https://www.qbitai.com/2026/10/501915.html",
+      "summary": "",
+      "date": "2026-10-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8a78c301",
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "summary": "ChatGPT聊天框长出界面",
+      "date": "2026-10-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e7b8cfcd",
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "summary": "小模型新守门员",
+      "date": "2026-10-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "567ec19b",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "summary": "",
+      "date": "2026-10-07",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "b4a6af12",
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "url": "https://www.qbitai.com/2026/10/501825.html",
+      "summary": "",
       "date": "2026-10-07",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "03dd94d4",
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "summary": "三位菲尔兹奖得主：不代表认可",
+      "id": "16096794",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "summary": "",
       "date": "2026-10-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "7353b6a4",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological...",
+      "date": "2026-10-07",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "cf7f1b75",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "Overview of Playground",
+      "date": "2026-10-07",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "2283ab4e",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "date": "2026-10-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e0aa27ac",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "date": "2026-10-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "3775ba35",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "date": "2026-10-07",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "f5bb29ad",
@@ -27,15 +117,6 @@
       "date": "2026-10-06",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "a444153a",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "date": "2026-10-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "49501e8b",
@@ -65,15 +146,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "dc59ec33",
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
-      "summary": "南极洲甚至有一座高地以他名字命名",
-      "date": "2026-10-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "5bad70b4",
       "title": "2026 Climate Tech Companies to Watch",
       "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
@@ -90,60 +162,6 @@
       "date": "2026-10-06",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "6dd0d2a1",
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric...",
-      "date": "2026-10-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "93f34817",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "date": "2026-10-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c594821a",
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
-      "summary": "",
-      "date": "2026-10-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f1c64089",
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "url": "https://www.qbitai.com/2026/10/501726.html",
-      "summary": "",
-      "date": "2026-10-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "807faee2",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "summary": "",
-      "date": "2026-10-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "f9545c4e",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "date": "2026-10-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "01637857",
@@ -182,15 +200,6 @@
       "tag": "opensource"
     },
     {
-      "id": "30ddd413",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "summary": "",
-      "date": "2026-09-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "c5edbf46",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -213,15 +222,6 @@
       "title": "New experts join Google’s AI & Economy team",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "date": "2026-09-18",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "abcde602",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "summary": "Jane Wade and Sergio Hudson",
       "date": "2026-09-18",
       "source": "Google AI Blog",
       "tag": "Google"
