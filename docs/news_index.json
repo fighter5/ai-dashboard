@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10 08:11",
+  "updated": "2026-10-11 08:24",
   "items": [
+    {
+      "id": "46673aa6",
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "url": "https://www.qbitai.com/2026/10/502467.html",
+      "summary": "马斯克反而发文道谢？",
+      "date": "2026-10-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "ebb9e1a4",
       "title": "Impactful scheduling for GPU clusters",
@@ -99,15 +108,6 @@
       "date": "2026-10-09",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "a2cfd4b4",
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "url": "https://www.qbitai.com/2026/10/502359.html",
-      "summary": "Google 研究成果首次登上《柳叶刀》主刊",
-      "date": "2026-10-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "080bc68c",
