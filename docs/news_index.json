@@ -1,12 +1,48 @@
 {
-  "updated": "2026-10-11 08:24",
+  "updated": "2026-10-12 08:46",
   "items": [
     {
-      "id": "46673aa6",
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "summary": "马斯克反而发文道谢？",
-      "date": "2026-10-10",
+      "id": "ef1fb3b1",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
+      "date": "2026-10-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c0dc5e97",
+      "title": "智谱新模型，490 tokens/s！",
+      "url": "https://www.qbitai.com/2026/10/502649.html",
+      "summary": "GLM「速度仙人」来了？",
+      "date": "2026-10-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "059125bf",
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "url": "https://www.qbitai.com/2026/10/502644.html",
+      "summary": "一套生成论文初稿的多智能体工作流",
+      "date": "2026-10-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f5d88ee1",
+      "title": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "summary": "多模态模型的视觉原生Harness，来了！",
+      "date": "2026-10-11",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "260a4b99",
+      "title": "陶哲轩：数学2.0时代已至！",
+      "url": "https://www.qbitai.com/2026/10/502594.html",
+      "summary": "",
+      "date": "2026-10-11",
       "source": "Qbitai",
       "tag": "zh-news"
     },
@@ -27,15 +63,6 @@
       "date": "2026-10-09",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "e88a465d",
-      "title": "TRAE终于把Code和Work合并了",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
-      "summary": "大写的方便",
-      "date": "2026-10-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "12d2afa3",
@@ -63,33 +90,6 @@
       "date": "2026-10-09",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "d3ef9560",
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "url": "https://www.qbitai.com/2026/10/502422.html",
-      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
-      "date": "2026-10-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e1b4ff47",
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-      "url": "https://www.qbitai.com/2026/10/502411.html",
-      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
-      "date": "2026-10-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5e182b57",
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "summary": "答不答得对，得看Token站位",
-      "date": "2026-10-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "38f5a2b4",
