@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-12 08:46",
+  "updated": "2026-10-13 09:04",
   "items": [
+    {
+      "id": "2d02358b",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far be...",
+      "date": "2026-10-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "754aa750",
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to...",
+      "date": "2026-10-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c83e0702",
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologi...",
+      "date": "2026-10-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
     {
       "id": "ef1fb3b1",
       "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
@@ -74,24 +101,6 @@
       "tag": "research"
     },
     {
-      "id": "844aa8f8",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to ...",
-      "date": "2026-10-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "18eaf7d0",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some me...",
-      "date": "2026-10-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "38f5a2b4",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -108,15 +117,6 @@
       "date": "2026-10-09",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "080bc68c",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue...",
-      "date": "2026-10-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "dfc39b54",
