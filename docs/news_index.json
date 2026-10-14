@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-13 09:04",
+  "updated": "2026-10-14 07:13",
   "items": [
+    {
+      "id": "150545ec",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "url": "https://www.qbitai.com/2026/10/503172.html",
+      "summary": "给Ego补上缺失的交互信息",
+      "date": "2026-10-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2b7b4901",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "summary": "从“懂空间”到“能干活”",
+      "date": "2026-10-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3a45e61a",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "date": "2026-10-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f4ebb26e",
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+      "url": "https://www.qbitai.com/2026/10/503157.html",
+      "summary": "一次采集，反复使用",
+      "date": "2026-10-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "58d53eb1",
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+      "url": "https://www.qbitai.com/2026/10/503109.html",
+      "summary": "面壁开源MiniCPM-V 4.7",
+      "date": "2026-10-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "aba8264d",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "summary": "",
+      "date": "2026-10-13",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "aff2c9dc",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "summary": "TBD",
+      "date": "2026-10-13",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "91d7e2b8",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh t...",
+      "date": "2026-10-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "64123151",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "date": "2026-10-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bbd5ea6a",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last...",
+      "date": "2026-10-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4cdfa266",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm...",
+      "date": "2026-10-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
     {
       "id": "2d02358b",
       "title": "The Download: moon city problems and drone traffic controllers",
@@ -12,66 +111,12 @@
     },
     {
       "id": "754aa750",
-      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "title": "What it would take to build a city on the moon",
       "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
       "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to...",
       "date": "2026-10-12",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "c83e0702",
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologi...",
-      "date": "2026-10-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ef1fb3b1",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "url": "https://www.qbitai.com/2026/10/502654.html",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "date": "2026-10-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c0dc5e97",
-      "title": "智谱新模型，490 tokens/s！",
-      "url": "https://www.qbitai.com/2026/10/502649.html",
-      "summary": "GLM「速度仙人」来了？",
-      "date": "2026-10-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "059125bf",
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "url": "https://www.qbitai.com/2026/10/502644.html",
-      "summary": "一套生成论文初稿的多智能体工作流",
-      "date": "2026-10-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f5d88ee1",
-      "title": "何恺明团队发布多模态Harness框架",
-      "url": "https://www.qbitai.com/2026/10/502628.html",
-      "summary": "多模态模型的视觉原生Harness，来了！",
-      "date": "2026-10-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "260a4b99",
-      "title": "陶哲轩：数学2.0时代已至！",
-      "url": "https://www.qbitai.com/2026/10/502594.html",
-      "summary": "",
-      "date": "2026-10-11",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "ebb9e1a4",
@@ -81,24 +126,6 @@
       "date": "2026-10-09",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "0334faf7",
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to sa...",
-      "date": "2026-10-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "12d2afa3",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu...",
-      "date": "2026-10-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "38f5a2b4",
@@ -137,29 +164,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "72295889",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "date": "2026-10-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "e2b8feac",
       "title": "The model that didn't exist, so you made it yourself",
       "url": "https://huggingface.co/blog/building-with-ml-intern",
       "summary": "",
       "date": "2026-10-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "567ec19b",
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "summary": "",
-      "date": "2026-10-07",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "summary": "Google Beam promotional animation",
       "date": "2026-09-23",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "3dd23fb9",
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "date": "2026-09-18",
       "source": "Google AI Blog",
       "tag": "Google"
     }
