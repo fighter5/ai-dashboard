@@ -1,50 +1,122 @@
 {
-  "updated": "2026-10-14 07:13",
+  "updated": "2026-10-15 07:05",
   "items": [
     {
-      "id": "150545ec",
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
-      "summary": "给Ego补上缺失的交互信息",
+      "id": "a2113dd5",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "summary": "给企业Agent打了个样",
+      "date": "2026-10-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9d6590d6",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "summary": "",
+      "date": "2026-10-14",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "014689cd",
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In Febru...",
+      "date": "2026-10-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "11f72270",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "5eaa7671",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "12ef2ebc",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "summary": "“具身进实景，劳动最光荣”",
       "date": "2026-10-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "2b7b4901",
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
-      "summary": "从“懂空间”到“能干活”",
+      "id": "600356bf",
+      "title": "The US military’s race to make fake blood",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, wh...",
+      "date": "2026-10-14",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b1dccf6c",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "summary": "这妥妥是个物理版Agent啊！",
       "date": "2026-10-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "3a45e61a",
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "id": "c2a98586",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "summary": "汽车竞争正在回归汽车本身",
       "date": "2026-10-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "f4ebb26e",
-      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-      "url": "https://www.qbitai.com/2026/10/503157.html",
-      "summary": "一次采集，反复使用",
+      "id": "62793335",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
       "date": "2026-10-14",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "58d53eb1",
-      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-      "url": "https://www.qbitai.com/2026/10/503109.html",
-      "summary": "面壁开源MiniCPM-V 4.7",
-      "date": "2026-10-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "ad206bf6",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f0e5b7f5",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1ea8ff42",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "aba8264d",
@@ -74,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "64123151",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "date": "2026-10-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "bbd5ea6a",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
@@ -99,69 +162,6 @@
       "date": "2026-10-13",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "2d02358b",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far be...",
-      "date": "2026-10-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "754aa750",
-      "title": "What it would take to build a city on the moon",
-      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-      "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to...",
-      "date": "2026-10-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "ebb9e1a4",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "summary": "",
-      "date": "2026-10-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "38f5a2b4",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "dc4e32e7",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "date": "2026-10-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "dfc39b54",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "date": "2026-10-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "183b5076",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "date": "2026-10-08",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "e2b8feac",
