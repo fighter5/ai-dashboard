@@ -1,14 +1,149 @@
 {
-  "updated": "2026-10-15 07:05",
+  "updated": "2026-10-16 06:48",
   "items": [
     {
-      "id": "a2113dd5",
-      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-      "url": "https://www.qbitai.com/2026/10/503303.html",
-      "summary": "给企业Agent打了个样",
+      "id": "bf51e816",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "summary": "",
+      "date": "2026-10-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "fe5649d9",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "summary": "",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "0d2e925a",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "date": "2026-10-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "eef09eb5",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "date": "2026-10-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4dc55533",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have bee...",
+      "date": "2026-10-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f182e480",
+      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+      "url": "https://www.qbitai.com/2026/10/503645.html",
+      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
       "date": "2026-10-15",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "69ce4f56",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power pla...",
+      "date": "2026-10-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a0a3a2c8",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "url": "https://www.qbitai.com/2026/10/503640.html",
+      "summary": "Siri AI这次不包括在内",
+      "date": "2026-10-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e2a15ea3",
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connectio...",
+      "date": "2026-10-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f2764eef",
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "url": "https://www.qbitai.com/2026/10/503614.html",
+      "summary": "Agent究竟该如何深入业务毛细血管？",
+      "date": "2026-10-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1cca4afa",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findin...",
+      "date": "2026-10-15",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8c413611",
+      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "url": "https://www.qbitai.com/2026/10/503611.html",
+      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+      "date": "2026-10-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6ae2fcf1",
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "url": "https://www.qbitai.com/2026/10/503532.html",
+      "summary": "大模型好不好用，百灵拿成品说话",
+      "date": "2026-10-15",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8ec6278a",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "date": "2026-10-15",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9b9420b9",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "summary": "",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "b59b01e3",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "summary": "",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "9d6590d6",
@@ -47,87 +182,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "12ef2ebc",
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-      "url": "https://www.qbitai.com/2026/10/503294.html",
-      "summary": "“具身进实景，劳动最光荣”",
-      "date": "2026-10-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "600356bf",
-      "title": "The US military’s race to make fake blood",
-      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-      "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, wh...",
-      "date": "2026-10-14",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b1dccf6c",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "url": "https://www.qbitai.com/2026/10/503244.html",
-      "summary": "这妥妥是个物理版Agent啊！",
-      "date": "2026-10-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c2a98586",
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "url": "https://www.qbitai.com/2026/10/503231.html",
-      "summary": "汽车竞争正在回归汽车本身",
-      "date": "2026-10-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "62793335",
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "url": "https://www.qbitai.com/2026/10/503211.html",
-      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
-      "date": "2026-10-14",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ad206bf6",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "date": "2026-10-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "f0e5b7f5",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "date": "2026-10-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "1ea8ff42",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "date": "2026-10-14",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "aba8264d",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "summary": "",
-      "date": "2026-10-13",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "aff2c9dc",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -135,60 +189,6 @@
       "date": "2026-10-13",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "91d7e2b8",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh t...",
-      "date": "2026-10-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bbd5ea6a",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last...",
-      "date": "2026-10-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4cdfa266",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm...",
-      "date": "2026-10-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e2b8feac",
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "summary": "",
-      "date": "2026-10-08",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6b0f9fee",
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "summary": "",
-      "date": "2026-10-07",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "16096794",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "summary": "",
-      "date": "2026-10-07",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "cf7f1b75",
