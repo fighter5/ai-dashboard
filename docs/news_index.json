@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-17 06:41",
+  "updated": "2026-10-18 07:01",
   "items": [
+    {
+      "id": "6826351d",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "date": "2026-10-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "67fdbde9",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "url": "https://www.qbitai.com/2026/10/503965.html",
+      "summary": "AI的风还是刮到了法律圈",
+      "date": "2026-10-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d6d7453c",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "url": "https://www.qbitai.com/2026/10/503935.html",
+      "summary": "整套系统原生支持MCP",
+      "date": "2026-10-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "fedbf2b8",
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "url": "https://www.qbitai.com/2026/10/503910.html",
+      "summary": "谜底指向时间",
+      "date": "2026-10-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5f7ed44c",
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "url": "https://www.qbitai.com/2026/10/503893.html",
+      "summary": "通往全球市场的超级跳板",
+      "date": "2026-10-17",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "a6c97cf7",
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -20,15 +65,6 @@
       "tag": "research"
     },
     {
-      "id": "b1b4a2ab",
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "url": "https://www.qbitai.com/2026/10/503880.html",
-      "summary": "从搭载物理建模能力的世界模型切入",
-      "date": "2026-10-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "482e4b85",
       "title": "The Download: failed social media bans, and extending pets’ lives",
       "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
@@ -41,7 +77,7 @@
       "id": "c9d6e588",
       "title": "This implant can restore sight for patients with macular degeneration",
       "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, w...",
+      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatmen...",
       "date": "2026-10-16",
       "source": "MIT Tech Review",
       "tag": "research"
@@ -65,42 +101,6 @@
       "tag": "research"
     },
     {
-      "id": "52097551",
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "url": "https://www.qbitai.com/2026/10/503865.html",
-      "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
-      "date": "2026-10-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e5dccff1",
-      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
-      "url": "https://www.qbitai.com/2026/10/503861.html",
-      "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
-      "date": "2026-10-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "62658e69",
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
-      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
-      "date": "2026-10-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f7953b2a",
-      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-      "url": "https://www.qbitai.com/2026/10/503829.html",
-      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-      "date": "2026-10-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "bf51e816",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -110,19 +110,19 @@
       "tag": "opensource"
     },
     {
-      "id": "0f8250f1",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "id": "570b98dc",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "date": "2026-10-16",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "570b98dc",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "id": "0f8250f1",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "date": "2026-10-16",
       "source": "OpenAI News",
       "tag": "OpenAI"
