@@ -1,59 +1,176 @@
 {
-  "updated": "2026-10-20 07:16",
+  "updated": "2026-10-21 07:12",
   "items": [
     {
-      "id": "0a9c1ad5",
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "url": "https://www.qbitai.com/2026/10/504314.html",
-      "summary": "OpenAI只掏出一个6.1 Terra…",
+      "id": "4a774ec7",
+      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+      "url": "https://www.qbitai.com/2026/10/504638.html",
+      "summary": "百万台搭载打底，智驾普及与安全并重",
+      "date": "2026-10-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "71dd2b8e",
+      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+      "url": "https://www.qbitai.com/2026/10/504618.html",
+      "summary": "电池开发，分工远比想象复杂",
+      "date": "2026-10-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "aec1886e",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ...",
+      "date": "2026-10-21",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "d90d84c2",
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "summary": "先看真实问题解决力",
+      "date": "2026-10-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6d677b74",
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "url": "https://www.qbitai.com/2026/10/504551.html",
+      "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
+      "date": "2026-10-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "934b437e",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, sw...",
+      "date": "2026-10-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e7d30311",
+      "title": "Here’s the tea",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Bos...",
+      "date": "2026-10-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "533cd457",
+      "title": "Melt it, spin it, use it again",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; ...",
+      "date": "2026-10-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4ed49140",
+      "title": "A reason to eat carbs",
+      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also i...",
+      "date": "2026-10-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d7b3b781",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that ...",
+      "date": "2026-10-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bafbb597",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "summary": "",
+      "date": "2026-10-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "f40f87a5",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "summary": "",
+      "date": "2026-10-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8f295aae",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "summary": "",
+      "date": "2026-10-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "2027b615",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "url": "https://www.qbitai.com/2026/10/504517.html",
+      "summary": "兔皮底下，竟然是MiniMax！",
       "date": "2026-10-20",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "007fe264",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just...",
-      "date": "2026-10-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "afe39255",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "date": "2026-10-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "e7a08d8b",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha...",
-      "date": "2026-10-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "7b80adca",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "date": "2026-10-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "13a6f47c",
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "url": "https://www.qbitai.com/2026/10/504277.html",
-      "summary": "同步搭建千比特规模量子算力云平台",
-      "date": "2026-10-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "1ce5d966",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "date": "2026-10-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "10930926",
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "url": "https://www.qbitai.com/2026/10/504294.html",
-      "summary": "当AI越来越懂你，如何让智能真正属于你？",
-      "date": "2026-10-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "id": "7c77a58a",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "summary": "",
+      "date": "2026-10-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "d3cd0305",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save t...",
-      "date": "2026-10-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "id": "ea957762",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "summary": "",
+      "date": "2026-10-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "8dad8d5f",
@@ -65,51 +182,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "03786509",
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-      "url": "https://www.qbitai.com/2026/10/504266.html",
-      "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-      "date": "2026-10-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "de8d45cd",
-      "title": "全栈自研！国产高端互连芯片，稳了!",
-      "url": "https://www.qbitai.com/2026/10/504225.html",
-      "summary": "六年蛰伏出货80万颗",
-      "date": "2026-10-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1d00f470",
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160...",
-      "date": "2026-10-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "372db7fd",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini...",
-      "date": "2026-10-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9fba733c",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "summary": "",
-      "date": "2026-10-19",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "a6c97cf7",
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
@@ -117,69 +189,6 @@
       "date": "2026-10-16",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "bf51e816",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "summary": "",
-      "date": "2026-10-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "570b98dc",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "date": "2026-10-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "0f8250f1",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "date": "2026-10-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "752ec58d",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "summary": "",
-      "date": "2026-10-16",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "fe5649d9",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "summary": "",
-      "date": "2026-10-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "0d2e925a",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "date": "2026-10-15",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8a9b433b",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "summary": "",
-      "date": "2026-10-15",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "aff2c9dc",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "date": "2026-09-28",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "1862986a",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "summary": "Google Beam promotional animation",
-      "date": "2026-09-23",
       "source": "Google AI Blog",
       "tag": "Google"
     }
