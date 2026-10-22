@@ -1,23 +1,131 @@
 {
-  "updated": "2026-10-21 07:12",
+  "updated": "2026-10-22 07:14",
   "items": [
     {
-      "id": "4a774ec7",
-      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-      "url": "https://www.qbitai.com/2026/10/504638.html",
-      "summary": "百万台搭载打底，智驾普及与安全并重",
+      "id": "432aef26",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "date": "2026-10-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "71dd2b8e",
-      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-      "url": "https://www.qbitai.com/2026/10/504618.html",
-      "summary": "电池开发，分工远比想象复杂",
+      "id": "f9255f69",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
       "date": "2026-10-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "47ba5de6",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "summary": "",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "9df61022",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1c8b15aa",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "summary": "",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "08a293d0",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "summary": "",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8f9e95c0",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "aaa6acc9",
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our la...",
+      "date": "2026-10-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "70723481",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1baeecbe",
+      "title": "We can do impossible things",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breat...",
+      "date": "2026-10-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f47c3d90",
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered inter...",
+      "date": "2026-10-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "41ca0cba",
+      "title": "Exercise in a pill",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines t...",
+      "date": "2026-10-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "09b33513",
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a wind...",
+      "date": "2026-10-21",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6d72427c",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "aec1886e",
@@ -47,72 +155,9 @@
       "tag": "zh-news"
     },
     {
-      "id": "934b437e",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, sw...",
-      "date": "2026-10-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e7d30311",
-      "title": "Here’s the tea",
-      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
-      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Bos...",
-      "date": "2026-10-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "533cd457",
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; ...",
-      "date": "2026-10-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4ed49140",
-      "title": "A reason to eat carbs",
-      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also i...",
-      "date": "2026-10-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d7b3b781",
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that ...",
-      "date": "2026-10-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bafbb597",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "summary": "",
-      "date": "2026-10-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "f40f87a5",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "url": "https://huggingface.co/blog/allenai/fairstress",
-      "summary": "",
-      "date": "2026-10-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8f295aae",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
       "summary": "",
       "date": "2026-10-20",
       "source": "Hugging Face",
@@ -128,67 +173,22 @@
       "tag": "zh-news"
     },
     {
-      "id": "afe39255",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "id": "43969a66",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "summary": "把记忆原生焊进Transformer",
       "date": "2026-10-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
+      "source": "Qbitai",
+      "tag": "zh-news"
     },
     {
-      "id": "7b80adca",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "id": "530d1916",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "url": "https://www.qbitai.com/2026/10/504452.html",
+      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
       "date": "2026-10-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "1ce5d966",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "date": "2026-10-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "7c77a58a",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "summary": "",
-      "date": "2026-10-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "ea957762",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "summary": "",
-      "date": "2026-10-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8dad8d5f",
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "date": "2026-10-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a6c97cf7",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "date": "2026-10-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
+      "source": "Qbitai",
+      "tag": "zh-news"
     },
     {
       "id": "aff2c9dc",
