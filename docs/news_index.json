@@ -1,12 +1,138 @@
 {
-  "updated": "2026-10-22 07:14",
+  "updated": "2026-10-23 07:06",
   "items": [
     {
-      "id": "432aef26",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "date": "2026-10-21",
+      "id": "39c8c1e0",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "date": "2026-10-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "2ff71613",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "summary": "",
+      "date": "2026-10-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "c4f2e7d5",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con...",
+      "date": "2026-10-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "139683c4",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "date": "2026-10-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "870bab36",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech F...",
+      "date": "2026-10-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "ea32a3ca",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "summary": "",
+      "date": "2026-10-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "18fd0546",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December eveni...",
+      "date": "2026-10-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a1d8d472",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis...",
+      "date": "2026-10-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2cc3714b",
+      "title": "Three things you should know about permafrost",
+      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the ex...",
+      "date": "2026-10-22",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "78b393fa",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "summary": "",
+      "date": "2026-10-22",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "edb55f4b",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "summary": "FSD一年增长70万付费用户",
+      "date": "2026-10-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6e588321",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "date": "2026-10-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1e637ad4",
+      "title": "谁在给OpenAI供应具身数据？",
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "summary": "挤进全球Physical AI核心供应链",
+      "date": "2026-10-22",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f4d74395",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "date": "2026-10-22",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6cec5c61",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "date": "2026-10-22",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -38,94 +164,22 @@
       "tag": "OpenAI"
     },
     {
-      "id": "1c8b15aa",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "summary": "",
+      "id": "a8417ed9",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "summary": "医疗AI质变时刻",
       "date": "2026-10-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
+      "source": "Qbitai",
+      "tag": "zh-news"
     },
     {
-      "id": "08a293d0",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "summary": "",
+      "id": "a9f9142c",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "url": "https://www.qbitai.com/2026/10/504730.html",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
       "date": "2026-10-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8f9e95c0",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "date": "2026-10-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "aaa6acc9",
-      "title": "The Download: introducing the Impossible issue",
-      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our la...",
-      "date": "2026-10-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "70723481",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "date": "2026-10-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "1baeecbe",
-      "title": "We can do impossible things",
-      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breat...",
-      "date": "2026-10-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f47c3d90",
-      "title": "Nuclear-powered spaceships",
-      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered inter...",
-      "date": "2026-10-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "41ca0cba",
-      "title": "Exercise in a pill",
-      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines t...",
-      "date": "2026-10-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "09b33513",
-      "title": "Interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a wind...",
-      "date": "2026-10-21",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6d72427c",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "date": "2026-10-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
+      "source": "Qbitai",
+      "tag": "zh-news"
     },
     {
       "id": "aec1886e",
@@ -135,60 +189,6 @@
       "date": "2026-10-21",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "d90d84c2",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "summary": "先看真实问题解决力",
-      "date": "2026-10-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6d677b74",
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
-      "date": "2026-10-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f40f87a5",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "summary": "",
-      "date": "2026-10-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "2027b615",
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "summary": "兔皮底下，竟然是MiniMax！",
-      "date": "2026-10-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "43969a66",
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "url": "https://www.qbitai.com/2026/10/504456.html",
-      "summary": "把记忆原生焊进Transformer",
-      "date": "2026-10-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "530d1916",
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "url": "https://www.qbitai.com/2026/10/504452.html",
-      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-      "date": "2026-10-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "aff2c9dc",
