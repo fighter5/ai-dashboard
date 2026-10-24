@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-23 07:06",
+  "updated": "2026-10-24 06:57",
   "items": [
+    {
+      "id": "5a60bcdb",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "date": "2026-10-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c8f21264",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "summary": "",
+      "date": "2026-10-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "6b37d84f",
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech ...",
+      "date": "2026-10-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "759fe46e",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "date": "2026-10-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "466b49f0",
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expec...",
+      "date": "2026-10-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "84105644",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "date": "2026-10-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "39c8c1e0",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -9,6 +63,15 @@
       "date": "2026-10-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "f138b050",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "summary": "",
+      "date": "2026-10-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "2ff71613",
@@ -47,15 +110,6 @@
       "tag": "research"
     },
     {
-      "id": "ea32a3ca",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "summary": "",
-      "date": "2026-10-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "18fd0546",
       "title": "The Download: computing’s next leap and permafrost’s climate threat",
       "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
@@ -65,22 +119,13 @@
       "tag": "research"
     },
     {
-      "id": "a1d8d472",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis...",
+      "id": "b82c0d56",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
       "date": "2026-10-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2cc3714b",
-      "title": "Three things you should know about permafrost",
-      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the ex...",
-      "date": "2026-10-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
+      "source": "Qbitai",
+      "tag": "zh-news"
     },
     {
       "id": "78b393fa",
@@ -128,15 +173,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "6cec5c61",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "date": "2026-10-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "f9255f69",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -144,42 +180,6 @@
       "date": "2026-10-21",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "47ba5de6",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "summary": "",
-      "date": "2026-10-21",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "9df61022",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "date": "2026-10-21",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a8417ed9",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "summary": "医疗AI质变时刻",
-      "date": "2026-10-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a9f9142c",
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-      "date": "2026-10-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "aec1886e",
