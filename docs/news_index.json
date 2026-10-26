@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-25 07:21",
+  "updated": "2026-10-26 07:30",
   "items": [
+    {
+      "id": "20ad4f05",
+      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+      "url": "https://www.qbitai.com/2026/10/505429.html",
+      "summary": "高品质 AI Token 成为行业新风向",
+      "date": "2026-10-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ef21321b",
+      "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+      "url": "https://www.qbitai.com/2026/10/505407.html",
+      "summary": "一张卡，512路长推理同时跑",
+      "date": "2026-10-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d15beb69",
+      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+      "url": "https://www.qbitai.com/2026/10/505365.html",
+      "summary": "AI同事自带工作记忆上岗",
+      "date": "2026-10-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6f1b9297",
+      "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
+      "url": "https://www.qbitai.com/2026/10/505341.html",
+      "summary": "一场对话式AI的风向标大会",
+      "date": "2026-10-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e65bbaa2",
+      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
+      "url": "https://www.qbitai.com/2026/10/505309.html",
+      "summary": "打造以多智能体协同为核心的角色Agent",
+      "date": "2026-10-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "5a60bcdb",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -45,15 +90,6 @@
       "date": "2026-10-23",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "84105644",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "date": "2026-10-23",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "39c8c1e0",
@@ -119,15 +155,6 @@
       "tag": "research"
     },
     {
-      "id": "b82c0d56",
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "url": "https://www.qbitai.com/2026/10/504879.html",
-      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-      "date": "2026-10-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "78b393fa",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -135,33 +162,6 @@
       "date": "2026-10-22",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "edb55f4b",
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "summary": "FSD一年增长70万付费用户",
-      "date": "2026-10-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6e588321",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "date": "2026-10-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1e637ad4",
-      "title": "谁在给OpenAI供应具身数据？",
-      "url": "https://www.qbitai.com/2026/10/504800.html",
-      "summary": "挤进全球Physical AI核心供应链",
-      "date": "2026-10-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "f4d74395",
