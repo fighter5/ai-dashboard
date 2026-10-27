@@ -1,57 +1,129 @@
 {
-  "updated": "2026-10-26 07:30",
+  "updated": "2026-10-27 07:26",
   "items": [
     {
-      "id": "20ad4f05",
-      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-      "url": "https://www.qbitai.com/2026/10/505429.html",
-      "summary": "高品质 AI Token 成为行业新风向",
+      "id": "eeaee6ce",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "url": "https://www.qbitai.com/2026/10/505580.html",
+      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "date": "2026-10-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "011555b6",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "date": "2026-10-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "57916c9f",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I...",
+      "date": "2026-10-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d4b9b8aa",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
       "date": "2026-10-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "ef21321b",
-      "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
-      "url": "https://www.qbitai.com/2026/10/505407.html",
-      "summary": "一张卡，512路长推理同时跑",
+      "id": "0e0e0521",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "date": "2026-10-26",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "6b6861f5",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "date": "2026-10-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "12c7a102",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "date": "2026-10-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "dc28295c",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores ...",
+      "date": "2026-10-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "38fe6a22",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "date": "2026-10-26",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4b79541c",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
       "date": "2026-10-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d15beb69",
-      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
-      "url": "https://www.qbitai.com/2026/10/505365.html",
-      "summary": "AI同事自带工作记忆上岗",
+      "id": "b2d24fba",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://www.qbitai.com/2026/10/505529.html",
+      "summary": "模型开始利用GPU缓存聊天？",
       "date": "2026-10-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "6f1b9297",
-      "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
-      "url": "https://www.qbitai.com/2026/10/505341.html",
-      "summary": "一场对话式AI的风向标大会",
+      "id": "6e7ed89b",
+      "title": "A社联创演讲：AI奇点已来",
+      "url": "https://www.qbitai.com/2026/10/505521.html",
+      "summary": "所谓奇点，或许是AI跃过人类的那个点。",
       "date": "2026-10-26",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e65bbaa2",
-      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
-      "url": "https://www.qbitai.com/2026/10/505309.html",
-      "summary": "打造以多智能体协同为核心的角色Agent",
+      "id": "1992a716",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl....",
       "date": "2026-10-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "5a60bcdb",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "date": "2026-10-23",
+      "id": "915861e8",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "date": "2026-10-26",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -74,15 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "759fe46e",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "date": "2026-10-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "466b49f0",
       "title": "In the biotech world, you can’t see everything",
       "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
@@ -90,15 +153,6 @@
       "date": "2026-10-23",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "39c8c1e0",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "date": "2026-10-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "f138b050",
@@ -119,42 +173,6 @@
       "tag": "opensource"
     },
     {
-      "id": "c4f2e7d5",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con...",
-      "date": "2026-10-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "139683c4",
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "date": "2026-10-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "870bab36",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech F...",
-      "date": "2026-10-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "18fd0546",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December eveni...",
-      "date": "2026-10-22",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "78b393fa",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -162,15 +180,6 @@
       "date": "2026-10-22",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "f4d74395",
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "date": "2026-10-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "f9255f69",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "A video showing the September AI updates",
       "date": "2026-10-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "c5edbf46",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "date": "2026-09-28",
       "source": "Google AI Blog",
       "tag": "Google"
     }
