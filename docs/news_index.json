@@ -1,14 +1,122 @@
 {
-  "updated": "2026-10-27 07:26",
+  "updated": "2026-10-28 07:59",
   "items": [
     {
-      "id": "eeaee6ce",
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "url": "https://www.qbitai.com/2026/10/505580.html",
-      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "id": "e7666b2e",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "date": "2026-10-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8a86ff04",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "summary": "",
+      "date": "2026-10-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "91bb99f4",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "summary": "",
+      "date": "2026-10-27",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8c368ae0",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "date": "2026-10-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "01af9e23",
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
       "date": "2026-10-27",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "109acab6",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After wee...",
+      "date": "2026-10-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e3353615",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after...",
+      "date": "2026-10-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f2a40bff",
+      "title": "印奇把4D雷达也端到端了",
+      "url": "https://www.qbitai.com/2026/10/505852.html",
+      "summary": "毫米波雷达，AI算力10TOPS",
+      "date": "2026-10-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ca0c49d7",
+      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+      "url": "https://www.qbitai.com/2026/10/505830.html",
+      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+      "date": "2026-10-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e3684c26",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic...",
+      "date": "2026-10-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b8037bb4",
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "url": "https://www.qbitai.com/2026/10/505799.html",
+      "summary": "无人在环进店实测啃下长尾场景",
+      "date": "2026-10-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "866a8680",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "date": "2026-10-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "150f1b29",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "date": "2026-10-27",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "011555b6",
@@ -23,19 +131,10 @@
       "id": "57916c9f",
       "title": "Will the real Anthropic please stand up",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I...",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed ...",
       "date": "2026-10-26",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "d4b9b8aa",
-      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-      "url": "https://www.qbitai.com/2026/10/505551.html",
-      "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
-      "date": "2026-10-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "0e0e0521",
@@ -56,101 +155,11 @@
       "tag": "OpenAI"
     },
     {
-      "id": "12c7a102",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "date": "2026-10-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "dc28295c",
       "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
       "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores ...",
       "date": "2026-10-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "38fe6a22",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "date": "2026-10-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "4b79541c",
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "url": "https://www.qbitai.com/2026/10/505539.html",
-      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
-      "date": "2026-10-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b2d24fba",
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "url": "https://www.qbitai.com/2026/10/505529.html",
-      "summary": "模型开始利用GPU缓存聊天？",
-      "date": "2026-10-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6e7ed89b",
-      "title": "A社联创演讲：AI奇点已来",
-      "url": "https://www.qbitai.com/2026/10/505521.html",
-      "summary": "所谓奇点，或许是AI跃过人类的那个点。",
-      "date": "2026-10-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1992a716",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl....",
-      "date": "2026-10-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "915861e8",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "date": "2026-10-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c8f21264",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "summary": "",
-      "date": "2026-10-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "6b37d84f",
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
-      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech ...",
-      "date": "2026-10-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "466b49f0",
-      "title": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expec...",
-      "date": "2026-10-23",
       "source": "MIT Tech Review",
       "tag": "research"
     },
@@ -178,15 +187,6 @@
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "summary": "",
       "date": "2026-10-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "f9255f69",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "summary": "",
-      "date": "2026-10-21",
       "source": "Hugging Face",
       "tag": "opensource"
     },
