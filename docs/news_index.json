@@ -1,14 +1,113 @@
 {
-  "updated": "2026-10-28 07:59",
+  "updated": "2026-10-29 08:09",
   "items": [
     {
-      "id": "e7666b2e",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
-      "date": "2026-10-28",
+      "id": "f46850e1",
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "date": "2026-10-29",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "7fb3f30b",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+      "date": "2026-10-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "47498dd0",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "summary": "用扩散模型怎么做做Agent？",
+      "date": "2026-10-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e47fc086",
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
+      "date": "2026-10-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c85140b4",
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "summary": "能连肝数日修Bug，免疫提示词注入",
+      "date": "2026-10-29",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "52fa9eb7",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati...",
+      "date": "2026-10-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "1a2fcc5f",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "",
+      "date": "2026-10-28",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "fbd38a03",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "625cd70e",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to trai...",
+      "date": "2026-10-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2b0a5d04",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "summary": "",
+      "date": "2026-10-28",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a0f1f341",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "43a392c7",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "8a86ff04",
@@ -38,15 +137,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "01af9e23",
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
-      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
-      "date": "2026-10-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "109acab6",
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
       "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
@@ -65,42 +155,6 @@
       "tag": "research"
     },
     {
-      "id": "f2a40bff",
-      "title": "印奇把4D雷达也端到端了",
-      "url": "https://www.qbitai.com/2026/10/505852.html",
-      "summary": "毫米波雷达，AI算力10TOPS",
-      "date": "2026-10-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ca0c49d7",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "url": "https://www.qbitai.com/2026/10/505830.html",
-      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-      "date": "2026-10-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e3684c26",
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic...",
-      "date": "2026-10-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b8037bb4",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "url": "https://www.qbitai.com/2026/10/505799.html",
-      "summary": "无人在环进店实测啃下长尾场景",
-      "date": "2026-10-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "866a8680",
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
@@ -110,33 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "150f1b29",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "date": "2026-10-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "011555b6",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "date": "2026-10-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "57916c9f",
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed ...",
-      "date": "2026-10-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "0e0e0521",
       "title": "Our newest AI Quest: Mapping the human brain",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -144,24 +171,6 @@
       "date": "2026-10-26",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "6b6861f5",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "date": "2026-10-26",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "dc28295c",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores ...",
-      "date": "2026-10-26",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "f138b050",
@@ -176,15 +185,6 @@
       "id": "2ff71613",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "summary": "",
-      "date": "2026-10-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "78b393fa",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "summary": "",
       "date": "2026-10-22",
       "source": "Hugging Face",
