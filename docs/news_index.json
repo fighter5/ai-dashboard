@@ -1,50 +1,140 @@
 {
-  "updated": "2026-10-29 08:09",
+  "updated": "2026-10-30 08:12",
   "items": [
     {
-      "id": "f46850e1",
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
-      "date": "2026-10-29",
+      "id": "46e61385",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "date": "2026-10-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7fb3f30b",
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-      "date": "2026-10-29",
+      "id": "fb0dd14b",
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "summary": "解析一切",
+      "date": "2026-10-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "47498dd0",
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "summary": "用扩散模型怎么做做Agent？",
-      "date": "2026-10-29",
+      "id": "d02d700b",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "summary": "",
+      "date": "2026-10-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e47fc086",
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
-      "date": "2026-10-29",
+      "id": "53c8deca",
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "summary": "让机器人成为彼此的“老师”",
+      "date": "2026-10-30",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "c85140b4",
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "summary": "能连肝数日修Bug，免疫提示词注入",
-      "date": "2026-10-29",
+      "id": "2696c477",
+      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+      "url": "https://www.qbitai.com/2026/10/506609.html",
+      "summary": "",
+      "date": "2026-10-30",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "aaf5e679",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "date": "2026-10-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "d5731ad2",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "summary": "",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "06df78f9",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac...",
+      "date": "2026-10-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "468ea3c0",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about...",
+      "date": "2026-10-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f6dc7f78",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully ...",
+      "date": "2026-10-29",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4745ac48",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "date": "2026-10-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "eb2bd3b1",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "date": "2026-10-29",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "93cb2f63",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "summary": "",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "d2988a99",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "summary": "",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "92a7f097",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "summary": "",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "52fa9eb7",
@@ -83,83 +173,11 @@
       "tag": "research"
     },
     {
-      "id": "2b0a5d04",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "summary": "",
-      "date": "2026-10-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "a0f1f341",
       "title": "The future of the firm",
       "url": "https://openai.com/index/the-future-of-the-firm",
       "summary": "How AI might enter the org chart—beneath, beside, and between us.",
       "date": "2026-10-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "43a392c7",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "date": "2026-10-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "8a86ff04",
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "summary": "",
-      "date": "2026-10-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "91bb99f4",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "summary": "",
-      "date": "2026-10-27",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8c368ae0",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "date": "2026-10-27",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "109acab6",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After wee...",
-      "date": "2026-10-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "e3353615",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after...",
-      "date": "2026-10-27",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "866a8680",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "date": "2026-10-27",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -171,24 +189,6 @@
       "date": "2026-10-26",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "f138b050",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "summary": "",
-      "date": "2026-10-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "2ff71613",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "summary": "",
-      "date": "2026-10-22",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "aec1886e",
