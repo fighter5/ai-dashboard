@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-30 08:12",
+  "updated": "2026-10-31 08:05",
   "items": [
+    {
+      "id": "82860a27",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "summary": "",
+      "date": "2026-10-30",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "fccdd851",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could mak...",
+      "date": "2026-10-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "14b39e23",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "date": "2026-10-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "55b8332d",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d...",
+      "date": "2026-10-30",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "de97c2c5",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "date": "2026-10-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "46e61385",
       "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -45,6 +90,15 @@
       "date": "2026-10-30",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "a33227d4",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "date": "2026-10-30",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "aaf5e679",
@@ -101,15 +155,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "eb2bd3b1",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "date": "2026-10-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "93cb2f63",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -135,51 +180,6 @@
       "date": "2026-10-29",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "52fa9eb7",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati...",
-      "date": "2026-10-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "1a2fcc5f",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "summary": "",
-      "date": "2026-10-28",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "fbd38a03",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "date": "2026-10-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "625cd70e",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to trai...",
-      "date": "2026-10-28",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a0f1f341",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "date": "2026-10-28",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "0e0e0521",
