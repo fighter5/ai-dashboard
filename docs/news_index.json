@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-31 08:05",
+  "updated": "2026-11-01 08:51",
   "items": [
+    {
+      "id": "ed4913be",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "summary": "让AI像牛顿一样思考",
+      "date": "2026-11-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "afd9a8de",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "summary": "这事还是想得太简单了",
+      "date": "2026-11-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9581c365",
+      "title": "Jev新成果，再次引爆开源",
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "summary": "再次“性价比屠夫”",
+      "date": "2026-11-01",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3cfd4581",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "summary": "AI已经自己找到Bug并提交PR",
+      "date": "2026-10-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1dd6bbe9",
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "summary": "苹果“牛奶倒河里”式操作翻红",
+      "date": "2026-10-31",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "82860a27",
       "title": "nemotron-halloween",
@@ -45,51 +90,6 @@
       "date": "2026-10-30",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "46e61385",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
-      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "date": "2026-10-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "fb0dd14b",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "url": "https://www.qbitai.com/2026/10/506686.html",
-      "summary": "解析一切",
-      "date": "2026-10-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d02d700b",
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "url": "https://www.qbitai.com/2026/10/506674.html",
-      "summary": "",
-      "date": "2026-10-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "53c8deca",
-      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-      "url": "https://www.qbitai.com/2026/10/506662.html",
-      "summary": "让机器人成为彼此的“老师”",
-      "date": "2026-10-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2696c477",
-      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
-      "url": "https://www.qbitai.com/2026/10/506609.html",
-      "summary": "",
-      "date": "2026-10-30",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "a33227d4",
