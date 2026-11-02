@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-01 08:51",
+  "updated": "2026-11-02 08:59",
   "items": [
     {
-      "id": "ed4913be",
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "url": "https://www.qbitai.com/2026/11/507031.html",
-      "summary": "让AI像牛顿一样思考",
+      "id": "9bc2b1d9",
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "summary": "模型管线双驱动",
+      "date": "2026-11-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9df91e07",
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "summary": "能指挥Agent干活，还能控制智能家居",
+      "date": "2026-11-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "409ff3d7",
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "summary": "HuggingFace疑似泄露权重已被下5000次",
+      "date": "2026-11-02",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e5f6718c",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "summary": "西湖世界模型研究中心成立",
       "date": "2026-11-01",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "afd9a8de",
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "url": "https://www.qbitai.com/2026/11/506990.html",
-      "summary": "这事还是想得太简单了",
+      "id": "a7ca3770",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "summary": "",
       "date": "2026-11-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "9581c365",
-      "title": "Jev新成果，再次引爆开源",
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "summary": "再次“性价比屠夫”",
-      "date": "2026-11-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3cfd4581",
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "summary": "AI已经自己找到Bug并提交PR",
-      "date": "2026-10-31",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1dd6bbe9",
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
-      "summary": "苹果“牛奶倒河里”式操作翻红",
-      "date": "2026-10-31",
       "source": "Qbitai",
       "tag": "zh-news"
     },
