@@ -1,50 +1,158 @@
 {
-  "updated": "2026-11-02 08:59",
+  "updated": "2026-11-03 09:07",
   "items": [
     {
-      "id": "9bc2b1d9",
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "url": "https://www.qbitai.com/2026/11/507150.html",
-      "summary": "模型管线双驱动",
-      "date": "2026-11-02",
+      "id": "bad96206",
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "summary": "终于，有了一个可以触摸的起点",
+      "date": "2026-11-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9df91e07",
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "url": "https://www.qbitai.com/2026/11/507107.html",
-      "summary": "能指挥Agent干活，还能控制智能家居",
-      "date": "2026-11-02",
+      "id": "46cf08fa",
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "summary": "TeleAI智慧看护助手",
+      "date": "2026-11-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "409ff3d7",
-      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
-      "url": "https://www.qbitai.com/2026/11/507082.html",
-      "summary": "HuggingFace疑似泄露权重已被下5000次",
-      "date": "2026-11-02",
+      "id": "6725e958",
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "url": "https://www.qbitai.com/2026/11/507405.html",
+      "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+      "date": "2026-11-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "e5f6718c",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "url": "https://www.qbitai.com/2026/11/507076.html",
-      "summary": "西湖世界模型研究中心成立",
-      "date": "2026-11-01",
+      "id": "8697521f",
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "url": "https://www.qbitai.com/2026/11/507396.html",
+      "summary": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
+      "date": "2026-11-03",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "a7ca3770",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "id": "72788a4d",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o...",
+      "date": "2026-11-03",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8f6f4d82",
+      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+      "url": "https://www.qbitai.com/2026/11/507382.html",
+      "summary": "单季狂揽1130亿人民币，但...",
+      "date": "2026-11-03",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bfd21100",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
       "summary": "",
-      "date": "2026-11-01",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "date": "2026-11-03",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "4524e83e",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "8e75a62f",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "ff01b8b9",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "summary": "Animated carousel of images from AI posts in October",
+      "date": "2026-11-02",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "adc599e6",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa...",
+      "date": "2026-11-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "64b53977",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c155a348",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6e7d4661",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ...",
+      "date": "2026-11-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bda58ca0",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after in...",
+      "date": "2026-11-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c1a08380",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he ...",
+      "date": "2026-11-02",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "14685434",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "82860a27",
@@ -56,60 +164,6 @@
       "tag": "opensource"
     },
     {
-      "id": "fccdd851",
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could mak...",
-      "date": "2026-10-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "14b39e23",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "date": "2026-10-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "55b8332d",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d...",
-      "date": "2026-10-30",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "de97c2c5",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "date": "2026-10-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a33227d4",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "date": "2026-10-30",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "aaf5e679",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "date": "2026-10-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "d5731ad2",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -117,42 +171,6 @@
       "date": "2026-10-29",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "06df78f9",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac...",
-      "date": "2026-10-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "468ea3c0",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about...",
-      "date": "2026-10-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f6dc7f78",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully ...",
-      "date": "2026-10-29",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4745ac48",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "date": "2026-10-29",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "93cb2f63",
@@ -167,15 +185,6 @@
       "id": "d2988a99",
       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "url": "https://huggingface.co/blog/mistral-large4",
-      "summary": "",
-      "date": "2026-10-29",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "92a7f097",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
       "summary": "",
       "date": "2026-10-29",
       "source": "Hugging Face",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Overview of Playground",
       "date": "2026-10-07",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "bfe2b156",
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "summary": "A video showing the September AI updates",
-      "date": "2026-10-02",
       "source": "Google AI Blog",
       "tag": "Google"
     }
