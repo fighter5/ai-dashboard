@@ -1,14 +1,149 @@
 {
-  "updated": "2026-11-04 08:43",
+  "updated": "2026-11-05 09:06",
   "items": [
     {
-      "id": "112ff0fd",
-      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "url": "https://www.qbitai.com/2026/11/507533.html",
-      "summary": "长视频记忆精度飙升，问答时延最高降97%",
-      "date": "2026-11-04",
+      "id": "2635e1f8",
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "date": "2026-11-05",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "48b74be5",
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "url": "https://www.qbitai.com/2026/11/507782.html",
+      "summary": "spaCy作者长文炮轰",
+      "date": "2026-11-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "266d50d4",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "summary": "像雇人一样雇机器人",
+      "date": "2026-11-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "63faa8d3",
+      "title": "",
+      "url": "https://www.qbitai.com/2026/11/507757.html",
+      "summary": "尹希官宣离开OpenAI",
+      "date": "2026-11-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "42b170ad",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
+      "summary": "Data + AI 技术实践巡展 · 上海站",
+      "date": "2026-11-05",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "f95b3a80",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Demo...",
+      "date": "2026-11-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e831baec",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor ...",
+      "date": "2026-11-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a61cb285",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "summary": "",
+      "date": "2026-11-04",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "9198ceda",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of b...",
+      "date": "2026-11-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "8ccb12ff",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "966745d9",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our ap...",
+      "date": "2026-11-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "5a5d2de4",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks...",
+      "date": "2026-11-04",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "30ad2e48",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "b9febe6c",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "7a4bae13",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "47bc864e",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "a328083f",
@@ -27,105 +162,6 @@
       "date": "2026-11-03",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "2de8737f",
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "url": "https://www.qbitai.com/2026/11/507507.html",
-      "summary": "AI接管调度运营，仓库越干越聪明",
-      "date": "2026-11-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "245ee58e",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in ...",
-      "date": "2026-11-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2fc053b1",
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "url": "https://www.qbitai.com/2026/11/507473.html",
-      "summary": "两位CTO，关起门来吵架",
-      "date": "2026-11-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "f98ffa6f",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "date": "2026-11-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6bccbef9",
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "url": "https://www.qbitai.com/2026/11/507448.html",
-      "summary": "AI的下一程是生产力系统之争",
-      "date": "2026-11-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "5a465e18",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ...",
-      "date": "2026-11-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c350bb87",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "date": "2026-11-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "250b236e",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "date": "2026-11-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bad96206",
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "url": "https://www.qbitai.com/2026/11/507419.html",
-      "summary": "终于，有了一个可以触摸的起点",
-      "date": "2026-11-03",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "72788a4d",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o...",
-      "date": "2026-11-03",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "158693e5",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "date": "2026-11-03",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "d4fbf7da",
@@ -153,42 +189,6 @@
       "date": "2026-11-02",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "adc599e6",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa...",
-      "date": "2026-11-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "64b53977",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "date": "2026-11-02",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6e7d4661",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ...",
-      "date": "2026-11-02",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "82860a27",
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "summary": "",
-      "date": "2026-10-30",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "0e0e0521",
