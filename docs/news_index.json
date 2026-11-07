@@ -1,50 +1,104 @@
 {
-  "updated": "2026-11-06 08:59",
+  "updated": "2026-11-07 08:28",
   "items": [
     {
-      "id": "ed69b1ee",
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "url": "https://www.qbitai.com/2026/11/508155.html",
-      "summary": "Q3营收实现数倍增长",
+      "id": "59372790",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "619812a0",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "summary": "全新的电脑病毒",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c0c5e93d",
+      "title": "",
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "summary": "中国版cosmos再交卷",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b4ee4a1f",
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "url": "https://www.qbitai.com/2026/11/508196.html",
+      "summary": "RSI不可能无限快",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7503dcb2",
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "url": "https://www.qbitai.com/2026/11/508184.html",
+      "summary": "Dario刚喊减速…",
       "date": "2026-11-06",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "982ce727",
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "url": "https://www.qbitai.com/2026/11/508118.html",
-      "summary": "挑战商业视频的高难度场景",
+      "id": "27984b16",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "summary": "",
       "date": "2026-11-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
-      "id": "c7e6e57c",
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "url": "https://www.qbitai.com/2026/11/508143.html",
-      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+      "id": "51dda1de",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It ...",
       "date": "2026-11-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "f189139b",
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "url": "https://www.qbitai.com/2026/11/508107.html",
-      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+      "id": "9552db00",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab...",
       "date": "2026-11-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "a0dd64a8",
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "url": "https://www.qbitai.com/2026/11/507988.html",
-      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+      "id": "4650983e",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "date": "2026-11-06",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "d1cb0529",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "date": "2026-11-06",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "0626389f",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "a0013522",
@@ -110,24 +164,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "47af8b9f",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "date": "2026-11-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "e1307179",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "date": "2026-11-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "7a037497",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -146,47 +182,11 @@
       "tag": "research"
     },
     {
-      "id": "e831baec",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor ...",
-      "date": "2026-11-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "a61cb285",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "summary": "",
       "date": "2026-11-04",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "9198ceda",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of b...",
-      "date": "2026-11-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a328083f",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "summary": "",
-      "date": "2026-11-03",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c501698b",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "summary": "",
-      "date": "2026-11-03",
       "source": "Hugging Face",
       "tag": "opensource"
     },
