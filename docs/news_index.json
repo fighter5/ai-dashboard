@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-07 08:28",
+  "updated": "2026-11-08 08:41",
   "items": [
+    {
+      "id": "c7f6aab0",
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "summary": "没有永远的夏天",
+      "date": "2026-11-08",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5780609b",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
+      "summary": "AI写代码太快，基础设施跟不上了",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6d4c80f7",
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "summary": "融资缩水，硅谷投资人也谨慎了",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3a08c6ed",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "date": "2026-11-07",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "59372790",
       "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
       "url": "https://www.qbitai.com/2026/11/508264.html",
       "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
       "date": "2026-11-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "619812a0",
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "url": "https://www.qbitai.com/2026/11/508244.html",
-      "summary": "全新的电脑病毒",
-      "date": "2026-11-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c0c5e93d",
-      "title": "",
-      "url": "https://www.qbitai.com/2026/11/508236.html",
-      "summary": "中国版cosmos再交卷",
-      "date": "2026-11-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "b4ee4a1f",
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "url": "https://www.qbitai.com/2026/11/508196.html",
-      "summary": "RSI不可能无限快",
-      "date": "2026-11-07",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "7503dcb2",
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "url": "https://www.qbitai.com/2026/11/508184.html",
-      "summary": "Dario刚喊减速…",
-      "date": "2026-11-06",
       "source": "Qbitai",
       "tag": "zh-news"
     },
