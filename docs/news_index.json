@@ -1,47 +1,155 @@
 {
-  "updated": "2026-11-09 09:19",
+  "updated": "2026-11-10 09:24",
   "items": [
+    {
+      "id": "7f83c7f8",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1127808f",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ...",
+      "date": "2026-11-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4f332da5",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9541439d",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s...",
+      "date": "2026-11-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c91b6307",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "summary": "",
+      "date": "2026-11-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "c1452115",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made...",
+      "date": "2026-11-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "08088be3",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper...",
+      "date": "2026-11-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "179dae4d",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "88584259",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "summary": "",
+      "date": "2026-11-09",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8be9fd4a",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on coun...",
+      "date": "2026-11-09",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "c357b996",
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "summary": "教授也用Claude糊弄…",
+      "date": "2026-11-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "6aac41a6",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "summary": "",
+      "date": "2026-11-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "59ea7e94",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "date": "2026-11-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2842d6ca",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "url": "https://www.qbitai.com/2026/11/508690.html",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "date": "2026-11-09",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ebd6c1fb",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "80bc4c6a",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "832d66b7",
       "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
       "url": "https://www.qbitai.com/2026/11/508629.html",
       "summary": "最早量产的亲自泼冷水",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "88cf2522",
-      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-      "url": "https://www.qbitai.com/2026/11/508607.html",
-      "summary": "Worker不够了主管Agent还能自己招！",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "53cd1a07",
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-      "url": "https://www.qbitai.com/2026/11/508603.html",
-      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "592a05d1",
-      "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
-      "url": "https://www.qbitai.com/2026/11/508586.html",
-      "summary": "“让人放心，把人放大。”",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8109a7a9",
-      "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
-      "url": "https://www.qbitai.com/2026/11/508566.html",
-      "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
       "date": "2026-11-09",
       "source": "Qbitai",
       "tag": "zh-news"
@@ -56,65 +164,11 @@
       "tag": "opensource"
     },
     {
-      "id": "51dda1de",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It ...",
-      "date": "2026-11-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "9552db00",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab...",
-      "date": "2026-11-06",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4650983e",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "date": "2026-11-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "d1cb0529",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "date": "2026-11-06",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "0626389f",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "summary": "",
       "date": "2026-11-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "a0013522",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "date": "2026-11-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "84bace4b",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "summary": "",
-      "date": "2026-11-05",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -128,65 +182,11 @@
       "tag": "Google"
     },
     {
-      "id": "3303d6ac",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "date": "2026-11-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "9c89422f",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center ...",
-      "date": "2026-11-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "46f20546",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set...",
-      "date": "2026-11-05",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "8a77616c",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "date": "2026-11-05",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "7a037497",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
       "summary": "",
       "date": "2026-11-05",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "f95b3a80",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Demo...",
-      "date": "2026-11-04",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "a61cb285",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "summary": "",
-      "date": "2026-11-04",
       "source": "Hugging Face",
       "tag": "opensource"
     },
