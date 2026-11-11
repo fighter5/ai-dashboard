@@ -1,14 +1,167 @@
 {
-  "updated": "2026-11-10 09:24",
+  "updated": "2026-11-11 08:57",
   "items": [
+    {
+      "id": "49cf590d",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "55a31f64",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "date": "2026-11-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "4c5ef8a2",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "summary": "",
+      "date": "2026-11-11",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8477a815",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "date": "2026-11-10",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "0b514ad9",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "date": "2026-11-10",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c31928bb",
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI...",
+      "date": "2026-11-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2d5bc13d",
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ...",
+      "date": "2026-11-10",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "da8db646",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "date": "2026-11-10",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "c0bcf16e",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "bde62bed",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "7f83c7f8",
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "date": "2026-11-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "3513a6ac",
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "url": "https://www.qbitai.com/2026/11/509017.html",
+      "summary": "近亿元融资刚刚落袋",
+      "date": "2026-11-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "3a6e30bb",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "date": "2026-11-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "47db87f0",
+      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+      "url": "https://www.qbitai.com/2026/11/508998.html",
+      "summary": "让每一次任务，都成为下一次进步的起点",
+      "date": "2026-11-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "51a304ec",
+      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "url": "https://www.qbitai.com/2026/11/508991.html",
+      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+      "date": "2026-11-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "938354b0",
+      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "url": "https://www.qbitai.com/2026/11/508985.html",
+      "summary": "加速东部城市型智算中心向E-AIDC演进",
+      "date": "2026-11-10",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "992e8c41",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "summary": "",
+      "date": "2026-11-10",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "de10773c",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "summary": "",
+      "date": "2026-11-10",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "1127808f",
@@ -18,15 +171,6 @@
       "date": "2026-11-09",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "4f332da5",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "date": "2026-11-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "9541439d",
@@ -56,119 +200,11 @@
       "tag": "research"
     },
     {
-      "id": "08088be3",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper...",
-      "date": "2026-11-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "179dae4d",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "date": "2026-11-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "88584259",
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "summary": "",
       "date": "2026-11-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "8be9fd4a",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on coun...",
-      "date": "2026-11-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c357b996",
-      "title": "“AI毁了我的计算机学位”",
-      "url": "https://www.qbitai.com/2026/11/508706.html",
-      "summary": "教授也用Claude糊弄…",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "6aac41a6",
-      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
-      "summary": "",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "59ea7e94",
-      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-      "url": "https://www.qbitai.com/2026/11/508694.html",
-      "summary": "11月9日，千问办公发布2.0版本",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2842d6ca",
-      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-      "url": "https://www.qbitai.com/2026/11/508690.html",
-      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ebd6c1fb",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "date": "2026-11-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "80bc4c6a",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "date": "2026-11-09",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "832d66b7",
-      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
-      "url": "https://www.qbitai.com/2026/11/508629.html",
-      "summary": "最早量产的亲自泼冷水",
-      "date": "2026-11-09",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "27984b16",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "summary": "",
-      "date": "2026-11-06",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "0626389f",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "summary": "",
-      "date": "2026-11-06",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -182,47 +218,11 @@
       "tag": "Google"
     },
     {
-      "id": "7a037497",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "summary": "",
-      "date": "2026-11-05",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "ff01b8b9",
       "title": "The latest AI news we announced in October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "summary": "Animated carousel of images from AI posts in October",
       "date": "2026-11-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "0e0e0521",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-      "date": "2026-10-26",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "aec1886e",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ...",
-      "date": "2026-10-21",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "aff2c9dc",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "summary": "TBD",
-      "date": "2026-10-13",
       "source": "Google AI Blog",
       "tag": "Google"
     }
