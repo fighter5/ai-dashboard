@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 08:57",
+  "updated": "2026-11-12 09:25",
   "items": [
     {
       "id": "49cf590d",
@@ -9,6 +9,51 @@
       "date": "2026-11-12",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "3586fd5c",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "date": "2026-11-11",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "4e20a5f0",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on...",
+      "date": "2026-11-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "d3a6593e",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "date": "2026-11-11",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "63c379e6",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we ag...",
+      "date": "2026-11-11",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "651a0fcc",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "date": "2026-11-11",
+      "source": "Google AI Blog",
+      "tag": "Google"
     },
     {
       "id": "55a31f64",
@@ -23,6 +68,24 @@
       "id": "4c5ef8a2",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
+      "summary": "",
+      "date": "2026-11-11",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "cc75dd11",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "date": "2026-11-11",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "542cd5af",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
       "summary": "",
       "date": "2026-11-11",
       "source": "Hugging Face",
@@ -65,15 +128,6 @@
       "tag": "research"
     },
     {
-      "id": "da8db646",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "date": "2026-11-10",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "c0bcf16e",
       "title": "Helping caregivers use AI in everyday life",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
@@ -90,60 +144,6 @@
       "date": "2026-11-10",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "7f83c7f8",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "date": "2026-11-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3513a6ac",
-      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-      "url": "https://www.qbitai.com/2026/11/509017.html",
-      "summary": "近亿元融资刚刚落袋",
-      "date": "2026-11-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3a6e30bb",
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-      "url": "https://www.qbitai.com/2026/11/508996.html",
-      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
-      "date": "2026-11-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "47db87f0",
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "url": "https://www.qbitai.com/2026/11/508998.html",
-      "summary": "让每一次任务，都成为下一次进步的起点",
-      "date": "2026-11-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "51a304ec",
-      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-      "url": "https://www.qbitai.com/2026/11/508991.html",
-      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
-      "date": "2026-11-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "938354b0",
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "url": "https://www.qbitai.com/2026/11/508985.html",
-      "summary": "加速东部城市型智算中心向E-AIDC演进",
-      "date": "2026-11-10",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "992e8c41",
@@ -173,15 +173,6 @@
       "tag": "research"
     },
     {
-      "id": "9541439d",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s...",
-      "date": "2026-11-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "c91b6307",
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -189,42 +180,6 @@
       "date": "2026-11-09",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "c1452115",
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made...",
-      "date": "2026-11-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "88584259",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "summary": "",
-      "date": "2026-11-09",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "4eabb5f2",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-      "date": "2026-11-05",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "ff01b8b9",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "summary": "Animated carousel of images from AI posts in October",
-      "date": "2026-11-02",
-      "source": "Google AI Blog",
-      "tag": "Google"
     }
   ]
 }
