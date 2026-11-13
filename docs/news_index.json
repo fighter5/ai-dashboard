@@ -1,6 +1,123 @@
 {
-  "updated": "2026-11-12 09:25",
+  "updated": "2026-11-13 09:12",
   "items": [
+    {
+      "id": "00fbeb28",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT...",
+      "date": "2026-11-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bff67df7",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f052c684",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "summary": "",
+      "date": "2026-11-12",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "3987a872",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "date": "2026-11-12",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "cfcba6f2",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Th...",
+      "date": "2026-11-12",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0e0766ec",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "32a95a1e",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
+      "summary": "「CAD拆解」",
+      "date": "2026-11-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a2f11810",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "url": "https://www.qbitai.com/2026/11/509404.html",
+      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "date": "2026-11-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e6191192",
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+      "date": "2026-11-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "108df9e4",
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "url": "https://www.qbitai.com/2026/11/509355.html",
+      "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
+      "date": "2026-11-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d5f0a58e",
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "url": "https://www.qbitai.com/2026/11/509349.html",
+      "summary": "企业 AI 的难题，不只是模型够不够强",
+      "date": "2026-11-12",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d8a1aef3",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "34c6d4ac",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "49cf590d",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -9,6 +126,15 @@
       "date": "2026-11-12",
       "source": "OpenAI News",
       "tag": "OpenAI"
+    },
+    {
+      "id": "d3916f44",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "summary": "",
+      "date": "2026-11-12",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "3586fd5c",
@@ -56,15 +182,6 @@
       "tag": "Google"
     },
     {
-      "id": "55a31f64",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "date": "2026-11-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "4c5ef8a2",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
@@ -72,15 +189,6 @@
       "date": "2026-11-11",
       "source": "Hugging Face",
       "tag": "opensource"
-    },
-    {
-      "id": "cc75dd11",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "date": "2026-11-11",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
     },
     {
       "id": "542cd5af",
@@ -101,15 +209,6 @@
       "tag": "Google"
     },
     {
-      "id": "0b514ad9",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "date": "2026-11-10",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
       "id": "c31928bb",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
@@ -119,65 +218,11 @@
       "tag": "research"
     },
     {
-      "id": "2d5bc13d",
-      "title": "Evolving metal extraction processes",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ...",
-      "date": "2026-11-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c0bcf16e",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "date": "2026-11-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "bde62bed",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "date": "2026-11-10",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "992e8c41",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "summary": "",
       "date": "2026-11-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "de10773c",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "summary": "",
-      "date": "2026-11-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "1127808f",
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ...",
-      "date": "2026-11-09",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "c91b6307",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "summary": "",
-      "date": "2026-11-09",
       "source": "Hugging Face",
       "tag": "opensource"
     }
