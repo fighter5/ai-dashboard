@@ -1,6 +1,123 @@
 {
-  "updated": "2026-11-13 09:12",
+  "updated": "2026-11-14 08:42",
   "items": [
+    {
+      "id": "9c477938",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "summary": "",
+      "date": "2026-11-13",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "e9d93e60",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "summary": "",
+      "date": "2026-11-13",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "79d13e04",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "date": "2026-11-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "1f76189b",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "summary": "",
+      "date": "2026-11-13",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "2f156a26",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d...",
+      "date": "2026-11-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "27c20cf9",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people ...",
+      "date": "2026-11-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3d12bf3f",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me...",
+      "date": "2026-11-13",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2336fe3d",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
+      "summary": "一个时代结束了",
+      "date": "2026-11-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "db3076ba",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "date": "2026-11-13",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "222a9d76",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
+      "summary": "12.9 北京，来MEET2027现场",
+      "date": "2026-11-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "68ca027e",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "summary": "250名国内顶尖三甲医院医生联合评测",
+      "date": "2026-11-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "357a4942",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "url": "https://www.qbitai.com/2026/11/509730.html",
+      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+      "date": "2026-11-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "2db197f2",
+      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+      "url": "https://www.qbitai.com/2026/11/509716.html",
+      "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+      "date": "2026-11-13",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "00fbeb28",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -56,73 +173,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "32a95a1e",
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "url": "https://www.qbitai.com/2026/11/509440.html",
-      "summary": "「CAD拆解」",
-      "date": "2026-11-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "a2f11810",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "url": "https://www.qbitai.com/2026/11/509404.html",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "date": "2026-11-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e6191192",
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "url": "https://www.qbitai.com/2026/11/509381.html",
-      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
-      "date": "2026-11-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "108df9e4",
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "url": "https://www.qbitai.com/2026/11/509355.html",
-      "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
-      "date": "2026-11-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "d5f0a58e",
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "url": "https://www.qbitai.com/2026/11/509349.html",
-      "summary": "企业 AI 的难题，不只是模型够不够强",
-      "date": "2026-11-12",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "d8a1aef3",
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "date": "2026-11-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "34c6d4ac",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "date": "2026-11-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "49cf590d",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "date": "2026-11-12",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -146,15 +200,6 @@
       "tag": "Google"
     },
     {
-      "id": "4e20a5f0",
-      "title": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on...",
-      "date": "2026-11-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "d3a6593e",
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
@@ -162,15 +207,6 @@
       "date": "2026-11-11",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "63c379e6",
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we ag...",
-      "date": "2026-11-11",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "651a0fcc",
@@ -182,24 +218,6 @@
       "tag": "Google"
     },
     {
-      "id": "4c5ef8a2",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "summary": "",
-      "date": "2026-11-11",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "542cd5af",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "summary": "",
-      "date": "2026-11-11",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "8477a815",
       "title": "Gemini Intelligence: New features, on more devices",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
@@ -207,24 +225,6 @@
       "date": "2026-11-10",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "c31928bb",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI...",
-      "date": "2026-11-10",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "992e8c41",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "summary": "",
-      "date": "2026-11-10",
-      "source": "Hugging Face",
-      "tag": "opensource"
     }
   ]
 }
