@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-14 08:42",
+  "updated": "2026-11-15 08:54",
   "items": [
+    {
+      "id": "be1a400a",
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "url": "https://www.qbitai.com/2026/11/510297.html",
+      "summary": "马斯克也签名了",
+      "date": "2026-11-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "14e025f8",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+      "date": "2026-11-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "63640f49",
+      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+      "url": "https://www.qbitai.com/2026/11/510150.html",
+      "summary": "童年的纸飞机，现在终于飞回我手里～",
+      "date": "2026-11-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d199263c",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "url": "https://www.qbitai.com/2026/11/510094.html",
+      "summary": "年产2000万亿Token，成本狂降70%",
+      "date": "2026-11-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "7bc8772f",
+      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+      "url": "https://www.qbitai.com/2026/11/510013.html",
+      "summary": "狂揽3000万播放量",
+      "date": "2026-11-14",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
     {
       "id": "9c477938",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -65,15 +110,6 @@
       "tag": "research"
     },
     {
-      "id": "2336fe3d",
-      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-      "url": "https://www.qbitai.com/2026/11/509995.html",
-      "summary": "一个时代结束了",
-      "date": "2026-11-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "db3076ba",
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "url": "https://openai.com/business/customer-stories/shield",
@@ -81,42 +117,6 @@
       "date": "2026-11-13",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "222a9d76",
-      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-      "url": "https://www.qbitai.com/2026/11/509827.html",
-      "summary": "12.9 北京，来MEET2027现场",
-      "date": "2026-11-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "68ca027e",
-      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-      "url": "https://www.qbitai.com/2026/11/509796.html",
-      "summary": "250名国内顶尖三甲医院医生联合评测",
-      "date": "2026-11-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "357a4942",
-      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-      "url": "https://www.qbitai.com/2026/11/509730.html",
-      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-      "date": "2026-11-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "2db197f2",
-      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-      "url": "https://www.qbitai.com/2026/11/509716.html",
-      "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
-      "date": "2026-11-13",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "00fbeb28",
