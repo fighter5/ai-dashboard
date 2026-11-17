@@ -1,68 +1,149 @@
 {
-  "updated": "2026-11-16 09:07",
+  "updated": "2026-11-17 10:19",
   "items": [
     {
-      "id": "df3e44b9",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "date": "2026-11-15",
+      "id": "3dacc3cb",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "e1f75517",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "date": "2026-11-15",
+      "id": "6352fbce",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid...",
+      "date": "2026-11-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "a8005cc7",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "date": "2026-11-16",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
     {
-      "id": "be1a400a",
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "url": "https://www.qbitai.com/2026/11/510297.html",
-      "summary": "马斯克也签名了",
-      "date": "2026-11-14",
+      "id": "32c75522",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "78c3bdf8",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message...",
+      "date": "2026-11-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3e4a4b87",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "summary": "tbd",
+      "date": "2026-11-16",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "b63d9571",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised t...",
+      "date": "2026-11-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "0f553794",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga...",
+      "date": "2026-11-16",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b0555ded",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "18e1d24a",
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "url": "https://www.qbitai.com/2026/11/510542.html",
+      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+      "date": "2026-11-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "14e025f8",
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "url": "https://www.qbitai.com/2026/11/510232.html",
-      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-      "date": "2026-11-14",
+      "id": "e5cbb673",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "9d7b23b0",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "url": "https://www.qbitai.com/2026/11/510526.html",
+      "summary": "12月1日，细数AI的未竟之问。",
+      "date": "2026-11-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "63640f49",
-      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "url": "https://www.qbitai.com/2026/11/510150.html",
-      "summary": "童年的纸飞机，现在终于飞回我手里～",
-      "date": "2026-11-14",
+      "id": "02edee86",
+      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "url": "https://www.qbitai.com/2026/11/510496.html",
+      "summary": "在华为待了快10000天。",
+      "date": "2026-11-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "d199263c",
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "url": "https://www.qbitai.com/2026/11/510094.html",
-      "summary": "年产2000万亿Token，成本狂降70%",
-      "date": "2026-11-14",
+      "id": "40459676",
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "url": "https://www.qbitai.com/2026/11/510493.html",
+      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "date": "2026-11-16",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "7bc8772f",
-      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-      "url": "https://www.qbitai.com/2026/11/510013.html",
-      "summary": "狂揽3000万播放量",
-      "date": "2026-11-14",
+      "id": "ef19cede",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+      "date": "2026-11-16",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "6d3f3bd6",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "summary": "",
+      "date": "2026-11-16",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "9c477938",
@@ -83,15 +164,6 @@
       "tag": "opensource"
     },
     {
-      "id": "79d13e04",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "date": "2026-11-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "1f76189b",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
@@ -110,51 +182,6 @@
       "tag": "research"
     },
     {
-      "id": "27c20cf9",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people ...",
-      "date": "2026-11-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "3d12bf3f",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me...",
-      "date": "2026-11-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "db3076ba",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "date": "2026-11-13",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "00fbeb28",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT...",
-      "date": "2026-11-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "bff67df7",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "date": "2026-11-12",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "f052c684",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -171,24 +198,6 @@
       "date": "2026-11-12",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "cfcba6f2",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Th...",
-      "date": "2026-11-12",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d3916f44",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "summary": "",
-      "date": "2026-11-12",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "3586fd5c",
@@ -214,15 +223,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
       "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
       "date": "2026-11-11",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "8477a815",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "date": "2026-11-10",
       "source": "Google AI Blog",
       "tag": "Google"
     }
