@@ -1,11 +1,137 @@
 {
-  "updated": "2026-11-17 10:19",
+  "updated": "2026-11-18 09:50",
   "items": [
+    {
+      "id": "524f6e41",
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "summary": "OpenAI也终于活成了2022年谷歌的样子",
+      "date": "2026-11-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "5ce12b7a",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "url": "https://www.qbitai.com/2026/11/510916.html",
+      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "date": "2026-11-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cd193a2b",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "date": "2026-11-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "620be790",
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "summary": "具身全栈玩家",
+      "date": "2026-11-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bc5af313",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "date": "2026-11-18",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "a2f695ac",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e2b5d624",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science ed...",
+      "date": "2026-11-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "77b806b8",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower p...",
+      "date": "2026-11-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "b02ac3a3",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "date": "2026-11-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "235a4588",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "date": "2026-11-17",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "a7033a8f",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "summary": "To access a report, click on the corresponding image below.",
+      "date": "2026-11-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "7e0475de",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A...",
+      "date": "2026-11-17",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "16328160",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "date": "2026-11-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "3dacc3cb",
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "f2812a4b",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "date": "2026-11-17",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -20,33 +146,6 @@
       "tag": "research"
     },
     {
-      "id": "a8005cc7",
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "date": "2026-11-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "32c75522",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "date": "2026-11-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "78c3bdf8",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message...",
-      "date": "2026-11-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "3e4a4b87",
       "title": "New Ask Maps features to help with holiday travel and prep",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
@@ -54,87 +153,6 @@
       "date": "2026-11-16",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "b63d9571",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised t...",
-      "date": "2026-11-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "0f553794",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga...",
-      "date": "2026-11-16",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "b0555ded",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "date": "2026-11-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "18e1d24a",
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "url": "https://www.qbitai.com/2026/11/510542.html",
-      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-      "date": "2026-11-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e5cbb673",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "date": "2026-11-16",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "9d7b23b0",
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "url": "https://www.qbitai.com/2026/11/510526.html",
-      "summary": "12月1日，细数AI的未竟之问。",
-      "date": "2026-11-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "02edee86",
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "url": "https://www.qbitai.com/2026/11/510496.html",
-      "summary": "在华为待了快10000天。",
-      "date": "2026-11-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "40459676",
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-      "url": "https://www.qbitai.com/2026/11/510493.html",
-      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-      "date": "2026-11-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ef19cede",
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "url": "https://www.qbitai.com/2026/11/510486.html",
-      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-      "date": "2026-11-16",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "6d3f3bd6",
@@ -173,15 +191,6 @@
       "tag": "opensource"
     },
     {
-      "id": "2f156a26",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d...",
-      "date": "2026-11-13",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "f052c684",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -213,15 +222,6 @@
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "date": "2026-11-11",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "651a0fcc",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
       "date": "2026-11-11",
       "source": "Google AI Blog",
       "tag": "Google"
