@@ -1,41 +1,113 @@
 {
-  "updated": "2026-11-20 09:46",
+  "updated": "2026-11-21 09:18",
   "items": [
     {
-      "id": "52367669",
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-      "url": "https://www.qbitai.com/2026/11/511610.html",
-      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "id": "95e196cc",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "summary": "还实现可变形物体操控全球首通",
+      "date": "2026-11-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "cf40233c",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "summary": "专为本地部署而生",
+      "date": "2026-11-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ad676aa1",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "summary": "还透露了不少训练背后的秘诀",
+      "date": "2026-11-21",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b8658038",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t...",
+      "date": "2026-11-20",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "3e14d98a",
+      "title": "米哈游发了个VLA论文",
+      "url": "https://www.qbitai.com/2026/11/511740.html",
+      "summary": "8B参数，50小时自主运行",
       "date": "2026-11-20",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "31033da2",
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "url": "https://www.qbitai.com/2026/11/511603.html",
-      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "id": "bda12036",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "url": "https://www.qbitai.com/2026/11/511727.html",
+      "summary": "",
       "date": "2026-11-20",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "9afec841",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "summary": "已开源Agnes Harness",
+      "id": "258a0455",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the ...",
       "date": "2026-11-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "MIT Tech Review",
+      "tag": "research"
     },
     {
-      "id": "9e650157",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "id": "7121ba7c",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "date": "2026-11-20",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c2d36461",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "date": "2026-11-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "3c753634",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "date": "2026-11-20",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "c1386e2c",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "summary": "",
+      "date": "2026-11-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "d74af1cf",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "summary": "",
+      "date": "2026-11-20",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "4c3ac0be",
@@ -83,15 +155,6 @@
       "tag": "research"
     },
     {
-      "id": "26fe9794",
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
-      "summary": "「Revaluation 价值，另有答案」",
-      "date": "2026-11-19",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
       "id": "6ea81125",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -101,37 +164,10 @@
       "tag": "OpenAI"
     },
     {
-      "id": "556aee5c",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "date": "2026-11-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "787cd754",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "date": "2026-11-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "6ed6090c",
       "title": "Explore the Codex Security Plugin",
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "date": "2026-11-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "2e76d5b4",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "date": "2026-11-19",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -167,42 +203,6 @@
       "id": "f99b49e5",
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "summary": "",
-      "date": "2026-11-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "1294e01b",
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh...",
-      "date": "2026-11-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f0514b9d",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as ...",
-      "date": "2026-11-18",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "2a8e5c49",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "summary": "",
-      "date": "2026-11-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "f21a02eb",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "url": "https://huggingface.co/blog/rumble-2-flash",
       "summary": "",
       "date": "2026-11-18",
       "source": "Hugging Face",
