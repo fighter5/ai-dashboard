@@ -1,50 +1,59 @@
 {
-  "updated": "2026-11-22 09:27",
+  "updated": "2026-11-23 10:25",
   "items": [
     {
-      "id": "d02b7cbc",
-      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "url": "https://www.qbitai.com/2026/11/511904.html",
-      "summary": "用葡萄糖发电控制血糖。",
+      "id": "a94ba195",
+      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+      "url": "https://www.qbitai.com/2026/11/512179.html",
+      "summary": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+      "date": "2026-11-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "210b2d6f",
+      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+      "url": "https://www.qbitai.com/2026/11/512017.html",
+      "summary": "阿福大升级：让模型像医生一样思考",
+      "date": "2026-11-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "87a21e5c",
+      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+      "url": "https://www.qbitai.com/2026/11/512004.html",
+      "summary": "一个完全由AI组成的科学家社会，是什么样？",
+      "date": "2026-11-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "570993b0",
+      "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+      "url": "https://www.qbitai.com/2026/11/511998.html",
+      "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+      "date": "2026-11-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "44d19150",
+      "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+      "url": "https://www.qbitai.com/2026/11/511989.html",
+      "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+      "date": "2026-11-23",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d2fc1e26",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "date": "2026-11-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "84f91d04",
-      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-      "url": "https://www.qbitai.com/2026/11/511870.html",
-      "summary": "",
-      "date": "2026-11-22",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8776fb9d",
-      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-      "url": "https://www.qbitai.com/2026/11/511855.html",
-      "summary": "",
-      "date": "2026-11-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "3a892b39",
-      "title": "中国计算，走出新的登峰之路",
-      "url": "https://www.qbitai.com/2026/11/511849.html",
-      "summary": "",
-      "date": "2026-11-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "907cbc4a",
-      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-      "url": "https://www.qbitai.com/2026/11/511841.html",
-      "summary": "",
-      "date": "2026-11-21",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
       "id": "b8658038",
@@ -159,15 +168,6 @@
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "date": "2026-11-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "6ed6090c",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "date": "2026-11-19",
       "source": "OpenAI News",
       "tag": "OpenAI"
