@@ -1,50 +1,140 @@
 {
-  "updated": "2026-11-23 10:25",
+  "updated": "2026-11-24 12:05",
   "items": [
     {
-      "id": "a94ba195",
-      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
-      "url": "https://www.qbitai.com/2026/11/512179.html",
-      "summary": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
-      "date": "2026-11-23",
+      "id": "65943b3b",
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and ar...",
+      "date": "2026-11-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "f22c678d",
+      "title": "Google Cloud 出海峰会报名开启",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
+      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "date": "2026-11-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "210b2d6f",
-      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
-      "url": "https://www.qbitai.com/2026/11/512017.html",
-      "summary": "阿福大升级：让模型像医生一样思考",
-      "date": "2026-11-23",
+      "id": "1a6be165",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "date": "2026-11-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "87a21e5c",
-      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-      "url": "https://www.qbitai.com/2026/11/512004.html",
-      "summary": "一个完全由AI组成的科学家社会，是什么样？",
-      "date": "2026-11-23",
+      "id": "62736e80",
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "summary": "",
+      "date": "2026-11-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "570993b0",
-      "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
-      "url": "https://www.qbitai.com/2026/11/511998.html",
-      "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
-      "date": "2026-11-23",
+      "id": "f11eb6d7",
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "url": "https://www.qbitai.com/2026/11/512348.html",
+      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "date": "2026-11-24",
       "source": "Qbitai",
       "tag": "zh-news"
     },
     {
-      "id": "44d19150",
-      "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
-      "url": "https://www.qbitai.com/2026/11/511989.html",
-      "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
-      "date": "2026-11-23",
+      "id": "85310e10",
+      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+      "url": "https://www.qbitai.com/2026/11/512343.html",
+      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+      "date": "2026-11-24",
       "source": "Qbitai",
       "tag": "zh-news"
+    },
+    {
+      "id": "4dc6c649",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "date": "2026-11-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "e3357160",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility...",
+      "date": "2026-11-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "20bf5976",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "summary": "",
+      "date": "2026-11-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "5353a3c7",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "date": "2026-11-23",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "dd119989",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a majo...",
+      "date": "2026-11-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "855fe82a",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other ...",
+      "date": "2026-11-23",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "42019905",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ...",
+      "date": "2026-11-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "a082949f",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "date": "2026-11-23",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
+    {
+      "id": "6c630403",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "summary": "",
+      "date": "2026-11-23",
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "d2fc1e26",
@@ -65,37 +155,10 @@
       "tag": "research"
     },
     {
-      "id": "258a0455",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the ...",
-      "date": "2026-11-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "7121ba7c",
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "date": "2026-11-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "c2d36461",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "date": "2026-11-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "3c753634",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
       "date": "2026-11-20",
       "source": "OpenAI News",
       "tag": "OpenAI"
@@ -137,54 +200,9 @@
       "tag": "Google"
     },
     {
-      "id": "511c0dc5",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body...",
-      "date": "2026-11-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "d16b37db",
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose ...",
-      "date": "2026-11-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "f4380bef",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global batt...",
-      "date": "2026-11-19",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "6ea81125",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "date": "2026-11-19",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "2d3bb8f1",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "summary": "",
-      "date": "2026-11-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "5095af2e",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "summary": "",
       "date": "2026-11-18",
       "source": "Hugging Face",
@@ -200,29 +218,11 @@
       "tag": "Google"
     },
     {
-      "id": "f99b49e5",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "summary": "",
-      "date": "2026-11-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "235a4588",
       "title": "Put Gemini to work for you",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
       "date": "2026-11-17",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "3e4a4b87",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "summary": "tbd",
-      "date": "2026-11-16",
       "source": "Google AI Blog",
       "tag": "Google"
     }
