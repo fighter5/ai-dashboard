@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-24 12:05",
+  "updated": "2026-11-25 10:57",
   "items": [
+    {
+      "id": "7b1bdc5d",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "summary": "",
+      "date": "2026-11-25",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "20ed3c7d",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections...",
+      "date": "2026-11-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "6af8d54b",
+      "title": "Anthropic还藏着2个最强模型…",
+      "url": "https://www.qbitai.com/2026/11/512538.html",
+      "summary": "Fable5.2已经很旧了。",
+      "date": "2026-11-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "75f46e8b",
+      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "url": "https://www.qbitai.com/2026/11/512532.html",
+      "summary": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+      "date": "2026-11-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "df55a8ec",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "url": "https://www.qbitai.com/2026/11/512515.html",
+      "summary": "OpenAI这下要有俩Tibo了",
+      "date": "2026-11-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1cc6abcc",
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "url": "https://www.qbitai.com/2026/11/512498.html",
+      "summary": "复杂场景三维建模成本降至10美元以内",
+      "date": "2026-11-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8ce660e1",
+      "title": "Claude Opus 5.6灰测效果来了",
+      "url": "https://www.qbitai.com/2026/11/512478.html",
+      "summary": "整体效率大约是此前Opus版本的2到3倍。",
+      "date": "2026-11-25",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "8b4408d7",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "summary": "",
+      "date": "2026-11-24",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "3cb73800",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "date": "2026-11-24",
+      "source": "Google AI Blog",
+      "tag": "Google"
+    },
+    {
+      "id": "22b4aa0d",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas pow...",
+      "date": "2026-11-24",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "2fb78c77",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "date": "2026-11-24",
+      "source": "OpenAI News",
+      "tag": "OpenAI"
+    },
     {
       "id": "65943b3b",
       "title": "Data centers are getting their own natural gas power plants",
@@ -11,56 +110,38 @@
       "tag": "research"
     },
     {
-      "id": "f22c678d",
-      "title": "Google Cloud 出海峰会报名开启",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "id": "5b23d243",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
       "date": "2026-11-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "1a6be165",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "id": "6e7f073c",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
       "date": "2026-11-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "62736e80",
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "id": "b13885c6",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
       "summary": "",
       "date": "2026-11-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "OpenAI News",
+      "tag": "OpenAI"
     },
     {
-      "id": "f11eb6d7",
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "url": "https://www.qbitai.com/2026/11/512348.html",
-      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "id": "57c260d3",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "date": "2026-11-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "85310e10",
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "url": "https://www.qbitai.com/2026/11/512343.html",
-      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-      "date": "2026-11-24",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "4dc6c649",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "date": "2026-11-23",
       "source": "OpenAI News",
       "tag": "OpenAI"
     },
@@ -101,33 +182,6 @@
       "tag": "research"
     },
     {
-      "id": "855fe82a",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other ...",
-      "date": "2026-11-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "42019905",
-      "title": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ...",
-      "date": "2026-11-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "a082949f",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "date": "2026-11-23",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "6c630403",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
@@ -137,45 +191,9 @@
       "tag": "opensource"
     },
     {
-      "id": "d2fc1e26",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "date": "2026-11-22",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
-      "id": "b8658038",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t...",
-      "date": "2026-11-20",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7121ba7c",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "date": "2026-11-20",
-      "source": "OpenAI News",
-      "tag": "OpenAI"
-    },
-    {
       "id": "c1386e2c",
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "url": "https://huggingface.co/blog/inkling2mini",
-      "summary": "",
-      "date": "2026-11-20",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "d74af1cf",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
       "summary": "",
       "date": "2026-11-20",
       "source": "Hugging Face",
@@ -200,29 +218,11 @@
       "tag": "Google"
     },
     {
-      "id": "2d3bb8f1",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "summary": "",
-      "date": "2026-11-18",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "d44535ff",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "date": "2026-11-18",
-      "source": "Google AI Blog",
-      "tag": "Google"
-    },
-    {
-      "id": "235a4588",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-      "date": "2026-11-17",
       "source": "Google AI Blog",
       "tag": "Google"
     }
