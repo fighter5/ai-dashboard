@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-25 10:57",
+  "updated": "2026-11-26 10:32",
   "items": [
+    {
+      "id": "9e1edee2",
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to...",
+      "date": "2026-11-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e5c332b2",
+      "title": "极客公园创新大会 2027 全议程公布！",
+      "url": "https://www.qbitai.com/2026/11/512952.html",
+      "summary": "今天，IF 2027 全议程揭晓。",
+      "date": "2026-11-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e98c43ec",
+      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "url": "https://www.qbitai.com/2026/11/512942.html",
+      "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+      "date": "2026-11-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ebd7b4e7",
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "summary": "30秒一镜到底，可自动编排镜头",
+      "date": "2026-11-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "1fcdbabd",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "summary": "",
+      "date": "2026-11-26",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "8e96f862",
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "url": "https://www.qbitai.com/2026/11/512897.html",
+      "summary": "李斌坦言：不做AI变革可能活不下去",
+      "date": "2026-11-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "46283fc3",
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "url": "https://www.qbitai.com/2026/11/512840.html",
+      "summary": "“灵巧手是人类最后的尊严”",
+      "date": "2026-11-26",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "085bba6f",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "summary": "",
+      "date": "2026-11-25",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
+    {
+      "id": "a33de435",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved ...",
+      "date": "2026-11-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "4efa556b",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI ...",
+      "date": "2026-11-25",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
     {
       "id": "7b1bdc5d",
       "title": "An Indic Voice Agent with CUGA",
@@ -20,56 +110,11 @@
       "tag": "research"
     },
     {
-      "id": "6af8d54b",
-      "title": "Anthropic还藏着2个最强模型…",
-      "url": "https://www.qbitai.com/2026/11/512538.html",
-      "summary": "Fable5.2已经很旧了。",
-      "date": "2026-11-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "75f46e8b",
-      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
-      "url": "https://www.qbitai.com/2026/11/512532.html",
-      "summary": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
-      "date": "2026-11-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "df55a8ec",
-      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
-      "url": "https://www.qbitai.com/2026/11/512515.html",
-      "summary": "OpenAI这下要有俩Tibo了",
-      "date": "2026-11-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "1cc6abcc",
-      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
-      "url": "https://www.qbitai.com/2026/11/512498.html",
-      "summary": "复杂场景三维建模成本降至10美元以内",
-      "date": "2026-11-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8ce660e1",
-      "title": "Claude Opus 5.6灰测效果来了",
-      "url": "https://www.qbitai.com/2026/11/512478.html",
-      "summary": "整体效率大约是此前Opus版本的2到3倍。",
-      "date": "2026-11-25",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "8b4408d7",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "id": "5c4ab646",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
       "summary": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "Hugging Face",
       "tag": "opensource"
     },
@@ -99,15 +144,6 @@
       "date": "2026-11-24",
       "source": "OpenAI News",
       "tag": "OpenAI"
-    },
-    {
-      "id": "65943b3b",
-      "title": "Data centers are getting their own natural gas power plants",
-      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and ar...",
-      "date": "2026-11-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "5b23d243",
@@ -146,24 +182,6 @@
       "tag": "OpenAI"
     },
     {
-      "id": "e3357160",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility...",
-      "date": "2026-11-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "20bf5976",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "summary": "",
-      "date": "2026-11-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "5353a3c7",
       "title": "A more tailored Google Search that’s uniquely yours",
       "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -173,29 +191,11 @@
       "tag": "Google"
     },
     {
-      "id": "dd119989",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a majo...",
-      "date": "2026-11-23",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
       "id": "6c630403",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
       "summary": "",
       "date": "2026-11-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "c1386e2c",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "summary": "",
-      "date": "2026-11-20",
       "source": "Hugging Face",
       "tag": "opensource"
     },
