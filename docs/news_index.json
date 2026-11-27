@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-26 10:32",
+  "updated": "2026-11-27 10:36",
   "items": [
+    {
+      "id": "fdc03894",
+      "title": "Cutting-edge prosthetics allow researchers to probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and witho...",
+      "date": "2026-11-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "9a81945d",
+      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+      "url": "https://www.qbitai.com/2026/11/513320.html",
+      "summary": "淡泊名利，实至名归🎉",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "e98891ca",
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "url": "https://www.qbitai.com/2026/11/513305.html",
+      "summary": "网页App双端亮出聊天账单",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "9ae581a9",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "summary": "地图能随时修，记忆能跨任务用",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "c4bf4ffa",
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "url": "https://www.qbitai.com/2026/11/513194.html",
+      "summary": "企业需要有用的 AI",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "0e9a61fe",
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "url": "https://www.qbitai.com/2026/11/513211.html",
+      "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "d6d5e463",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and th...",
+      "date": "2026-11-26",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "bacf1389",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "summary": "",
+      "date": "2026-11-26",
+      "source": "Hugging Face",
+      "tag": "opensource"
+    },
     {
       "id": "9e1edee2",
       "title": "The next generation of bionic hands is here—and they can feel",
@@ -9,33 +81,6 @@
       "date": "2026-11-26",
       "source": "MIT Tech Review",
       "tag": "research"
-    },
-    {
-      "id": "e5c332b2",
-      "title": "极客公园创新大会 2027 全议程公布！",
-      "url": "https://www.qbitai.com/2026/11/512952.html",
-      "summary": "今天，IF 2027 全议程揭晓。",
-      "date": "2026-11-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "e98c43ec",
-      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-      "url": "https://www.qbitai.com/2026/11/512942.html",
-      "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-      "date": "2026-11-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "ebd7b4e7",
-      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-      "url": "https://www.qbitai.com/2026/11/512916.html",
-      "summary": "30秒一镜到底，可自动编排镜头",
-      "date": "2026-11-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
     },
     {
       "id": "1fcdbabd",
@@ -47,22 +92,13 @@
       "tag": "opensource"
     },
     {
-      "id": "8e96f862",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "url": "https://www.qbitai.com/2026/11/512897.html",
-      "summary": "李斌坦言：不做AI变革可能活不下去",
+      "id": "b2b31d3a",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "summary": "",
       "date": "2026-11-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "46283fc3",
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "url": "https://www.qbitai.com/2026/11/512840.html",
-      "summary": "“灵巧手是人类最后的尊严”",
-      "date": "2026-11-26",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "085bba6f",
@@ -101,24 +137,6 @@
       "tag": "opensource"
     },
     {
-      "id": "20ed3c7d",
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections...",
-      "date": "2026-11-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "5c4ab646",
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "summary": "",
-      "date": "2026-11-25",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
       "id": "3cb73800",
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
@@ -126,15 +144,6 @@
       "date": "2026-11-24",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "22b4aa0d",
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas pow...",
-      "date": "2026-11-24",
-      "source": "MIT Tech Review",
-      "tag": "research"
     },
     {
       "id": "2fb78c77",
@@ -189,15 +198,6 @@
       "date": "2026-11-23",
       "source": "Google AI Blog",
       "tag": "Google"
-    },
-    {
-      "id": "6c630403",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "summary": "",
-      "date": "2026-11-23",
-      "source": "Hugging Face",
-      "tag": "opensource"
     },
     {
       "id": "4c3ac0be",
