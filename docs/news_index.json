@@ -1,9 +1,54 @@
 {
-  "updated": "2026-11-27 10:36",
+  "updated": "2026-11-28 09:53",
   "items": [
     {
+      "id": "072dff35",
+      "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "url": "https://www.qbitai.com/2026/11/513428.html",
+      "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+      "date": "2026-11-28",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "b8adbbd7",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "bb3f88b0",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now op...",
+      "date": "2026-11-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
+      "id": "e8845004",
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://www.qbitai.com/2026/11/513346.html",
+      "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "date": "2026-11-27",
+      "source": "Qbitai",
+      "tag": "zh-news"
+    },
+    {
+      "id": "ac7ca676",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, ou...",
+      "date": "2026-11-27",
+      "source": "MIT Tech Review",
+      "tag": "research"
+    },
+    {
       "id": "fdc03894",
-      "title": "Cutting-edge prosthetics allow researchers to probe the human mind",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
       "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
       "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and witho...",
       "date": "2026-11-27",
@@ -29,31 +74,13 @@
       "tag": "zh-news"
     },
     {
-      "id": "9ae581a9",
-      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
-      "url": "https://www.qbitai.com/2026/11/513227.html",
-      "summary": "地图能随时修，记忆能跨任务用",
+      "id": "0f9e4500",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "summary": "",
       "date": "2026-11-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "c4bf4ffa",
-      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
-      "url": "https://www.qbitai.com/2026/11/513194.html",
-      "summary": "企业需要有用的 AI",
-      "date": "2026-11-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
-    },
-    {
-      "id": "0e9a61fe",
-      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
-      "url": "https://www.qbitai.com/2026/11/513211.html",
-      "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
-      "date": "2026-11-27",
-      "source": "Qbitai",
-      "tag": "zh-news"
+      "source": "Hugging Face",
+      "tag": "opensource"
     },
     {
       "id": "d6d5e463",
@@ -104,33 +131,6 @@
       "id": "085bba6f",
       "title": "Where scientists draw the line on AI agents",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "summary": "",
-      "date": "2026-11-25",
-      "source": "Hugging Face",
-      "tag": "opensource"
-    },
-    {
-      "id": "a33de435",
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved ...",
-      "date": "2026-11-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "4efa556b",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI ...",
-      "date": "2026-11-25",
-      "source": "MIT Tech Review",
-      "tag": "research"
-    },
-    {
-      "id": "7b1bdc5d",
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
       "summary": "",
       "date": "2026-11-25",
       "source": "Hugging Face",
